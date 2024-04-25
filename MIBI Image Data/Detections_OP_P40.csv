@@ -1,0 +1,3692 @@
+Name,Class,Parent,Centroid X µm,Centroid Y µm
+Target: CD20,Target: CD20,Other,29.3,5.933
+PathCellObject,,Other,42.06,5.401
+Target: CD20,Target: CD20,Other,98.86,5.866
+Target: CD20,Target: CD20,Other,106.64,3.426
+PathCellObject,,Other,118.56,4.476
+Target: CD8,Target: CD8,Other,141.47,3.229
+Target: CD8,Target: CD8,Other,150.69,5.501
+PathCellObject,,Other,182.08,6.096
+PathCellObject,,Other,266.06,2.088
+Target: CD68,Target: CD68,Other,279.74,6.964
+PathCellObject,,Other,322.44,3.817
+Target: CD3,Target: CD3,Other,401.44,3.954
+Target: CD3: CD8,Target: CD3: CD8,Other,438.14,4.463
+PathCellObject,,Other,463.22,5.442
+PathCellObject,,Other,539.76,3.416
+PathCellObject,,Other,553,4.108
+PathCellObject,,Other,623.03,2.803
+Target: CD3: CD4,Target: CD3: CD4,Other,727.89,4.292
+PathCellObject,,Other,740.93,3.68
+PathCellObject,,Other,759.79,2.888
+Target: CD8,Target: CD8,Other,777.41,7.634
+PathCellObject,,Other,256.79,5.244
+Target: CD68,Target: CD68,Other,330.87,8.228
+PathCellObject,,Other,226.91,10.22
+PathCellObject,,Other,601.24,5.972
+Target: CD8,Target: CD8,Other,88.33,5.728
+PathCellObject,,Other,367.1,6.128
+PathCellObject,,Other,496.29,6.08
+PathCellObject,,Other,752.11,5.933
+PathCellObject,,Other,131.43,3.578
+PathCellObject,,Other,482.5,6.398
+Target: CD3: CD8,Target: CD3: CD8,Other,424.29,9.048
+PathCellObject,,Other,769.66,7.113
+Target: CD8,Target: CD8,Other,136.19,8.925
+PathCellObject,,Other,473.51,9.023
+PathCellObject,,Other,268.01,10.79
+PathCellObject,,Other,619.57,9.092
+PathCellObject,,Other,611.49,7.8
+PathCellObject,,Other,762.5,12.27
+PathCellObject,,Other,393.67,12.12
+PathCellObject,,Other,126.06,11.49
+Target: CD3: CD8,Target: CD3: CD8,Other,142.62,12.04
+PathCellObject,,Other,293.99,10.6
+PathCellObject,,Other,314.85,12.12
+PathCellObject,,Other,72.35,10.09
+Target: CD3: CD8,Target: CD3: CD8,Other,432.7,12.33
+PathCellObject,,Other,535.22,12.21
+PathCellObject,,Other,740.3,13.37
+PathCellObject,,Other,605.85,17.36
+Target: CD3: CD4,Target: CD3: CD4,Other,729.36,12.49
+PathCellObject,,Other,255.43,15.65
+Target: CD20,Target: CD20,Other,200.45,13.55
+Target: CD20,Target: CD20,Other,189.37,14.27
+Target: CD3: FoxP3,Target: CD3: FoxP3,Other,377.4,16.64
+PathCellObject,,Other,91.6,16.45
+PathCellObject,,Other,302.59,20.21
+PathCellObject,,Other,67.64,17.35
+PathCellObject,,Other,149.01,21.32
+PathCellObject,,Other,82.45,14.81
+PathCellObject,,Other,212.65,16.34
+Target: CD3: CD8,Target: CD3: CD8,Other,451.44,15.51
+Target: CD3,Target: CD3,Other,721.95,22.69
+Target: CD8,Target: CD8,Other,134.35,19.1
+PathCellObject,,Other,276.89,18.46
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,414.8,16.63
+Target: CD3: CD8,Target: CD3: CD8,Other,440.11,16.98
+PathCellObject,,Other,617.43,18.53
+PathCellObject,,Other,263.05,25.67
+PathCellObject,,Other,472.62,19.99
+Target: CD3: CD8,Target: CD3: CD8,Other,487.58,18.02
+PathCellObject,,Other,246.68,20.58
+PathCellObject,,Other,185.57,23.84
+Target: CD68,Target: CD68,Other,312.98,22.63
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,461.18,23.66
+Target: CD68,Target: CD68,Other,406,23.37
+PathCellObject,,Other,587.77,22.95
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,388.88,23.8
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,396.88,24.38
+Target: CD3: CD8,Target: CD3: CD8,Other,495.76,22.77
+PathCellObject,,Other,82.68,26.07
+PathCellObject,,Other,104.52,22.13
+Target: CD20,Target: CD20,Other,199.45,24.11
+PathCellObject,,Other,271.48,25.75
+Target: CD3: CD8,Target: CD3: CD8,Other,367.75,29.48
+PathCellObject,,Other,122.11,22.34
+PathCellObject,,Other,217.58,25.55
+Target: CD20,Target: CD20,Other,239.53,24.82
+PathCellObject,,Other,131.52,26.02
+Target: CD3: CD8,Target: CD3: CD8,Other,450.87,26.55
+Target: CD20: CD68,Target: CD20: CD68,Other,57.68,26.06
+PathCellObject,,Other,94.95,26.22
+PathCellObject,,Other,207.98,26.77
+Target: CD68,Target: CD68,Other,323.51,26.99
+Target: CD3: CD8,Target: CD3: CD8,Other,487.05,28.06
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,417.31,26.93
+Target: CD20,Target: CD20,Other,65.93,25.46
+Target: CD68: CD8,Target: CD68: CD8,Other,425.46,27.14
+Target: CD3: CD8,Target: CD3: CD8,Other,441.77,27.2
+PathCellObject,,Other,255.9,32.43
+PathCellObject,,Other,120.19,31.75
+Target: CD20,Target: CD20,Other,232.32,30.93
+Target: CD68: CD8,Target: CD68: CD8,Other,433.81,28.7
+PathCellObject,,Other,143.39,33
+Target: CD8,Target: CD8,Other,192.37,33.43
+Target: CD3: CD4,Target: CD3: CD4,Other,474.04,31.41
+Target: CD8,Target: CD8,Other,387.63,32.2
+Target: CD20,Target: CD20,Other,102.7,33.87
+PathCellObject,,Other,308.28,33.26
+Target: CD68,Target: CD68,Other,411.11,33.6
+Target: CD20: CD68,Target: CD20: CD68,Other,70.1,32.51
+PathCellObject,,Other,131.74,34.67
+Target: CD3: CD8,Target: CD3: CD8,Other,213.98,34.52
+Target: CD3: CD8,Target: CD3: CD8,Other,247.33,32.95
+PathCellObject,,Other,342.57,33.37
+Target: CD8,Target: CD8,Other,398.22,35.88
+Target: CD20,Target: CD20,Other,40.98,32.88
+Target: CD3: CD8,Target: CD3: CD8,Other,441.17,34.3
+PathCellObject,,Other,630.81,33.62
+PathCellObject,,Other,785.78,33.71
+Target: CD20,Target: CD20,Other,30.41,33.92
+PathCellObject,,Other,203.86,36.67
+PathCellObject,,Other,524.08,33.94
+Target: CD20: CD4,Target: CD20: CD4,Other,540.32,35.09
+PathCellObject,,Other,324.18,36.92
+PathCellObject,,Other,381.52,38.23
+Target: CD68: CD8,Target: CD68: CD8,Other,421.79,37.74
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,447.71,36.29
+Target: CD8,Target: CD8,Other,432.03,36.77
+PathCellObject,,Other,676.59,39.32
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,224.55,40.31
+Target: CD20,Target: CD20,Other,586.09,38.92
+PathCellObject,,Other,600.35,36.88
+Target: CD8,Target: CD8,Other,728.3,38.6
+Target: CD20: CD68,Target: CD20: CD68,Other,63.39,38.67
+PathCellObject,,Other,120.18,42.96
+PathCellObject,,Other,440.04,44.15
+Target: CD3: CD8,Target: CD3: CD8,Other,455.39,39.29
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,469.63,40.17
+PathCellObject,,Other,243.53,41.34
+Target: CD3,Target: CD3,Other,235.34,41.04
+Target: CD8,Target: CD8,Other,251.84,43.02
+Target: CD68,Target: CD68,Other,404.92,41.19
+Target: CD20,Target: CD20,Other,32.19,43.17
+PathCellObject,,Other,94.97,42.38
+Target: CD8,Target: CD8,Other,315.96,43.42
+PathCellObject,,Other,508.68,43.08
+PathCellObject,,Other,188.76,42.99
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,525.74,44.24
+Target: CD3: CD8,Target: CD3: CD8,Other,199.77,43.72
+Target: CD3: CD8,Target: CD3: CD8,Other,487.44,42.49
+Target: CD8,Target: CD8,Other,633.16,43.69
+Target: CD20: CD68,Target: CD20: CD68,Other,76.13,43.97
+Target: CD3: CD4: FoxP3,Target: CD3: CD4: FoxP3,Other,213,42.74
+PathCellObject,,Other,594.87,46.29
+Target: CD20,Target: CD20,Other,45.87,45.26
+Target: CD20: CD68,Target: CD20: CD68,Other,56.17,44.04
+PathCellObject,,Other,360.69,45.86
+Target: CD68,Target: CD68,Other,415.96,44.64
+PathCellObject,,Other,430.82,44.36
+Target: CD8,Target: CD8,Other,622.69,42.29
+PathCellObject,,Other,789.52,45.06
+PathCellObject,,Other,15.11,44.01
+Target: CD8,Target: CD8,Other,134.35,46.88
+PathCellObject,,Other,391.39,46.57
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,451.4,46.04
+Target: CD20: CD4: CD8,Target: CD20: CD4: CD8,Other,537.53,45.88
+PathCellObject,,Other,606.51,45.53
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,259.94,45.16
+PathCellObject,,Other,375.28,48.75
+PathCellObject,,Other,159.97,49.53
+Target: CD3: CD4,Target: CD3: CD4,Other,239.67,47.41
+PathCellObject,,Other,345.05,45.8
+PathCellObject,,Other,665,48.57
+Target: CD8,Target: CD8,Other,405.42,49.61
+Target: CD3: CD4: FoxP3,Target: CD3: CD4: FoxP3,Other,212.71,48.03
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,468.05,47.53
+PathCellObject,,Other,563.78,46.97
+PathCellObject,,Other,617.12,55.35
+PathCellObject,,Other,716.6,51.52
+Target: CD20: CD68,Target: CD20: CD68,Other,23.45,47.69
+Target: CD68,Target: CD68,Other,67.14,51.17
+PathCellObject,,Other,230.9,48.54
+PathCellObject,,Other,725.44,49.33
+Target: CD20,Target: CD20,Other,797.16,50.04
+PathCellObject,,Other,352.18,52.17
+PathCellObject,,Other,549.28,48.24
+Target: CD68,Target: CD68,Other,425.09,51.27
+Target: CD3: CD8,Target: CD3: CD8,Other,514.26,49.49
+Target: CD8,Target: CD8,Other,221.93,53.75
+Target: CD8,Target: CD8,Other,384.29,50.71
+Target: CD8,Target: CD8,Other,632.22,51.02
+PathCellObject,,Other,148.91,51.89
+PathCellObject,,Other,541.91,52.35
+PathCellObject,,Other,449.7,51.9
+Target: CD3: CD4,Target: CD3: CD4,Other,557.25,50.34
+Target: CD20: CD68,Target: CD20: CD68,Other,31.99,51.24
+PathCellObject,,Other,169.16,53.23
+PathCellObject,,Other,198.16,54.13
+Target: CD68: CD3,Target: CD68: CD3,Other,209.1,53.26
+Target: CD3: CD4,Target: CD3: CD4,Other,235.69,52.47
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,527.38,53.37
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,484.08,52.62
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,19.71,54.87
+Target: CD68: CD4,Target: CD68: CD4,Other,247.79,52.99
+PathCellObject,,Other,256.35,52.74
+PathCellObject,,Other,273.79,59.13
+PathCellObject,,Other,299.61,56.48
+Target: CD3: CD8,Target: CD3: CD8,Other,463.14,52.96
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,517.84,53.64
+Target: CD20,Target: CD20,Other,86.4,53.28
+Target: CD20,Target: CD20,Other,320.72,55.74
+PathCellObject,,Other,341.34,56.23
+Target: CD8,Target: CD8,Other,76.31,54.15
+PathCellObject,,Other,264.96,57.06
+PathCellObject,,Other,442.86,56.23
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,477.24,52.82
+PathCellObject,,Other,605.68,55.35
+Target: CD3: CD8,Target: CD3: CD8,Other,784.83,56.28
+Target: CD20,Target: CD20,Other,9.512,58.32
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,241.6,54.91
+Target: CD20: CD68,Target: CD20: CD68,Other,60.59,58.64
+Target: CD8,Target: CD8,Other,387.22,59.32
+PathCellObject,,Other,457.06,57.4
+PathCellObject,,Other,560.51,58.82
+Target: CD8,Target: CD8,Other,631.48,57.91
+PathCellObject,,Other,108.25,56.58
+PathCellObject,,Other,155.08,59.79
+Target: CD68,Target: CD68,Other,420.98,57.06
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,471.41,57.88
+Target: CD20: CD68,Target: CD20: CD68,Other,29.28,58.39
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,500.72,56.46
+Target: CD3: CD4,Target: CD3: CD4,Other,549.78,58.78
+PathCellObject,,Other,596.72,58.66
+PathCellObject,,Other,370.07,61.77
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,492.47,60.21
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,231.24,58.51
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,508.76,58.18
+Target: CD20,Target: CD20,Other,92.82,58.47
+PathCellObject,,Other,126.76,57.98
+PathCellObject,,Other,309.58,61.14
+PathCellObject,,Other,414,60.12
+PathCellObject,,Other,572.45,58
+Target: CD8,Target: CD8,Other,255.75,59.37
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,535.69,61.15
+Target: CD20: CD68,Target: CD20: CD68,Other,45.53,60.02
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,522.32,59.01
+Target: CD20,Target: CD20,Other,36.8,60.33
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,225.96,62.17
+Target: CD3: CD8,Target: CD3: CD8,Other,247.9,62.28
+PathCellObject,,Other,71.41,61.36
+Target: CD20,Target: CD20,Other,79.71,62.17
+Target: CD8,Target: CD8,Other,212.1,65.45
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,483.3,61.28
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,515.38,62.28
+PathCellObject,,Other,732.16,61.72
+Target: CD68: CD4,Target: CD68: CD4,Other,238.42,65.42
+PathCellObject,,Other,328.06,61.18
+PathCellObject,,Other,141.02,62.8
+PathCellObject,,Other,452.25,64.92
+Target: CD68,Target: CD68,Other,628.27,65.31
+Target: CD20,Target: CD20,Other,723.12,64.05
+PathCellObject,,Other,428.51,65.56
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,478.03,65.04
+PathCellObject,,Other,712.86,67.98
+Target: CD3: CD4,Target: CD3: CD4,Other,795.29,65.15
+PathCellObject,,Other,132.93,66.48
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,525.33,68.06
+Target: CD20,Target: CD20,Other,91.92,66.58
+Target: CD3: CD8,Target: CD3: CD8,Other,263.2,66.07
+Target: CD68,Target: CD68,Other,407.75,66.95
+Target: CD68,Target: CD68,Other,1.559,65.58
+PathCellObject,,Other,123.06,66.61
+PathCellObject,,Other,164.81,69.03
+Target: CD3: CD8,Target: CD3: CD8,Other,461.65,68.36
+Target: CD20,Target: CD20,Other,20.83,66.8
+Target: CD68,Target: CD68,Other,254.99,66.95
+PathCellObject,,Other,337.55,65.53
+Target: CD3: CD4,Target: CD3: CD4,Other,556.25,67.6
+PathCellObject,,Other,568.81,68.16
+PathCellObject,,Other,201.42,67.44
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,473.32,69.42
+PathCellObject,,Other,729.05,70.06
+Target: CD20,Target: CD20,Other,39.28,71.54
+Target: CD20,Target: CD20,Other,54.39,68.18
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,224.91,69.82
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,517.13,69.74
+PathCellObject,,Other,583.33,65.35
+PathCellObject,,Other,441.25,68.44
+Target: CD3: CD8,Target: CD3: CD8,Other,486.31,68.69
+Target: CD20: CD68,Target: CD20: CD68,Other,77.55,70.67
+PathCellObject,,Other,156.87,69.71
+Target: CD20: CD68,Target: CD20: CD68,Other,7.52,71.64
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,499.02,72.6
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,544.06,68.97
+Target: CD68,Target: CD68,Other,246.55,70.98
+PathCellObject,,Other,329.88,71.77
+Target: CD3: CD4: CD8: FoxP3,Target: CD3: CD4: CD8: FoxP3,Other,536.53,73.63
+Target: CD20,Target: CD20,Other,28.54,70.65
+Target: CD20: CD68,Target: CD20: CD68,Other,64.78,71.2
+PathCellObject,,Other,150.04,69.84
+Target: CD3: CD8,Target: CD3: CD8,Other,721.01,73.87
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,99.33,70.43
+PathCellObject,,Other,128.9,72.53
+Target: CD3: CD4,Target: CD3: CD4,Other,590.13,70.7
+Target: CD3: CD4,Target: CD3: CD4,Other,468.68,73.04
+PathCellObject,,Other,139.46,73.59
+PathCellObject,,Other,195.81,72.55
+PathCellObject,,Other,424.86,74.8
+PathCellObject,,Other,446.66,75.56
+PathCellObject,,Other,258.64,73.52
+PathCellObject,,Other,266.58,73.79
+Target: CD3: CD4,Target: CD3: CD4,Other,578.2,73.77
+Target: CD3: CD4,Target: CD3: CD4,Other,627.35,74.26
+Target: CD3: CD4,Target: CD3: CD4,Other,792.72,74.67
+Target: CD68,Target: CD68,Other,311.64,75.77
+Target: CD3: CD4,Target: CD3: CD4,Other,548.84,75.55
+Target: CD8,Target: CD8,Other,488.7,76.91
+Target: CD20,Target: CD20,Other,91.01,76.49
+PathCellObject,,Other,147.3,76.16
+PathCellObject,,Other,253.89,78.09
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,512.39,75.49
+Target: CD20,Target: CD20,Other,16.56,76.83
+PathCellObject,,Other,123.77,75.39
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,480.07,76.84
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,556.93,77.76
+Target: CD20: CD68,Target: CD20: CD68,Other,58.94,77.34
+Target: CD3: CD4,Target: CD3: CD4,Other,302.82,75.45
+Target: CD8,Target: CD8,Other,230.77,78.52
+Target: CD3: CD8,Target: CD3: CD8,Other,242.51,79.76
+PathCellObject,,Other,590.97,78.04
+PathCellObject,,Other,24.16,78.82
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,105.29,78.06
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,115.92,78.07
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,455.99,78.87
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,524.79,80.24
+PathCellObject,,Other,32.33,79.42
+PathCellObject,,Other,135.83,78.68
+PathCellObject,,Other,158.64,78.92
+Target: CD20,Target: CD20,Other,78.93,79.69
+PathCellObject,,Other,219.94,79.86
+Target: CD20,Target: CD20,Other,5.983,81.86
+Target: CD3: CD4,Target: CD3: CD4,Other,466.34,81
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,506.01,78.9
+Target: CD3: CD8,Target: CD3: CD8,Other,729.47,82.53
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,567,82.49
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,573.69,80.02
+Target: CD3,Target: CD3,Other,266.61,81.28
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,532.81,80.66
+PathCellObject,,Other,584.04,82.28
+PathCellObject,,Other,633.63,81.15
+PathCellObject,,Other,176.05,84.09
+Target: CD8,Target: CD8,Other,437.25,83.99
+Target: CD8,Target: CD8,Other,166.49,85.91
+Target: CD20,Target: CD20,Other,66.58,83.47
+PathCellObject,,Other,146.25,82.3
+PathCellObject,,Other,154.37,85.24
+PathCellObject,,Other,373.24,84.13
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,445.05,84.17
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,521.33,88.03
+PathCellObject,,Other,42.41,83.45
+PathCellObject,,Other,195.69,86.19
+PathCellObject,,Other,126.8,87.68
+PathCellObject,,Other,208.08,83.7
+PathCellObject,,Other,279.38,84.57
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,300.17,84
+Target: CD20: CD8,Target: CD20: CD8,Other,497.9,85.33
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,485.83,84.61
+Target: CD20: CD68,Target: CD20: CD68,Other,92.94,85.31
+PathCellObject,,Other,143.1,86.82
+Target: CD3: CD8,Target: CD3: CD8,Other,475.86,83.86
+PathCellObject,,Other,32.98,88.88
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,539.58,86.31
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,549.45,86.06
+PathCellObject,,Other,719.61,88.13
+PathCellObject,,Other,794.59,85.97
+Target: CD20,Target: CD20,Other,75.3,90.24
+PathCellObject,,Other,218.76,87.9
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,454.11,86.81
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,56.92,88.5
+Target: CD20: CD3,Target: CD20: CD3,Other,104.37,87.38
+Target: CD3: CD8,Target: CD3: CD8,Other,270.62,88.98
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,509.53,88.38
+PathCellObject,,Other,24.07,89.36
+PathCellObject,,Other,654.59,90.23
+Target: CD20,Target: CD20,Other,16.73,91.57
+PathCellObject,,Other,321.52,88.74
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,479.91,89.71
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,582.38,88.9
+PathCellObject,,Other,250.96,91.87
+Target: CD3: CD4: FoxP3,Target: CD3: CD4: FoxP3,Other,576.48,92.26
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,7.017,90.33
+Target: CD20: CD68,Target: CD20: CD68,Other,46.84,90.26
+PathCellObject,,Other,137.25,91.1
+Target: CD3: CD8,Target: CD3: CD8,Other,491.02,91.88
+Target: CD3: CD4: CD8: FoxP3,Target: CD3: CD4: CD8: FoxP3,Other,558.81,90.44
+Target: CD20,Target: CD20,Other,641.38,91.43
+Target: CD20,Target: CD20,Other,99.43,93.18
+PathCellObject,,Other,589.39,93.01
+PathCellObject,,Other,262.62,92.8
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,532.42,93.06
+PathCellObject,,Other,112.96,93.95
+PathCellObject,,Other,307.64,93.87
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,456.96,94.94
+Target: CD8,Target: CD8,Other,202.34,92.78
+PathCellObject,,Other,294.82,92.68
+Target: CD8,Target: CD8,Other,171.1,98.92
+PathCellObject,,Other,282.32,95.73
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,476.3,95.2
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,500.22,94.47
+PathCellObject,,Other,787.45,95.64
+PathCellObject,,Other,221.15,97.54
+PathCellObject,,Other,145.32,103.73
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,514.59,96.41
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,538.23,97.5
+Target: CD20,Target: CD20,Other,46.32,98.09
+Target: CD3: CD8,Target: CD3: CD8,Other,211.58,97.02
+PathCellObject,,Other,317.43,99.78
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,506.32,97.84
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,546.34,97.29
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,11,100.49
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,522.85,98.91
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,565.75,97.78
+Target: CD20,Target: CD20,Other,647.35,100.35
+Target: CD68: CD4,Target: CD68: CD4,Other,93.87,100.19
+PathCellObject,,Other,198.55,100.29
+PathCellObject,,Other,382.38,100.27
+Target: CD3: CD4,Target: CD3: CD4,Other,485.63,100.12
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,556.92,98.48
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,574.79,99.84
+Target: CD20,Target: CD20,Other,23.85,101.38
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,270.26,101.92
+PathCellObject,,Other,329.78,102.56
+PathCellObject,,Other,732.95,98.41
+Target: CD20,Target: CD20,Other,30.91,101.73
+PathCellObject,,Other,133.82,102.63
+Target: CD3: CD8,Target: CD3: CD8,Other,288.23,101.75
+PathCellObject,,Other,443.13,100.86
+Target: CD8,Target: CD8,Other,470.34,103.69
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,450.94,102.94
+Target: CD20: CD4,Target: CD20: CD4,Other,299.82,102.33
+PathCellObject,,Other,744.02,102.53
+Target: CD20,Target: CD20,Other,106.74,104.73
+Target: CD20,Target: CD20,Other,121.26,104.36
+Target: CD3: CD8,Target: CD3: CD8,Other,493.42,103.71
+Target: CD20: CD68,Target: CD20: CD68,Other,42.45,104.69
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,559.46,105.64
+Target: CD20,Target: CD20,Other,307.9,107.5
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,500.89,104.78
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,532.93,103.82
+PathCellObject,,Other,737.32,106.96
+PathCellObject,,Other,754.98,105.16
+Target: CD3: CD8,Target: CD3: CD8,Other,209.58,105.11
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,546.6,105.32
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,551.61,103.5
+Target: CD3: CD4,Target: CD3: CD4,Other,581.69,106.23
+PathCellObject,,Other,5.814,104.46
+PathCellObject,,Other,192.28,106.2
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,570.48,105.93
+Target: CD4,Target: CD4,Other,295.55,106.19
+Target: CD8,Target: CD8,Other,511.86,109.19
+Target: CD4,Target: CD4,Other,714.76,109.24
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,540.63,106.18
+Target: CD20: CD68,Target: CD20: CD68,Other,86.49,105.92
+Target: CD3: CD8,Target: CD3: CD8,Other,280.33,106.85
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,524.8,108.34
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,290.86,108.52
+Target: CD20,Target: CD20,Other,37.11,111.77
+PathCellObject,,Other,368.38,111.35
+PathCellObject,,Other,4.25,110.33
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,530.01,110.8
+PathCellObject,,Other,790.79,110.19
+Target: CD20: CD8,Target: CD20: CD8,Other,16.6,111.39
+Target: CD8,Target: CD8,Other,445.52,113.3
+PathCellObject,,Other,202.78,114.24
+Target: CD68: CD4,Target: CD68: CD4,Other,268.53,112.31
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,536.64,110.35
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,548.04,111.94
+Target: CD3: CD4,Target: CD3: CD4,Other,567.68,112.16
+Target: CD20: CD68,Target: CD20: CD68,Other,79.08,110.46
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,285.89,113.93
+PathCellObject,,Other,330.45,115.1
+Target: CD20: CD3: CD4: CD8: FoxP3,Target: CD20: CD3: CD4: CD8: FoxP3,Other,556.52,113.74
+PathCellObject,,Other,779.7,110.15
+Target: CD68,Target: CD68,Other,97.47,112.43
+PathCellObject,,Other,209.11,112.34
+Target: CD68,Target: CD68,Other,296.85,117.55
+PathCellObject,,Other,772.08,110.81
+Target: CD20,Target: CD20,Other,65.58,112.45
+PathCellObject,,Other,217.07,113.93
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,277.38,112.94
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,541.33,113.84
+PathCellObject,,Other,736.7,116.05
+PathCellObject,,Other,29.17,116.78
+Target: CD20: CD68,Target: CD20: CD68,Other,87.8,114.75
+PathCellObject,,Other,173.59,115.8
+PathCellObject,,Other,318.37,115.34
+PathCellObject,,Other,391.43,115.15
+PathCellObject,,Other,594.6,118.99
+PathCellObject,,Other,114.33,114.46
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,532.68,117.24
+Target: CD68,Target: CD68,Other,7.861,118.7
+Target: CD68,Target: CD68,Other,106.19,118.79
+Target: CD20: CD68,Target: CD20: CD68,Other,74.34,118.87
+PathCellObject,,Other,121.98,118.64
+PathCellObject,,Other,149.48,117.88
+PathCellObject,,Other,189.4,117.58
+PathCellObject,,Other,228.39,116.02
+PathCellObject,,Other,308.02,117.98
+PathCellObject,,Other,340.4,118.3
+PathCellObject,,Other,131.67,119.76
+Target: CD3: CD8,Target: CD3: CD8,Other,278.7,121.79
+PathCellObject,,Other,197.07,123.56
+Target: CD20,Target: CD20,Other,770.51,119.45
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,579.53,119.93
+PathCellObject,,Other,165.46,122.34
+Target: CD3: CD4,Target: CD3: CD4,Other,220.93,121.91
+Target: CD8,Target: CD8,Other,543.24,120.71
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,550.71,121.13
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,568.24,121.32
+Target: CD3: CD4,Target: CD3: CD4,Other,758.75,119.9
+Target: CD20: CD68,Target: CD20: CD68,Other,86.23,120.57
+PathCellObject,,Other,142.59,122.76
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,785.42,119.35
+PathCellObject,,Other,15.4,123.66
+Target: CD68,Target: CD68,Other,96.73,122.4
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,560.04,122.28
+PathCellObject,,Other,22.48,122.1
+PathCellObject,,Other,795.79,122.96
+Target: CD3,Target: CD3,Other,233.79,124.27
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,453.55,124.14
+PathCellObject,,Other,245.42,123.59
+Target: CD68: CD4,Target: CD68: CD4,Other,257.39,123.32
+PathCellObject,,Other,312.13,125.29
+PathCellObject,,Other,155.51,124.6
+PathCellObject,,Other,709.49,123.89
+PathCellObject,,Other,267.38,125.55
+Target: CD3: CD8,Target: CD3: CD8,Other,444.26,124.49
+PathCellObject,,Other,737.34,126.71
+Target: CD20: CD68,Target: CD20: CD68,Other,116.44,126.59
+Target: CD68,Target: CD68,Other,30.09,129.91
+Target: CD20,Target: CD20,Other,325.1,124.51
+PathCellObject,,Other,400.95,127.3
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,781.96,126.02
+Target: CD20: CD68,Target: CD20: CD68,Other,75.04,126.71
+Target: CD20: CD68,Target: CD20: CD68,Other,88.91,127.51
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,290.86,129.43
+PathCellObject,,Other,385.1,125.18
+PathCellObject,,Other,534.46,126.72
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,554.61,126.81
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,586.97,125.9
+Target: CD4,Target: CD4,Other,720.7,125.04
+Target: CD20,Target: CD20,Other,81.92,129.6
+Target: CD8,Target: CD8,Other,205.87,130.63
+Target: CD20,Target: CD20,Other,337,127.48
+PathCellObject,,Other,628.6,130.13
+PathCellObject,,Other,346.82,129.42
+PathCellObject,,Other,460.2,131.63
+Target: CD3,Target: CD3,Other,221.26,129.93
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,565.36,129.29
+Target: CD68,Target: CD68,Other,788.69,132.62
+Target: CD68,Target: CD68,Other,108.16,133.83
+PathCellObject,,Other,333.03,132.23
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,764.17,129.8
+Target: CD20: CD68,Target: CD20: CD68,Other,68.36,130.73
+Target: CD68,Target: CD68,Other,95.91,132.11
+PathCellObject,,Other,131.16,130.42
+PathCellObject,,Other,610.15,133.99
+PathCellObject,,Other,710.35,133.07
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,776.7,131.8
+Target: CD20,Target: CD20,Other,40.45,134.75
+PathCellObject,,Other,140.62,133.88
+PathCellObject,,Other,543.58,133.21
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,584.9,132.21
+Target: FoxP3,Target: FoxP3,Other,244.23,133.03
+PathCellObject,,Other,253.12,133.6
+Target: CD20,Target: CD20,Other,319.7,132.78
+PathCellObject,,Other,24.16,133.77
+PathCellObject,,Other,154.31,133.58
+Target: CD3: CD4,Target: CD3: CD4,Other,307.46,133.62
+PathCellObject,,Other,385.58,134.04
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,556.92,134.82
+Target: CD3: CD8,Target: CD3: CD8,Other,593.1,132.8
+PathCellObject,,Other,651.74,134.19
+PathCellObject,,Other,751.68,134.78
+PathCellObject,,Other,443.66,134.69
+PathCellObject,,Other,721.31,134.48
+Target: CD20,Target: CD20,Other,14.81,132.5
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,233.05,135.24
+PathCellObject,,Other,419.76,134.4
+Target: CD68,Target: CD68,Other,795.48,138.5
+Target: CD20: CD4,Target: CD20: CD4,Other,124.32,134.02
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,566.74,138.77
+PathCellObject,,Other,404.02,135.63
+PathCellObject,,Other,328.07,136.86
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,575.33,135.59
+Target: CD20,Target: CD20,Other,59.13,140.67
+PathCellObject,,Other,412.79,137.56
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,770.98,138.27
+Target: CD20,Target: CD20,Other,131.74,138.69
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,9.035,138.47
+Target: CD20,Target: CD20,Other,81.14,137.38
+PathCellObject,,Other,239.21,140.49
+Target: CD8,Target: CD8,Other,597.01,140.22
+PathCellObject,,Other,182.07,140.92
+PathCellObject,,Other,278.65,139.98
+PathCellObject,,Other,201.31,140.38
+PathCellObject,,Other,225.71,145.46
+Target: CD20,Target: CD20,Other,94.44,140.86
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,120.24,139.88
+PathCellObject,,Other,391.65,144.06
+PathCellObject,,Other,214.57,142.75
+PathCellObject,,Other,247.24,142.83
+Target: CD20: CD8,Target: CD20: CD8,Other,587.49,141.53
+Target: CD68,Target: CD68,Other,287.74,144.98
+PathCellObject,,Other,635.95,141.73
+Target: CD20,Target: CD20,Other,20.18,142.87
+PathCellObject,,Other,153.86,141.44
+PathCellObject,,Other,324.42,141.76
+PathCellObject,,Other,370.98,145.7
+PathCellObject,,Other,406.93,143.89
+PathCellObject,,Other,435.67,140.91
+PathCellObject,,Other,548.98,142.97
+PathCellObject,,Other,715.63,147.02
+PathCellObject,,Other,68.52,141.75
+PathCellObject,,Other,264.18,141.49
+PathCellObject,,Other,768.32,148.43
+Target: CD20,Target: CD20,Other,84.79,143.84
+PathCellObject,,Other,142.01,145.2
+PathCellObject,,Other,254.85,145.32
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,578.41,145.12
+Target: CD20: CD68,Target: CD20: CD68,Other,114.42,145.94
+Target: CD20: CD4,Target: CD20: CD4,Other,301.78,145.56
+PathCellObject,,Other,618.4,144.59
+PathCellObject,,Other,198.05,147.21
+Target: CD20,Target: CD20,Other,77.68,145.25
+Target: CD3: CD8,Target: CD3: CD8,Other,561.3,146.21
+Target: CD20: CD68,Target: CD20: CD68,Other,130.63,147.82
+PathCellObject,,Other,429.54,145.36
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,782.1,146.96
+PathCellObject,,Other,418.53,147.98
+PathCellObject,,Other,451.81,144.17
+PathCellObject,,Other,327.82,149.39
+Target: CD4,Target: CD4,Other,103.76,149.32
+PathCellObject,,Other,151.98,149.19
+PathCellObject,,Other,316.03,150.19
+Target: CD68: CD4,Target: CD68: CD4,Other,602.39,149.12
+Target: CD20,Target: CD20,Other,91.21,149.25
+PathCellObject,,Other,635.94,150.78
+Target: CD20: CD8,Target: CD20: CD8,Other,71.59,150.69
+PathCellObject,,Other,263.22,149.92
+Target: CD20,Target: CD20,Other,45.99,151
+PathCellObject,,Other,207.78,150.7
+PathCellObject,,Other,272.47,148.99
+Target: CD68: CD8,Target: CD68: CD8,Other,792.41,153.03
+PathCellObject,,Other,646.78,151.24
+PathCellObject,,Other,431.78,152.74
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,452.11,152.25
+PathCellObject,,Other,552.4,152.71
+PathCellObject,,Other,251.53,152.72
+Target: CD20: CD8,Target: CD20: CD8,Other,5.692,156.94
+PathCellObject,,Other,86.03,152.5
+PathCellObject,,Other,175.16,154.79
+PathCellObject,,Other,424.42,152.29
+Target: CD3,Target: CD3,Other,568.91,154.47
+Target: CD3: CD4,Target: CD3: CD4,Other,614.55,153.81
+Target: CD20,Target: CD20,Other,339.38,154.43
+Target: CD20,Target: CD20,Other,117.02,154.74
+PathCellObject,,Other,276.09,157.63
+Target: CD3: CD4,Target: CD3: CD4,Other,626.22,154.7
+Target: CD3,Target: CD3,Other,214.45,157.71
+PathCellObject,,Other,258.57,157.07
+Target: CD3: CD4,Target: CD3: CD4,Other,607.08,156.66
+Target: CD3: CD4,Target: CD3: CD4,Other,242.16,154.33
+Target: CD20,Target: CD20,Other,126.55,158.41
+Target: CD68,Target: CD68,Other,265.93,158.62
+PathCellObject,,Other,655.98,159.82
+Target: CD20,Target: CD20,Other,86.22,157.45
+Target: CD3: CD8,Target: CD3: CD8,Other,560.2,158.33
+PathCellObject,,Other,152.45,161.68
+PathCellObject,,Other,426.27,163.01
+Target: CD3,Target: CD3,Other,454.97,160.28
+PathCellObject,,Other,205.31,162.6
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,592.92,157.76
+Target: CD20,Target: CD20,Other,65.33,158.36
+Target: CD20,Target: CD20,Other,77.79,159.41
+Target: CD4,Target: CD4,Other,42.33,160.54
+Target: CD4,Target: CD4,Other,54.35,158.47
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,96.84,160.63
+PathCellObject,,Other,237.9,161.14
+Target: CD20,Target: CD20,Other,26.3,161.26
+PathCellObject,,Other,581.18,158.41
+Target: CD3: CD8,Target: CD3: CD8,Other,639.63,160.09
+Target: CD20,Target: CD20,Other,108.88,159.79
+PathCellObject,,Other,717.18,160.37
+Target: CD68: CD4,Target: CD68: CD4,Other,251.53,164.96
+PathCellObject,,Other,303.15,161.86
+Target: CD3: CD4,Target: CD3: CD4,Other,622.04,163.21
+PathCellObject,,Other,463.43,163.8
+Target: CD3: CD4: CD8: FoxP3,Target: CD3: CD4: CD8: FoxP3,Other,648.01,162.84
+Target: CD20,Target: CD20,Other,35.64,162.21
+PathCellObject,,Other,343.57,164.01
+Target: CD3: CD4,Target: CD3: CD4,Other,613.54,164.87
+Target: CD20,Target: CD20,Other,87.46,164.24
+Target: CD20,Target: CD20,Other,118.65,163.74
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,51.42,167.45
+Target: CD20,Target: CD20,Other,71.71,166.17
+PathCellObject,,Other,575.83,166.28
+Target: CD3: CD8,Target: CD3: CD8,Other,598.27,166.03
+PathCellObject,,Other,764.91,164.26
+PathCellObject,,Other,558.55,167.21
+Target: CD68,Target: CD68,Other,268.53,168.6
+PathCellObject,,Other,296.34,167.92
+Target: CD3: CD4: CD8: FoxP3,Target: CD3: CD4: CD8: FoxP3,Other,645.54,167.77
+PathCellObject,,Other,260.03,166.95
+PathCellObject,,Other,288.72,168.11
+PathCellObject,,Other,395.66,167.78
+PathCellObject,,Other,441.53,166.74
+PathCellObject,,Other,608.21,169.44
+Target: CD20: CD8,Target: CD20: CD8,Other,633.39,167.98
+Target: CD68: CD4,Target: CD68: CD4,Other,105.42,167.86
+PathCellObject,,Other,778.98,166.02
+Target: CD4,Target: CD4,Other,231.34,168.16
+Target: CD20,Target: CD20,Other,127.9,171.69
+PathCellObject,,Other,713.83,170.56
+Target: CD3: CD8,Target: CD3: CD8,Other,793.09,169.3
+Target: CD20,Target: CD20,Other,61.58,169.71
+Target: CD20: CD4,Target: CD20: CD4,Other,112.06,169.99
+Target: CD20,Target: CD20,Other,82.91,171.4
+PathCellObject,,Other,240.01,169.19
+Target: CD68,Target: CD68,Other,36.88,172.08
+PathCellObject,,Other,210.71,174.28
+Target: CD3: CD4,Target: CD3: CD4,Other,280.32,172.16
+Target: CD20: CD68,Target: CD20: CD68,Other,97.58,172.66
+Target: CD68,Target: CD68,Other,242.45,174.94
+Target: CD4,Target: CD4,Other,640.7,174.48
+Target: CD20,Target: CD20,Other,119.85,173.03
+PathCellObject,,Other,459.87,173.92
+Target: CD20,Target: CD20,Other,148.18,173.71
+PathCellObject,,Other,782.38,175.27
+Target: CD20,Target: CD20,Other,73.74,175.43
+PathCellObject,,Other,223.16,176.84
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,255.95,176.64
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,649.4,174.73
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,114.58,176.64
+Target: CD68,Target: CD68,Other,266.66,177
+PathCellObject,,Other,447.09,176.88
+PathCellObject,,Other,470.72,177.5
+Target: CD20,Target: CD20,Other,91.59,177.5
+PathCellObject,,Other,158.12,177.11
+PathCellObject,,Other,177.57,179.86
+PathCellObject,,Other,657.36,180.89
+PathCellObject,,Other,601.3,178.95
+Target: CD20,Target: CD20,Other,64.69,179.21
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,55.25,177.31
+Target: CD20: CD3,Target: CD20: CD3,Other,13.82,178
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,24.74,178.33
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,3.848,178.87
+PathCellObject,,Other,400.97,180.78
+PathCellObject,,Other,437.62,179.43
+PathCellObject,,Other,788.59,182.85
+Target: CD3,Target: CD3,Other,428.22,180.6
+PathCellObject,,Other,647.01,181.88
+PathCellObject,,Other,234.07,182.32
+Target: CD3: CD4,Target: CD3: CD4,Other,262.17,184.93
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,123.59,181.05
+Target: CD8,Target: CD8,Other,145.38,184.08
+Target: CD20,Target: CD20,Other,86.99,185.46
+Target: CD20: CD68,Target: CD20: CD68,Other,100.54,182.69
+Target: CD68,Target: CD68,Other,43.94,181.03
+Target: CD20,Target: CD20,Other,76.37,183.55
+Target: CD20: CD68,Target: CD20: CD68,Other,114.29,184.02
+PathCellObject,,Other,275.2,184.45
+Target: CD68,Target: CD68,Other,37.18,182.98
+Target: CD68,Target: CD68,Other,58.57,184.99
+PathCellObject,,Other,157.37,185.19
+PathCellObject,,Other,639.67,183.49
+Target: CD20,Target: CD20,Other,51.7,183.26
+PathCellObject,,Other,444.95,187.8
+PathCellObject,,Other,18.51,188.33
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,796,186.86
+PathCellObject,,Other,31.52,189.85
+Target: CD20,Target: CD20,Other,68.66,187.52
+Target: CD20,Target: CD20,Other,127.41,185.56
+Target: CD20,Target: CD20,Other,48.3,188.01
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,4.504,189.51
+PathCellObject,,Other,171.67,188.42
+PathCellObject,,Other,188.68,190.77
+PathCellObject,,Other,240.72,191.88
+PathCellObject,,Other,405.61,189.76
+Target: CD3,Target: CD3,Other,469.71,191.48
+Target: CD68,Target: CD68,Other,111.66,192.46
+Target: CD20,Target: CD20,Other,78.36,190.3
+Target: CD20: CD68,Target: CD20: CD68,Other,96.71,191.77
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,644.27,191.49
+PathCellObject,,Other,62.34,190.28
+PathCellObject,,Other,699.36,189.25
+PathCellObject,,Other,42.64,192.2
+Target: CD20,Target: CD20,Other,154.22,193.16
+PathCellObject,,Other,164.48,190.11
+Target: CD68,Target: CD68,Other,104.5,190.78
+PathCellObject,,Other,229.93,193.66
+PathCellObject,,Other,483.47,190.92
+PathCellObject,,Other,452.78,192.73
+PathCellObject,,Other,132.76,193.05
+Target: CD3,Target: CD3,Other,205.36,193.15
+Target: CD20,Target: CD20,Other,54,193.77
+Target: CD68,Target: CD68,Other,121.69,194.97
+PathCellObject,,Other,197.32,192.51
+PathCellObject,,Other,682.73,192.92
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,251.55,195.72
+Target: CD20,Target: CD20,Other,84.87,197.04
+PathCellObject,,Other,72.61,194.85
+PathCellObject,,Other,694.5,196.7
+Target: CD20,Target: CD20,Other,60.87,196.16
+PathCellObject,,Other,162.22,199.96
+Target: CD3: CD8,Target: CD3: CD8,Other,145.95,199.27
+Target: CD3: CD4,Target: CD3: CD4,Other,171.12,198.2
+Target: CD20: CD68,Target: CD20: CD68,Other,12.92,195.92
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,655.57,197.46
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,96.99,200.66
+Target: CD68,Target: CD68,Other,66.42,200.57
+PathCellObject,,Other,272.74,199.2
+PathCellObject,,Other,382.88,197.99
+PathCellObject,,Other,138.27,200.7
+Target: CD4,Target: CD4,Other,182.32,198.98
+PathCellObject,,Other,486.19,200.12
+Target: CD68,Target: CD68,Other,409.94,207.06
+Target: CD20: CD68,Target: CD20: CD68,Other,794.74,203.27
+Target: CD68,Target: CD68,Other,48.75,200.48
+Target: CD20: CD8,Target: CD20: CD8,Other,460.93,199.87
+PathCellObject,,Other,500,199.62
+Target: CD3: CD4,Target: CD3: CD4,Other,25.84,199.99
+Target: CD68,Target: CD68,Other,75.99,201.82
+PathCellObject,,Other,392.79,202.39
+PathCellObject,,Other,39.9,201.31
+PathCellObject,,Other,307.69,200.57
+Target: CD8,Target: CD8,Other,676.06,201.65
+Target: CD68,Target: CD68,Other,9.048,202.46
+Target: CD20,Target: CD20,Other,57.71,203.47
+Target: CD8,Target: CD8,Other,452.06,203.34
+Target: CD3: CD4,Target: CD3: CD4,Other,1.754,202.02
+Target: CD20,Target: CD20,Other,285.63,205.28
+Target: CD3: CD4,Target: CD3: CD4,Other,19.03,204.28
+PathCellObject,,Other,153.13,204.16
+PathCellObject,,Other,197.69,204.39
+PathCellObject,,Other,209.43,203.41
+PathCellObject,,Other,696.7,205.72
+Target: CD4,Target: CD4,Other,493.96,205.69
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,116.42,205.57
+Target: CD20,Target: CD20,Other,477.25,205.41
+PathCellObject,,Other,32.76,205.3
+PathCellObject,,Other,421.81,205.47
+PathCellObject,,Other,657.29,208.52
+PathCellObject,,Other,186.44,206.83
+Target: CD68,Target: CD68,Other,86.52,207.56
+Target: CD20: CD68,Target: CD20: CD68,Other,105.18,206.8
+PathCellObject,,Other,175.06,208.03
+PathCellObject,,Other,648.11,207.72
+Target: CD20: CD3,Target: CD20: CD3,Other,50.1,208.7
+PathCellObject,,Other,247.87,207.34
+PathCellObject,,Other,665.9,210.71
+Target: CD3: CD4,Target: CD3: CD4,Other,5.247,211.08
+Target: CD20: CD68,Target: CD20: CD68,Other,72.66,208.78
+Target: CD20,Target: CD20,Other,96.75,208.87
+PathCellObject,,Other,458.9,211.92
+Target: CD68,Target: CD68,Other,255.42,208.29
+Target: CD20,Target: CD20,Other,268.99,212.29
+PathCellObject,,Other,40.23,209.86
+Target: CD20,Target: CD20,Other,64.15,210.77
+PathCellObject,,Other,355.45,211.5
+Target: CD8,Target: CD8,Other,206.37,211.56
+PathCellObject,,Other,525.22,210.33
+PathCellObject,,Other,27.22,211.41
+Target: CD20,Target: CD20,Other,57.21,213.09
+PathCellObject,,Other,161.14,214.2
+PathCellObject,,Other,431.16,213.05
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,486.02,210.02
+Target: CD8,Target: CD8,Other,681.68,212.05
+PathCellObject,,Other,239.61,213.41
+Target: CD20,Target: CD20,Other,110.91,215.2
+PathCellObject,,Other,260.96,217.23
+PathCellObject,,Other,20.81,213.51
+Target: CD20,Target: CD20,Other,100.69,215.05
+PathCellObject,,Other,150.07,213.7
+PathCellObject,,Other,197.6,215.9
+Target: CD20,Target: CD20,Other,498.34,213.36
+PathCellObject,,Other,36.05,214.66
+PathCellObject,,Other,250.78,216.66
+PathCellObject,,Other,13.63,216.54
+Target: CD68: CD4,Target: CD68: CD4,Other,75.05,218.17
+PathCellObject,,Other,186.98,215.38
+Target: CD20,Target: CD20,Other,46.65,216.23
+Target: CD20: CD68,Target: CD20: CD68,Other,89.88,217.08
+Target: CD20,Target: CD20,Other,517.48,216.01
+PathCellObject,,Other,346.79,218.66
+Target: CD20,Target: CD20,Other,482.79,218
+Target: CD68,Target: CD68,Other,794.89,218.33
+Target: CD20,Target: CD20,Other,64.51,221
+Target: CD20,Target: CD20,Other,490.36,219.08
+PathCellObject,,Other,652.19,219.68
+Target: CD20,Target: CD20,Other,505.34,218.75
+PathCellObject,,Other,139.02,216.56
+Target: CD8,Target: CD8,Other,207.44,221.27
+PathCellObject,,Other,29.67,222.11
+PathCellObject,,Other,175.05,222.46
+Target: CD20,Target: CD20,Other,531.78,220.31
+Target: CD20: CD68,Target: CD20: CD68,Other,39.71,221.51
+Target: CD20,Target: CD20,Other,127.26,221.99
+PathCellObject,,Other,700.31,220.45
+Target: CD20,Target: CD20,Other,55.46,221.62
+Target: CD20,Target: CD20,Other,97.87,222.06
+Target: CD8,Target: CD8,Other,167.96,221.38
+PathCellObject,,Other,220.72,225.61
+PathCellObject,,Other,148.14,224.43
+PathCellObject,,Other,449.93,226.67
+PathCellObject,,Other,243.64,223.41
+Target: CD20,Target: CD20,Other,493.92,224.5
+Target: CD20: CD68,Target: CD20: CD68,Other,47.82,224.17
+Target: CD20,Target: CD20,Other,103.87,224.72
+Target: CD68: CD4,Target: CD68: CD4,Other,115.84,227.16
+Target: CD3: CD4,Target: CD3: CD4,Other,136.62,228.67
+PathCellObject,,Other,460.5,224.84
+Target: CD20,Target: CD20,Other,512.35,224.86
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,668,225.1
+PathCellObject,,Other,190.84,226.56
+PathCellObject,,Other,294.17,223.55
+PathCellObject,,Other,10.54,225.76
+Target: CD20,Target: CD20,Other,518.25,225.12
+PathCellObject,,Other,3.373,226.12
+Target: CD8,Target: CD8,Other,252.81,228.21
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,526.25,227.55
+PathCellObject,,Other,90.86,227.52
+PathCellObject,,Other,286.18,227.81
+Target: CD3: CD4,Target: CD3: CD4,Other,693.64,226.84
+Target: CD20: CD68: CD3: CD8: FoxP3,Target: CD20: CD68: CD3: CD8: FoxP3,Other,40.62,229.51
+PathCellObject,,Other,21.77,227.93
+PathCellObject,,Other,56.95,230.33
+PathCellObject,,Other,349.17,230.32
+Target: CD20: CD8,Target: CD20: CD8,Other,502.57,229.18
+PathCellObject,,Other,794.68,230.02
+PathCellObject,,Other,165.32,229.63
+PathCellObject,,Other,240.31,228.7
+PathCellObject,,Other,655.89,231.04
+Target: CD20,Target: CD20,Other,341.9,232.2
+Target: CD3: CD4,Target: CD3: CD4,Other,698.34,233.31
+PathCellObject,,Other,49.4,234.51
+Target: CD20: CD68,Target: CD20: CD68,Other,105.66,235.64
+PathCellObject,,Other,151.02,233.45
+PathCellObject,,Other,707.7,233.91
+PathCellObject,,Other,12.97,234.15
+Target: CD20: CD8,Target: CD20: CD8,Other,511.8,234.13
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,519.66,235.05
+PathCellObject,,Other,472.42,232.8
+Target: CD20,Target: CD20,Other,326.49,232.82
+Target: CD20: CD3,Target: CD20: CD3,Other,535.38,231.63
+PathCellObject,,Other,163.24,241.93
+Target: CD8,Target: CD8,Other,248.72,236.34
+PathCellObject,,Other,192.31,234.79
+Target: CD3: CD8,Target: CD3: CD8,Other,33.87,234.52
+PathCellObject,,Other,201.96,235.92
+PathCellObject,,Other,233.75,240.71
+PathCellObject,,Other,239.4,235.36
+Target: CD3: CD4,Target: CD3: CD4,Other,491.97,236.4
+Target: CD20,Target: CD20,Other,94.6,236.6
+PathCellObject,,Other,175.35,241.49
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,500.94,236.76
+PathCellObject,,Other,319.21,238.62
+Target: CD68,Target: CD68,Other,25.16,238.28
+Target: CD20,Target: CD20,Other,526.16,239.63
+Target: CD20,Target: CD20,Other,41.56,240.09
+PathCellObject,,Other,289.57,237.88
+Target: CD20,Target: CD20,Other,335.12,239.6
+Target: CD3: CD8,Target: CD3: CD8,Other,661.76,240.22
+Target: CD3: CD8,Target: CD3: CD8,Other,794.66,240.34
+Target: CD68,Target: CD68,Other,86.46,238.73
+PathCellObject,,Other,193.96,241.92
+Target: CD20,Target: CD20,Other,121.37,240.35
+PathCellObject,,Other,308.47,240.19
+Target: CD20,Target: CD20,Other,535.64,241.22
+Target: CD20: CD8,Target: CD20: CD8,Other,507.07,242.04
+PathCellObject,,Other,715.05,243.86
+PathCellObject,,Other,3.036,239.24
+PathCellObject,,Other,281.97,240.17
+PathCellObject,,Other,245.46,245.09
+Target: CD20: CD4,Target: CD20: CD4,Other,675.58,238.26
+PathCellObject,,Other,16.7,242.45
+Target: CD20: CD68,Target: CD20: CD68,Other,31.78,242.43
+Target: CD20,Target: CD20,Other,457.78,242.33
+PathCellObject,,Other,482.46,239.95
+PathCellObject,,Other,468.5,245.41
+Target: CD20: CD8,Target: CD20: CD8,Other,669.93,243.24
+PathCellObject,,Other,267.9,247.44
+Target: CD20,Target: CD20,Other,93.99,246.01
+PathCellObject,,Other,7.586,245.81
+Target: CD20,Target: CD20,Other,78.11,246.4
+PathCellObject,,Other,187.32,246.06
+PathCellObject,,Other,548.37,243.79
+Target: CD20: CD68,Target: CD20: CD68,Other,104.11,249.12
+Target: CD68: CD4,Target: CD68: CD4,Other,127.51,247.68
+Target: CD8,Target: CD8,Other,155.21,245.61
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,518.19,248.56
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,343.33,245.42
+Target: CD3: CD4,Target: CD3: CD4,Other,364.71,245.21
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,679.67,246.08
+Target: CD8,Target: CD8,Other,481.33,250.01
+PathCellObject,,Other,558.63,247.67
+Target: CD20: CD68,Target: CD20: CD68,Other,24.58,248.43
+PathCellObject,,Other,46.36,248.52
+Target: CD20,Target: CD20,Other,37,251.99
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,331.41,249.11
+PathCellObject,,Other,279.57,251.23
+Target: CD20,Target: CD20,Other,542.28,250.79
+Target: CD3: CD4,Target: CD3: CD4,Other,144,249.86
+PathCellObject,,Other,222.35,249.91
+Target: CD20: CD8,Target: CD20: CD8,Other,509.11,250.9
+Target: CD8,Target: CD8,Other,352.83,250.7
+Target: CD68,Target: CD68,Other,133.76,251.83
+Target: CD20,Target: CD20,Other,499.19,252.62
+PathCellObject,,Other,658.49,252.45
+PathCellObject,,Other,733.21,251.06
+Target: CD20: CD8,Target: CD20: CD8,Other,16.86,254.19
+Target: CD20: CD3,Target: CD20: CD3,Other,667.06,256.07
+Target: CD20,Target: CD20,Other,679.17,257.18
+PathCellObject,,Other,696.24,252.11
+PathCellObject,,Other,157.92,254.28
+PathCellObject,,Other,722.64,253.39
+Target: CD8,Target: CD8,Other,794.97,252.64
+Target: CD68: CD8,Target: CD68: CD8,Other,343.38,255.19
+PathCellObject,,Other,748.8,256.22
+PathCellObject,,Other,5.762,257.08
+PathCellObject,,Other,551.21,256.72
+PathCellObject,,Other,230.46,258.82
+Target: CD8,Target: CD8,Other,257.76,255.74
+Target: CD68,Target: CD68,Other,365.64,255.11
+PathCellObject,,Other,189.18,258.53
+Target: CD3: CD8,Target: CD3: CD8,Other,334.91,258.12
+Target: CD20,Target: CD20,Other,710.87,258.31
+Target: CD20: CD68,Target: CD20: CD68,Other,29.4,256.77
+Target: CD20,Target: CD20,Other,136.95,258.78
+Target: CD20,Target: CD20,Other,22.89,260.41
+Target: CD20,Target: CD20,Other,516.07,259.96
+PathCellObject,,Other,328.39,262.18
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,353.34,263.64
+PathCellObject,,Other,582.93,260.79
+Target: CD20,Target: CD20,Other,154.15,262.78
+Target: CD20,Target: CD20,Other,130.48,265.09
+PathCellObject,,Other,241.09,263.29
+Target: CD68,Target: CD68,Other,365.72,263.2
+Target: CD8,Target: CD8,Other,342.26,265.72
+PathCellObject,,Other,389.2,263.33
+Target: CD20: CD8,Target: CD20: CD8,Other,695.94,262.87
+PathCellObject,,Other,35.57,266.76
+PathCellObject,,Other,144.6,264.3
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,540.34,265.52
+PathCellObject,,Other,729.41,264.25
+PathCellObject,,Other,793.29,264.2
+PathCellObject,,Other,11.27,266.55
+Target: CD20: CD68,Target: CD20: CD68,Other,20.35,268.23
+PathCellObject,,Other,167.7,265.87
+Target: CD20,Target: CD20,Other,107.15,266.67
+PathCellObject,,Other,178.71,268.64
+PathCellObject,,Other,201.91,264.84
+PathCellObject,,Other,498.19,266.23
+PathCellObject,,Other,746.35,267.45
+PathCellObject,,Other,2.639,268.91
+Target: CD68: CD8,Target: CD68: CD8,Other,491.54,270.72
+PathCellObject,,Other,576.53,268.72
+Target: CD20,Target: CD20,Other,671.03,267.21
+Target: CD20,Target: CD20,Other,554.45,269.36
+PathCellObject,,Other,658.15,268.17
+PathCellObject,,Other,264.65,271.02
+Target: CD20: CD8,Target: CD20: CD8,Other,703.16,269.35
+PathCellObject,,Other,782.05,270.29
+PathCellObject,,Other,27.7,271.89
+PathCellObject,,Other,196.89,272.35
+Target: CD68,Target: CD68,Other,362.82,271.17
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,373.42,270.14
+Target: CD68,Target: CD68,Other,256.21,270.48
+PathCellObject,,Other,188.26,269.92
+PathCellObject,,Other,207.09,271.66
+Target: CD20,Target: CD20,Other,156.8,274.06
+Target: CD8,Target: CD8,Other,238.76,271.5
+PathCellObject,,Other,90.81,274.41
+PathCellObject,,Other,146.21,273.58
+PathCellObject,,Other,395.44,276.41
+Target: CD3: CD8,Target: CD3: CD8,Other,692.24,271.53
+PathCellObject,,Other,795.14,273.46
+PathCellObject,,Other,13.19,276.81
+Target: CD68: CD4,Target: CD68: CD4,Other,384.19,275.89
+Target: CD20,Target: CD20,Other,664.51,273.8
+Target: CD20,Target: CD20,Other,336.09,276.23
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,345.95,273.48
+PathCellObject,,Other,769.43,275.03
+Target: CD68,Target: CD68,Other,70.6,275.23
+Target: CD8,Target: CD8,Other,241.16,276.97
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,673.43,279.36
+PathCellObject,,Other,187.64,277.9
+PathCellObject,,Other,586.18,276.19
+Target: CD20,Target: CD20,Other,111.82,276.19
+Target: CD68: CD8,Target: CD68: CD8,Other,252.31,276.6
+PathCellObject,,Other,214.46,275.75
+Target: CD20: CD8,Target: CD20: CD8,Other,359.51,278.1
+PathCellObject,,Other,167.23,278.22
+Target: CD20,Target: CD20,Other,36.43,279.48
+PathCellObject,,Other,794.47,280.68
+PathCellObject,,Other,58.86,280.49
+Target: CD3: CD8,Target: CD3: CD8,Other,569.91,280.08
+Target: CD8,Target: CD8,Other,693.9,281.28
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,373.4,279.65
+PathCellObject,,Other,542.93,279.72
+Target: CD3,Target: CD3,Other,659.17,283.14
+PathCellObject,,Other,137.41,281.13
+PathCellObject,,Other,158.35,284.5
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,352.45,281.7
+Target: CD20,Target: CD20,Other,8.028,284.17
+PathCellObject,,Other,200.69,281.69
+PathCellObject,,Other,248.85,284.4
+Target: CD20: CD68,Target: CD20: CD68,Other,22.99,281.54
+PathCellObject,,Other,214.21,283.17
+PathCellObject,,Other,552.43,282.24
+PathCellObject,,Other,149.53,284.43
+Target: CD20,Target: CD20,Other,30.54,285.19
+Target: CD20,Target: CD20,Other,116.38,284.49
+Target: CD68,Target: CD68,Other,260.29,284.56
+PathCellObject,,Other,505.63,284.2
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,345.98,284.76
+PathCellObject,,Other,364.77,285.17
+PathCellObject,,Other,337.79,286.65
+PathCellObject,,Other,778.64,284.11
+Target: CD20: CD68,Target: CD20: CD68,Other,68.12,285.52
+PathCellObject,,Other,587.68,287.58
+PathCellObject,,Other,208.8,286.91
+PathCellObject,,Other,2.369,289.26
+PathCellObject,,Other,237.89,288.9
+PathCellObject,,Other,372.28,289.15
+Target: CD20,Target: CD20,Other,25.97,288.49
+Target: CD20,Target: CD20,Other,90.71,286.79
+PathCellObject,,Other,134.49,289.76
+PathCellObject,,Other,200.43,292.22
+Target: CD20,Target: CD20,Other,39.51,288.49
+Target: CD3,Target: CD3,Other,20.49,288.57
+PathCellObject,,Other,772.26,288.01
+Target: CD3: CD8,Target: CD3: CD8,Other,47.14,290.26
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,355.62,289.74
+PathCellObject,,Other,501.84,296.98
+PathCellObject,,Other,548.45,291.03
+Target: CD20,Target: CD20,Other,54.94,290.43
+Target: CD20,Target: CD20,Other,579.34,293.35
+PathCellObject,,Other,794.95,290.06
+Target: CD20,Target: CD20,Other,101.1,290.39
+PathCellObject,,Other,174.94,296.6
+Target: CD68,Target: CD68,Other,257.06,292.59
+Target: CD20: CD4: CD8,Target: CD20: CD4: CD8,Other,385.55,290.56
+PathCellObject,,Other,248.51,292.29
+PathCellObject,,Other,599.79,291.37
+PathCellObject,,Other,211,293.96
+Target: CD3: CD4,Target: CD3: CD4,Other,667.33,292.28
+Target: CD20,Target: CD20,Other,17.66,295.09
+Target: CD20,Target: CD20,Other,66.45,293.65
+PathCellObject,,Other,162.24,291.88
+Target: CD20,Target: CD20,Other,360.75,293.87
+Target: CD20: CD68,Target: CD20: CD68,Other,29.34,293.32
+Target: CD20: CD68,Target: CD20: CD68,Other,88.95,296.31
+PathCellObject,,Other,272.91,295.59
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,399.93,293.05
+PathCellObject,,Other,774.46,295.78
+Target: CD20,Target: CD20,Other,126.93,296.1
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,349.56,293.6
+PathCellObject,,Other,7.585,296.49
+PathCellObject,,Other,338.89,301.74
+Target: CD20,Target: CD20,Other,569.42,294.9
+PathCellObject,,Other,144.76,297.89
+Target: CD20,Target: CD20,Other,346.38,298.44
+PathCellObject,,Other,223.91,298.29
+Target: CD20,Target: CD20,Other,33,299.01
+Target: CD20,Target: CD20,Other,24.19,299.45
+Target: CD20,Target: CD20,Other,108.67,298.82
+Target: CD68,Target: CD68,Other,156.15,297.26
+Target: CD20,Target: CD20,Other,43.58,300.14
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,663.87,299.77
+Target: CD20,Target: CD20,Other,58.76,302.76
+Target: CD20,Target: CD20,Other,75.85,298.67
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,95.66,301.86
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,391.66,301.11
+Target: CD20: CD8,Target: CD20: CD8,Other,593.19,300.42
+PathCellObject,,Other,794.42,297.59
+Target: CD3: CD8,Target: CD3: CD8,Other,264.43,300.37
+Target: CD8,Target: CD8,Other,251.04,302.31
+PathCellObject,,Other,407.26,299.45
+PathCellObject,,Other,165.89,303.63
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,361.13,303.13
+Target: CD20,Target: CD20,Other,117.07,303.2
+PathCellObject,,Other,205,302.95
+PathCellObject,,Other,490.15,303.14
+PathCellObject,,Other,795.07,306.4
+Target: CD20,Target: CD20,Other,15.19,304.13
+PathCellObject,,Other,68.42,304.25
+Target: CD20,Target: CD20,Other,571.88,302.58
+PathCellObject,,Other,154,308.34
+PathCellObject,,Other,782.19,309.08
+PathCellObject,,Other,4.253,304.23
+Target: CD20,Target: CD20,Other,29.92,305.96
+Target: CD20,Target: CD20,Other,103.03,307.58
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,351.31,306.04
+PathCellObject,,Other,414.73,305.58
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,38.62,307.68
+Target: CD20: CD68,Target: CD20: CD68,Other,82.34,307.77
+PathCellObject,,Other,423.6,306.91
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,258.74,306.66
+PathCellObject,,Other,607.34,307.66
+Target: CD8,Target: CD8,Other,647.15,310.6
+Target: CD20: CD68,Target: CD20: CD68,Other,22.99,310.12
+Target: CD20: CD3,Target: CD20: CD3,Other,374.73,307.97
+Target: CD20,Target: CD20,Other,575.97,310.82
+PathCellObject,,Other,280.48,310.23
+Target: CD3: CD8,Target: CD3: CD8,Other,4.586,311.97
+Target: CD20,Target: CD20,Other,403.77,309.91
+PathCellObject,,Other,559.79,310.66
+PathCellObject,,Other,50.17,311.37
+PathCellObject,,Other,206.59,312.06
+Target: CD20: CD68,Target: CD20: CD68,Other,393.75,311.36
+Target: CD20,Target: CD20,Other,14.31,312.54
+PathCellObject,,Other,170.17,313.53
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,598.96,310.88
+Target: CD20: CD68,Target: CD20: CD68,Other,68.4,313.49
+Target: CD8,Target: CD8,Other,339.49,312.25
+Target: CD68: CD8,Target: CD68: CD8,Other,260.51,313.17
+PathCellObject,,Other,676.28,312.04
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,43.5,314.47
+PathCellObject,,Other,432.23,312.38
+PathCellObject,,Other,184.45,314.73
+PathCellObject,,Other,198.39,313.42
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,353.75,315.07
+PathCellObject,,Other,413.38,315.08
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,27.81,316.16
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,385.83,314.74
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,38.84,319.67
+Target: CD20: CD3,Target: CD20: CD3,Other,657.37,315.22
+PathCellObject,,Other,117.9,318.83
+PathCellObject,,Other,240.52,317.27
+Target: CD68,Target: CD68,Other,365.37,316.9
+PathCellObject,,Other,195.48,317.63
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,568.26,320.17
+Target: CD20,Target: CD20,Other,57.82,317.06
+PathCellObject,,Other,337.95,321.11
+PathCellObject,,Other,614.94,318.79
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,393.39,320.06
+Target: CD20,Target: CD20,Other,86.68,319.9
+Target: CD20,Target: CD20,Other,374.47,318.48
+PathCellObject,,Other,671.59,321.28
+PathCellObject,,Other,791.36,319.62
+PathCellObject,,Other,134.17,320.59
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,594.87,318.85
+Target: CD68: CD4: CD8,Target: CD68: CD4: CD8,Other,257.17,321.12
+Target: CD20: CD3: CD4: CD8: FoxP3,Target: CD20: CD3: CD4: CD8: FoxP3,Other,380.01,321.41
+PathCellObject,,Other,430.42,321.31
+PathCellObject,,Other,190.84,324.26
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,402.96,320.24
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,413.95,321.32
+Target: CD8,Target: CD8,Other,587.01,322.77
+PathCellObject,,Other,102.28,323.86
+PathCellObject,,Other,18.17,323.45
+Target: CD4,Target: CD4,Other,248.99,324.21
+Target: CD20,Target: CD20,Other,603.7,323.44
+PathCellObject,,Other,72.52,323.27
+PathCellObject,,Other,516.73,323.38
+PathCellObject,,Other,205.19,322.34
+PathCellObject,,Other,623.53,324.69
+PathCellObject,,Other,31.42,326.37
+Target: CD20,Target: CD20,Other,52.59,326.28
+Target: CD20: CD68,Target: CD20: CD68,Other,349.21,325.07
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,387.47,325.09
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,420.01,324.38
+Target: CD20,Target: CD20,Other,637.75,325.73
+PathCellObject,,Other,80.69,326.95
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,409.22,328.4
+Target: CD3,Target: CD3,Other,661.78,325.64
+PathCellObject,,Other,196.2,329.71
+Target: CD3: CD4,Target: CD3: CD4,Other,650.4,325.31
+Target: CD20,Target: CD20,Other,60.41,326.23
+PathCellObject,,Other,317.74,326.79
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,372.43,326.34
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,396.43,329.09
+PathCellObject,,Other,234.45,328.96
+PathCellObject,,Other,68.7,329.62
+PathCellObject,,Other,328.33,328
+Target: CD20,Target: CD20,Other,45.18,330.98
+PathCellObject,,Other,205.21,330.2
+PathCellObject,,Other,259.32,332.95
+Target: CD68,Target: CD68,Other,430.74,328.25
+PathCellObject,,Other,530.31,328.03
+PathCellObject,,Other,245.02,330.24
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,383.11,331.34
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,363.27,330.86
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,419.15,331.83
+PathCellObject,,Other,8.004,329.36
+PathCellObject,,Other,220.14,329.91
+Target: CD3: CD8,Target: CD3: CD8,Other,427.85,332.06
+PathCellObject,,Other,437.81,333.74
+Target: CD20: CD68,Target: CD20: CD68,Other,608.69,331.25
+PathCellObject,,Other,280.24,331.02
+PathCellObject,,Other,524.43,340.54
+PathCellObject,,Other,567.61,334.31
+Target: CD3: CD4,Target: CD3: CD4,Other,294.46,335.35
+Target: CD20,Target: CD20,Other,592.51,333.22
+PathCellObject,,Other,668.22,334.81
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,373.51,336.75
+PathCellObject,,Other,61.18,336.32
+Target: CD20,Target: CD20,Other,630.63,333.12
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,648.25,334.58
+Target: CD20,Target: CD20,Other,777.59,332.61
+PathCellObject,,Other,795.05,334.3
+PathCellObject,,Other,209.61,339.44
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,407.12,338.03
+PathCellObject,,Other,514.06,335.55
+PathCellObject,,Other,658.02,336.6
+Target: CD20,Target: CD20,Other,321.27,334.98
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,599.63,337.5
+Target: CD3: CD4,Target: CD3: CD4,Other,152.78,335.82
+Target: CD3: FoxP3,Target: CD3: FoxP3,Other,238.16,335.94
+Target: CD3: CD8,Target: CD3: CD8,Other,269.97,335.6
+PathCellObject,,Other,1.634,337.86
+Target: CD20,Target: CD20,Other,11.75,339.18
+PathCellObject,,Other,38.74,338.51
+PathCellObject,,Other,243.69,339.87
+Target: CD8,Target: CD8,Other,346.59,337.8
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,398.11,338.21
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,618.6,336.9
+Target: CD68,Target: CD68,Other,336.89,337.13
+PathCellObject,,Other,501,339.32
+PathCellObject,,Other,327.56,340.2
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,422.25,337.52
+PathCellObject,,Other,225.03,341.17
+Target: CD20,Target: CD20,Other,580.17,338.55
+PathCellObject,,Other,191.69,339.08
+Target: CD68,Target: CD68,Other,233.22,339.41
+PathCellObject,,Other,25.04,337.96
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,388.23,340.5
+Target: CD20,Target: CD20,Other,637.86,339.61
+PathCellObject,,Other,316.72,340.6
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,608.8,341.68
+Target: CD20,Target: CD20,Other,308.08,340.56
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,433.33,343.55
+PathCellObject,,Other,773.27,341.35
+Target: CD20,Target: CD20,Other,784.27,341.22
+PathCellObject,,Other,200.52,342.73
+Target: CD20,Target: CD20,Other,280.1,343.79
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,425.31,343.98
+PathCellObject,,Other,789.94,343.15
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,647.84,344.71
+Target: CD68: CD4,Target: CD68: CD4,Other,3.003,347.86
+Target: CD68,Target: CD68,Other,796.15,347.47
+PathCellObject,,Other,191.01,351.74
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,417.44,347.3
+Target: CD4,Target: CD4,Other,11,349.42
+Target: CD4,Target: CD4,Other,22.41,346.71
+PathCellObject,,Other,214.62,348.12
+PathCellObject,,Other,38.23,351.18
+PathCellObject,,Other,267.16,348.19
+PathCellObject,,Other,246.53,347.78
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,397.63,349.07
+Target: CD20,Target: CD20,Other,622.74,347.51
+PathCellObject,,Other,665.76,351.64
+PathCellObject,,Other,781.27,350.44
+PathCellObject,,Other,306.38,350.95
+PathCellObject,,Other,50.87,348.83
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,376,348.17
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,382.76,351.17
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,590.96,348.73
+PathCellObject,,Other,233.3,350.76
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,388.84,351.21
+Target: CD20,Target: CD20,Other,30.96,350.61
+PathCellObject,,Other,350.92,350.15
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,580.89,349.74
+Target: CD68,Target: CD68,Other,357.1,355.38
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,366.4,352.99
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,429.09,354.55
+PathCellObject,,Other,524.43,355.19
+Target: CD20: CD4,Target: CD20: CD4,Other,648.17,353.91
+PathCellObject,,Other,258.76,356.43
+PathCellObject,,Other,316.82,355.23
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,628.52,353.23
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,637.94,352.51
+Target: CD20,Target: CD20,Other,19.97,356.16
+PathCellObject,,Other,222.96,354.63
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,597.81,352.88
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,573.69,355.27
+Target: CD8,Target: CD8,Other,137.97,356.77
+PathCellObject,,Other,246.7,355.14
+PathCellObject,,Other,29.57,361.41
+Target: CD4,Target: CD4,Other,608.14,355.14
+PathCellObject,,Other,57.26,356.51
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,375.3,358.48
+PathCellObject,,Other,46.94,357.29
+Target: CD3: CD4,Target: CD3: CD4,Other,211.36,355.95
+PathCellObject,,Other,239.67,359.8
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,420.57,359.29
+PathCellObject,,Other,301.37,360.1
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,398.23,358.13
+Target: CD20,Target: CD20,Other,456.28,357.61
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,580.61,357.96
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,587.79,360.32
+Target: CD3: CD4,Target: CD3: CD4,Other,291.23,359.75
+Target: CD68,Target: CD68,Other,204.69,361.66
+Target: CD20,Target: CD20,Other,438.75,357.91
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,597.8,362.35
+Target: CD20: CD8,Target: CD20: CD8,Other,642.57,360.96
+PathCellObject,,Other,195.91,359.12
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,386.16,360.36
+PathCellObject,,Other,564.05,361.06
+Target: CD20,Target: CD20,Other,618.16,362.4
+PathCellObject,,Other,70.87,360.15
+PathCellObject,,Other,250.39,365.83
+Target: CD20: CD8,Target: CD20: CD8,Other,624.79,362.12
+PathCellObject,,Other,7.045,363.02
+PathCellObject,,Other,215.89,364.59
+PathCellObject,,Other,120.78,361.41
+PathCellObject,,Other,147.85,363.33
+PathCellObject,,Other,55.06,363.7
+Target: CD20,Target: CD20,Other,45.61,364.2
+Target: CD20: CD68,Target: CD20: CD68,Other,570.66,366.72
+PathCellObject,,Other,195.83,367.05
+Target: CD20,Target: CD20,Other,441.98,365.46
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,411,364.34
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,418.17,365.4
+Target: CD20,Target: CD20,Other,657.22,368.79
+Target: CD20,Target: CD20,Other,432.17,365.29
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,613.02,367.23
+Target: CD20: CD8,Target: CD20: CD8,Other,71.29,367.87
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,604.85,367.27
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,630.9,367.4
+PathCellObject,,Other,113.92,369.54
+Target: CD20: CD68,Target: CD20: CD68,Other,794.67,368.81
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,61.93,368.33
+PathCellObject,,Other,101.74,364.6
+Target: CD20,Target: CD20,Other,388.24,367.94
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,402.39,370.17
+PathCellObject,,Other,164.23,368.52
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,586.04,368.65
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,644,371.74
+PathCellObject,,Other,95.46,367.11
+PathCellObject,,Other,310.76,370.65
+PathCellObject,,Other,529.87,372.35
+PathCellObject,,Other,49.52,371.13
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,430.54,372.23
+PathCellObject,,Other,180.96,370.17
+Target: CD68: CD4,Target: CD68: CD4,Other,370.09,370.93
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,424.03,371.77
+Target: FoxP3,Target: FoxP3,Other,80.93,373.71
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,578.95,369.86
+PathCellObject,,Other,360.32,371.91
+Target: CD8,Target: CD8,Other,90.44,371.77
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,417.89,372.75
+Target: CD68,Target: CD68,Other,97.65,374.96
+PathCellObject,,Other,25.43,373.73
+Target: CD8,Target: CD8,Other,69.11,379.02
+PathCellObject,,Other,153.22,373.73
+Target: CD20,Target: CD20,Other,442.12,375.49
+PathCellObject,,Other,571.74,377.86
+PathCellObject,,Other,144.88,376.02
+Target: CD8,Target: CD8,Other,193.14,376.69
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,411.94,378.15
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,391.17,380.82
+Target: CD20,Target: CD20,Other,581.07,376.54
+Target: CD20,Target: CD20,Other,41.64,374.91
+Target: CD3: CD8,Target: CD3: CD8,Other,56.94,377.49
+PathCellObject,,Other,105.05,379.48
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,608.72,376.59
+PathCellObject,,Other,9.934,376.26
+Target: CD20: CD4,Target: CD20: CD4,Other,35.5,379.74
+PathCellObject,,Other,169.48,376.53
+Target: CD20,Target: CD20,Other,209.05,376.61
+PathCellObject,,Other,184.38,380.01
+PathCellObject,,Other,304.39,379.13
+PathCellObject,,Other,353.3,383.01
+PathCellObject,,Other,785.05,378.08
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,432.29,381.95
+PathCellObject,,Other,563.45,382.83
+PathCellObject,,Other,158.2,382.7
+PathCellObject,,Other,87.97,384.66
+PathCellObject,,Other,479.76,379.9
+Target: CD20,Target: CD20,Other,650.75,382.82
+PathCellObject,,Other,4.363,384.75
+Target: CD20,Target: CD20,Other,23.31,384.1
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,451.83,384.06
+PathCellObject,,Other,48.93,384.2
+PathCellObject,,Other,137.4,382.05
+PathCellObject,,Other,171.88,383.94
+PathCellObject,,Other,218.61,382.61
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,423.04,382.24
+Target: CD20: CD8,Target: CD20: CD8,Other,599,383.4
+Target: CD20: CD3,Target: CD20: CD3,Other,402.68,386.2
+Target: CD20: CD8,Target: CD20: CD8,Other,416.45,385.14
+PathCellObject,,Other,62.46,388.12
+Target: CD20,Target: CD20,Other,210.37,389.96
+PathCellObject,,Other,232.93,386.19
+PathCellObject,,Other,311.64,386.83
+PathCellObject,,Other,785.82,387.89
+PathCellObject,,Other,588.3,387.22
+PathCellObject,,Other,132.74,386.38
+PathCellObject,,Other,152.49,387.75
+PathCellObject,,Other,480.79,388.88
+Target: CD20: CD3,Target: CD20: CD3,Other,634.2,388.66
+Target: CD20,Target: CD20,Other,660.53,389.26
+PathCellObject,,Other,222.5,389.84
+PathCellObject,,Other,608.85,390.53
+Target: CD20,Target: CD20,Other,621.86,389.11
+PathCellObject,,Other,124.77,389.4
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,164.71,391.99
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,425.57,388.52
+Target: CD20,Target: CD20,Other,649.77,390.61
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,417.64,391.5
+Target: CD20: CD8,Target: CD20: CD8,Other,433.55,391.62
+PathCellObject,,Other,794.36,389.67
+PathCellObject,,Other,559.54,391.14
+Target: CD68,Target: CD68,Other,332.84,390.24
+Target: CD20,Target: CD20,Other,409.87,390.89
+PathCellObject,,Other,491.87,391.25
+PathCellObject,,Other,16.84,392.15
+PathCellObject,,Other,139.5,393.92
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,442.46,391.07
+PathCellObject,,Other,362.78,394.1
+Target: CD8,Target: CD8,Other,45.12,397.39
+PathCellObject,,Other,115.24,391.53
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,450.62,395.34
+PathCellObject,,Other,550.37,395.26
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,424.4,394.96
+Target: CD68: CD4,Target: CD68: CD4,Other,350.79,394.7
+PathCellObject,,Other,26.89,395.71
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,624.98,398.83
+Target: CD8,Target: CD8,Other,154.61,400.08
+PathCellObject,,Other,229.31,395.46
+PathCellObject,,Other,326.33,397.29
+Target: CD20,Target: CD20,Other,654.38,396.69
+PathCellObject,,Other,111.72,399.13
+Target: CD20,Target: CD20,Other,411.91,397.46
+PathCellObject,,Other,794.82,398.94
+PathCellObject,,Other,102.15,399.08
+PathCellObject,,Other,127.78,398.86
+Target: CD20,Target: CD20,Other,219.24,400.86
+Target: CD20,Target: CD20,Other,405.02,399.48
+Target: CD20,Target: CD20,Other,436.44,399.01
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,416.62,405.4
+PathCellObject,,Other,10.76,399.85
+Target: CD20,Target: CD20,Other,642.6,400.08
+PathCellObject,,Other,73.93,399.19
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,339.04,404.62
+PathCellObject,,Other,33.26,402.69
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,442.83,400.61
+PathCellObject,,Other,562.77,403.52
+PathCellObject,,Other,231.84,404.14
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,423.92,402.03
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,430.37,400.82
+PathCellObject,,Other,668.55,401.61
+PathCellObject,,Other,171.09,399.04
+Target: CD20,Target: CD20,Other,459.18,403.39
+Target: CD20,Target: CD20,Other,656.31,404.2
+PathCellObject,,Other,285.04,403.72
+Target: CD3: CD4,Target: CD3: CD4,Other,353.33,404.49
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,635.07,403.52
+PathCellObject,,Other,179.32,405.01
+PathCellObject,,Other,5.121,404.93
+Target: CD8,Target: CD8,Other,94.59,405.5
+PathCellObject,,Other,142.95,405.25
+PathCellObject,,Other,167.09,406.29
+PathCellObject,,Other,596.71,405.57
+PathCellObject,,Other,786.1,406.38
+Target: CD20,Target: CD20,Other,607.22,404.63
+Target: CD20,Target: CD20,Other,628.87,406.78
+PathCellObject,,Other,120.19,406.38
+Target: CD20: CD4,Target: CD20: CD4,Other,437.36,407.25
+PathCellObject,,Other,63.78,407.5
+PathCellObject,,Other,83.45,405.42
+PathCellObject,,Other,316.96,408.23
+Target: CD20: CD4: CD8,Target: CD20: CD4: CD8,Other,447.69,406.86
+PathCellObject,,Other,133.23,406.67
+PathCellObject,,Other,405.29,408.77
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,426.97,406.9
+PathCellObject,,Other,299.17,407.33
+PathCellObject,,Other,53.25,410.85
+Target: CD68,Target: CD68,Other,327.83,410.81
+Target: CD20,Target: CD20,Other,645.14,411.65
+Target: CD20: CD68,Target: CD20: CD68,Other,2.579,411.95
+PathCellObject,,Other,273.57,409.88
+PathCellObject,,Other,250.04,409.69
+PathCellObject,,Other,78.85,413.28
+Target: CD20,Target: CD20,Other,242.1,411.9
+Target: CD20,Target: CD20,Other,430.6,410.54
+PathCellObject,,Other,163.75,414.35
+Target: CD68,Target: CD68,Other,129.49,413.97
+Target: CD20,Target: CD20,Other,350.68,415.77
+Target: CD20,Target: CD20,Other,465.99,413.08
+PathCellObject,,Other,548.61,414.55
+Target: CD68,Target: CD68,Other,121.7,415.65
+PathCellObject,,Other,148.73,416.71
+Target: CD20: CD8,Target: CD20: CD8,Other,607.96,416.41
+PathCellObject,,Other,231.61,418.25
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,448.83,414.25
+Target: CD20,Target: CD20,Other,457.86,413.72
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,651.13,413.37
+Target: CD3: CD8,Target: CD3: CD8,Other,91.93,413.45
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,438.47,413.91
+Target: CD20,Target: CD20,Other,624.27,414.09
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,426.87,414.69
+PathCellObject,,Other,537.41,412.98
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,663.09,414.76
+Target: CD20,Target: CD20,Other,13.66,415.69
+PathCellObject,,Other,264.52,415.7
+PathCellObject,,Other,399.34,417.22
+Target: CD20: CD3,Target: CD20: CD3,Other,419.49,416.44
+PathCellObject,,Other,591.78,419.22
+Target: CD20: CD8,Target: CD20: CD8,Other,633.64,416.03
+Target: CD20,Target: CD20,Other,640.05,416.89
+Target: CD68,Target: CD68,Other,137.23,417.03
+PathCellObject,,Other,289.9,418.91
+PathCellObject,,Other,71.27,419.82
+PathCellObject,,Other,87.03,421.59
+PathCellObject,,Other,241.43,420.92
+Target: CD20,Target: CD20,Other,38.24,419.52
+PathCellObject,,Other,97.06,420.27
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,433.38,421.6
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,441.2,419.34
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,3.678,421.34
+Target: CD20,Target: CD20,Other,413.19,418.01
+Target: CD20: CD68,Target: CD20: CD68,Other,28.81,418.66
+Target: CD20: CD3,Target: CD20: CD3,Other,407.81,421.04
+Target: CD20: CD8,Target: CD20: CD8,Other,451.17,421.53
+Target: CD20,Target: CD20,Other,460.78,422.96
+PathCellObject,,Other,535.85,425.1
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,654.84,423.15
+Target: CD8,Target: CD8,Other,57.26,422.05
+Target: CD20,Target: CD20,Other,794.69,420.43
+PathCellObject,,Other,326.97,422.51
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,627.8,422.31
+PathCellObject,,Other,127.24,423.35
+PathCellObject,,Other,268.17,423.86
+Target: CD3: CD4,Target: CD3: CD4,Other,470.75,420.42
+PathCellObject,,Other,673.4,422.68
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,426.09,422.34
+PathCellObject,,Other,780.66,423.89
+Target: CD20,Target: CD20,Other,21.32,424.25
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,417.35,425.46
+Target: CD8,Target: CD8,Other,66.5,425.76
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,664.55,429.64
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,8.292,427.67
+Target: CD20,Target: CD20,Other,46.95,426.43
+Target: CD20: CD68,Target: CD20: CD68,Other,29.19,426.8
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,441.45,426.07
+PathCellObject,,Other,107.66,426.6
+PathCellObject,,Other,174.47,426.28
+Target: CD20,Target: CD20,Other,469.7,430.42
+Target: CD20,Target: CD20,Other,636.1,426.73
+PathCellObject,,Other,82.08,430.59
+PathCellObject,,Other,253.01,428.11
+PathCellObject,,Other,387.12,429.29
+Target: CD20: CD4,Target: CD20: CD4,Other,400.9,430.51
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,425.69,428.05
+PathCellObject,,Other,677.74,433.32
+Target: CD20: CD8,Target: CD20: CD8,Other,433.79,430.52
+PathCellObject,,Other,553.3,429.01
+Target: CD20,Target: CD20,Other,643.49,430.9
+PathCellObject,,Other,687.6,430.46
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,16.03,430.92
+PathCellObject,,Other,72.29,429.63
+Target: CD20,Target: CD20,Other,479.28,428.11
+PathCellObject,,Other,350.54,432.29
+Target: CD20: CD3,Target: CD20: CD3,Other,409.98,431.88
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,444.68,429.93
+PathCellObject,,Other,92.45,433.41
+Target: CD20,Target: CD20,Other,453.33,429.94
+PathCellObject,,Other,627.77,431.93
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,31.98,433.15
+Target: CD20,Target: CD20,Other,40.52,432.46
+PathCellObject,,Other,141.03,432.35
+PathCellObject,,Other,243.49,432.66
+Target: CD20,Target: CD20,Other,655.87,438.4
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,426.43,434.21
+Target: CD20,Target: CD20,Other,462.58,433.77
+PathCellObject,,Other,545.84,435.24
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,24.78,436.57
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,418.23,433.22
+Target: CD8,Target: CD8,Other,794.81,434.32
+PathCellObject,,Other,171.85,436.84
+PathCellObject,,Other,236.64,435.74
+PathCellObject,,Other,361.94,436.28
+PathCellObject,,Other,74.24,438.61
+PathCellObject,,Other,149.11,435.01
+Target: CD20: CD8,Target: CD20: CD8,Other,447.04,436.61
+Target: CD20: CD8,Target: CD20: CD8,Other,456.88,437
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,480.47,436.52
+PathCellObject,,Other,52.95,438.7
+PathCellObject,,Other,126.95,436.59
+PathCellObject,,Other,776.97,439.5
+Target: CD68: CD4,Target: CD68: CD4,Other,13.16,440.63
+PathCellObject,,Other,179.66,440.05
+Target: CD20: CD4,Target: CD20: CD4,Other,431.65,438.82
+Target: CD20,Target: CD20,Other,38.63,440.04
+Target: CD4: CD8,Target: CD4: CD8,Other,372.34,438.29
+Target: CD20,Target: CD20,Other,439.58,437.77
+Target: CD20,Target: CD20,Other,407.38,439.89
+PathCellObject,,Other,156.24,440.23
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,421.8,440.35
+PathCellObject,,Other,559.97,438.22
+PathCellObject,,Other,226.95,441.37
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,385.56,439.96
+Target: CD20,Target: CD20,Other,468.21,440.09
+Target: CD8,Target: CD8,Other,486.55,442.8
+Target: CD20,Target: CD20,Other,549.62,443.61
+PathCellObject,,Other,624.88,443.63
+PathCellObject,,Other,698.47,446.44
+PathCellObject,,Other,235.68,449.48
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,415.8,444.74
+PathCellObject,,Other,146.79,448.39
+Target: CD20: CD8,Target: CD20: CD8,Other,453.98,445.49
+Target: CD20,Target: CD20,Other,441.89,447.21
+Target: CD20,Target: CD20,Other,565.59,444.63
+PathCellObject,,Other,609.61,443.53
+PathCellObject,,Other,650.04,449.07
+PathCellObject,,Other,166.71,446
+PathCellObject,,Other,268.7,443.21
+Target: CD20: CD8,Target: CD20: CD8,Other,475,446.87
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,377.78,445.99
+Target: CD20,Target: CD20,Other,400.17,445.3
+Target: CD68: CD4,Target: CD68: CD4,Other,791.88,445.41
+Target: CD4: CD8,Target: CD4: CD8,Other,3.757,445.47
+Target: CD20,Target: CD20,Other,36.52,448.79
+PathCellObject,,Other,250.66,447.11
+Target: CD68: CD4,Target: CD68: CD4,Other,366.75,446.55
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,429.67,446.79
+Target: CD20: CD68,Target: CD20: CD68,Other,464.47,449.46
+Target: CD20,Target: CD20,Other,681.97,446.17
+PathCellObject,,Other,124.07,447.22
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,666,449.12
+Target: CD20: CD8,Target: CD20: CD8,Other,407.87,448.22
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,393.72,448.07
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,77.48,448.28
+PathCellObject,,Other,133.26,447.11
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,384.93,450.44
+Target: CD20,Target: CD20,Other,673.9,448.01
+Target: CD20,Target: CD20,Other,19.54,450.63
+PathCellObject,,Other,636.7,451.46
+PathCellObject,,Other,222.77,455.13
+Target: CD20: CD68,Target: CD20: CD68,Other,10.76,452.47
+PathCellObject,,Other,140.53,451.96
+PathCellObject,,Other,267.5,450.73
+PathCellObject,,Other,350.01,452.3
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,358.14,452.77
+PathCellObject,,Other,97.09,450.57
+PathCellObject,,Other,155.86,452.66
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,418.95,453.45
+PathCellObject,,Other,787.93,453.68
+Target: CD68,Target: CD68,Other,795.8,456.15
+Target: CD68,Target: CD68,Other,71.06,453.04
+PathCellObject,,Other,86.99,456.24
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,410.06,455.22
+Target: CD20,Target: CD20,Other,428.71,456.5
+Target: CD20: CD68,Target: CD20: CD68,Other,27.09,454.61
+Target: CD20,Target: CD20,Other,689.42,453.99
+PathCellObject,,Other,169.13,454.81
+PathCellObject,,Other,271.69,457.68
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,370.09,454.61
+PathCellObject,,Other,258.38,456.64
+Target: CD20,Target: CD20,Other,681.16,457.35
+PathCellObject,,Other,284.87,454.46
+Target: CD20: CD4,Target: CD20: CD4,Other,400.85,458.23
+PathCellObject,,Other,126.35,455.6
+Target: CD20,Target: CD20,Other,458.66,457.19
+PathCellObject,,Other,696.82,456.24
+Target: CD20: CD68,Target: CD20: CD68,Other,6.72,458.95
+PathCellObject,,Other,62.21,455.24
+PathCellObject,,Other,247.77,459.04
+PathCellObject,,Other,607.06,456.45
+PathCellObject,,Other,713.62,455.49
+PathCellObject,,Other,96.87,459.05
+PathCellObject,,Other,161.01,459.47
+Target: CD20: CD3,Target: CD20: CD3,Other,670.98,458.17
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,389.42,461.62
+PathCellObject,,Other,118.85,460.81
+PathCellObject,,Other,135.48,459.97
+PathCellObject,,Other,321.76,460.82
+PathCellObject,,Other,540.06,457.41
+PathCellObject,,Other,721.62,459.76
+Target: CD68: CD8,Target: CD68: CD8,Other,363.66,462.51
+PathCellObject,,Other,596.6,460.18
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,78.04,462.94
+Target: CD68,Target: CD68,Other,704.57,463.88
+Target: CD20,Target: CD20,Other,19.75,462.11
+PathCellObject,,Other,103.99,464.04
+PathCellObject,,Other,548.72,465.66
+PathCellObject,,Other,754.13,461.26
+PathCellObject,,Other,59.72,463.27
+PathCellObject,,Other,412.88,467.26
+PathCellObject,,Other,585.2,461.54
+PathCellObject,,Other,779.6,462.68
+PathCellObject,,Other,379.58,462.24
+Target: CD20,Target: CD20,Other,676.29,462.1
+Target: CD20,Target: CD20,Other,32.04,464.64
+Target: CD20: CD4,Target: CD20: CD4,Other,50.46,464.74
+PathCellObject,,Other,345.06,463.86
+PathCellObject,,Other,167.68,471.16
+Target: CD20,Target: CD20,Other,694.32,466.72
+Target: CD20: CD8,Target: CD20: CD8,Other,4.587,466.1
+PathCellObject,,Other,261.12,467.65
+Target: CD20,Target: CD20,Other,794.57,466.9
+Target: CD3: CD4,Target: CD3: CD4,Other,66.04,468.18
+PathCellObject,,Other,144.13,466.22
+Target: CD20,Target: CD20,Other,372.44,466.11
+PathCellObject,,Other,574.24,465.15
+PathCellObject,,Other,313.27,470.11
+Target: CD8,Target: CD8,Other,291.19,466.69
+PathCellObject,,Other,536.13,468.07
+PathCellObject,,Other,659.08,469.76
+Target: CD20,Target: CD20,Other,675.8,468.97
+PathCellObject,,Other,132.75,470.6
+Target: CD20,Target: CD20,Other,399.98,469.18
+PathCellObject,,Other,561.26,467.05
+PathCellObject,,Other,764.51,466.81
+PathCellObject,,Other,221.39,471.19
+PathCellObject,,Other,595.43,475.93
+PathCellObject,,Other,609.4,468.58
+PathCellObject,,Other,747.87,468.57
+Target: CD20,Target: CD20,Other,19.88,469.72
+PathCellObject,,Other,93.64,471.3
+PathCellObject,,Other,122.57,471.69
+PathCellObject,,Other,206.78,470.16
+PathCellObject,,Other,381.29,472.89
+PathCellObject,,Other,466.75,472.51
+PathCellObject,,Other,712.13,471.92
+PathCellObject,,Other,151.14,472.9
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,2.715,472.63
+PathCellObject,,Other,736.19,470.51
+PathCellObject,,Other,775.77,472.69
+Target: CD20: CD68,Target: CD20: CD68,Other,28.24,473.49
+PathCellObject,,Other,299.34,475.8
+Target: CD20: CD3,Target: CD20: CD3,Other,11.93,473.15
+PathCellObject,,Other,306.07,472.96
+PathCellObject,,Other,388.8,474.4
+Target: CD20,Target: CD20,Other,690.95,473.47
+Target: CD20: CD8,Target: CD20: CD8,Other,724.75,473.88
+Target: CD3: CD8,Target: CD3: CD8,Other,768.23,475.21
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,40.57,476.33
+PathCellObject,,Other,365.64,475.29
+PathCellObject,,Other,564.86,474.94
+Target: CD20,Target: CD20,Other,681.31,474.96
+PathCellObject,,Other,194.57,474.46
+Target: CD20: CD4,Target: CD20: CD4,Other,393.88,475.9
+PathCellObject,,Other,794.56,476.3
+Target: CD20,Target: CD20,Other,747.95,476.29
+Target: CD8,Target: CD8,Other,337.68,476.56
+Target: CD20,Target: CD20,Other,20.15,477.68
+PathCellObject,,Other,138.07,477.83
+Target: CD20,Target: CD20,Other,540.14,476.63
+Target: CD20: CD4,Target: CD20: CD4,Other,757.98,477.9
+PathCellObject,,Other,241.38,480.29
+PathCellObject,,Other,572.79,479.52
+PathCellObject,,Other,399.57,480.79
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,54.19,477.58
+Target: CD20,Target: CD20,Other,64.26,478.76
+Target: CD20,Target: CD20,Other,738.87,479.32
+Target: CD20,Target: CD20,Other,80.39,479.42
+PathCellObject,,Other,345.78,482.91
+Target: CD20: CD3,Target: CD20: CD3,Other,6.085,482.13
+PathCellObject,,Other,189.25,482.59
+Target: CD20,Target: CD20,Other,691.25,481.99
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,27.41,482.06
+PathCellObject,,Other,430.43,482.52
+PathCellObject,,Other,457.73,481.56
+PathCellObject,,Other,97.21,483.49
+Target: CD8,Target: CD8,Other,126.79,483.48
+PathCellObject,,Other,269.05,483.34
+Target: CD20,Target: CD20,Other,746.38,482.06
+Target: CD4,Target: CD4,Other,288.69,480.47
+PathCellObject,,Other,681.81,483.75
+Target: CD8,Target: CD8,Other,144.3,485.51
+PathCellObject,,Other,441.61,482.6
+Target: CD20,Target: CD20,Other,701.38,483.05
+Target: CD20,Target: CD20,Other,794.5,485.16
+PathCellObject,,Other,356.27,486.92
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,539.83,483.32
+Target: CD20,Target: CD20,Other,16.5,486.03
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,52.1,485.71
+Target: CD68,Target: CD68,Other,282.36,482.69
+PathCellObject,,Other,526.12,482.02
+PathCellObject,,Other,135.82,486.76
+PathCellObject,,Other,154.93,487.19
+PathCellObject,,Other,206.58,484.22
+PathCellObject,,Other,473.11,487.07
+Target: CD20,Target: CD20,Other,737.5,486.37
+Target: CD8,Target: CD8,Other,766.19,486.24
+Target: CD20: CD3,Target: CD20: CD3,Other,533.35,488.8
+PathCellObject,,Other,724.78,486.55
+Target: CD20,Target: CD20,Other,34.84,486.91
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,63.74,487.31
+PathCellObject,,Other,450.78,487.57
+Target: CD20,Target: CD20,Other,2.029,489.23
+Target: CD68,Target: CD68,Other,279.29,489.33
+PathCellObject,,Other,520.26,489.18
+Target: CD20,Target: CD20,Other,606.1,488.19
+Target: CD4,Target: CD4,Other,293.94,488.83
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,751.85,487.5
+PathCellObject,,Other,774.18,489.51
+PathCellObject,,Other,166.62,490.11
+PathCellObject,,Other,398.28,491.17
+Target: CD20,Target: CD20,Other,691.58,489.48
+Target: CD20,Target: CD20,Other,744.78,491.41
+Target: CD20,Target: CD20,Other,25.53,491.95
+Target: CD68,Target: CD68,Other,553.3,489.73
+PathCellObject,,Other,566.18,494.55
+Target: CD3,Target: CD3,Other,458.79,492.83
+Target: CD20,Target: CD20,Other,542.67,491.46
+Target: CD20: CD68,Target: CD20: CD68,Other,71.14,491.45
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,81.22,493.53
+PathCellObject,,Other,236.77,493.67
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,48.78,493.01
+Target: CD20,Target: CD20,Other,90.69,492.58
+Target: CD20,Target: CD20,Other,794.52,493.02
+Target: CD20,Target: CD20,Other,700.3,492.77
+Target: CD20,Target: CD20,Other,8.244,492.13
+PathCellObject,,Other,192.47,494.91
+PathCellObject,,Other,219.81,493.86
+PathCellObject,,Other,365.19,495.73
+PathCellObject,,Other,445.84,494.78
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,758.43,491.19
+PathCellObject,,Other,119.99,495.41
+PathCellObject,,Other,285.94,493.57
+PathCellObject,,Other,207.52,495.56
+Target: CD20: CD68,Target: CD20: CD68,Other,36.03,495.1
+Target: CD20,Target: CD20,Other,42.13,493.18
+PathCellObject,,Other,99.05,497.78
+PathCellObject,,Other,268.03,495.38
+PathCellObject,,Other,512.6,494.19
+PathCellObject,,Other,526.28,495.06
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,60.49,496.36
+Target: CD20,Target: CD20,Other,603.97,495.15
+Target: CD68,Target: CD68,Other,686.38,495.85
+PathCellObject,,Other,143.57,496.19
+Target: CD20,Target: CD20,Other,390.96,496.77
+PathCellObject,,Other,781.03,496.98
+Target: CD68,Target: CD68,Other,278.53,496.79
+PathCellObject,,Other,421.08,496.34
+PathCellObject,,Other,15.49,498.06
+PathCellObject,,Other,471.83,497.75
+PathCellObject,,Other,253.4,499.18
+Target: CD20,Target: CD20,Other,693.67,496.01
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,756.11,498.29
+Target: CD20,Target: CD20,Other,28.7,498.66
+PathCellObject,,Other,177.9,498.62
+PathCellObject,,Other,293.03,499.2
+PathCellObject,,Other,707.87,499.82
+Target: CD20,Target: CD20,Other,3.5,498.95
+PathCellObject,,Other,135.03,499.97
+PathCellObject,,Other,677.99,499.13
+PathCellObject,,Other,794.28,499.6
+PathCellObject,,Other,283.02,501.16
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,47.68,502.49
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,71.63,502.04
+PathCellObject,,Other,379.61,500.49
+Target: CD20,Target: CD20,Other,600.4,501.51
+Target: CD68,Target: CD68,Other,695.58,503.3
+Target: CD20: CD8,Target: CD20: CD8,Other,39.59,501.51
+PathCellObject,,Other,550.3,502.98
+Target: CD20,Target: CD20,Other,356.52,502.33
+Target: CD3,Target: CD3,Other,761.39,503.67
+PathCellObject,,Other,770.23,501.23
+PathCellObject,,Other,106.35,506.84
+PathCellObject,,Other,201.21,503.52
+PathCellObject,,Other,272.89,505.24
+PathCellObject,,Other,672.12,503.06
+Target: CD20,Target: CD20,Other,10.13,504.63
+PathCellObject,,Other,344.19,502.39
+PathCellObject,,Other,396.46,507.71
+PathCellObject,,Other,505.47,505.79
+Target: CD68,Target: CD68,Other,479.12,504.92
+PathCellObject,,Other,492.11,505.39
+Target: CD3,Target: CD3,Other,685.39,505.34
+Target: CD20,Target: CD20,Other,795.34,506.79
+Target: CD20: CD68,Target: CD20: CD68,Other,26.25,506.54
+PathCellObject,,Other,191.51,507.73
+Target: CD20,Target: CD20,Other,35.9,506.6
+Target: CD20: CD8,Target: CD20: CD8,Other,54.58,507.27
+Target: CD20,Target: CD20,Other,287.12,506.91
+Target: CD20,Target: CD20,Other,3.924,507.6
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,83.23,508.48
+PathCellObject,,Other,662.09,508.54
+Target: CD20,Target: CD20,Other,73.17,509.25
+PathCellObject,,Other,131.19,509.7
+PathCellObject,,Other,770.21,509.69
+Target: CD20: CD68,Target: CD20: CD68,Other,362.81,509.5
+Target: CD20,Target: CD20,Other,584.42,507.37
+PathCellObject,,Other,209.76,509.8
+Target: CD68,Target: CD68,Other,381.28,511.47
+PathCellObject,,Other,229.9,510.46
+PathCellObject,,Other,253.95,512.04
+PathCellObject,,Other,343.42,513.77
+PathCellObject,,Other,202.82,514.08
+Target: CD3: CD8,Target: CD3: CD8,Other,568.82,510.04
+Target: CD20,Target: CD20,Other,687.12,511.98
+Target: CD20,Target: CD20,Other,91.95,513.92
+Target: CD20,Target: CD20,Other,288.25,513.47
+Target: CD68,Target: CD68,Other,697.12,513.18
+Target: CD20,Target: CD20,Other,12.96,513.13
+Target: CD20,Target: CD20,Other,47.28,517.61
+Target: CD20: CD3: CD4: FoxP3,Target: CD20: CD3: CD4: FoxP3,Other,479.8,513.98
+Target: CD20,Target: CD20,Other,790.63,514.05
+Target: CD68,Target: CD68,Other,37.04,514.29
+Target: CD20,Target: CD20,Other,145,513
+PathCellObject,,Other,168.54,514.8
+PathCellObject,,Other,263.73,512.27
+Target: CD68,Target: CD68,Other,374.97,521.89
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,578.23,515.25
+Target: CD68,Target: CD68,Other,675.75,514.74
+Target: CD20,Target: CD20,Other,6.075,515.3
+Target: CD20,Target: CD20,Other,27.26,513.79
+PathCellObject,,Other,122.96,514.55
+PathCellObject,,Other,411.36,517.13
+Target: CD20,Target: CD20,Other,2.726,519.76
+PathCellObject,,Other,20.37,516.03
+Target: CD20,Target: CD20,Other,61.24,516.5
+PathCellObject,,Other,486.53,524.11
+Target: CD20,Target: CD20,Other,594.7,514.7
+Target: CD20: CD68,Target: CD20: CD68,Other,355.44,518.19
+PathCellObject,,Other,271.34,517.4
+PathCellObject,,Other,472.6,522.14
+PathCellObject,,Other,101.53,525.52
+Target: CD68,Target: CD68,Other,245.31,517.97
+PathCellObject,,Other,773.02,519.66
+PathCellObject,,Other,73.22,520.69
+PathCellObject,,Other,392.15,522.01
+PathCellObject,,Other,656.72,519.37
+Target: CD20,Target: CD20,Other,363.64,522.29
+PathCellObject,,Other,283.08,521.72
+Target: CD20,Target: CD20,Other,28.24,521.45
+Target: CD68,Target: CD68,Other,255.08,525.73
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,589.52,522.7
+Target: CD20,Target: CD20,Other,683.21,520.85
+Target: CD20,Target: CD20,Other,690.82,519.86
+Target: CD68: CD3,Target: CD68: CD3,Other,16.92,524.63
+Target: CD20,Target: CD20,Other,36.32,522.65
+PathCellObject,,Other,117.08,522.9
+Target: CD8,Target: CD8,Other,697.77,525.17
+Target: CD68,Target: CD68,Other,55.59,525.89
+Target: CD20,Target: CD20,Other,668.95,523.25
+Target: CD20,Target: CD20,Other,42.26,525.56
+PathCellObject,,Other,155.29,524.43
+PathCellObject,,Other,124.65,528.79
+PathCellObject,,Other,271.88,525.79
+PathCellObject,,Other,554.17,528.81
+Target: CD20: CD68,Target: CD20: CD68,Other,796.56,524.56
+PathCellObject,,Other,211.18,526.61
+PathCellObject,,Other,497.49,524.87
+PathCellObject,,Other,230.11,527.76
+Target: CD20,Target: CD20,Other,688.08,526.8
+Target: CD20,Target: CD20,Other,660.04,528.69
+Target: CD20,Target: CD20,Other,789.99,527.06
+PathCellObject,,Other,349.64,527.69
+Target: CD20,Target: CD20,Other,676.98,530.36
+PathCellObject,,Other,403.93,530.9
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,29.58,528.88
+Target: CD3,Target: CD3,Other,777.27,528.66
+PathCellObject,,Other,424.98,531.97
+PathCellObject,,Other,183.81,530.6
+PathCellObject,,Other,413.85,531.31
+Target: CD20,Target: CD20,Other,48.39,533.67
+Target: CD68,Target: CD68,Other,63.86,531.14
+PathCellObject,,Other,582.15,530.3
+PathCellObject,,Other,385.3,533.94
+PathCellObject,,Other,269.62,534.93
+PathCellObject,,Other,500.66,535.23
+PathCellObject,,Other,199.27,535.5
+PathCellObject,,Other,573.58,533.03
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,35.65,534.76
+PathCellObject,,Other,154.5,537.3
+Target: CD8,Target: CD8,Other,782.24,534.85
+Target: CD20,Target: CD20,Other,692.25,537.72
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,19.54,535.99
+PathCellObject,,Other,112.77,534.62
+PathCellObject,,Other,371.37,538.12
+PathCellObject,,Other,478.83,537.15
+Target: CD20,Target: CD20,Other,141.52,533.57
+PathCellObject,,Other,641.75,533.5
+Target: CD20,Target: CD20,Other,667.99,536.28
+Target: CD20: CD68,Target: CD20: CD68,Other,657.73,535.48
+Target: CD20: CD8,Target: CD20: CD8,Other,793.9,538.11
+Target: CD3: CD4: FoxP3,Target: CD3: CD4: FoxP3,Other,417.35,540.31
+Target: CD20,Target: CD20,Other,589.28,538.12
+PathCellObject,,Other,348.93,537.98
+PathCellObject,,Other,391.34,538.46
+Target: CD68,Target: CD68,Other,646.55,538.22
+PathCellObject,,Other,222.85,539.01
+Target: CD20: CD68,Target: CD20: CD68,Other,676.73,539.93
+Target: CD20,Target: CD20,Other,142.56,541.85
+PathCellObject,,Other,633.73,539.48
+Target: CD20: CD3,Target: CD20: CD3,Other,657.64,541.58
+Target: CD68,Target: CD68,Other,651.8,540.35
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,27.41,542.27
+PathCellObject,,Other,232.92,539.86
+PathCellObject,,Other,357.24,540.68
+Target: CD20,Target: CD20,Other,663.49,541.56
+Target: CD20,Target: CD20,Other,711.57,540.62
+PathCellObject,,Other,724.29,539.89
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,788.02,543.17
+Target: CD20,Target: CD20,Other,41.68,541.6
+PathCellObject,,Other,259.6,544.52
+PathCellObject,,Other,461.67,543.56
+Target: CD3,Target: CD3,Other,780.73,543.08
+PathCellObject,,Other,66.13,543.56
+PathCellObject,,Other,77.44,543.08
+PathCellObject,,Other,109.99,545.77
+PathCellObject,,Other,240.46,542.47
+PathCellObject,,Other,118.5,545.47
+PathCellObject,,Other,182,545.85
+PathCellObject,,Other,338.85,546.48
+PathCellObject,,Other,99.64,547.83
+Target: CD20,Target: CD20,Other,226.95,547.62
+PathCellObject,,Other,620.68,544.28
+Target: CD68: CD3,Target: CD68: CD3,Other,6.044,544.44
+Target: CD20: CD68,Target: CD20: CD68,Other,35.03,546.06
+Target: CD20: CD4,Target: CD20: CD4,Other,588.86,546.47
+PathCellObject,,Other,436.26,545.97
+PathCellObject,,Other,392.67,548.38
+PathCellObject,,Other,474.9,550.36
+PathCellObject,,Other,500.32,547.87
+Target: CD20: CD68,Target: CD20: CD68,Other,674.04,547.77
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,727.84,549.37
+PathCellObject,,Other,272.36,548.01
+Target: CD68: FoxP3,Target: CD68: FoxP3,Other,410.73,546.91
+Target: CD4: CD8,Target: CD4: CD8,Other,425.74,547.16
+Target: CD20,Target: CD20,Other,641.62,546.14
+Target: CD68,Target: CD68,Other,663.36,548.17
+Target: CD68,Target: CD68,Other,796.31,547.75
+PathCellObject,,Other,359.84,549.07
+Target: CD20,Target: CD20,Other,580.1,548.4
+PathCellObject,,Other,237.49,550.06
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,571.81,546.48
+Target: CD20,Target: CD20,Other,648.7,547.66
+Target: CD68,Target: CD68,Other,655.07,547.51
+Target: CD20: CD68,Target: CD20: CD68,Other,707.55,548.24
+PathCellObject,,Other,736.02,546.28
+Target: CD8,Target: CD8,Other,778.03,548.53
+Target: CD20: CD4,Target: CD20: CD4,Other,60.41,548.19
+PathCellObject,,Other,249.05,548.78
+PathCellObject,,Other,348.32,552.32
+Target: CD68,Target: CD68,Other,632.87,549.35
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,698.75,547.71
+Target: CD3: CD8,Target: CD3: CD8,Other,719.19,547.81
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,45.09,549.69
+Target: CD20,Target: CD20,Other,601.7,549.47
+Target: CD20,Target: CD20,Other,26.52,549.72
+PathCellObject,,Other,126.38,550.06
+Target: CD20: CD68,Target: CD20: CD68,Other,788.42,551.87
+Target: CD20,Target: CD20,Other,14.1,550.14
+Target: CD20,Target: CD20,Other,625.51,554.04
+Target: CD20,Target: CD20,Other,52.83,554.98
+PathCellObject,,Other,510.9,551.81
+PathCellObject,,Other,546.96,552.44
+PathCellObject,,Other,325.6,552.12
+PathCellObject,,Other,378.18,551.34
+Target: CD20: CD3,Target: CD20: CD3,Other,649.43,553.53
+PathCellObject,,Other,766.64,551.46
+Target: CD20,Target: CD20,Other,716.49,555.04
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,39.45,553.54
+PathCellObject,,Other,154.12,554.66
+PathCellObject,,Other,255.48,556.5
+Target: CD68,Target: CD68,Other,399.53,553.57
+PathCellObject,,Other,657.45,555.05
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,734.46,554.12
+Target: CD3: CD4,Target: CD3: CD4,Other,742.51,551.97
+Target: CD20: CD68,Target: CD20: CD68,Other,33,554.09
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,640.94,554.52
+Target: CD8,Target: CD8,Other,751.88,552.66
+PathCellObject,,Other,413.81,555.59
+PathCellObject,,Other,427.68,556.76
+Target: CD20,Target: CD20,Other,691.51,555.71
+Target: CD20,Target: CD20,Other,5.649,555.56
+Target: CD20,Target: CD20,Other,19.18,556.41
+Target: CD20,Target: CD20,Other,611.55,555.16
+PathCellObject,,Other,235.33,559.72
+Target: CD20,Target: CD20,Other,570.06,557.07
+Target: CD20,Target: CD20,Other,106.12,556.71
+PathCellObject,,Other,120.29,559.38
+PathCellObject,,Other,461.77,554.83
+PathCellObject,,Other,679.75,555.01
+PathCellObject,,Other,775.61,555.21
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,589.44,558.18
+Target: CD20,Target: CD20,Other,26.8,556.49
+PathCellObject,,Other,64.73,559.35
+Target: CD20,Target: CD20,Other,165.76,557.42
+PathCellObject,,Other,190.98,556.13
+PathCellObject,,Other,404.9,558.34
+Target: CD20,Target: CD20,Other,617.74,558.19
+PathCellObject,,Other,317.72,558.16
+PathCellObject,,Other,179.74,560.52
+PathCellObject,,Other,272.6,558.11
+PathCellObject,,Other,384.66,561.84
+Target: CD20,Target: CD20,Other,583.2,558.25
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,599.68,560.94
+Target: CD20,Target: CD20,Other,784.62,558.12
+Target: CD68: CD4,Target: CD68: CD4,Other,795.84,558.6
+PathCellObject,,Other,497.82,558.82
+PathCellObject,,Other,706.6,558.98
+PathCellObject,,Other,249.69,561.32
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,738.9,561.17
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,35.61,560.83
+PathCellObject,,Other,263.22,563.87
+Target: CD3,Target: CD3,Other,667.81,561.72
+Target: CD20,Target: CD20,Other,749.82,562.03
+PathCellObject,,Other,197.36,562.73
+Target: CD68,Target: CD68,Other,635.09,560.42
+PathCellObject,,Other,777.43,562.16
+Target: CD20: CD68,Target: CD20: CD68,Other,28.19,563.64
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,43.82,563.26
+PathCellObject,,Other,136.16,559.22
+PathCellObject,,Other,334.25,563.46
+PathCellObject,,Other,648.94,563.47
+Target: CD20,Target: CD20,Other,3.039,562.52
+PathCellObject,,Other,395.39,562.28
+Target: CD20,Target: CD20,Other,727.7,562.59
+PathCellObject,,Other,462.57,564.55
+Target: CD20,Target: CD20,Other,580.21,563.75
+PathCellObject,,Other,762.83,564.34
+PathCellObject,,Other,680.55,564.47
+PathCellObject,,Other,771.22,563.09
+Target: CD20,Target: CD20,Other,58.14,566.77
+PathCellObject,,Other,100.72,564.28
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,617.05,564.1
+Target: CD20,Target: CD20,Other,17.5,565
+Target: CD20,Target: CD20,Other,115.99,564.72
+PathCellObject,,Other,413.57,564.77
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,566.41,568.36
+Target: CD20,Target: CD20,Other,9.008,566.04
+PathCellObject,,Other,401.96,567.74
+PathCellObject,,Other,500.76,566.08
+PathCellObject,,Other,785.97,568.13
+PathCellObject,,Other,138.11,567.58
+Target: CD20,Target: CD20,Other,111.07,568.89
+PathCellObject,,Other,91.44,570.51
+PathCellObject,,Other,247.28,568.12
+PathCellObject,,Other,275.28,568.33
+PathCellObject,,Other,509.15,566.77
+Target: CD68,Target: CD68,Other,637.41,567.01
+PathCellObject,,Other,795.58,569.41
+PathCellObject,,Other,322.65,569.5
+Target: CD68: CD8,Target: CD68: CD8,Other,158.35,574.76
+PathCellObject,,Other,484.95,569.12
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,624.2,567.97
+PathCellObject,,Other,701.18,568.76
+PathCellObject,,Other,175.59,567.74
+PathCellObject,,Other,300.74,568.11
+Target: CD3: CD8,Target: CD3: CD8,Other,585.57,568.36
+Target: CD3: CD8,Target: CD3: CD8,Other,610.88,568.77
+Target: CD20: CD68,Target: CD20: CD68,Other,37.53,569.37
+PathCellObject,,Other,238.26,571.71
+Target: CD20: CD8,Target: CD20: CD8,Other,3.064,574.02
+PathCellObject,,Other,754.22,573.8
+Target: CD20,Target: CD20,Other,18.09,572.54
+PathCellObject,,Other,172.34,573.68
+PathCellObject,,Other,226.01,571.8
+PathCellObject,,Other,515.09,573.74
+Target: CD20,Target: CD20,Other,595.81,571.25
+Target: CD20: CD8,Target: CD20: CD8,Other,631.96,575.01
+Target: CD20: CD68,Target: CD20: CD68,Other,28.76,574.18
+Target: CD20,Target: CD20,Other,774.72,574.58
+PathCellObject,,Other,118.91,577.85
+PathCellObject,,Other,130.52,573.91
+PathCellObject,,Other,383.51,575.05
+PathCellObject,,Other,452.18,575.81
+PathCellObject,,Other,103.91,576.83
+Target: CD20,Target: CD20,Other,576.45,574.83
+Target: CD20,Target: CD20,Other,603.2,573.61
+Target: CD20,Target: CD20,Other,743.31,574.76
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,42.03,577.83
+Target: CD3: CD8,Target: CD3: CD8,Other,559.7,578.1
+Target: CD3: CD8,Target: CD3: CD8,Other,587.33,576.02
+Target: CD20: CD68,Target: CD20: CD68,Other,12.81,577.35
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,147.4,577.76
+Target: CD68: CD8,Target: CD68: CD8,Other,140.32,578.73
+PathCellObject,,Other,466.24,576.35
+PathCellObject,,Other,290.16,581.52
+PathCellObject,,Other,484.74,580.97
+Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,615.15,578.45
+Target: CD20,Target: CD20,Other,794.91,578.5
+PathCellObject,,Other,606.52,580.68
+Target: CD20,Target: CD20,Other,6.758,581.26
+PathCellObject,,Other,714.94,580.21
+PathCellObject,,Other,179.33,584.6
+PathCellObject,,Other,219.66,585.4
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,584.35,582.78
+Target: CD20: CD68,Target: CD20: CD68,Other,22.76,583.6
+PathCellObject,,Other,324.89,582.42
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,595.9,582.72
+PathCellObject,,Other,729.86,582.77
+Target: CD20,Target: CD20,Other,401.94,583.8
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,38.17,588.18
+Target: CD20,Target: CD20,Other,794.2,587.27
+PathCellObject,,Other,464.07,586.11
+PathCellObject,,Other,537.14,586.04
+PathCellObject,,Other,258.67,586.67
+Target: CD20,Target: CD20,Other,774.42,585.2
+Target: CD8,Target: CD8,Other,136.7,588.31
+Target: CD3: CD8,Target: CD3: CD8,Other,169.07,586.84
+PathCellObject,,Other,246.05,589.44
+PathCellObject,,Other,450.54,588.31
+Target: CD20: CD4,Target: CD20: CD4,Other,13.26,588.87
+PathCellObject,,Other,70.77,590.55
+PathCellObject,,Other,367.36,586.33
+PathCellObject,,Other,379.22,588.47
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,29.56,590.74
+Target: CD20,Target: CD20,Other,4.722,592.2
+PathCellObject,,Other,575.43,589.6
+PathCellObject,,Other,727.88,592.22
+PathCellObject,,Other,441.69,590.01
+PathCellObject,,Other,125.86,592.63
+PathCellObject,,Other,456.74,594.37
+PathCellObject,,Other,768.78,590.98
+Target: CD20,Target: CD20,Other,401.01,591.68
+PathCellObject,,Other,235.91,592.74
+PathCellObject,,Other,360.83,594.37
+PathCellObject,,Other,672.35,592.13
+Target: CD20,Target: CD20,Other,756.48,592
+Target: CD20,Target: CD20,Other,162.22,594.22
+Target: CD68,Target: CD68,Other,743.25,592.83
+Target: CD20,Target: CD20,Other,21.33,595.83
+PathCellObject,,Other,276.44,593.96
+Target: CD20,Target: CD20,Other,389.74,594.9
+PathCellObject,,Other,563.08,593.59
+PathCellObject,,Other,794.76,596.15
+PathCellObject,,Other,288.17,599.33
+PathCellObject,,Other,35.91,600.61
+Target: CD8,Target: CD8,Other,117.19,596.66
+PathCellObject,,Other,172.25,600.15
+PathCellObject,,Other,408.73,596.04
+PathCellObject,,Other,227.38,597.42
+PathCellObject,,Other,267.99,597.66
+PathCellObject,,Other,375.7,600.13
+PathCellObject,,Other,217.08,598.52
+PathCellObject,,Other,442.59,600.31
+PathCellObject,,Other,647.82,595.23
+PathCellObject,,Other,400.06,598.87
+PathCellObject,,Other,95.1,600.26
+PathCellObject,,Other,524.16,599.46
+PathCellObject,,Other,569.59,601.99
+Target: CD20: CD4,Target: CD20: CD4,Other,14.68,602.8
+PathCellObject,,Other,155.19,596.98
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,659.22,600.65
+PathCellObject,,Other,672.25,601.57
+PathCellObject,,Other,466.39,602.65
+PathCellObject,,Other,763.83,601.89
+PathCellObject,,Other,135.42,603.71
+PathCellObject,,Other,149.13,602.03
+Target: CD68,Target: CD68,Other,365.48,601.79
+PathCellObject,,Other,433.52,602.11
+PathCellObject,,Other,160.91,604.97
+Target: CD8,Target: CD8,Other,643.18,602.39
+Target: CD20,Target: CD20,Other,794.48,603.9
+Target: CD68: CD4,Target: CD68: CD4,Other,82.61,604.45
+Target: CD68,Target: CD68,Other,103.86,604.96
+Target: CD20: CD68,Target: CD20: CD68,Other,8.398,601.7
+PathCellObject,,Other,741.53,603.86
+Target: CD68,Target: CD68,Other,24.2,605.25
+PathCellObject,,Other,341.57,601.55
+Target: CD3: CD4,Target: CD3: CD4,Other,537.58,604.41
+Target: CD20,Target: CD20,Other,2.48,603.87
+PathCellObject,,Other,221.61,605.44
+PathCellObject,,Other,386.91,611.59
+PathCellObject,,Other,480.27,603.64
+PathCellObject,,Other,406.76,608.76
+PathCellObject,,Other,275.07,605.69
+PathCellObject,,Other,396.8,608.55
+Target: CD3: CD8,Target: CD3: CD8,Other,750.03,608.44
+Target: CD20,Target: CD20,Other,312.46,609.84
+PathCellObject,,Other,370.52,610.18
+PathCellObject,,Other,621.73,605.17
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,8.115,609.63
+PathCellObject,,Other,359.68,607.62
+Target: CD68: CD4,Target: CD68: CD4,Other,562.77,607.87
+Target: CD20,Target: CD20,Other,668.02,610.55
+Target: CD68,Target: CD68,Other,29.1,614.23
+PathCellObject,,Other,215.86,613.07
+PathCellObject,,Other,231.85,609.06
+PathCellObject,,Other,343.9,609.54
+PathCellObject,,Other,266.41,610.13
+PathCellObject,,Other,479.83,610.77
+Target: CD3: CD8,Target: CD3: CD8,Other,639.65,609.44
+PathCellObject,,Other,653.89,610.53
+PathCellObject,,Other,763.14,610.19
+PathCellObject,,Other,152.54,613.22
+PathCellObject,,Other,333.92,611.03
+Target: CD68,Target: CD68,Other,472.93,611.21
+PathCellObject,,Other,494.36,609.73
+PathCellObject,,Other,554.38,612.05
+PathCellObject,,Other,626.64,611.91
+PathCellObject,,Other,353.32,612.69
+PathCellObject,,Other,659.66,614.28
+PathCellObject,,Other,112.9,614.12
+PathCellObject,,Other,794.38,615.51
+Target: CD20,Target: CD20,Other,2.044,613.01
+PathCellObject,,Other,291.19,613.34
+PathCellObject,,Other,326.14,614.19
+PathCellObject,,Other,167.38,615.76
+PathCellObject,,Other,242.34,613.06
+PathCellObject,,Other,649.03,614.88
+PathCellObject,,Other,144.94,613.5
+PathCellObject,,Other,581,612.81
+Target: CD4,Target: CD4,Other,79.02,613.82
+PathCellObject,,Other,253.86,614.03
+PathCellObject,,Other,278.8,616.76
+PathCellObject,,Other,737.24,616.5
+PathCellObject,,Other,634.26,616.09
+PathCellObject,,Other,72.44,615.86
+PathCellObject,,Other,468.9,616.93
+PathCellObject,,Other,763.16,616.35
+PathCellObject,,Other,360.12,617.72
+Target: CD20,Target: CD20,Other,97.26,615.78
+PathCellObject,,Other,489.93,617.5
+PathCellObject,,Other,563.83,616.33
+PathCellObject,,Other,754.38,619.13
+PathCellObject,,Other,367.3,621.96
+PathCellObject,,Other,671.41,620.54
+Target: CD20: CD4: CD8,Target: CD20: CD4: CD8,Other,3.975,618.08
+PathCellObject,,Other,141.32,621.09
+PathCellObject,,Other,339.24,619.9
+Target: CD3: CD4,Target: CD3: CD4,Other,204.17,617.38
+PathCellObject,,Other,479.86,621.08
+PathCellObject,,Other,569.43,620.12
+PathCellObject,,Other,619.28,621.4
+PathCellObject,,Other,161.85,621.48
+PathCellObject,,Other,640.29,620.83
+Target: CD20: CD68: CD4: CD8,Target: CD20: CD68: CD4: CD8,Other,14.02,618.35
+Target: CD20,Target: CD20,Other,86.4,619.35
+PathCellObject,,Other,545.3,618.61
+PathCellObject,,Other,630.48,621.07
+PathCellObject,,Other,647.82,622.48
+Target: CD68,Target: CD68,Other,22.81,622.67
+Target: CD68: CD3,Target: CD68: CD3,Other,267.79,621.36
+PathCellObject,,Other,6.319,622.75
+Target: CD4,Target: CD4,Other,297.01,623.07
+Target: CD3: CD8,Target: CD3: CD8,Other,179.94,621.11
+Target: CD20,Target: CD20,Other,59.3,622.76
+Target: CD20,Target: CD20,Other,95.77,624.19
+PathCellObject,,Other,106.67,623.74
+Target: CD20: CD68,Target: CD20: CD68,Other,585.37,621.59
+PathCellObject,,Other,345.51,627.32
+Target: CD3: CD8,Target: CD3: CD8,Other,355.11,626.24
+PathCellObject,,Other,251.98,623.97
+PathCellObject,,Other,130.72,625.47
+Target: CD68,Target: CD68,Other,577.16,626.58
+PathCellObject,,Other,241.4,626.14
+Target: CD20: CD8,Target: CD20: CD8,Other,794.84,627.04
+PathCellObject,,Other,202.13,626.02
+PathCellObject,,Other,767.54,626.91
+Target: CD20,Target: CD20,Other,15.08,628.66
+PathCellObject,,Other,80.82,628.73
+Target: CD20,Target: CD20,Other,154.76,627.31
+PathCellObject,,Other,220.39,625.53
+PathCellObject,,Other,547.86,627.99
+PathCellObject,,Other,732.03,626.13
+PathCellObject,,Other,100.94,628.65
+PathCellObject,,Other,210.89,630.55
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,4.529,631.42
+Target: CD8,Target: CD8,Other,307.18,628.29
+PathCellObject,,Other,588.28,630.05
+PathCellObject,,Other,93.23,629.89
+PathCellObject,,Other,183.23,629.98
+PathCellObject,,Other,332.65,629.9
+Target: CD3,Target: CD3,Other,88.7,630.8
+PathCellObject,,Other,248.7,633.27
+PathCellObject,,Other,401.22,632.18
+PathCellObject,,Other,43.83,629.47
+PathCellObject,,Other,169.17,629.46
+PathCellObject,,Other,520.94,630.88
+PathCellObject,,Other,571.23,631.79
+PathCellObject,,Other,739.56,630.78
+PathCellObject,,Other,104.23,632.77
+PathCellObject,,Other,175.46,633.07
+PathCellObject,,Other,538.17,633.6
+PathCellObject,,Other,617.4,634.4
+PathCellObject,,Other,748.11,631.45
+Target: CD68,Target: CD68,Other,52.57,633.09
+PathCellObject,,Other,227.11,635.69
+PathCellObject,,Other,260.9,632.72
+PathCellObject,,Other,326.33,635.05
+PathCellObject,,Other,158.15,635.93
+PathCellObject,,Other,165.18,634.03
+PathCellObject,,Other,629.04,636.15
+PathCellObject,,Other,727.57,634.39
+PathCellObject,,Other,89.85,637.27
+Target: CD8,Target: CD8,Other,389.09,635.4
+PathCellObject,,Other,669.2,637.67
+PathCellObject,,Other,109.85,639.09
+PathCellObject,,Other,298.94,638.12
+Target: CD20,Target: CD20,Other,794.9,637.85
+PathCellObject,,Other,43.26,640.08
+PathCellObject,,Other,511.07,639.11
+PathCellObject,,Other,577.91,638.64
+PathCellObject,,Other,13.55,639.25
+PathCellObject,,Other,315.18,636.33
+PathCellObject,,Other,566.67,638.12
+PathCellObject,,Other,82.18,639.7
+Target: CD3: CD8,Target: CD3: CD8,Other,168.61,640.51
+PathCellObject,,Other,138.86,638.07
+PathCellObject,,Other,255.99,640.39
+PathCellObject,,Other,746.1,640.43
+PathCellObject,,Other,732.64,643.39
+Target: CD3: CD8,Target: CD3: CD8,Other,274.34,640.29
+Target: CD3: CD8,Target: CD3: CD8,Other,382.66,640.21
+PathCellObject,,Other,152.59,640.05
+PathCellObject,,Other,237.5,642.23
+PathCellObject,,Other,287.61,640.72
+PathCellObject,,Other,184.09,640.25
+PathCellObject,,Other,604.31,645.46
+Target: CD68,Target: CD68,Other,56.61,644.35
+PathCellObject,,Other,146.87,643.07
+PathCellObject,,Other,177.39,646.79
+PathCellObject,,Other,719.78,642.69
+PathCellObject,,Other,310.57,649.84
+Target: CD8,Target: CD8,Other,589.46,648.87
+PathCellObject,,Other,6.614,646.22
+PathCellObject,,Other,138.52,648.58
+PathCellObject,,Other,154.97,648.94
+PathCellObject,,Other,270.34,647.81
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,377.88,648.05
+PathCellObject,,Other,80.45,653.6
+PathCellObject,,Other,163.28,647.21
+PathCellObject,,Other,251.05,648.07
+PathCellObject,,Other,530.63,648.67
+PathCellObject,,Other,352.79,646.03
+PathCellObject,,Other,478.72,647.64
+PathCellObject,,Other,214.8,650.07
+Target: CD20,Target: CD20,Other,773.5,649.04
+PathCellObject,,Other,392.81,649.89
+PathCellObject,,Other,121.63,651.71
+PathCellObject,,Other,200.15,649.77
+PathCellObject,,Other,360.68,652.92
+PathCellObject,,Other,782.43,650.23
+PathCellObject,,Other,790.87,651.36
+PathCellObject,,Other,91.29,651.3
+PathCellObject,,Other,702.18,650.04
+PathCellObject,,Other,721.67,650.4
+PathCellObject,,Other,69.53,651.96
+PathCellObject,,Other,347.41,652.42
+Target: CD68: CD8,Target: CD68: CD8,Other,715.79,653.16
+PathCellObject,,Other,745,654.03
+PathCellObject,,Other,61.49,657.34
+PathCellObject,,Other,537.45,658.06
+Target: CD68,Target: CD68,Other,138.13,659.58
+PathCellObject,,Other,548,658.88
+PathCellObject,,Other,478.69,657.97
+Target: CD20,Target: CD20,Other,495.21,659.91
+PathCellObject,,Other,266.17,657
+PathCellObject,,Other,337.72,656.89
+Target: CD20,Target: CD20,Other,713.14,659.62
+Target: CD20,Target: CD20,Other,199.61,659.08
+Target: CD20,Target: CD20,Other,256.64,659.03
+PathCellObject,,Other,725.06,658.89
+PathCellObject,,Other,174.33,660.79
+Target: CD20: CD68,Target: CD20: CD68,Other,12.33,659.45
+Target: CD68,Target: CD68,Other,27.69,664.1
+Target: CD3: CD8,Target: CD3: CD8,Other,351.14,662.22
+PathCellObject,,Other,470.86,661.1
+PathCellObject,,Other,703.42,661.95
+Target: CD20: CD8,Target: CD20: CD8,Other,719.3,663.76
+Target: CD20,Target: CD20,Other,207.39,662.36
+Target: CD20,Target: CD20,Other,195.64,661.61
+Target: CD20,Target: CD20,Other,382.53,663.4
+PathCellObject,,Other,790.55,666.88
+Target: CD68,Target: CD68,Other,122.51,663.69
+Target: CD68: CD8,Target: CD68: CD8,Other,341.81,665.16
+Target: CD20,Target: CD20,Other,188.88,663.27
+PathCellObject,,Other,262.75,667.83
+PathCellObject,,Other,464.8,667.94
+Target: CD20,Target: CD20,Other,12.97,669.94
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,365.08,667.89
+Target: CD8,Target: CD8,Other,356.3,669.62
+PathCellObject,,Other,708.22,669.23
+PathCellObject,,Other,128.09,671
+PathCellObject,,Other,723.28,671.48
+Target: CD20,Target: CD20,Other,4.047,667.67
+Target: CD20,Target: CD20,Other,177.99,669.61
+Target: CD20: CD68,Target: CD20: CD68,Other,196.71,670.16
+PathCellObject,,Other,116.19,672.73
+Target: CD68,Target: CD68,Other,52.58,669.09
+Target: CD20: CD4,Target: CD20: CD4,Other,206.13,674.7
+PathCellObject,,Other,306.5,671.59
+PathCellObject,,Other,321.3,675.59
+PathCellObject,,Other,348.7,672.93
+Target: CD20: CD4,Target: CD20: CD4,Other,185.94,671.57
+Target: CD68,Target: CD68,Other,332.92,673.38
+PathCellObject,,Other,61.34,671.7
+PathCellObject,,Other,712.93,674.45
+PathCellObject,,Other,46.5,673.28
+Target: CD20,Target: CD20,Other,165.92,676.22
+PathCellObject,,Other,4.075,676.99
+PathCellObject,,Other,77.67,675.18
+PathCellObject,,Other,277.13,678.54
+Target: CD20,Target: CD20,Other,215.9,674.4
+PathCellObject,,Other,294.81,675.81
+PathCellObject,,Other,341.24,675.28
+PathCellObject,,Other,553.69,674.28
+PathCellObject,,Other,540.89,676.59
+Target: CD20: CD68,Target: CD20: CD68,Other,194.32,679.88
+Target: CD20,Target: CD20,Other,176.42,680.3
+PathCellObject,,Other,287.9,681.25
+PathCellObject,,Other,34.51,679.1
+PathCellObject,,Other,54.11,680.73
+PathCellObject,,Other,464.2,679.15
+PathCellObject,,Other,89.15,681.26
+Target: CD68,Target: CD68,Other,138.63,679.82
+PathCellObject,,Other,184.2,681.54
+PathCellObject,,Other,302.31,681.15
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,364.8,680.36
+PathCellObject,,Other,415.33,680.41
+Target: CD68,Target: CD68,Other,563.01,678.58
+Target: CD20,Target: CD20,Other,153.81,682.4
+PathCellObject,,Other,258.57,678.93
+PathCellObject,,Other,719.14,683.31
+PathCellObject,,Other,251.95,684.32
+PathCellObject,,Other,44.09,683.64
+PathCellObject,,Other,64.79,684.59
+Target: CD8,Target: CD8,Other,346.77,683.83
+Target: CD3,Target: CD3,Other,791.3,683.05
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,337.93,683.73
+PathCellObject,,Other,555.58,683.45
+Target: CD20,Target: CD20,Other,513.32,683.46
+Target: CD8,Target: CD8,Other,380.59,682.31
+PathCellObject,,Other,571.66,682.92
+PathCellObject,,Other,775.42,683.77
+PathCellObject,,Other,110.58,686.98
+PathCellObject,,Other,307.74,687.26
+PathCellObject,,Other,449.41,683.67
+Target: CD68,Target: CD68,Other,522.94,690.87
+PathCellObject,,Other,123.52,687.57
+PathCellObject,,Other,332.32,686.43
+PathCellObject,,Other,477.34,688.47
+Target: CD68,Target: CD68,Other,314.4,690.94
+PathCellObject,,Other,500.67,685.76
+Target: CD3: CD8,Target: CD3: CD8,Other,384.51,689.48
+PathCellObject,,Other,490.84,685.54
+Target: CD68,Target: CD68,Other,551.39,689.07
+PathCellObject,,Other,564.39,689.55
+PathCellObject,,Other,394.78,687.81
+Target: CD68,Target: CD68,Other,543.41,689.5
+PathCellObject,,Other,357.47,688.29
+PathCellObject,,Other,441.3,688.16
+Target: CD68,Target: CD68,Other,535.15,689.54
+PathCellObject,,Other,767.08,689.05
+Target: CD3: CD8,Target: CD3: CD8,Other,229.18,691.07
+PathCellObject,,Other,100.64,691.24
+PathCellObject,,Other,325.47,690.7
+PathCellObject,,Other,455.15,696.25
+PathCellObject,,Other,709.95,689.92
+PathCellObject,,Other,725.15,692.91
+PathCellObject,,Other,28.42,692.09
+PathCellObject,,Other,433.1,696.19
+Target: CD20,Target: CD20,Other,489.95,693.89
+Target: CD3: CD8,Target: CD3: CD8,Other,787.42,691.73
+Target: CD20: CD68,Target: CD20: CD68,Other,149.01,696.31
+Target: CD8,Target: CD8,Other,341.51,692.81
+Target: CD20,Target: CD20,Other,199.23,693.6
+PathCellObject,,Other,332.37,692.96
+Target: CD4,Target: CD4,Other,407.23,695.29
+Target: CD8,Target: CD8,Other,498.68,697.08
+Target: CD8,Target: CD8,Other,758.55,693.15
+Target: CD20,Target: CD20,Other,159.82,693.66
+Target: CD20: CD8,Target: CD20: CD8,Other,732.63,693.6
+PathCellObject,,Other,60.86,697.47
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,170.72,695.44
+Target: CD3: CD8,Target: CD3: CD8,Other,241.43,694.7
+Target: CD8,Target: CD8,Other,357.72,699.44
+PathCellObject,,Other,399.47,696.77
+PathCellObject,,Other,41.44,695.76
+Target: CD3: CD4,Target: CD3: CD4,Other,556.45,695.6
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,740.87,695.08
+PathCellObject,,Other,780.21,694.74
+Target: CD20,Target: CD20,Other,129.22,697.36
+PathCellObject,,Other,567.48,696.76
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,773.11,695.59
+PathCellObject,,Other,103.55,699.61
+Target: CD20,Target: CD20,Other,180.3,695.95
+Target: CD20,Target: CD20,Other,187.58,696.2
+PathCellObject,,Other,327.02,696.57
+PathCellObject,,Other,391.84,696.7
+Target: CD20,Target: CD20,Other,223.81,699.41
+Target: CD20,Target: CD20,Other,252.98,698.59
+Target: CD68,Target: CD68,Other,381.06,698.16
+PathCellObject,,Other,715.86,698.75
+PathCellObject,,Other,287.37,696.7
+PathCellObject,,Other,420.11,697.59
+PathCellObject,,Other,706.33,699.31
+Target: CD68,Target: CD68,Other,547.37,698.23
+Target: CD3: CD8,Target: CD3: CD8,Other,790.59,699.08
+Target: CD20: CD68,Target: CD20: CD68,Other,136.66,698.77
+PathCellObject,,Other,332.38,701.65
+PathCellObject,,Other,322.51,703.57
+Target: CD68,Target: CD68,Other,340.67,701.85
+PathCellObject,,Other,443.91,700.75
+PathCellObject,,Other,17.25,700.48
+PathCellObject,,Other,73.32,700.05
+PathCellObject,,Other,312.07,701.36
+Target: CD20,Target: CD20,Other,484.47,700.19
+PathCellObject,,Other,560.89,702.15
+Target: CD3: CD4,Target: CD3: CD4,Other,763.12,700.06
+PathCellObject,,Other,3.957,701.29
+PathCellObject,,Other,479.5,705.18
+Target: CD20: CD68,Target: CD20: CD68,Other,531.12,702.75
+PathCellObject,,Other,437.53,703.68
+PathCellObject,,Other,114.82,702.65
+Target: CD20,Target: CD20,Other,211.3,702.18
+Target: CD20: CD68,Target: CD20: CD68,Other,540.3,701.14
+Target: CD20: CD4,Target: CD20: CD4,Other,160.33,703.02
+Target: CD68,Target: CD68,Other,390.97,703.86
+PathCellObject,,Other,468.7,701.72
+PathCellObject,,Other,726.69,703.45
+Target: CD8,Target: CD8,Other,772.36,702.96
+Target: CD20,Target: CD20,Other,145.7,702.8
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,735.65,701.87
+PathCellObject,,Other,297.69,703.28
+Target: CD20: CD68,Target: CD20: CD68,Other,551.98,704.33
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,751.82,702.33
+PathCellObject,,Other,420.93,706.04
+PathCellObject,,Other,490.41,703.65
+Target: CD20,Target: CD20,Other,138.37,706.75
+Target: CD20: CD68,Target: CD20: CD68,Other,185.47,705.89
+Target: CD3: CD4,Target: CD3: CD4,Other,760.68,706.22
+PathCellObject,,Other,105.58,709.52
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,260.03,709.04
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,173.94,708.6
+PathCellObject,,Other,314.65,708.6
+Target: CD68: CD8,Target: CD68: CD8,Other,781.68,707.56
+PathCellObject,,Other,289.59,708.7
+PathCellObject,,Other,501.4,706.76
+PathCellObject,,Other,720.02,707.86
+Target: CD8,Target: CD8,Other,793.41,706.72
+Target: CD20,Target: CD20,Other,76.7,707.99
+PathCellObject,,Other,93.64,712.28
+PathCellObject,,Other,304.82,711.18
+PathCellObject,,Other,347.75,710.27
+PathCellObject,,Other,372.93,706.76
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,737.93,707.89
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,161.75,710.76
+Target: CD20,Target: CD20,Other,537.19,709.51
+Target: CD20,Target: CD20,Other,199.65,710.13
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,489.01,712.96
+PathCellObject,,Other,468.06,710.28
+Target: CD68: CD4,Target: CD68: CD4,Other,524.21,709.71
+PathCellObject,,Other,409.66,710.88
+PathCellObject,,Other,495.31,710.21
+Target: CD3,Target: CD3,Other,765.87,711.63
+PathCellObject,,Other,397.46,709.86
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,747.16,711.18
+Target: CD8,Target: CD8,Other,755.14,712.94
+Target: CD20: CD68,Target: CD20: CD68,Other,143.69,711.43
+PathCellObject,,Other,7.714,710.97
+PathCellObject,,Other,62.48,712.01
+PathCellObject,,Other,386.64,715.79
+Target: CD20,Target: CD20,Other,543.56,710.57
+Target: CD20,Target: CD20,Other,192.58,713.42
+Target: CD20,Target: CD20,Other,248.97,713.95
+Target: CD20,Target: CD20,Other,457.68,712.76
+Target: CD20,Target: CD20,Other,551.69,713.93
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,789.19,713.14
+PathCellObject,,Other,50.99,713.4
+PathCellObject,,Other,79,718.88
+Target: CD20: CD4,Target: CD20: CD4,Other,179.93,714.52
+Target: CD20: CD68,Target: CD20: CD68,Other,516.95,714.04
+PathCellObject,,Other,722.74,716.73
+Target: CD8,Target: CD8,Other,774.61,713.66
+PathCellObject,,Other,36.54,714.89
+Target: CD20,Target: CD20,Other,448.37,713.13
+Target: CD20,Target: CD20,Other,186.03,715.13
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,510.29,714.18
+Target: CD20,Target: CD20,Other,223.08,716.38
+PathCellObject,,Other,427.91,715.04
+Target: CD4,Target: CD4,Other,796.17,716.44
+PathCellObject,,Other,314.6,717.73
+PathCellObject,,Other,325.99,717.57
+Target: CD68,Target: CD68,Other,478.76,716.59
+Target: CD20: CD8,Target: CD20: CD8,Other,501.36,715.54
+PathCellObject,,Other,109.24,718.25
+Target: CD20: CD68,Target: CD20: CD68,Other,144.2,720.32
+Target: CD20: CD4,Target: CD20: CD4,Other,539.35,716.4
+PathCellObject,,Other,700.3,714.82
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,780.18,717.34
+PathCellObject,,Other,338.95,718.87
+Target: CD20,Target: CD20,Other,442.55,717.03
+PathCellObject,,Other,730.87,718.62
+Target: CD3: CD4,Target: CD3: CD4,Other,738.45,717.52
+Target: CD20,Target: CD20,Other,467.66,718.19
+PathCellObject,,Other,6.513,720.62
+Target: CD20: CD3,Target: CD20: CD3,Other,436.39,720.13
+PathCellObject,,Other,406.4,721.25
+Target: CD20,Target: CD20,Other,531.29,719.79
+Target: CD4,Target: CD4,Other,155.05,720.06
+Target: CD20,Target: CD20,Other,267.81,720.49
+PathCellObject,,Other,523.24,719.25
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,786.62,719.75
+Target: CD68: CD4,Target: CD68: CD4,Other,167.22,719.28
+Target: CD20,Target: CD20,Other,192.14,720.27
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,209.34,725.24
+PathCellObject,,Other,87.05,724.18
+Target: CD20: CD4,Target: CD20: CD4,Other,175.3,721.24
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,496.23,721.02
+Target: CD20,Target: CD20,Other,548.19,722.93
+Target: CD8,Target: CD8,Other,751.98,720.46
+PathCellObject,,Other,763.75,722.92
+PathCellObject,,Other,18.31,722.56
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,242.73,724
+Target: CD3,Target: CD3,Other,368.81,722.69
+Target: CD20,Target: CD20,Other,453.9,723.91
+Target: CD20,Target: CD20,Other,503.83,721.66
+PathCellObject,,Other,696.34,721.99
+Target: CD3: CD8,Target: CD3: CD8,Other,57.45,722.55
+PathCellObject,,Other,706.98,724.02
+Target: CD20,Target: CD20,Other,540.35,724.53
+Target: CD20: CD68,Target: CD20: CD68,Other,471.72,724.53
+PathCellObject,,Other,689.09,724
+Target: CD20: CD3,Target: CD20: CD3,Other,446.03,725.63
+Target: CD20: CD8,Target: CD20: CD8,Other,490.4,723.91
+Target: CD20: CD3,Target: CD20: CD3,Other,518.85,725.67
+Target: CD3: CD8,Target: CD3: CD8,Other,738.77,727.5
+Target: CD3: CD8,Target: CD3: CD8,Other,746.29,723.24
+PathCellObject,,Other,3.174,727.03
+Target: CD20,Target: CD20,Other,187.42,725.76
+PathCellObject,,Other,314.69,727.59
+Target: CD3: CD8,Target: CD3: CD8,Other,791.7,728.56
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,780.47,726.94
+Target: CD68,Target: CD68,Other,168.55,727.16
+Target: CD20: CD3,Target: CD20: CD3,Other,252.7,725.59
+PathCellObject,,Other,426.74,726.82
+Target: CD20,Target: CD20,Other,460.8,725.97
+PathCellObject,,Other,44.31,727.93
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,506.71,727.25
+PathCellObject,,Other,32.73,729.19
+Target: CD20: CD68,Target: CD20: CD68,Other,115.84,727.34
+Target: CD20,Target: CD20,Other,129.23,725.49
+Target: CD20,Target: CD20,Other,233.22,728.66
+Target: CD20,Target: CD20,Other,533.29,728.02
+Target: CD8,Target: CD8,Other,50.67,729.79
+Target: CD68,Target: CD68,Other,160.84,728.75
+Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,175.95,729.24
+Target: CD8,Target: CD8,Other,757.33,730.01
+Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,774.34,727.64
+Target: CD8,Target: CD8,Other,333.26,729.98
+Target: CD20,Target: CD20,Other,467.86,731.97
+PathCellObject,,Other,726.1,731.47
+Target: CD3: CD8,Target: CD3: CD8,Other,748.29,731.61
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,197.22,730.73
+PathCellObject,,Other,703.22,734.78
+Target: CD20: CD68,Target: CD20: CD68,Other,122.19,738.6
+Target: CD20: CD68,Target: CD20: CD68,Other,134.7,731.79
+Target: CD4,Target: CD4,Other,151.85,733.21
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,475.24,730.2
+Target: CD20: CD68,Target: CD20: CD68,Other,481.19,728.8
+Target: CD20: CD3,Target: CD20: CD3,Other,544,731.48
+PathCellObject,,Other,770.15,731.66
+PathCellObject,,Other,19.78,732.72
+Target: CD20,Target: CD20,Other,58.51,734.26
+Target: CD20: CD3,Target: CD20: CD3,Other,442.56,732.24
+Target: CD20,Target: CD20,Other,262.18,731.46
+Target: CD20,Target: CD20,Other,487.4,732.25
+Target: CD20,Target: CD20,Other,527.21,732.19
+Target: CD20: CD68,Target: CD20: CD68,Other,183.42,734.53
+Target: CD20,Target: CD20,Other,493.89,732.51
+Target: CD20,Target: CD20,Other,255.73,733.86
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,501.01,733.49
+Target: CD20,Target: CD20,Other,520.64,733.71
+Target: CD20,Target: CD20,Other,70.79,733.45
+Target: CD20,Target: CD20,Other,222.07,734.4
+Target: CD20,Target: CD20,Other,432.09,735.62
+Target: CD20,Target: CD20,Other,460.54,735.06
+Target: CD20: CD3,Target: CD20: CD3,Other,511.76,734.55
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,738.91,735.9
+PathCellObject,,Other,38.92,737.92
+Target: CD20,Target: CD20,Other,534.82,735.78
+Target: CD68: CD8,Target: CD68: CD8,Other,141.73,734.12
+Target: CD20: CD8,Target: CD20: CD8,Other,249.26,735.73
+Target: CD20: CD8,Target: CD20: CD8,Other,338.43,740.81
+PathCellObject,,Other,552.68,736.24
+Target: CD8,Target: CD8,Other,768.98,740.56
+Target: CD20,Target: CD20,Other,165,737.19
+Target: CD20,Target: CD20,Other,228.52,737.8
+PathCellObject,,Other,760.33,737.09
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,474.02,739.67
+PathCellObject,,Other,749.89,739.38
+PathCellObject,,Other,234.93,740.97
+Target: CD20,Target: CD20,Other,481.72,739.42
+Target: CD20: CD8,Target: CD20: CD8,Other,733.77,741.9
+Target: CD20: CD4,Target: CD20: CD4,Other,174.12,740.79
+Target: CD68: CD4,Target: CD68: CD4,Other,200.93,738.68
+Target: CD68: CD4,Target: CD68: CD4,Other,208.23,741.59
+Target: CD20: CD8,Target: CD20: CD8,Other,244.26,741.96
+Target: CD20,Target: CD20,Other,254.93,742.13
+Target: CD20,Target: CD20,Other,449.75,739.94
+Target: CD20: CD68,Target: CD20: CD68,Other,489.06,741.13
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,110.22,739.46
+PathCellObject,,Other,301.05,739.52
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,514.89,740.45
+Target: CD20,Target: CD20,Other,540.27,740.91
+PathCellObject,,Other,716.58,739.93
+Target: CD3: CD8,Target: CD3: CD8,Other,142.98,741.47
+Target: CD20: CD68,Target: CD20: CD68,Other,191.34,741.02
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,497.99,739.7
+Target: CD20,Target: CD20,Other,522.98,740.85
+PathCellObject,,Other,561.77,741.38
+Target: CD68,Target: CD68,Other,102.86,742.58
+Target: CD20,Target: CD20,Other,133.32,741.84
+PathCellObject,,Other,28.95,743.63
+PathCellObject,,Other,379.25,742.62
+PathCellObject,,Other,723.72,744.33
+Target: CD20: CD68: CD3,Target: CD20: CD68: CD3,Other,459.2,745.34
+Target: CD20,Target: CD20,Other,532.1,744.99
+Target: CD20,Target: CD20,Other,324.12,743.72
+Target: CD20: CD68,Target: CD20: CD68,Other,506.09,743.83
+PathCellObject,,Other,47.08,744.68
+PathCellObject,,Other,183.13,743.51
+Target: CD20,Target: CD20,Other,217.22,745.28
+PathCellObject,,Other,418.34,744.25
+Target: CD20,Target: CD20,Other,226.12,744.8
+PathCellObject,,Other,151.85,743.82
+PathCellObject,,Other,159.9,744.95
+Target: CD20,Target: CD20,Other,198.28,747.38
+PathCellObject,,Other,554.03,748.96
+Target: CD8,Target: CD8,Other,755.63,745.5
+Target: CD20,Target: CD20,Other,96.24,747.75
+PathCellObject,,Other,264.12,747.72
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,495.19,747.04
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,466.85,744.74
+Target: CD20: CD3,Target: CD20: CD3,Other,519.58,746.64
+PathCellObject,,Other,78.09,746.09
+Target: CD20,Target: CD20,Other,482.11,746.83
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,168.15,748.59
+Target: CD20: CD8,Target: CD20: CD8,Other,432.74,746.99
+Target: CD20,Target: CD20,Other,439.33,748.42
+PathCellObject,,Other,764.88,748
+Target: CD20,Target: CD20,Other,445.27,747.89
+Target: CD20,Target: CD20,Other,472.08,748.16
+PathCellObject,,Other,68.77,750.59
+Target: CD20: CD3,Target: CD20: CD3,Other,149.54,748.43
+Target: CD20,Target: CD20,Other,180.69,751.6
+PathCellObject,,Other,143.88,750.13
+Target: CD20,Target: CD20,Other,477.21,749.21
+Target: CD20: CD68,Target: CD20: CD68,Other,133.9,751.49
+Target: CD20,Target: CD20,Other,541.45,749.88
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,190.34,755.44
+Target: CD20,Target: CD20,Other,513.51,750.3
+Target: CD20,Target: CD20,Other,528.31,749.48
+Target: CD3: CD8,Target: CD3: CD8,Other,748.04,751.8
+Target: CD68,Target: CD68,Other,111.24,751.83
+Target: CD20,Target: CD20,Other,224.44,750.66
+PathCellObject,,Other,254.35,751.98
+Target: CD20,Target: CD20,Other,734.42,751.35
+Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,39.85,752.83
+Target: CD20: CD68,Target: CD20: CD68,Other,121.33,753.9
+Target: CD20,Target: CD20,Other,453.43,752.92
+Target: CD20,Target: CD20,Other,419.07,755.47
+PathCellObject,,Other,723.71,755.85
+Target: CD3: CD4,Target: CD3: CD4,Other,157.68,754.11
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,174.6,755.76
+PathCellObject,,Other,307,752.35
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,465.27,753.17
+Target: CD20: CD68,Target: CD20: CD68,Other,505.91,753.36
+Target: CD20,Target: CD20,Other,523.84,753.31
+PathCellObject,,Other,335.94,756.59
+Target: CD20,Target: CD20,Other,497.1,754.62
+Target: CD20,Target: CD20,Other,211.07,753.42
+Target: CD20,Target: CD20,Other,473.33,754.65
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,484.01,753.16
+PathCellObject,,Other,55.5,758.12
+Target: CD20,Target: CD20,Other,88.44,754.82
+Target: CD68: CD8,Target: CD68: CD8,Other,321.84,755.24
+Target: CD20,Target: CD20,Other,427.33,755.8
+Target: CD20,Target: CD20,Other,149.33,755.99
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,229.85,755.58
+Target: CD20,Target: CD20,Other,326.99,760.11
+Target: CD20,Target: CD20,Other,534.08,755.72
+PathCellObject,,Other,761.46,756.33
+PathCellObject,,Other,96.52,756.98
+Target: CD20: CD68,Target: CD20: CD68,Other,444.76,757.81
+Target: CD20: CD68,Target: CD20: CD68,Other,490.19,757.32
+Target: CD3: CD4,Target: CD3: CD4,Other,740.17,758.65
+Target: CD20,Target: CD20,Other,78.06,758.12
+PathCellObject,,Other,165.25,759.14
+Target: CD20: CD68,Target: CD20: CD68,Other,512.75,757.16
+Target: CD20,Target: CD20,Other,519.5,757.12
+PathCellObject,,Other,136.17,760.89
+Target: CD68,Target: CD68,Other,250.68,759.78
+Target: CD20,Target: CD20,Other,478.02,758.53
+Target: CD20: CD68,Target: CD20: CD68,Other,544.98,759.63
+Target: CD20: CD4,Target: CD20: CD4,Other,222,759.57
+Target: CD20: CD68,Target: CD20: CD68,Other,435.11,759.89
+Target: CD3: CD4,Target: CD3: CD4,Other,748.22,763.41
+Target: CD20: CD8,Target: CD20: CD8,Other,211.02,761.2
+Target: CD20: CD3,Target: CD20: CD3,Other,461.31,759.38
+PathCellObject,,Other,302.8,762.13
+Target: CD20: CD3,Target: CD20: CD3,Other,526.89,760.14
+PathCellObject,,Other,42.52,763.56
+Target: CD20,Target: CD20,Other,500.16,763.67
+Target: CD20,Target: CD20,Other,115.19,761.56
+Target: CD20,Target: CD20,Other,484.46,763.01
+Target: CD68,Target: CD68,Other,104.9,765.45
+PathCellObject,,Other,410.95,761.12
+Target: CD20,Target: CD20,Other,466.8,761.52
+PathCellObject,,Other,758.42,767.05
+Target: CD20,Target: CD20,Other,450.64,762.79
+Target: CD20,Target: CD20,Other,509.92,762.97
+Target: CD20,Target: CD20,Other,150.14,764.78
+Target: CD20,Target: CD20,Other,516.9,763.58
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,535.25,762.64
+Target: CD20,Target: CD20,Other,456.54,764.21
+Target: CD20,Target: CD20,Other,478.2,765.08
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,240.51,765.03
+PathCellObject,,Other,310.6,766.36
+Target: CD20,Target: CD20,Other,430.18,766.16
+Target: CD20,Target: CD20,Other,470.93,767.02
+Target: CD20,Target: CD20,Other,491.12,766.46
+Target: CD20,Target: CD20,Other,523.54,766.39
+Target: CD68,Target: CD68,Other,90.04,768.23
+Target: CD20: CD68: CD8,Target: CD20: CD68: CD8,Other,172.29,766.87
+Target: CD20: CD68,Target: CD20: CD68,Other,442.55,766.4
+Target: CD20,Target: CD20,Other,532.27,768.05
+Target: CD20: CD68,Target: CD20: CD68,Other,76.9,768.45
+Target: CD20,Target: CD20,Other,117.96,768.08
+Target: CD68: CD4,Target: CD68: CD4,Other,141.12,767.34
+Target: CD3: CD8,Target: CD3: CD8,Other,206.94,769.04
+Target: CD20,Target: CD20,Other,421.11,768.27
+Target: CD3: CD8,Target: CD3: CD8,Other,164.06,770.48
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,219.14,769.44
+PathCellObject,,Other,319.13,772.64
+Target: CD20,Target: CD20,Other,411.09,768.86
+Target: CD20,Target: CD20,Other,461.98,768.01
+PathCellObject,,Other,59.62,771.22
+Target: CD20: CD4,Target: CD20: CD4,Other,125.49,771.3
+PathCellObject,,Other,296.56,770.97
+Target: CD20: CD3,Target: CD20: CD3,Other,508.33,768.98
+Target: CD20: CD68,Target: CD20: CD68,Other,541.98,768.52
+PathCellObject,,Other,638.32,768.21
+PathCellObject,,Other,731.78,770.9
+Target: CD4,Target: CD4,Other,131.92,768.93
+Target: CD20,Target: CD20,Other,183.68,769.55
+PathCellObject,,Other,250.93,769.56
+Target: CD20,Target: CD20,Other,436.55,771.68
+PathCellObject,,Other,393.52,769.91
+Target: CD20,Target: CD20,Other,449.55,770.47
+PathCellObject,,Other,226.37,775.47
+Target: CD8,Target: CD8,Other,156.42,772.45
+Target: CD20,Target: CD20,Other,486.51,773.12
+PathCellObject,,Other,627.6,772
+Target: CD20,Target: CD20,Other,523.49,773.03
+Target: CD20,Target: CD20,Other,408.89,774.3
+Target: CD20,Target: CD20,Other,495.3,775.42
+Target: CD20,Target: CD20,Other,502.02,772.8
+Target: CD20,Target: CD20,Other,514.81,772.77
+Target: CD20: CD68,Target: CD20: CD68,Other,546.94,772.88
+Target: CD68,Target: CD68,Other,136.33,774.72
+Target: CD20: CD68,Target: CD20: CD68,Other,146.5,773.92
+Target: CD20: CD68,Target: CD20: CD68,Other,196.77,772.88
+Target: CD20,Target: CD20,Other,462.21,773.75
+Target: CD20,Target: CD20,Other,478.2,776.16
+Target: CD20,Target: CD20,Other,537.32,776.12
+Target: CD20,Target: CD20,Other,426.79,773.92
+Target: CD20: CD68,Target: CD20: CD68,Other,174.07,775.58
+Target: CD20: CD4,Target: CD20: CD4,Other,238.55,773.74
+PathCellObject,,Other,401.37,773.01
+Target: CD68: CD3,Target: CD68: CD3,Other,99.66,776.92
+Target: CD20,Target: CD20,Other,441.93,774.83
+Target: CD20,Target: CD20,Other,454.67,776.1
+PathCellObject,,Other,740.62,778.29
+Target: CD20,Target: CD20,Other,83.06,777.4
+Target: CD20: CD68,Target: CD20: CD68,Other,115.82,776.63
+Target: CD20: CD4: CD8,Target: CD20: CD4: CD8,Other,211.35,779.42
+Target: CD20,Target: CD20,Other,469.24,778.73
+Target: CD68,Target: CD68,Other,553.12,775.28
+Target: CD20,Target: CD20,Other,506.13,778.2
+PathCellObject,,Other,644.69,777.95
+Target: CD20,Target: CD20,Other,252.89,778.19
+Target: CD20: CD3,Target: CD20: CD3,Other,447.37,778.1
+Target: CD20,Target: CD20,Other,414.78,779.42
+Target: CD20,Target: CD20,Other,520.3,778.27
+Target: CD68,Target: CD68,Other,187.26,780.22
+Target: CD20: CD68,Target: CD20: CD68,Other,245.23,781.07
+PathCellObject,,Other,434.38,779.37
+Target: CD20,Target: CD20,Other,528.04,780.36
+Target: CD20,Target: CD20,Other,426.1,779.43
+PathCellObject,,Other,130.66,781.33
+Target: CD20: CD68,Target: CD20: CD68,Other,141.89,782.66
+Target: CD20: CD8,Target: CD20: CD8,Other,151.75,781.28
+PathCellObject,,Other,399.84,783.72
+Target: CD20,Target: CD20,Other,462.05,781.58
+Target: CD20,Target: CD20,Other,514.18,781.94
+PathCellObject,,Other,563.98,778.95
+Target: CD68,Target: CD68,Other,106.04,784.24
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,161,780.38
+Target: CD20: CD4,Target: CD20: CD4,Other,199.99,783.47
+Target: CD20,Target: CD20,Other,264.98,780.12
+Target: CD20,Target: CD20,Other,490.34,780.86
+PathCellObject,,Other,622.63,781.88
+Target: CD20: CD4,Target: CD20: CD4,Other,235.84,782.26
+Target: CD20,Target: CD20,Other,443.32,783.82
+Target: CD20,Target: CD20,Other,540.63,785.74
+Target: CD4,Target: CD4,Other,124.79,783.3
+Target: CD3: CD8,Target: CD3: CD8,Other,176.48,781.73
+Target: CD20,Target: CD20,Other,486.2,784.45
+Target: CD20,Target: CD20,Other,65.51,782.97
+Target: CD20,Target: CD20,Other,419.41,785.1
+Target: CD20: CD3,Target: CD20: CD3,Other,455.19,783.29
+Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,168.4,784.4
+Target: CD20,Target: CD20,Other,257.1,783.31
+Target: CD20,Target: CD20,Other,495.17,783.47
+PathCellObject,,Other,591.08,782.96
+PathCellObject,,Other,637.42,784.62
+Target: CD20,Target: CD20,Other,553.91,785.87
+Target: CD68,Target: CD68,Other,82.14,785.7
+Target: CD20: CD68,Target: CD20: CD68,Other,117.55,786.1
+Target: CD68,Target: CD68,Other,428.65,785.5
+Target: CD20,Target: CD20,Other,502.43,784
+Target: CD20,Target: CD20,Other,547.54,786.82
+Target: CD68,Target: CD68,Other,561.95,786.7
+Target: CD68: CD8,Target: CD68: CD8,Other,181.08,786.56
+Target: CD20,Target: CD20,Other,434.84,790.65
+Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,159.45,787.6
+Target: CD20,Target: CD20,Other,406.36,790.45
+Target: CD20,Target: CD20,Other,468.66,788.71
+Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,133.67,789.84
+Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,149.88,791.14
+Target: CD20,Target: CD20,Other,269.53,789.15
+Target: CD20,Target: CD20,Other,450.12,789.85
+Target: CD20,Target: CD20,Other,479.29,790.16
+Target: CD20,Target: CD20,Other,497.13,790.58
+Target: CD20,Target: CD20,Other,530.65,788.01
+Target: CD20,Target: CD20,Other,235.26,789.19
+PathCellObject,,Other,621.54,790.38
+Target: CD20,Target: CD20,Other,73.29,792.2
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,258.65,790.61
+Target: CD20,Target: CD20,Other,505.4,789.15
+Target: CD20,Target: CD20,Other,455.24,791.92
+Target: CD20: CD3,Target: CD20: CD3,Other,513.81,789.69
+Target: CD68,Target: CD68,Other,573.11,788.08
+Target: CD20,Target: CD20,Other,90.11,791.57
+Target: CD20,Target: CD20,Other,186.85,789.98
+Target: CD20: CD68,Target: CD20: CD68,Other,206.51,790.87
+Target: CD20,Target: CD20,Other,461.37,789.8
+PathCellObject,,Other,632.16,793.87
+PathCellObject,,Other,712.29,791.4
+Target: CD68: CD8,Target: CD68: CD8,Other,173.82,792.02
+Target: CD20,Target: CD20,Other,193.07,791.59
+Target: CD20,Target: CD20,Other,427,791.73
+Target: CD20,Target: CD20,Other,442.39,795
+PathCellObject,,Other,599.92,791.49
+Target: CD20,Target: CD20,Other,488.81,792.94
+Target: CD20,Target: CD20,Other,521.58,790.95
+PathCellObject,,Other,581.84,793.01
+Target: CD20,Target: CD20,Other,534.84,793.43
+Target: CD20,Target: CD20,Other,126.95,795.16
+Target: CD20: CD68: CD3: CD4,Target: CD20: CD68: CD3: CD4,Other,114.75,794.86
+PathCellObject,,Other,252.04,794.78
+Target: CD20,Target: CD20,Other,181.21,795.6
+Target: CD20,Target: CD20,Other,215.4,794.6
+Target: CD20,Target: CD20,Other,242.96,794.11
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Other,164.96,795.37
+Target: CD20: CD68,Target: CD20: CD68,Other,230.1,794.72
+Target: CD20,Target: CD20,Other,551.26,795.52
+PathCellObject,,Other,701.84,794.12
+Target: CD20,Target: CD20,Other,143.03,795.36
+Target: CD20,Target: CD20,Other,422.09,795.84
+Target: CD20,Target: CD20,Other,461.58,796.55
+Target: CD20: CD68,Target: CD20: CD68,Other,560.64,795.28
+Target: CD68,Target: CD68,Other,100.13,795.08
+Target: CD20,Target: CD20,Other,156.42,796.12
+Target: CD20,Target: CD20,Other,526.28,796.27
+PathCellObject,,Other,568.69,796.27
+Target: CD20,Target: CD20,Other,511.4,796.68
+Target: CD20,Target: CD20,Other,542.25,796.59
+PathCellObject,,Other,608.81,795.64
+PathCellObject,,Other,296.62,795.3
+Target: CD20,Target: CD20,Other,473.96,796.77
+PathCellObject,,Other,189.09,797.43
+Target: CD20,Target: CD20,Other,493.03,797.44
+Target: CD20,Target: CD20,Other,503.45,796.81
+Target: CD20,Target: CD20,Other,518.87,797.48
+Target: CD20,Target: CD20,Other,533.25,797.57
+PathCellObject,,Other,723.42,795.92
+PathCellObject,,Tumor,595.74,7.17
+Target: CD8,Target: CD8,Tumor,662.71,3.007
+PathCellObject,,Tumor,682.97,8.42
+PathCellObject,,Tumor,673.99,3.677
+PathCellObject,,Tumor,646.1,8.447
+PathCellObject,,Tumor,584.03,9.78
+PathCellObject,,Tumor,695.11,6.492
+PathCellObject,,Tumor,621.08,12.27
+PathCellObject,,Tumor,570.88,7.235
+Target: CD8,Target: CD8,Tumor,659.92,11.27
+PathCellObject,,Tumor,563.57,8.656
+PathCellObject,,Tumor,671.4,14.35
+PathCellObject,,Tumor,635.27,11.01
+PathCellObject,,Tumor,553.63,16.82
+PathCellObject,,Tumor,574.53,14.42
+PathCellObject,,Tumor,604.27,14.26
+PathCellObject,,Tumor,692.61,15.17
+PathCellObject,,Tumor,567.14,18.47
+Target: CD3,Target: CD3,Tumor,630.25,24.65
+PathCellObject,,Tumor,580.8,24.12
+PathCellObject,,Tumor,685.42,21.06
+Target: CD8,Target: CD8,Tumor,657.48,21.18
+PathCellObject,,Tumor,695.46,25.54
+PathCellObject,,Tumor,601.2,24.64
+PathCellObject,,Tumor,569.77,29.23
+PathCellObject,,Tumor,615.49,29.92
+PathCellObject,,Tumor,545.96,29.15
+PathCellObject,,Tumor,665.76,27.06
+PathCellObject,,Tumor,641.5,29.98
+PathCellObject,,Tumor,657,33.71
+PathCellObject,,Tumor,593.12,32.03
+PathCellObject,,Tumor,680.19,35.31
+PathCellObject,,Tumor,670.56,37.7
+PathCellObject,,Tumor,605.08,40.09
+PathCellObject,,Tumor,664.54,47.18
+PathCellObject,,Tumor,343.75,44.65
+PathCellObject,,Tumor,328.19,53.79
+PathCellObject,,Tumor,339.07,55.32
+PathCellObject,,Tumor,680.29,53.52
+PathCellObject,,Tumor,649.04,58.2
+PathCellObject,,Tumor,665.25,60.98
+PathCellObject,,Tumor,356.27,60.79
+PathCellObject,,Tumor,346.34,59.26
+PathCellObject,,Tumor,676.4,61.86
+PathCellObject,,Tumor,660.07,64.17
+PathCellObject,,Tumor,344.13,67.91
+PathCellObject,,Tumor,655.51,69.05
+PathCellObject,,Tumor,690.38,70.5
+PathCellObject,,Tumor,330.51,72.06
+PathCellObject,,Tumor,646.6,75.06
+PathCellObject,,Tumor,661.23,74.62
+PathCellObject,,Tumor,365.02,76.98
+PathCellObject,,Tumor,668.98,75.52
+PathCellObject,,Tumor,674.73,74.4
+PathCellObject,,Tumor,680.06,75.07
+PathCellObject,,Tumor,342.45,77.29
+PathCellObject,,Tumor,675.65,84.51
+PathCellObject,,Tumor,658,84.78
+PathCellObject,,Tumor,330.86,82.65
+PathCellObject,,Tumor,683.12,83.92
+PathCellObject,,Tumor,692.97,86.83
+Target: CD20,Target: CD20,Tumor,648.82,90.24
+PathCellObject,,Tumor,322.97,84.92
+PathCellObject,,Tumor,358.12,85.31
+PathCellObject,,Tumor,350.62,89.44
+PathCellObject,,Tumor,341.63,87.52
+PathCellObject,,Tumor,668.18,92.54
+PathCellObject,,Tumor,334.64,93.12
+PathCellObject,,Tumor,366.97,96.23
+Target: CD20,Target: CD20,Tumor,634.21,94.93
+Target: CD8,Target: CD8,Tumor,610.04,97.65
+PathCellObject,,Tumor,349.07,97.49
+PathCellObject,,Tumor,357.13,98.86
+Target: CD20,Target: CD20,Tumor,596.45,99.46
+PathCellObject,,Tumor,344.82,102
+PathCellObject,,Tumor,693.12,100.6
+PathCellObject,,Tumor,337.22,105.59
+PathCellObject,,Tumor,355.06,107.7
+PathCellObject,,Tumor,685.93,105.5
+PathCellObject,,Tumor,366.05,107.44
+PathCellObject,,Tumor,633.98,113.5
+PathCellObject,,Tumor,696.84,109.03
+PathCellObject,,Tumor,373.81,112.49
+Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Tumor,616.85,109.66
+PathCellObject,,Tumor,681.43,109.61
+PathCellObject,,Tumor,601.43,114.16
+PathCellObject,,Tumor,609.85,115.14
+PathCellObject,,Tumor,688.37,116.66
+PathCellObject,,Tumor,701.64,117.4
+PathCellObject,,Tumor,592.87,116.65
+PathCellObject,,Tumor,676.99,124.69
+Target: CD68,Target: CD68,Tumor,619.42,122.58
+PathCellObject,,Tumor,359.78,123.07
+PathCellObject,,Tumor,691.82,128.47
+PathCellObject,,Tumor,609.61,132.1
+PathCellObject,,Tumor,626.71,130.18
+PathCellObject,,Tumor,701.02,128.55
+PathCellObject,,Tumor,685.85,147.17
+PathCellObject,,Tumor,373.7,151
+PathCellObject,,Tumor,378.62,163.12
+PathCellObject,,Tumor,388.74,173.65
+PathCellObject,,Tumor,340.5,172.29
+PathCellObject,,Tumor,710.5,176.17
+PathCellObject,,Tumor,336.27,180.81
+PathCellObject,,Tumor,701.48,190.56
+PathCellObject,,Tumor,717.15,192.27
+PathCellObject,,Tumor,338.64,193.26
+PathCellObject,,Tumor,353.47,200.89
+PathCellObject,,Tumor,366.35,196.72
+PathCellObject,,Tumor,374.03,197.33
+PathCellObject,,Tumor,731.7,200.51
+PathCellObject,,Tumor,379.3,200.58
+PathCellObject,,Tumor,317.18,204.99
+PathCellObject,,Tumor,329.28,205.09
+PathCellObject,,Tumor,339.03,210.39
+PathCellObject,,Tumor,381.36,207.34
+PathCellObject,,Tumor,367.23,211.15
+PathCellObject,,Tumor,345.87,217.88
+PathCellObject,,Tumor,330.52,215.58
+PathCellObject,,Tumor,730.46,217.15
+PathCellObject,,Tumor,312.64,218.44
+PathCellObject,,Tumor,383.08,219.67
+PathCellObject,,Tumor,325.55,219.71
+PathCellObject,,Tumor,361.32,220.19
+PathCellObject,,Tumor,745.25,225.67
+PathCellObject,,Tumor,786.17,223.73
+PathCellObject,,Tumor,193.01,222.38
+PathCellObject,,Tumor,398.37,226.54
+PathCellObject,,Tumor,372.62,223.1
+PathCellObject,,Tumor,204.21,224.84
+PathCellObject,,Tumor,363.5,228.78
+PathCellObject,,Tumor,186.54,229.61
+PathCellObject,,Tumor,316.21,229.18
+PathCellObject,,Tumor,351.17,228.8
+PathCellObject,,Tumor,425.34,230.35
+PathCellObject,,Tumor,373.29,229.65
+Target: CD20,Target: CD20,Tumor,340.52,232.48
+PathCellObject,,Tumor,733.78,231.45
+PathCellObject,,Tumor,203.89,237.24
+PathCellObject,,Tumor,380.53,237.57
+PathCellObject,,Tumor,365.4,237.37
+PathCellObject,,Tumor,730.15,236.64
+PathCellObject,,Tumor,393.32,242.4
+Target: CD20: CD8,Target: CD20: CD8,Tumor,349.78,240.79
+PathCellObject,,Tumor,440.13,242.48
+PathCellObject,,Tumor,185.6,244.05
+PathCellObject,,Tumor,421.56,241.54
+PathCellObject,,Tumor,404.73,241.69
+PathCellObject,,Tumor,411.42,244.81
+PathCellObject,,Tumor,427.35,251.8
+PathCellObject,,Tumor,399.95,252.27
+PathCellObject,,Tumor,204.98,252.35
+PathCellObject,,Tumor,410.86,255.42
+PathCellObject,,Tumor,441.9,254.43
+PathCellObject,,Tumor,183.75,256.19
+PathCellObject,,Tumor,449.07,257.01
+PathCellObject,,Tumor,420.87,264.61
+PathCellObject,,Tumor,434.36,260.23
+PathCellObject,,Tumor,455.57,262.03
+PathCellObject,,Tumor,202.25,264.46
+PathCellObject,,Tumor,405.17,270.23
+PathCellObject,,Tumor,433.82,268.06
+PathCellObject,,Tumor,444.84,266.94
+PathCellObject,,Tumor,455.66,269.97
+PathCellObject,,Tumor,440.89,279.39
+PathCellObject,,Tumor,465.26,277.17
+PathCellObject,,Tumor,196.96,275.17
+PathCellObject,,Tumor,426.59,278.03
+PathCellObject,,Tumor,453.97,284.57
+PathCellObject,,Tumor,432.62,284.01
+PathCellObject,,Tumor,435.97,291.79
+PathCellObject,,Tumor,193.9,291.71
+PathCellObject,,Tumor,177.22,296.97
+PathCellObject,,Tumor,442.98,299.06
+PathCellObject,,Tumor,455.41,298.18
+PathCellObject,,Tumor,191.79,304.42
+PathCellObject,,Tumor,473.29,306.02
+PathCellObject,,Tumor,487.99,304.5
+PathCellObject,,Tumor,461.01,304.99
+PathCellObject,,Tumor,448.75,308.87
+PathCellObject,,Tumor,461.63,313.77
+PathCellObject,,Tumor,528.45,312.61
+PathCellObject,,Tumor,494.13,315.92
+PathCellObject,,Tumor,450.1,316.57
+PathCellObject,,Tumor,459.67,326.32
+PathCellObject,,Tumor,447.64,323.28
+PathCellObject,,Tumor,527.4,325.56
+PathCellObject,,Tumor,471.6,327.94
+Target: CD20,Target: CD20,Tumor,498.72,324.83
+PathCellObject,,Tumor,437.07,328.94
+PathCellObject,,Tumor,487.36,328.59
+PathCellObject,,Tumor,452.98,334.35
+PathCellObject,,Tumor,486.97,341.47
+PathCellObject,,Tumor,475.57,341.11
+PathCellObject,,Tumor,465.73,343.89
+PathCellObject,,Tumor,500.59,343.68
+PathCellObject,,Tumor,332.74,346.92
+PathCellObject,,Tumor,474.48,352.52
+PathCellObject,,Tumor,351.2,349.97
+PathCellObject,,Tumor,346.42,361.35
+Target: CD20,Target: CD20,Tumor,461.8,360.91
+PathCellObject,,Tumor,325.42,360.1
+PathCellObject,,Tumor,474.54,364.62
+PathCellObject,,Tumor,334.45,364.59
+PathCellObject,,Tumor,251.08,375.5
+PathCellObject,,Tumor,326.69,375.69
+PathCellObject,,Tumor,466.38,372.42
+PathCellObject,,Tumor,230.44,372.85
+PathCellObject,,Tumor,217.74,378.93
+PathCellObject,,Tumor,481.55,377.34
+Target: CD20,Target: CD20,Tumor,467.88,381.7
+PathCellObject,,Tumor,500.19,378.09
+PathCellObject,,Tumor,235.81,386.64
+PathCellObject,,Tumor,341.97,381.43
+PathCellObject,,Tumor,493.07,391.85
+PathCellObject,,Tumor,268.92,388.15
+PathCellObject,,Tumor,472.81,388.71
+PathCellObject,,Tumor,589.59,390.53
+PathCellObject,,Tumor,574.21,392.43
+PathCellObject,,Tumor,477.56,393.76
+PathCellObject,,Tumor,474.75,399.85
+PathCellObject,,Tumor,507.29,401.11
+PathCellObject,,Tumor,565.88,399.05
+PathCellObject,,Tumor,583.71,400.04
+PathCellObject,,Tumor,596.6,402.55
+PathCellObject,,Tumor,236.5,403.68
+PathCellObject,,Tumor,484.25,405.48
+PathCellObject,,Tumor,576.13,407.9
+PathCellObject,,Tumor,562.8,405.72
+PathCellObject,,Tumor,498.14,411.72
+Target: CD20,Target: CD20,Tumor,562.16,413.45
+PathCellObject,,Tumor,590.46,416.03
+PathCellObject,,Tumor,574.07,418.5
+PathCellObject,,Tumor,582.49,423.74
+PathCellObject,,Tumor,291.87,420.52
+PathCellObject,,Tumor,498.22,426.47
+PathCellObject,,Tumor,568.27,426.47
+PathCellObject,,Tumor,123.05,425.07
+PathCellObject,,Tumor,279.04,425.01
+PathCellObject,,Tumor,317.62,426.43
+PathCellObject,,Tumor,285.44,434.05
+PathCellObject,,Tumor,140.01,427.82
+PathCellObject,,Tumor,301.51,430.47
+PathCellObject,,Tumor,339.02,431.12
+PathCellObject,,Tumor,575.95,433.52
+Target: CD20,Target: CD20,Tumor,329.98,431.46
+PathCellObject,,Tumor,129.15,434.21
+PathCellObject,,Tumor,144.98,436.59
+PathCellObject,,Tumor,325.64,436.86
+PathCellObject,,Tumor,312.19,438.54
+PathCellObject,,Tumor,118.52,437.12
+PathCellObject,,Tumor,267.79,440.13
+PathCellObject,,Tumor,335.25,441.53
+PathCellObject,,Tumor,136.57,444.51
+PathCellObject,,Tumor,115.36,442.92
+PathCellObject,,Tumor,292.91,446.02
+PathCellObject,,Tumor,322.84,445.84
+PathCellObject,,Tumor,285.72,444.7
+PathCellObject,,Tumor,305.96,447.66
+PathCellObject,,Tumor,274.79,448.76
+Target: CD20,Target: CD20,Tumor,550.57,448.88
+PathCellObject,,Tumor,281.6,452.08
+PathCellObject,,Tumor,117.07,451.95
+Target: CD20,Target: CD20,Tumor,566.82,449.81
+PathCellObject,,Tumor,333.02,455.36
+PathCellObject,,Tumor,319.95,459.02
+PathCellObject,,Tumor,299,456.34
+PathCellObject,,Tumor,558.48,460.25
+PathCellObject,,Tumor,106.76,462.11
+PathCellObject,,Tumor,548.66,463.24
+PathCellObject,,Tumor,310.44,466.44
+PathCellObject,,Tumor,116.32,470.9
+PathCellObject,,Tumor,126.73,469.15
+Target: CD8,Target: CD8,Tumor,331,476.07
+PathCellObject,,Tumor,425.19,476.2
+PathCellObject,,Tumor,307.89,479.55
+PathCellObject,,Tumor,440.02,484.06
+PathCellObject,,Tumor,314.81,484.24
+PathCellObject,,Tumor,303.96,484.86
+PathCellObject,,Tumor,416.39,485.48
+PathCellObject,,Tumor,330.04,488.46
+PathCellObject,,Tumor,429.55,487.64
+PathCellObject,,Tumor,402.2,491.27
+PathCellObject,,Tumor,303.55,493.4
+PathCellObject,,Tumor,417.66,493.02
+PathCellObject,,Tumor,313.07,498.73
+PathCellObject,,Tumor,426.54,499.98
+PathCellObject,,Tumor,411.34,500.02
+PathCellObject,,Tumor,326.87,502.46
+PathCellObject,,Tumor,308.38,512.09
+PathCellObject,,Tumor,340.96,509.34
+PathCellObject,,Tumor,410.52,514.78
+Target: CD20,Target: CD20,Tumor,292.54,510.48
+PathCellObject,,Tumor,327.78,516.41
+PathCellObject,,Tumor,300.35,519.8
+PathCellObject,,Tumor,294.76,518.15
+PathCellObject,,Tumor,305.37,522.99
+PathCellObject,,Tumor,283.64,523.88
+PathCellObject,,Tumor,292.89,524.18
+PathCellObject,,Tumor,398.56,527.63
+PathCellObject,,Tumor,307.61,529.64
+PathCellObject,,Tumor,299.76,529.52
+PathCellObject,,Tumor,329.39,530.59
+PathCellObject,,Tumor,291.15,532.4
+PathCellObject,,Tumor,366.63,534.85
+PathCellObject,,Tumor,315.29,533.17
+PathCellObject,,Tumor,295.16,538.23
+PathCellObject,,Tumor,284.45,540.16
+PathCellObject,,Tumor,302.3,538.63
+PathCellObject,,Tumor,321.69,538.26
+PathCellObject,,Tumor,311.24,541.33
+PathCellObject,,Tumor,327.16,545.43
+PathCellObject,,Tumor,302.75,546.4
+PathCellObject,,Tumor,317.96,544.19
+PathCellObject,,Tumor,381.59,544.31
+PathCellObject,,Tumor,361.35,547.46
+PathCellObject,,Tumor,291.28,553.51
+PathCellObject,,Tumor,315.46,553.39
+PathCellObject,,Tumor,522.88,564.84
+PathCellObject,,Tumor,298.89,565.77
+PathCellObject,,Tumor,544.96,570.81
+PathCellObject,,Tumor,533.19,573.42
+PathCellObject,,Tumor,325.95,570.45
+PathCellObject,,Tumor,521.43,576.18
+PathCellObject,,Tumor,324.17,579.71
+PathCellObject,,Tumor,342.43,584.2
+PathCellObject,,Tumor,330.04,591.71
+PathCellObject,,Tumor,330.62,601.21
+PathCellObject,,Tumor,342.34,602.11
+PathCellObject,,Tumor,408.53,606.43
+PathCellObject,,Tumor,596.24,623.51
+PathCellObject,,Tumor,632.85,623.86
+PathCellObject,,Tumor,646.57,629.89
+PathCellObject,,Tumor,751.07,626.19
+PathCellObject,,Tumor,413.04,629.76
+PathCellObject,,Tumor,606.49,632.86
+PathCellObject,,Tumor,557,636.02
+PathCellObject,,Tumor,628.5,636.62
+PathCellObject,,Tumor,751.76,636.28
+PathCellObject,,Tumor,535.28,639.42
+PathCellObject,,Tumor,646.41,645.96
+PathCellObject,,Tumor,568.36,642.71
+PathCellObject,,Tumor,527.4,643.05
+PathCellObject,,Tumor,755.7,644.61
+PathCellObject,,Tumor,586.33,647.29
+PathCellObject,,Tumor,621.84,646.2
+PathCellObject,,Tumor,765.75,647.85
+PathCellObject,,Tumor,746.39,651.63
+PathCellObject,,Tumor,573.06,648.01
+PathCellObject,,Tumor,523.7,650.15
+PathCellObject,,Tumor,541.2,651.29
+PathCellObject,,Tumor,657.9,648.03
+PathCellObject,,Tumor,665.6,652.32
+PathCellObject,,Tumor,560.29,654.31
+PathCellObject,,Tumor,654.37,653.72
+PathCellObject,,Tumor,573.87,658.19
+Target: CD20,Target: CD20,Tumor,518.66,658.31
+PathCellObject,,Tumor,647.87,659.35
+PathCellObject,,Tumor,658.19,667.73
+PathCellObject,,Tumor,536.76,660
+PathCellObject,,Tumor,610.59,659.7
+PathCellObject,,Tumor,679.41,660.95
+PathCellObject,,Tumor,561.73,665.96
+Target: CD8,Target: CD8,Tumor,589.53,668.06
+PathCellObject,,Tumor,769.47,667.79
+Target: CD20,Target: CD20,Tumor,502.1,665.7
+PathCellObject,,Tumor,693.54,666.7
+PathCellObject,,Tumor,637.25,666.11
+PathCellObject,,Tumor,669.6,666.69
+PathCellObject,,Tumor,515.75,668.57
+PathCellObject,,Tumor,603.39,671.2
+Target: CD20,Target: CD20,Tumor,647.09,669.75
+PathCellObject,,Tumor,614.97,669.8
+PathCellObject,,Tumor,674.82,670.19
+PathCellObject,,Tumor,680.57,669.63
+PathCellObject,,Tumor,539.54,675.42
+PathCellObject,,Tumor,703.09,674.97
+PathCellObject,,Tumor,685.05,672.49
+PathCellObject,,Tumor,638.16,676.14
+PathCellObject,,Tumor,681.54,684.08
+PathCellObject,,Tumor,571.1,677.14
+PathCellObject,,Tumor,471.71,676.96
+PathCellObject,,Tumor,581.07,680.85
+PathCellObject,,Tumor,495.01,680.05
+PathCellObject,,Tumor,620.53,685.41
+PathCellObject,,Tumor,696.42,685.68
+PathCellObject,,Tumor,475.64,686.85
+PathCellObject,,Tumor,635.65,684.09
+PathCellObject,,Tumor,710.98,688.85
+PathCellObject,,Tumor,702.65,688.79
+PathCellObject,,Tumor,719.32,686.3
+PathCellObject,,Tumor,609.11,689.65
+PathCellObject,,Tumor,576.74,690.41
+PathCellObject,,Tumor,586.09,689.87
+PathCellObject,,Tumor,629.42,691.99
+PathCellObject,,Tumor,638.68,694.67
+PathCellObject,,Tumor,660.33,693.4
+Target: CD8,Target: CD8,Tumor,597.35,694.69
+PathCellObject,,Tumor,698.07,695.42
+PathCellObject,,Tumor,689.84,696
+PathCellObject,,Tumor,579.67,700.19
+PathCellObject,,Tumor,666.88,701.53
+PathCellObject,,Tumor,466.76,702.78
+PathCellObject,,Tumor,703.97,700.66
+PathCellObject,,Tumor,617.5,703.46
+Target: CD20,Target: CD20,Tumor,590,702.98
+PathCellObject,,Tumor,608.99,701.81
+PathCellObject,,Tumor,698.16,708.37
+PathCellObject,,Tumor,642.59,702.11
+PathCellObject,,Tumor,603.61,704.15
+PathCellObject,,Tumor,631.93,706.29
+PathCellObject,,Tumor,678.91,704.15
+PathCellObject,,Tumor,566.24,707.06
+PathCellObject,,Tumor,714.31,705.5
+PathCellObject,,Tumor,639.96,707.96
+Target: CD20: CD8,Target: CD20: CD8,Tumor,596.69,709.24
+PathCellObject,,Tumor,647.26,707.96
+PathCellObject,,Tumor,608.76,710.97
+PathCellObject,,Tumor,675.16,711.27
+PathCellObject,,Tumor,688.91,712.3
+PathCellObject,,Tumor,642.38,716.72
+PathCellObject,,Tumor,666.53,716.93
+Target: CD20: CD68: CD4,Target: CD20: CD68: CD4,Tumor,651.53,713.97
+Target: CD8,Target: CD8,Tumor,588.35,712.58
+PathCellObject,,Tumor,600.54,717.09
+Target: CD8,Target: CD8,Tumor,576.36,718.51
+PathCellObject,,Tumor,721.31,717.64
+PathCellObject,,Tumor,567.48,717.82
+PathCellObject,,Tumor,612.94,717.24
+Target: CD68,Target: CD68,Tumor,657.44,718.14
+PathCellObject,,Tumor,587.94,721.4
+PathCellObject,,Tumor,686.56,719.86
+PathCellObject,,Tumor,709.31,722.46
+PathCellObject,,Tumor,554.7,719.5
+PathCellObject,,Tumor,624.98,721.77
+PathCellObject,,Tumor,606.52,724.69
+PathCellObject,,Tumor,563.8,727.48
+PathCellObject,,Tumor,636.38,722.2
+PathCellObject,,Tumor,670.73,728.39
+PathCellObject,,Tumor,645.34,725.33
+PathCellObject,,Tumor,681.21,726.42
+PathCellObject,,Tumor,617.22,728.4
+PathCellObject,,Tumor,577.07,729.85
+PathCellObject,,Tumor,657.03,730.73
+PathCellObject,,Tumor,637.77,729.85
+PathCellObject,,Tumor,597.19,735.34
+PathCellObject,,Tumor,692.79,729.21
+PathCellObject,,Tumor,571.25,734.02
+PathCellObject,,Tumor,699.22,734.23
+PathCellObject,,Tumor,708.16,733.84
+PathCellObject,,Tumor,644.87,736.66
+PathCellObject,,Tumor,685.13,734.75
+PathCellObject,,Tumor,612.44,737.05
+PathCellObject,,Tumor,626.13,735.74
+PathCellObject,,Tumor,633.83,737.94
+PathCellObject,,Tumor,582.15,739.72
+PathCellObject,,Tumor,680.84,737.98
+PathCellObject,,Tumor,623.33,743.15
+PathCellObject,,Tumor,708.53,745.06
+PathCellObject,,Tumor,680.87,744
+PathCellObject,,Tumor,648.63,746
+Target: CD68,Target: CD68,Tumor,695.34,745.93
+PathCellObject,,Tumor,591.16,746.57
+PathCellObject,,Tumor,583.67,753.78
+PathCellObject,,Tumor,603.64,751.6
+PathCellObject,,Tumor,663.53,752.93
+PathCellObject,,Tumor,569.32,752.81
+PathCellObject,,Tumor,632.04,753.25
+PathCellObject,,Tumor,687.59,757.6
+PathCellObject,,Tumor,592,752.77
+PathCellObject,,Tumor,683.76,751.74
+PathCellObject,,Tumor,715.35,757.3
+PathCellObject,,Tumor,724.14,753.62
+PathCellObject,,Tumor,549.29,755.61
+PathCellObject,,Tumor,618.67,753.05
+PathCellObject,,Tumor,559.15,754.89
+PathCellObject,,Tumor,611.01,759.85
+PathCellObject,,Tumor,704.23,760.14
+PathCellObject,,Tumor,653.53,763.56
+PathCellObject,,Tumor,617.88,762.89
+PathCellObject,,Tumor,646.77,760.28
+PathCellObject,,Tumor,595.02,767.94
+PathCellObject,,Tumor,638.8,763.54
+PathCellObject,,Tumor,565.23,768.03
+PathCellObject,,Tumor,630.31,767.11
+PathCellObject,,Tumor,579.4,769.91
+PathCellObject,,Tumor,623.8,767.76
+PathCellObject,,Tumor,607.77,769.63
+PathCellObject,,Tumor,709.31,768.42
+PathCellObject,,Tumor,670.81,771.16
+Target: CD68,Target: CD68,Tumor,555.02,769.93
+PathCellObject,,Tumor,656.41,773.44
+PathCellObject,,Tumor,617.38,773.37
+PathCellObject,,Tumor,717.24,773.24
+PathCellObject,,Tumor,690.89,775.43
+PathCellObject,,Tumor,625.52,776.9
+PathCellObject,,Tumor,644.27,775.18
+PathCellObject,,Tumor,679.42,775.36
+PathCellObject,,Tumor,603.27,779.65
+PathCellObject,,Tumor,713.73,783.27
+Target: CD20,Target: CD20,Tumor,675.57,784.87
+PathCellObject,,Tumor,584.48,783.11
+Target: CD8,Target: CD8,Tumor,705.37,781.86
+Target: CD68,Target: CD68,Tumor,684.75,784.88
+PathCellObject,,Tumor,652.25,783.54
+Target: CD8,Target: CD8,Tumor,701.89,789.07
+PathCellObject,,Tumor,648.67,789.76
+PathCellObject,,Tumor,660.85,791.84
+Target: CD20,Target: CD20,Tumor,693.15,793.5
+PathCellObject,,Tumor,642.72,794.44
+PathCellObject,,Tumor,681.78,795.37

@@ -1,0 +1,2590 @@
+Object ID,Name,Class,Parent,Centroid X µm,Centroid Y µm
+ce167ec8-6fbe-42a8-81f2-6f8dbc45f740,Target: CD20: CD8,Target: CD20: CD8,Other,205,2.891
+69c29979-2ecd-401a-8e70-75eb8bcbef26,PathCellObject,,Other,243.5,5.062
+14773f05-14df-4a50-8842-2f16722c9510,PathCellObject,,Other,342.32,3.543
+b38cfc76-5b75-4895-b218-54788c443bd7,PathCellObject,,Other,352.45,4.204
+b984f876-c4da-4da4-be3e-0a709797bcc4,PathCellObject,,Other,750.59,4.894
+b21babf3-e0e3-455a-95d3-95881bb44ead,Target: CD20: CD4,Target: CD20: CD4,Other,148.72,5.671
+23fecc46-9a73-4812-b0cd-771ea74ac326,PathCellObject,,Other,333.29,3.691
+85e6f5a6-bd11-4e88-b7ba-58231e4c0179,PathCellObject,,Other,471.25,3.669
+913caad6-ead8-4538-872e-0f962e7d4365,PathCellObject,,Other,497.32,4.121
+e1bf7afe-b388-4aff-9f14-0bb74a5f4e6c,PathCellObject,,Other,560.56,3.838
+c708cbf5-db64-4da4-a58b-b8fa654de67b,PathCellObject,,Other,583.21,4.571
+369e1a23-b0b7-48c1-96e2-7efdb828148a,PathCellObject,,Other,666.5,3.962
+5fff49bf-1c91-4efd-9a5f-60464b2dadcd,PathCellObject,,Other,778.15,3.407
+37ec8eab-8cc0-439f-83cd-a2bcbeca066f,Target: CD3: CD4,Target: CD3: CD4,Other,218.02,6.184
+979ed50a-d264-44a6-a5d4-bc6276d1377c,Target: CD3: CD4,Target: CD3: CD4,Other,231.93,5.993
+a9b63d50-2d2e-4650-b350-e0f82bcb9583,PathCellObject,,Other,693.91,3.535
+cb9f26d1-83c4-4bcd-b6ed-bf5af68409d6,PathCellObject,,Other,713.76,5.245
+e5cf2736-5e14-4dcb-8f01-e8ce824fa5ce,Target: CD3,Target: CD3,Other,105.72,6.389
+e23c90f3-33a3-41b8-8851-98e20964a9fb,Target: CD20: CD3,Target: CD20: CD3,Other,118.03,6.578
+a4aa026e-a2a2-4c9c-8cf2-1d542ebbe494,PathCellObject,,Other,480.02,6.059
+de1153e0-5aaa-44ca-be50-2b5f5cd6b2bb,PathCellObject,,Other,765.55,5.704
+c73e3678-f807-4d71-bd1b-6bba6fc2f920,PathCellObject,,Other,544.08,8.526
+62bae166-4e9c-4590-8cd9-72e0126ed2bf,Target: CD20,Target: CD20,Other,599.34,5.307
+e7268a1e-e90e-4fa9-bac7-da22ff6f1598,PathCellObject,,Other,157.15,7.697
+ec6a82ec-7cda-41f5-a77c-0b0f8f0b323d,PathCellObject,,Other,166,7.188
+ee7b1980-59aa-449b-8129-a7488b69f6c2,Target: CD20: CD68,Target: CD20: CD68,Other,139.04,7.686
+6e6ba38e-1962-4a82-91e8-a050398a3839,Target: CD3,Target: CD3,Other,528.25,6.76
+20b04a69-83cf-4040-a0c2-f5aa9b37ca1b,PathCellObject,,Other,682.65,7.204
+be7e6322-5fe6-48b1-b028-da1316439d2a,PathCellObject,,Other,426.54,6.93
+dc930a5d-19b1-40f6-a9fe-a29b49aa100b,PathCellObject,,Other,326.28,11.64
+631422c0-07de-4868-a3b9-1e9d10926959,PathCellObject,,Other,400.48,9.423
+60d210fa-27b8-430c-bff9-72832d5f0ae3,PathCellObject,,Other,338.83,11.11
+1b560011-2cb4-476d-819e-9a5d7430184d,Target: CD20,Target: CD20,Other,205.07,12.25
+4f438527-658e-40f0-b7a5-4ceff16056cd,PathCellObject,,Other,697.91,10.87
+e4c79bbc-6bc4-4789-9736-4d41c4c0a90d,Target: CD3,Target: CD3,Other,730.51,11.4
+6387d873-81e2-4c20-ad4a-98dd6ca8c4ff,PathCellObject,,Other,132.88,11.96
+d565acd5-1e96-41a5-a404-122fdc6d5993,Target: CD8,Target: CD8,Other,613.34,12.64
+0c82595a-6659-4d0c-9aef-687d96a893ad,Target: CD8,Target: CD8,Other,238.71,17.66
+5c51128f-4194-47d0-91cf-0d8a71de6726,Target: CD20: CD3,Target: CD20: CD3,Other,125.48,10.46
+e4c95c7e-6ca2-420c-9d1d-29c59dc55d5f,PathCellObject,,Other,596.08,13.77
+47e4a07c-e5f9-4ede-8733-96732bf7690d,PathCellObject,,Other,762.4,13.25
+51768fad-d87c-40ff-b776-3aa92cd8de97,PathCellObject,,Other,779.37,14.94
+436c63c1-449c-42d9-9d19-7ac7b219823d,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,86.94,15.14
+7510ae43-6a9e-444d-afba-e4710a452f1a,PathCellObject,,Other,445.52,13.84
+e9d166e8-546d-442b-8099-b53eec196735,PathCellObject,,Other,554.12,14.87
+e10a251f-4987-4ead-9dfa-2910753bf8f0,PathCellObject,,Other,580.05,16.28
+4ff9bcef-4139-43c0-ab2e-4df942f4a8bc,Target: CD3: CD4,Target: CD3: CD4,Other,216.87,15.77
+d8712f6e-d025-41f7-a846-3abbb6a788e8,PathCellObject,,Other,463.91,15.78
+482d5624-16f0-4314-a175-cc41647cd792,Target: CD3,Target: CD3,Other,112.47,20.17
+06cc4660-cea9-433c-9a2c-1644cdedfbed,PathCellObject,,Other,505.86,15.89
+2bb27e0f-7347-4519-bcb5-117fcd20a66b,PathCellObject,,Other,422.33,16.5
+fceb6b91-d198-4524-8f05-1286919ad33f,PathCellObject,,Other,452.62,20.25
+ac14f8b9-c5bb-4352-a857-7a90875a1324,Target: CD3,Target: CD3,Other,126.44,19.62
+2d86bff4-6833-4d84-9656-9a633e231994,PathCellObject,,Other,564.84,17.65
+6555d50c-f966-4dd4-a541-1a67560ee78a,PathCellObject,,Other,314.45,19.29
+c79443d3-686f-489c-b4a6-90870320eedf,PathCellObject,,Other,199.14,19.82
+76000086-439a-42b7-9e44-621fa0f840c8,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,227.7,21.16
+bb848016-bd8d-4f6a-b11d-5b3dabb25d4c,PathCellObject,,Other,522.81,19.5
+50de94be-4bd5-4cc3-8af5-ea16113dcd32,PathCellObject,,Other,573.92,21.81
+64017e49-930c-4004-9f34-ed3ed9890d1a,PathCellObject,,Other,753.16,22.58
+735f611a-2aae-4f6f-bd8b-5c74420376e0,Target: CD8,Target: CD8,Other,593.42,21.74
+bc971a68-b70a-42b7-83e7-d1d47d0ca7f9,PathCellObject,,Other,535.89,22.32
+5d97db93-3f57-4473-aff6-94e164393d0b,PathCellObject,,Other,166.37,22.75
+f7a30948-c21f-4f5a-a8ae-acbe34d521e0,PathCellObject,,Other,505.34,28.6
+f59086ca-7a37-41d2-93ab-4bc89602dc90,PathCellObject,,Other,726.24,25.78
+281c4783-3866-4d69-a67a-d4c3aebe2ff4,Target: CD8,Target: CD8,Other,184.04,27.1
+202b0b1a-34e3-4da7-a87a-5d7a5576259a,PathCellObject,,Other,250.73,23.79
+f02d6b9d-0cd8-4cb8-a135-03048614b2be,PathCellObject,,Other,465.41,30.02
+0624994e-6324-4725-b87f-7062958b5426,Target: CD3: CD4,Target: CD3: CD4,Other,157.67,27.12
+a244a074-533e-490e-9499-7ff98f7e40d2,PathCellObject,,Other,282.43,25.85
+dd4816e5-5e7a-4bdd-8d7b-94032b026585,Target: CD3,Target: CD3,Other,174.95,24.74
+d49acae2-cea7-4b13-a27e-d9d1ac1facb4,Target: CD3: CD8,Target: CD3: CD8,Other,214.38,26.53
+b465ec65-7734-4149-823a-10da6a5532c6,PathCellObject,,Other,737.92,26.21
+5aaaa5e1-0827-4ee1-b74f-18a54e849421,PathCellObject,,Other,243.04,33.16
+1fb37258-e36d-4d9e-8aed-e34738586437,Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,204.14,29.18
+fb758221-8a79-4deb-9ff7-8e4f6e0eaaf3,PathCellObject,,Other,592.6,30.02
+6ef630a2-fc38-410e-93c1-57f4598cf91c,PathCellObject,,Other,424.92,29.04
+7e5d30ff-a448-4c51-9beb-75b73053183a,Target: CD4,Target: CD4,Other,139.81,29.7
+77059090-8cc2-4174-bd06-36cda6af01f7,Target: CD3: CD4,Target: CD3: CD4,Other,528.02,29.8
+1d243132-0ac6-414a-a7e5-de62b799f7da,PathCellObject,,Other,571.48,30.72
+7a17d4cd-a172-4829-88d6-218fa4bfc49b,PathCellObject,,Other,549.2,30.1
+5cba9e47-dc22-465a-a2c0-f54c503dfdaa,PathCellObject,,Other,292.98,33.83
+32962222-8b17-462a-8fbb-93dd086cddac,Target: CD3,Target: CD3,Other,172.76,33.08
+0cebbd76-0c0e-4433-8b90-7cdfefbb8549,Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,70.41,31.37
+7f7ca923-b22d-4283-919e-f72afc51fa8e,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,110.57,33.79
+8faf7f8b-430c-49b4-bd2f-650e54a19757,PathCellObject,,Other,319.15,34.34
+4fa6e5bf-f76a-404f-8e4e-ab22907c4c15,Target: CD20: CD3,Target: CD20: CD3,Other,80.38,35
+fb210f66-bccc-4050-8358-a0ba8da6719b,PathCellObject,,Other,307.64,32.7
+6f10a48a-779b-4bca-b1f3-bb916c190f79,Target: CD20,Target: CD20,Other,600.23,33.38
+b26a7bfb-1f7c-4653-a2e4-67b864c07ea6,PathCellObject,,Other,611.42,35.01
+be0b993f-9338-4049-a4d6-5caddb351dae,Target: CD3: CD4,Target: CD3: CD4,Other,199.54,38.01
+b5934e1f-b2c5-4449-926c-a85eb8022acb,Target: CD20: CD3,Target: CD20: CD3,Other,65.73,38.35
+e85dc4ed-293c-40ce-90fa-5ceb275ff894,Target: CD20: CD3,Target: CD20: CD3,Other,120.01,35.37
+f109520a-be00-4a67-8b0a-52cee0e6574a,Target: CD20,Target: CD20,Other,538.57,39.53
+0d3a8331-2390-42a9-8de8-174aa5be0224,PathCellObject,,Other,530.96,38.4
+6dcfdc9b-e819-4f1a-a86b-a924cdd968b1,PathCellObject,,Other,168.15,38.51
+962a306a-60fb-4200-98c3-212b0777f9c0,PathCellObject,,Other,438.79,37.59
+8b254879-a6be-4b9e-8e85-68ebe4883313,PathCellObject,,Other,601.94,40.33
+2f0fdf4a-5c24-49bc-a12b-329b435fad2c,PathCellObject,,Other,145.96,37.66
+33f81b88-289d-487a-8be9-9e86d2c0e452,PathCellObject,,Other,225.83,40.71
+4a6f4706-f395-41c0-9d27-03fba546ba62,PathCellObject,,Other,382.13,39.87
+ff2fd67a-968d-477c-982a-c5463b5a6894,PathCellObject,,Other,550.8,39.72
+08c91d9a-b715-41fd-ba00-6970c614bdb1,PathCellObject,,Other,394.98,39.41
+9524b751-5932-46b4-ad4b-706dfd7f9dd9,Target: CD20,Target: CD20,Other,93.59,44.28
+1caaf9c4-b220-4c12-9563-2400ecee6f66,Target: CD3: CD4,Target: CD3: CD4,Other,158.32,39.73
+1297b193-49a9-43c2-8970-a8b1d0e2f76d,Target: CD20,Target: CD20,Other,128.17,44.3
+9f53b563-b877-4fc8-9ca4-9ef73f3eb5d9,Target: CD8,Target: CD8,Other,102.71,41.86
+1b035719-0adb-4913-a227-2547a162bc4e,PathCellObject,,Other,308.11,45.66
+234ae15f-58f1-4a84-b0ad-bfea6d0be477,Target: CD3,Target: CD3,Other,138.83,42.83
+581b3342-1fd3-4f9c-b46a-7653cd3c4a14,Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,116.59,46.08
+e614b90e-ebb5-4a70-9506-5bce130bd888,Target: CD3: CD8,Target: CD3: CD8,Other,147.94,46.54
+0f1419ce-14a9-49cd-9c54-455a575e86bb,Target: CD3,Target: CD3,Other,172.98,46.02
+55bc1ab2-d584-4141-a590-879099d13414,PathCellObject,,Other,553.12,49.57
+8e1d868a-5590-4cbe-b0c8-406196f43f39,PathCellObject,,Other,435.65,47.87
+2db81d0a-1c63-4807-a64f-d027fa5c33fc,Target: CD3: CD4,Target: CD3: CD4,Other,188.9,46.3
+8b2a2ae3-e79c-4968-8a45-bd1c45379a7a,Target: CD8,Target: CD8,Other,324.32,47
+6a7d1d85-139d-4ef6-8422-8cc911df2656,PathCellObject,,Other,606.5,47.08
+b007ac8c-eccf-41b9-82a8-cc1475f1c7b0,Target: CD20,Target: CD20,Other,85.65,46.45
+cbb93c97-3bc2-47fc-8f89-ee48a8825655,Target: CD3,Target: CD3,Other,154.85,48.36
+9414532f-8370-4b8f-b5f5-8b419e41ba43,Target: CD3: CD8,Target: CD3: CD8,Other,110.31,47.24
+80dc4a5b-8bcb-4e87-b3e8-521e3b9b641d,Target: CD3: CD8,Target: CD3: CD8,Other,222.12,50.23
+f965bbc1-0665-4c1f-8153-b9fd5be7a9d7,PathCellObject,,Other,243.21,49.41
+bfc35a90-d1cd-4a24-b5a9-c6697251e295,PathCellObject,,Other,293.93,50.63
+295d36bf-f9bb-47bd-8296-1b0592363ede,PathCellObject,,Other,582.74,48.43
+bfc2f0a8-7b52-4826-ab8c-d5f22d313d5e,Target: CD20,Target: CD20,Other,72.54,49.03
+ac24f260-80ab-4199-adc9-78707a77a956,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,140.84,51.49
+3d13ceb1-99ee-45ef-ba75-27ff0e3c1fb6,Target: CD3,Target: CD3,Other,161.28,53.29
+8be99705-ee82-4816-931d-5a73f23684a6,Target: CD20,Target: CD20,Other,50.91,49.56
+df83139e-7508-417c-b462-b9431b911a81,Target: CD20,Target: CD20,Other,59.79,49.39
+7dc7d1d2-7b6d-4662-a624-ef1152347719,Target: CD3: CD4,Target: CD3: CD4,Other,206.62,50.03
+d484e9a1-3514-4bf1-9dba-f3c734a7f752,PathCellObject,,Other,453.34,50.89
+b5baf755-f317-472b-8ffe-ffa8b0c82efa,PathCellObject,,Other,497,50.59
+25ad27a6-b319-4695-ac7e-f1aebf99596d,PathCellObject,,Other,528.57,52.79
+df830cf8-311e-4a8a-908a-e39fbab372b5,Target: CD20,Target: CD20,Other,104.08,51.58
+0a1c6682-c99e-4a36-a5d9-28b53aa5e219,Target: CD8,Target: CD8,Other,83.96,53.77
+604f1a4f-46e9-4c17-a0d9-49ceeec4f37d,PathCellObject,,Other,568.38,52.81
+9b6ce362-afd8-414d-a2ba-1ee8f53163a6,Target: CD3: CD4,Target: CD3: CD4,Other,112.26,55.04
+d04eb692-e9ba-4970-919e-b3dd3591249f,Target: CD8,Target: CD8,Other,593.19,52.35
+8250f89f-8612-4f24-bf80-321e0bc1f45f,Target: CD20: CD3,Target: CD20: CD3,Other,64.6,57.02
+38d1627e-93fc-4f65-8e86-8dd7ce6f1dd9,Target: CD3,Target: CD3,Other,134.87,56.72
+35659585-629c-4c87-987a-a6c185f80c4e,PathCellObject,,Other,603.44,55.83
+72b3c89b-af80-4138-b322-9bbd3583022f,Target: CD20,Target: CD20,Other,102.35,57.04
+63648d91-468b-45bf-8c3a-a7aa9020906b,Target: CD3,Target: CD3,Other,202.25,57.07
+ada61180-f34e-4d91-a09f-110a31578f40,PathCellObject,,Other,219.86,58.53
+f8874ffd-83e6-4a13-961f-b76f7e6e885e,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,75.98,58.73
+f675c576-f8a6-4cd4-ae89-36b99132cb4d,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,188.86,57.77
+1c45402b-6855-4f6f-bb1e-933614c337ac,Target: CD3: CD8,Target: CD3: CD8,Other,147.72,60.23
+f354698b-5c69-411c-b548-73a054c3a89f,Target: CD3: CD8,Target: CD3: CD8,Other,178.64,56.31
+5c5bb350-2264-4762-ad2e-4059a552ab3d,Target: CD3: CD8,Target: CD3: CD8,Other,316.19,57.27
+7078f0e6-ccc2-47ea-800f-5b5c0b8cbfda,Target: CD20: CD3,Target: CD20: CD3,Other,52.57,59.07
+3bc7d026-3a93-4fa8-a313-6a643f97bfd2,Target: CD20,Target: CD20,Other,95.14,61.76
+06e9d8bc-6db8-4aea-af12-06f50491dfd2,Target: CD3: CD4,Target: CD3: CD4,Other,305.07,58.01
+593ea52d-6071-46d4-9160-d2a782350705,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,41.37,57.8
+463cea6f-06f8-489f-9853-deaf447f9451,PathCellObject,,Other,583.94,59.43
+896a744d-9ab7-4c67-93e5-c47e9441f514,PathCellObject,,Other,592.91,59.45
+105b485b-8c7b-4f7c-a179-2a526371d73c,PathCellObject,,Other,107.55,62.44
+ba4044ba-6eed-4a05-a185-c089d9d145db,Target: CD3: CD8,Target: CD3: CD8,Other,325.23,59.54
+aa26f566-87f9-4d46-b4a5-f5ced7497b32,Target: CD8,Target: CD8,Other,346.72,61.74
+a024bc69-e60f-4bb9-b493-ad96f206a8ac,PathCellObject,,Other,477.62,61.47
+9cabaf52-d3a7-4d0e-b77b-18878a03c22a,PathCellObject,,Other,542.39,60.65
+49d3f1e6-b9bf-4b11-b5f0-0d7e2269b86a,Target: CD20,Target: CD20,Other,195.35,63.36
+e8a0b8d7-5d4d-4c00-9ee3-3764bc7be3ae,Target: CD3,Target: CD3,Other,333.69,63.12
+c1290dc3-ec04-4d39-a78f-8bd2fbccf47a,Target: CD20,Target: CD20,Other,31.34,60.92
+9f3e0a02-b2f0-4eea-8f8d-9d8dacae288b,PathCellObject,,Other,648.52,61.98
+a8cbb783-4937-4a12-8e5d-b5a3893bab59,PathCellObject,,Other,213.03,66.86
+98c3b8c1-8d11-4d33-9dd3-25cfac2c372a,PathCellObject,,Other,233.72,62.92
+b80e8931-31b2-4fee-94cf-6cbe87809db7,PathCellObject,,Other,599.9,63.43
+ed4d4d3b-3251-4184-837c-a3846c0f717b,Target: CD8,Target: CD8,Other,309.67,64.87
+fdb64763-6564-4153-b190-30b73546398a,PathCellObject,,Other,576.4,69.32
+b850ea00-5086-4eff-9b55-3e2c62bcd4a0,Target: CD3,Target: CD3,Other,74.46,65.11
+3ef03334-d462-4cc8-80c8-8d869f7f1775,Target: CD8,Target: CD8,Other,270.71,64.1
+8857f86d-79a0-4a03-8a85-09d2d1f48277,Target: CD20,Target: CD20,Other,38.37,66.26
+b2db2895-7a22-4023-b357-3825345da598,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,50.61,66.39
+8265ff4d-5f42-41e2-9248-54ba5889aab7,Target: CD3,Target: CD3,Other,173.74,65.06
+2b7872e9-33f1-4a0c-b100-430683398c4a,PathCellObject,,Other,589.62,66.41
+5b9508f2-b7b9-46e5-ba3f-87842a8b311d,Target: CD3,Target: CD3,Other,133.69,67.97
+7167fb80-fff6-4f2b-8405-a556e5c57219,Target: CD8,Target: CD8,Other,517.12,66.11
+e813501e-9a09-49c9-b12a-e6cabb7d2920,PathCellObject,,Other,444.61,67.5
+1b72adb1-2e92-4b7c-9c57-8ced0d749ac3,Target: CD3: CD8,Target: CD3: CD8,Other,183.66,68.99
+d1fe00d8-383d-4a10-aee1-a90a78e02972,Target: CD68,Target: CD68,Other,360.86,67.28
+2de72296-e7c4-4f27-bc69-a9b7e24f196f,Target: CD20,Target: CD20,Other,27.16,67.43
+9b16c701-f9d2-4731-9564-fe53cde2e7ac,PathCellObject,,Other,322.17,71.02
+ce3b0769-f865-489d-84f0-b39de643a9b1,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,63.79,68.82
+e96486a2-0e30-4e23-a819-91802afa3893,PathCellObject,,Other,542.4,71.91
+909c714d-01f1-49aa-8e13-7e6bbff4113a,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,45.71,73.2
+9198fc6d-7801-4617-8216-c9d8d45a7ca6,PathCellObject,,Other,281.26,71.62
+c5706231-7e48-4c05-8f7b-9a9d13474926,PathCellObject,,Other,597.35,71.45
+0e1a0095-1439-4ffb-a08f-7132972f30a1,Target: CD68,Target: CD68,Other,72.58,71.82
+0c981656-42b5-4bbe-96c5-e4876ae350ce,PathCellObject,,Other,308.42,75.4
+7257ffc3-623d-4414-a329-27152e7f3a93,PathCellObject,,Other,457.52,71.51
+e7fdb628-7192-41aa-bb27-98af340eea6b,PathCellObject,,Other,500.45,71.74
+e7d85a02-aaa9-4d31-b498-b3eff0c9d7a3,PathCellObject,,Other,609.16,69.58
+5a994838-f7a3-4cb2-8985-0b797b7dc973,Target: CD20,Target: CD20,Other,91.61,73.33
+a273b806-ee15-4121-adc6-1cf5221c62d0,PathCellObject,,Other,198.25,73.36
+1ee1e4be-2b97-4fad-8bf4-50fcdb0bc01a,PathCellObject,,Other,483.92,75.61
+56c840cc-85f6-4f80-b1cc-8ef6d872d085,PathCellObject,,Other,262.84,72.34
+cd8b8ffb-0905-41a0-8f08-668a6eef3b67,Target: CD20,Target: CD20,Other,29.52,77.65
+ace4d20d-60d1-4b87-b2ef-bd94687a352e,PathCellObject,,Other,107.57,74.39
+0f2e4d49-2754-4963-8d50-bf19a9060b44,PathCellObject,,Other,235.93,74.68
+cc4cf49d-f7de-4c48-9095-66b3c5fa2783,PathCellObject,,Other,190.63,78.32
+30d36970-1c1c-4ddf-9e68-b4f68105e3db,PathCellObject,,Other,472.25,73.69
+6bcbf7cd-5972-4743-af63-b72627e26b83,PathCellObject,,Other,465.73,73.82
+b4226dbe-9ece-447d-ae4b-eaeab245a7c7,PathCellObject,,Other,605.63,78.16
+34159ffb-2087-4566-8212-8cbca6411ec6,PathCellObject,,Other,78.99,75.68
+a9ea41ab-e4f8-48fe-a7ee-5d1fe36e88a5,Target: CD20: CD3,Target: CD20: CD3,Other,59.91,78.47
+c7d83eb0-5e64-48d5-916b-9bfabcc12ec1,Target: CD3: CD8,Target: CD3: CD8,Other,157.19,77.66
+e185a882-4cce-4d44-ac3e-1d993f8afd7a,PathCellObject,,Other,256.97,75.88
+b62125d1-7f7d-4e07-85de-7f9571aa265c,Target: CD20,Target: CD20,Other,68.31,79.04
+c7736547-9044-4147-a157-f7c5fced1b93,PathCellObject,,Other,379.65,79.2
+396be176-5607-4c8c-92aa-899c6774b090,PathCellObject,,Other,182.16,78.79
+87cb3327-d22b-4bed-b0d8-cd730870a4ae,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,43.3,80.98
+4631e47e-7547-4ef5-a1e3-e8df94e8f094,Target: CD68,Target: CD68,Other,251.13,79.97
+21411567-d2fa-432c-9fd6-ba486fdcd191,Target: CD3,Target: CD3,Other,89.22,82.05
+f304260f-0fe8-4c1e-a692-2fc5c4a9d4bb,PathCellObject,,Other,366.65,80.92
+7c93c149-3329-4990-8ce4-3a9b32de357c,PathCellObject,,Other,619.22,81.02
+8ff42c69-a925-4a2b-8585-d0534e4856b6,Target: CD3,Target: CD3,Other,172.3,81.82
+6b86d69d-b406-46d4-b637-b29a07ea684e,Target: CD3,Target: CD3,Other,259.64,83.89
+5e9856af-d883-4147-952f-9b408c56d45d,PathCellObject,,Other,463.78,83.51
+813ac74c-0b43-4995-928f-87183dcd3f28,Target: CD3: CD8,Target: CD3: CD8,Other,240.93,85.25
+0d11a0b5-a39e-47b8-b128-fc828356a0d9,Target: CD68,Target: CD68,Other,289.67,81.79
+7d58925d-9f09-4dbc-af1f-84d94120eca0,Target: CD68: CD8,Target: CD68: CD8,Other,300.15,84.84
+9fdeeb07-82f1-416a-9485-433e4e327ab8,Target: CD20,Target: CD20,Other,73.41,86.64
+42a329e7-97e0-413b-8baa-611e64b90efd,PathCellObject,,Other,330.86,82.66
+ae099ef1-03f5-45ee-b1f8-adb2abe88765,PathCellObject,,Other,455.11,86.45
+d4ba82e4-256b-485b-bb84-1e76d9f6b78c,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,51.47,85.95
+75c770a8-cbc2-4aa5-896c-af160d633d47,PathCellObject,,Other,80.81,85.99
+356531d9-538b-4ff3-96c7-198d0eb3353d,Target: CD20: CD3,Target: CD20: CD3,Other,59.77,87.36
+f25c0b6c-2608-4965-b1ea-92a80f32174c,Target: CD3: CD8,Target: CD3: CD8,Other,167.55,86.33
+261d438b-b0f1-416b-ad50-bf338d3d2676,Target: CD3: CD8,Target: CD3: CD8,Other,182.07,90.32
+4d14fd22-068f-4666-98c5-c3473c0c3c8c,Target: CD3: CD8,Target: CD3: CD8,Other,87.6,91.11
+9c41c190-474b-4e36-a364-1c98628967f0,PathCellObject,,Other,211.55,87.3
+6c6bfdae-6a3f-4325-8f6c-d7620eae4a33,PathCellObject,,Other,352.55,88.34
+9b5036f9-4a53-4122-ba1c-e20756bf0731,Target: CD68,Target: CD68,Other,517.08,87.44
+a43b5fb0-d1e4-4634-8c4c-65c2d7a9593b,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,44.56,88.94
+21020200-1aa1-4a94-9978-2802ff7396cd,PathCellObject,,Other,594.82,87.16
+94482f5c-6d7f-44ce-b86d-367bf2d04537,PathCellObject,,Other,609.97,88.67
+a86703b2-4355-4dbe-a0bc-a76bb449eb13,Target: CD8,Target: CD8,Other,163.66,89.42
+71396e8e-2b5c-4942-8c2f-fd630f85aa4b,PathCellObject,,Other,496.41,92.25
+b3b76996-f147-4e9e-8844-12743696238c,PathCellObject,,Other,621.14,91.03
+fcdc1563-53a2-48c2-8c58-47dbdc8964d9,Target: CD68,Target: CD68,Other,289.22,89.95
+ad4a0b54-37ed-4451-a0de-86480543969f,PathCellObject,,Other,389.06,89.65
+1ec7246b-6bcd-4cf2-986a-e4989d55a8a4,Target: CD68,Target: CD68,Other,152.87,89.44
+8e235650-da8d-40fa-85f7-574ec4eb3bae,PathCellObject,,Other,328.23,90.94
+a4868460-75cc-41d7-8a46-9ea9b037c208,Target: CD20,Target: CD20,Other,21.68,89.38
+c453af2d-9495-46f4-8d0c-ec4c0917cb7a,PathCellObject,,Other,336.82,93.53
+ac2c925c-86b5-4819-b5a2-b59297842d39,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,37.34,91.5
+f8364774-950b-435e-aafe-7b0a11a4f84a,PathCellObject,,Other,255.31,93.35
+79fa9c1a-9494-4d0c-bac8-75e4ea8ee98f,Target: CD68,Target: CD68,Other,507.16,91.02
+7d31069b-0f59-4441-98d7-69d9ef29a82e,PathCellObject,,Other,227.85,89.95
+1d2a0a22-db57-4e64-86f8-7ccf01668f56,PathCellObject,,Other,102.61,94.6
+05f99016-67e3-4d5f-b73e-ed40546c2da0,Target: CD3,Target: CD3,Other,140.25,91.6
+7a727555-3400-48cd-b30f-eb577f441c79,PathCellObject,,Other,397.85,94.7
+3081746b-0568-494c-9533-a7f11ebbdfc1,PathCellObject,,Other,407.08,92.77
+9ddbbda5-baf8-4cdb-9912-70c68f6b4835,PathCellObject,,Other,282.88,93.95
+a3e9c894-b09d-4482-aed0-f1c29cd66962,PathCellObject,,Other,149.2,96.49
+c8c35545-0733-4a38-94f6-beff884e8f66,PathCellObject,,Other,419.9,94.36
+91592a58-8e98-4631-a50e-284d4adf12a3,PathCellObject,,Other,598.32,95.44
+d06c7197-20ba-452c-a716-eb198e052af0,PathCellObject,,Other,169.92,96.55
+0baa1fc8-44e6-4312-80df-f39400e9d715,Target: CD3: CD4,Target: CD3: CD4,Other,268.32,95.18
+471a67f5-0b56-4e3f-add8-fe144c5cc9a3,Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,51.74,98.73
+6386d270-4783-4170-bc15-96b7991a7a5a,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,59.91,95.48
+40f872cf-7118-4cc9-ad58-ca2f8564f2a8,PathCellObject,,Other,209.62,98.28
+abb64ffc-f975-4bca-af96-3bb37a35f935,Target: CD20: CD3: CD4: CD8,Target: CD20: CD3: CD4: CD8,Other,16.99,96.36
+6b82ff8b-b9c6-4ede-aa29-2b4a4b8f8e15,Target: CD3: CD8,Target: CD3: CD8,Other,233.22,99.84
+6a76d70a-7b2b-41ba-a7f2-e065ce9ba565,PathCellObject,,Other,300.66,98.48
+f25b1f5b-cfb0-490c-b140-d73cdd70efdb,PathCellObject,,Other,554.21,96.6
+159d24bd-31ed-47a4-b4eb-ff4fce9f9204,PathCellObject,,Other,128.49,97.5
+c4710e61-2ccd-47eb-8b83-57a72a167702,PathCellObject,,Other,616.21,98.92
+0e45741a-73cf-4775-b6be-96e69793b738,PathCellObject,,Other,277.66,99.32
+d6594256-00bd-4f75-a973-3256efd236c5,Target: CD3: CD4,Target: CD3: CD4,Other,33.64,99.65
+83ade795-8a2c-479a-8f45-4134e237c33d,PathCellObject,,Other,516.24,99.94
+b2751ae0-4184-450a-b898-9f76e306ed7d,Target: CD3,Target: CD3,Other,138.43,99.34
+49c92773-fd27-4e4d-ad5a-0ec28ccd0d68,PathCellObject,,Other,245.99,99.65
+04d5b3c9-e821-4013-9746-0485db858282,PathCellObject,,Other,565.45,99.68
+93f84d9b-690d-4299-bbe3-22e07e81580a,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,73.16,99.54
+5749fc7e-52d8-4f82-8039-30039829619d,PathCellObject,,Other,193.51,99.04
+5ae63f53-2526-49fa-970d-be1ec0f8d5c9,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,63.96,102.34
+a53ff434-f699-443b-8137-78b5604c2536,PathCellObject,,Other,158.01,100.24
+942950be-e632-4e5c-8bbd-86427ca6c693,Target: CD8,Target: CD8,Other,222.38,100.76
+9ddf575c-75d6-4314-ae47-2fe08b3ac1b9,PathCellObject,,Other,323.96,102.41
+61470c82-ff61-4467-9cad-7c1c4fd6119a,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,13.31,101.81
+e786a3c0-e513-4ee3-83c8-8a66f4477bf6,PathCellObject,,Other,528.94,104.06
+58ff35a0-059f-47d5-a741-0133b40d155d,PathCellObject,,Other,452.05,99.56
+2f35a77f-aac4-49de-90ef-361838e3bb84,PathCellObject,,Other,788.41,103.49
+c318e3ea-f6aa-4b25-98a2-360e9a584926,PathCellObject,,Other,426.91,103.44
+de31df6c-0303-460a-a6d2-dea011e2dca0,Target: CD20: CD3,Target: CD20: CD3,Other,44.97,103.63
+1dfd7b13-9af0-4f43-a747-c909041c8d60,Target: CD3,Target: CD3,Other,116.96,103.39
+539d3497-f9f9-425f-819f-e26371411093,Target: CD68,Target: CD68,Other,504.16,103.07
+bf4f9c3b-d838-4493-b753-056ee9058adc,Target: CD3: CD4,Target: CD3: CD4,Other,29.27,104.64
+5cdd52b3-77c4-4dbd-a815-a03f59584da9,PathCellObject,,Other,439.73,104.21
+0c622148-12e7-4d7b-a684-56d9de39517e,PathCellObject,,Other,148.38,105.89
+096644ed-9fde-48ac-9d2b-43ea4e024a03,PathCellObject,,Other,270.42,105.06
+66cb35e2-cb9a-4d87-9bb8-1962cac93ee9,Target: CD3: CD4,Target: CD3: CD4,Other,612.76,103.69
+fb58547d-48e2-46ac-892f-8c3fcb3ed528,Target: CD3,Target: CD3,Other,21.28,105.94
+e61ca0bf-7dfd-4636-af32-806db5dae7b7,PathCellObject,,Other,187.55,105.3
+014ec019-014e-48a3-afab-b014b3b7317f,Target: CD68: CD3,Target: CD68: CD3,Other,283.66,107.19
+a042bc78-7a26-4b3c-bc2d-05ca8659feb5,Target: CD68,Target: CD68,Other,483.28,103.51
+cd2a1d0e-4c67-427c-84b5-6e67213f638d,Target: CD3,Target: CD3,Other,603.46,104.39
+7cc45682-9dd5-467a-aa21-e39253b8be73,PathCellObject,,Other,162.77,106.58
+7311a2fb-cfc4-4b5a-b765-beda7c2565bf,Target: CD3: CD8,Target: CD3: CD8,Other,450.33,108.07
+a99c6b26-6bc2-4cdb-a594-117285fdc127,Target: CD20,Target: CD20,Other,4.878,105.08
+4b7487cc-c816-4964-a312-2a2780f4d821,PathCellObject,,Other,134.34,109.13
+841adc54-f450-43e7-987d-a64c58469491,PathCellObject,,Other,491.54,107.75
+69418403-0e97-4088-a322-aefcbb082e5f,PathCellObject,,Other,522.8,110.9
+adaa4ef9-b3b1-47d6-8b52-819826e8ed76,PathCellObject,,Other,575.58,107.16
+debaecb1-e1bc-40b2-b463-5f91dac9edc1,PathCellObject,,Other,418.04,108.19
+15475f85-1fa4-4acb-981f-da768054ef9d,Target: CD3,Target: CD3,Other,76.37,108.45
+d9c5ef23-9610-4846-983c-4881685d2d92,PathCellObject,,Other,108.1,109.44
+3f39633a-f5e1-41e9-aff6-167310527030,Target: CD68,Target: CD68,Other,473.89,108.71
+706f9889-af3b-4692-a0ee-7c674cef8f5e,PathCellObject,,Other,240.98,108.35
+b85c70f9-9d4b-439d-99be-b261c328af39,Target: CD3: CD4,Target: CD3: CD4,Other,295.21,110.44
+fe9f0142-c984-465d-905d-f5452e06c3ee,PathCellObject,,Other,353.37,108.26
+c360e043-3992-4a9b-80ac-614205ba8f01,PathCellObject,,Other,194.32,110.48
+3e8dcd68-c944-459e-8212-3fc12c446cef,Target: CD20,Target: CD20,Other,306.22,109.55
+7610598d-a441-4a7e-aa87-5967b6ec7353,PathCellObject,,Other,596.03,109.55
+bb8ce8f0-72f5-429e-a9a4-2c92d3b32739,Target: CD3: CD8,Target: CD3: CD8,Other,14.87,111.83
+6cefd162-0b91-4863-99bf-2a8910e15ea5,PathCellObject,,Other,201.94,114.83
+ca68a848-3e05-48dd-ac95-835fc01d4a16,PathCellObject,,Other,264.96,110.76
+ffccfb28-5c15-4d38-b2d8-a081ae5e9f2c,PathCellObject,,Other,504.19,111.82
+c71ca226-0f40-48e8-931f-ee931689e316,Target: CD3,Target: CD3,Other,215.09,111.24
+f7c00ba8-c9e5-4a83-bf0a-e92f994e563a,PathCellObject,,Other,612.1,110.96
+8295496b-29a8-478d-b6a2-e2c5ca7bd30d,PathCellObject,,Other,87.24,111.69
+89b84b01-fac2-43b5-bf56-dd7ab295317f,PathCellObject,,Other,458.94,111.97
+1a0533fa-6a3d-41da-9b02-51c66cfcd307,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,25.61,112.96
+c74abad0-71c7-4120-8940-ee0e02adc761,PathCellObject,,Other,287.52,113.57
+64938428-0240-4076-9b58-4264e65aa9c4,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,47.57,113.78
+42619b76-a508-4b7c-b0a1-dd14caeb53dd,Target: CD20,Target: CD20,Other,57.97,113.52
+8cf123c6-f680-40e7-bd10-29eeb35a4439,PathCellObject,,Other,410.08,113.39
+1cef372d-db4b-4995-b6a9-47be633f0352,Target: CD20,Target: CD20,Other,5.155,115.93
+54fdeaf4-bfaa-4f5e-99f2-8d5c7f21aac9,Target: CD3: CD8,Target: CD3: CD8,Other,161.55,114.91
+bb4851b3-1f48-4770-beb7-2b0d2efb9b58,PathCellObject,,Other,237.52,115.92
+4f8b9d23-6265-47fa-a0e0-7e8b56b01d8e,Target: CD3: CD4,Target: CD3: CD4,Other,301.93,116.6
+17b41480-d7e3-406d-9c62-5abb54d45808,Target: CD3: CD4,Target: CD3: CD4,Other,76.69,119.92
+069747e1-6053-488d-b975-a1a2b9baa9d4,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,35.39,116.36
+f2955e50-c2db-4b65-bb47-7176034f71e1,PathCellObject,,Other,355.68,118.99
+564869ba-3d3f-4e3e-94c6-1091133ed07d,PathCellObject,,Other,488.68,117.3
+d3047811-b226-431f-bc80-7055d76901c5,PathCellObject,,Other,615.77,116.79
+b06d1ae8-5be7-4624-97d0-76297ad073a6,PathCellObject,,Other,342.47,116.88
+71ea014e-4d58-47b9-bf59-b0ee6d8bccb4,PathCellObject,,Other,453.75,119.48
+33b223af-9fd5-423d-aeef-5c6525918a4f,PathCellObject,,Other,333.92,120.61
+cc0ec3c8-5da3-4298-b810-0b8d254fa764,Target: CD68,Target: CD68,Other,107.46,119.57
+1792d18e-8656-46ff-bd31-571d7ec8130a,Target: CD3: CD8,Target: CD3: CD8,Other,273.44,121.43
+814e07cc-3e4a-4581-b345-81b9a154f824,PathCellObject,,Other,223.59,120.04
+d2fcbb6c-c646-4bc2-89d1-13ef41aeea98,PathCellObject,,Other,499.79,122.89
+367d1d66-6100-4924-8d24-1d7a3b3c5fb2,Target: CD8,Target: CD8,Other,136.47,121.7
+307a5983-b34d-4d75-a938-c8d0164fa572,Target: CD3: CD4,Target: CD3: CD4,Other,307.58,123.38
+c8695c71-ed6a-4f1f-b9ef-fe7ce9d374b2,PathCellObject,,Other,621.62,123.06
+72d17cf7-45d4-4524-91c9-47a4ac3421d1,PathCellObject,,Other,95.12,122.31
+87d6c0f5-ea7c-4937-ae22-0626f6b1fb77,Target: CD3: CD4,Target: CD3: CD4,Other,297.1,122.9
+9f6ac1ca-0488-43cc-a793-86ef11c907fa,Target: CD20: CD3,Target: CD20: CD3,Other,19.07,122.12
+fe8c17e3-4880-42c5-ad68-92e93ec65797,PathCellObject,,Other,87.1,124.24
+8bd3bb8a-7aee-45a5-a5c0-11a27e0584b6,PathCellObject,,Other,150.8,125.38
+d6a99556-3444-4fcc-85f4-771730add6a6,PathCellObject,,Other,231.22,127.13
+39ed398f-15c5-4770-94bd-71b405285076,Target: CD4,Target: CD4,Other,30.71,123.75
+56914812-a708-4bec-83e9-35f7a35da082,PathCellObject,,Other,251.97,126.43
+4aed4f26-79e0-45f5-8cf1-57eec684e760,PathCellObject,,Other,315.97,124.77
+d730aea4-3bca-4cc7-a844-b908afd50dfb,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,55.83,127.5
+1aeb451e-0dca-4edd-8271-247583033804,Target: CD3: CD8,Target: CD3: CD8,Other,41.43,126.12
+e966fd65-a105-471e-b9c5-6b6499058db1,Target: CD8,Target: CD8,Other,324.05,127.25
+7be12d58-5b1d-42f7-b013-d01445c2ccd7,PathCellObject,,Other,102.64,128.81
+7af40ae9-be11-4a97-924b-ef9f2df3fae9,Target: CD3: CD8,Target: CD3: CD8,Other,263.76,128.1
+24d9b6a9-c7d8-4f3a-8df7-7a0ca2e1f410,PathCellObject,,Other,509.95,128.59
+045dfc05-f01d-45ab-b50e-700200df6207,PathCellObject,,Other,652.75,127.36
+f9b07286-826f-43a7-9e1d-a07b8514e807,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,4.197,129.49
+5932d2f5-503f-426c-9431-fb0f99ee0b14,PathCellObject,,Other,162.25,137.27
+9218fbd1-bb77-48bf-9853-92074e421513,Target: CD3,Target: CD3,Other,287.12,128.95
+1843a012-5dc2-40fd-949c-0f3d33a930fe,PathCellObject,,Other,26.27,129.81
+f6c96ab9-017c-43ae-b9f6-b64c4763afa4,Target: CD3: CD4,Target: CD3: CD4,Other,34.43,129.95
+b514f924-7df6-4bef-a809-7f1c24d8b272,PathCellObject,,Other,134.53,133.15
+3d183acf-251f-4b3b-a525-166f206aae9e,PathCellObject,,Other,298.27,131.58
+dfefead5-5712-4ee5-8070-e6babafb0470,PathCellObject,,Other,352.16,130.21
+cb1a0421-6e8f-45c9-be17-4cf6e9b586ff,PathCellObject,,Other,175.65,132.47
+a65069bd-dfba-4a59-8509-c2b761056fa4,Target: CD20: CD3,Target: CD20: CD3,Other,13.31,132.23
+5d2f2a23-cc60-4b4c-98fa-9001521c3711,Target: CD3,Target: CD3,Other,78.19,136.97
+f5c514b6-8367-4164-8d0a-ee47c85a4071,Target: CD3: CD4,Target: CD3: CD4,Other,312.01,135.13
+4e1ed104-5c3b-4b71-9a0a-7aa29967df68,PathCellObject,,Other,346.09,138.02
+667d6b8f-7cf1-4e59-b9fa-4ed7a5c62eb1,Target: CD20: CD3,Target: CD20: CD3,Other,20.72,136.06
+4ba2e14a-a488-4f59-9c13-32284436deb0,Target: CD3: CD4,Target: CD3: CD4,Other,91.77,135.1
+abd30ed2-1ae2-4f7f-9d77-046e9c396a80,PathCellObject,,Other,649.59,136.58
+ec6f91f6-5627-4f89-95eb-979f5646227c,Target: CD3: CD4,Target: CD3: CD4,Other,329.23,134.37
+8191d41a-b136-436f-890f-08de71b41a73,PathCellObject,,Other,596.89,134.91
+1776445d-c882-48de-9388-d0f442dac0b6,PathCellObject,,Other,452.14,135.41
+a631a3a8-2197-40eb-934d-aacd309925b4,Target: CD3: CD4,Target: CD3: CD4,Other,38.33,136.01
+8fb94f23-eda5-46a8-b945-a38a54f24df7,PathCellObject,,Other,146.93,141.19
+f98ff912-f5aa-44b6-a6b0-791f200af79a,Target: CD3,Target: CD3,Other,282.69,136.16
+8ee51763-6045-43e1-93d5-feba00345b1d,PathCellObject,,Other,626.85,138.73
+0e4ed442-c78e-4eeb-8e16-09441626fab0,Target: CD68,Target: CD68,Other,666.46,138.56
+3bc3769b-66c5-40c8-8574-2847baee61a1,Target: CD3: CD4,Target: CD3: CD4,Other,50.44,141.37
+d45425b4-59f3-4bc8-ac4a-9d804b607e4d,PathCellObject,,Other,297.49,138.72
+8d0d6481-051f-4ee1-be42-295cf27a69be,PathCellObject,,Other,111.76,142.64
+84489e77-763c-46c1-9318-7c486b3a0260,Target: CD68,Target: CD68,Other,606.81,139.93
+b78b8ab1-69c2-47b0-83ef-6044aa9d7fa3,Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,277.03,139.61
+9da45f82-5557-492d-8eee-e03737aa6b32,PathCellObject,,Other,62.06,140.01
+3855803c-d41e-49f6-bec5-32cfc2855c22,Target: CD20,Target: CD20,Other,6.325,143.09
+f28a00f7-5c5f-4a7e-b7a5-7937805f836f,Target: CD3: CD4,Target: CD3: CD4,Other,308.26,145.33
+748d2daf-6924-44d8-87ac-0b8bf24d4a15,Target: CD68,Target: CD68,Other,332.6,141.35
+8edb6dc7-1612-4df8-83d3-6264141eaf96,Target: CD3: CD4,Target: CD3: CD4,Other,27.4,143.71
+544889cd-ce35-4011-96f6-b339f82d1b1b,PathCellObject,,Other,95.6,142.64
+4266b77a-40d1-4d49-b79c-8171370e87ee,PathCellObject,,Other,38.95,147.88
+c5636750-04ea-4ef2-b4d0-7e04ccda281b,PathCellObject,,Other,289.07,144.11
+95f4c16e-0659-4dc3-9b83-6a63a872ee20,PathCellObject,,Other,633.77,144.06
+efc763b2-fe90-454a-9700-48874c234181,PathCellObject,,Other,644.86,147.03
+edc7bd5e-77ce-4314-8138-705e8262426c,PathCellObject,,Other,60.97,150.25
+985f699b-d9a6-40cf-b22b-0f898b027dfd,Target: CD3: CD8,Target: CD3: CD8,Other,297,146.98
+19f5faaa-05b8-4594-98f4-c98384e03340,PathCellObject,,Other,450.48,147.53
+201bb1e6-fd29-4315-b24e-a19db02203c8,PathCellObject,,Other,483.96,145.79
+85b46d5a-1a56-40ca-a490-a453c2120038,Target: CD8,Target: CD8,Other,592.3,145.14
+ca22fe13-5ad9-4d63-9018-82f88657cc99,PathCellObject,,Other,671.3,147.66
+27131f15-a82a-48c1-8c4f-65b85a1924bb,Target: CD20: CD3: CD4,Target: CD20: CD3: CD4,Other,14.79,148.21
+271dd6a8-3843-44ef-b1b2-8badda9384a5,PathCellObject,,Other,87.77,148.94
+97816f66-a208-4dc0-9629-49e23a620a2a,Target: CD68,Target: CD68,Other,278.62,147.17
+ee82b58e-e1d4-4037-a63f-6e382672602b,PathCellObject,,Other,653.86,146.41
+edaef5ac-450b-4c1b-af8d-28fc8f60bf6f,PathCellObject,,Other,178.02,149.63
+73ccb78b-97db-4c49-ae2b-cc7abe0717e3,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,339.21,148.71
+acc821d1-193a-463a-ac04-6788615e5755,PathCellObject,,Other,203.42,150.7
+02b30334-1d0e-460f-9f05-a73b9a81dab8,Target: CD8,Target: CD8,Other,329.56,150.5
+f4662398-df9d-4dc9-8ffb-fd0ef3b984be,PathCellObject,,Other,616.04,148.46
+24e26f42-465c-4e1f-8c30-4b7c280b24db,Target: CD3,Target: CD3,Other,194.63,152.02
+aaf5467e-ba67-40e0-a072-7a96668ccf0d,Target: CD68,Target: CD68,Other,215.64,154.88
+12972524-6618-41ae-9db9-b0088e4fa2e5,PathCellObject,,Other,270.68,151.85
+558ade0c-3f56-481f-9363-f608c85d4002,PathCellObject,,Other,586.68,150.77
+0a5840ae-dd43-40ff-a3a0-d38996265a88,PathCellObject,,Other,660.66,153.31
+90c706db-a465-462e-9de7-7856115161d9,Target: CD3,Target: CD3,Other,187.16,152.76
+57354da8-3787-4e31-8978-9b5dee0038bc,Target: CD8,Target: CD8,Other,286.46,152.79
+a52f7747-e16a-4195-9a79-b96e12e5db14,PathCellObject,,Other,635.68,152.58
+e42a3f5d-404c-4249-b3a1-c4c7540c663c,PathCellObject,,Other,458.92,155.02
+39ec8e64-847e-4c9b-bf7f-17a54eee31a4,PathCellObject,,Other,394.14,151.7
+bebe2341-9a15-42fb-9a4c-5998ba601940,PathCellObject,,Other,144.61,152.4
+c3029719-1d78-490b-9944-f7b28cc769a4,Target: CD3: CD8,Target: CD3: CD8,Other,301.73,157.1
+635af188-5fce-4373-acfd-aaea20dce382,Target: CD3,Target: CD3,Other,122.52,154.55
+d7684326-a729-4d91-a2fd-959bfd68c533,PathCellObject,,Other,433.33,152.78
+9fabe0ee-149b-4d94-bd9e-fe687f05d848,Target: CD8,Target: CD8,Other,535.56,154.24
+a1a5a0e2-c92a-4b94-9890-f30cf83bef46,Target: CD3: CD4,Target: CD3: CD4,Other,25.62,154.39
+1d6026e7-bde5-475d-976f-d36776784997,Target: CD3,Target: CD3,Other,5.471,155.85
+0e02af34-73f5-4004-b3ce-87d28602bc3d,PathCellObject,,Other,49.45,155.44
+edce1d23-0e1b-49ee-ab4d-b24d34f5d62c,Target: CD68,Target: CD68,Other,628.72,155.38
+80e16e54-13ca-4d59-8de5-640ecc3865b7,Target: CD3,Target: CD3,Other,795.14,155.93
+4b52e167-452f-4f84-9fb2-e22236537b31,PathCellObject,,Other,93.03,159.79
+a7318615-c669-420a-9190-b4b71aadec21,Target: CD3: CD4,Target: CD3: CD4,Other,339.84,158.74
+7647550b-042d-464a-b4e5-3b59b38ea353,PathCellObject,,Other,485.44,156.67
+eb495ba8-e986-4ce0-acac-0c710b9705c9,PathCellObject,,Other,619.36,156.57
+696aa7ee-09e0-4e96-80c4-0234fb526c38,PathCellObject,,Other,348.54,157.18
+d6866185-3748-45b5-b02a-789dd0ea06df,Target: CD4,Target: CD4,Other,17.06,159.97
+62487ddb-d083-4c8e-90b1-94f0fb4a66af,PathCellObject,,Other,608.32,156.85
+7406e9de-b105-4825-8348-7849b8ba02d4,Target: CD3: CD8,Target: CD3: CD8,Other,157.16,157.74
+24839d5a-263d-4332-9917-c7d276fbd783,PathCellObject,,Other,645.23,158.91
+32d0f0a7-acec-4baa-8697-04a932ff8f14,PathCellObject,,Other,672.22,159.71
+545f4130-76cd-4e87-a7d9-f5097864a113,Target: CD3,Target: CD3,Other,404.65,157.42
+4bba6dbc-3654-413b-860c-31dc56be9906,PathCellObject,,Other,446.07,160.13
+e34528d5-4a68-443c-a951-05ff80b495f6,PathCellObject,,Other,147.6,160.3
+7bb3cbee-d9d6-44a6-83e1-d4b7ec9d3d7a,PathCellObject,,Other,592.02,159.79
+b183e236-45f3-4051-8220-90a4d38fb712,PathCellObject,,Other,278.02,161.7
+28419da9-f341-4d10-b53e-ec3d3eb8e10f,PathCellObject,,Other,655.17,161.12
+428d45f5-be83-46d5-8db2-ac22388b7e63,Target: CD3: CD8,Target: CD3: CD8,Other,198.74,164.25
+cf665350-224f-436e-b230-6e3c312c6723,PathCellObject,,Other,332.32,160.74
+3b26f931-aba7-4388-9ff4-5e0eb18d9cb2,Target: CD8,Target: CD8,Other,30.27,164.27
+6f394555-ff07-45ac-89ee-c204da35b791,Target: CD68,Target: CD68,Other,57.84,166.27
+18c437c5-e6b7-4144-a92d-cd6db7466995,Target: CD68,Target: CD68,Other,622.17,164.65
+b94662c4-4067-4ac7-9f6f-94077b4f0cf9,Target: CD3,Target: CD3,Other,5.826,166.72
+9c8c5b3f-d7d6-42b6-81fd-523b5a58ffe5,PathCellObject,,Other,119.98,163.9
+ab7f02bc-29a8-476b-8a55-a2a98f0389eb,Target: CD3: CD4,Target: CD3: CD4,Other,315.32,163.26
+d7a58630-feea-4ba9-bcb4-61cc864f35ef,PathCellObject,,Other,554.69,166.86
+a489326c-12ad-48d3-a2b8-fbf928a8cbba,Target: CD3,Target: CD3,Other,795.37,166.81
+f6243ae1-d5fc-4a07-ab53-809cacbe81b3,Target: CD3,Target: CD3,Other,403.77,165.49
+f827e048-d755-4dc0-b702-c4b8e4690a56,PathCellObject,,Other,472.68,164.23
+e0e16830-d7b5-4fdb-890d-de76d03fa4f1,PathCellObject,,Other,497.41,165.9
+1d7fa5d7-904a-47d1-aa50-9915980bd63d,Target: CD3: CD8,Target: CD3: CD8,Other,168.78,165.24
+8028beea-22e6-46a6-a9f6-b508c30678ad,PathCellObject,,Other,609.04,165.6
+6edcf90c-1ccb-4897-8733-d6eb19e3f821,PathCellObject,,Other,326.49,167.99
+c256ce8f-4d48-4547-b297-588795b3215a,PathCellObject,,Other,134.37,165.17
+48f37d7c-dac4-42bd-813a-be299e1ec318,Target: CD8,Target: CD8,Other,151.15,167.72
+e358877e-17f7-4cea-9526-9f696f2267ce,PathCellObject,,Other,487.6,166.45
+2f034735-96e6-448f-b950-2273a85b12d0,Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,566.79,168.18
+32c5e4ff-32e6-4cbe-814c-3a5ed79525ab,PathCellObject,,Other,283.45,168.74
+e262d5e5-a50d-42f0-b07c-f2f9f281f4d7,PathCellObject,,Other,19.07,168.3
+22987949-380d-484b-86bb-20477af8a9fe,Target: CD8,Target: CD8,Other,465.32,169.76
+775cbc7e-6b3b-4c38-82ad-42150c3f74f3,PathCellObject,,Other,597.17,170.6
+a1912e30-1f69-4423-906f-4c86801fbef1,Target: CD20,Target: CD20,Other,670.37,170.76
+291d3bcf-0be2-47fe-a3eb-d22997a28037,PathCellObject,,Other,122.68,170.67
+b2a9485f-4248-43b7-88ce-ebc5560d48b0,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,12.16,174.98
+af8f43d2-4f4e-4781-b41e-ae44a3cae6a3,PathCellObject,,Other,336.79,171.83
+64f0400d-8356-4e61-85e4-0d6a85f9fedc,PathCellObject,,Other,609.25,174.32
+de52bb3e-91a8-485a-bb33-5d9bc37a8f45,PathCellObject,,Other,206.14,179.51
+cca0c0ad-219c-4dbe-9144-880b08e989cb,Target: CD3: CD4,Target: CD3: CD4,Other,313.23,173.25
+f1795f6e-8e93-4e9b-b2f1-1d2b8ab7ade9,PathCellObject,,Other,346.86,173.68
+92a7a389-d629-4e0a-a14f-743bce3eef55,Target: CD3,Target: CD3,Other,486.3,174.25
+8352d7e8-c052-4201-9eb1-e6fe300b682a,PathCellObject,,Other,133.17,175.38
+2b136f91-b47a-486d-8e44-f912e9514f95,PathCellObject,,Other,299.38,172.83
+46e00935-0aa9-414f-a0cc-e9cbb83f3dac,PathCellObject,,Other,410.04,174.68
+828e38d6-bfc7-40d3-8f39-00468d3b5c79,Target: CD3,Target: CD3,Other,32.65,174.25
+3df4da17-f5ee-4681-882d-78ea9e5661a9,PathCellObject,,Other,107.62,174.39
+54937a13-4631-4020-871f-d8ffe2618538,Target: CD3: CD8,Target: CD3: CD8,Other,147.43,175.01
+f648db58-158d-4a57-9538-988f0afbccd1,PathCellObject,,Other,176.37,174.79
+b833e55a-04bf-4c65-b729-7f7f927b1a54,PathCellObject,,Other,272.34,175.97
+52fc9099-c610-4a4a-a9e2-f585f822c1f3,Target: CD3: CD8,Target: CD3: CD8,Other,21.87,176.7
+9e3fa54b-6b50-432f-8c4f-fff90f1dc4b1,PathCellObject,,Other,81.73,177.53
+9a6bcfd6-2faf-4911-aa07-62faa5e65bac,Target: CD68,Target: CD68,Other,513.85,174.38
+7cae7407-eaa9-4fd1-97a8-e2bf1351f8d4,Target: CD20: CD68,Target: CD20: CD68,Other,572.54,177.81
+d5b63d3b-4289-4ce2-a2fe-51598ea49442,PathCellObject,,Other,89.96,174.53
+4edde727-8bc7-4c22-966d-9c142fbcfe79,Target: CD20: CD68,Target: CD20: CD68,Other,582.25,175.59
+93408eda-3215-4939-91ba-88aa70f6b63d,Target: CD3: CD8,Target: CD3: CD8,Other,324.6,177.79
+f8e9a5cc-ce0d-4af7-a842-76c7c42cce15,PathCellObject,,Other,123.34,177.66
+7c86f808-99cd-46f9-a181-85862afdcd83,Target: CD68,Target: CD68,Other,157.38,177
+8fb8094b-b2ac-47b4-bf51-c621a8f04505,PathCellObject,,Other,291.41,178.17
+a7842567-5495-49b0-8170-8db8dd226ffb,PathCellObject,,Other,94.98,177.85
+5fb8621b-97ef-433d-92bf-1db60efbfb34,Target: CD3: CD8,Target: CD3: CD8,Other,281.87,179.73
+32a0f7b8-933d-4fbf-9904-0562a524c4f4,PathCellObject,,Other,139.05,183.46
+57d32956-2f08-45d0-9559-dbefccd9b2a0,Target: CD3: CD8,Target: CD3: CD8,Other,315.54,180.74
+d79eedb8-4710-47f0-82ef-4f7bdae022b4,Target: CD8,Target: CD8,Other,332.96,182.85
+bacc9dad-4992-42a8-8250-f22a491793b5,PathCellObject,,Other,118.63,184.08
+b4e6809f-9da1-4f02-89d7-b4e6c80ce125,Target: CD3,Target: CD3,Other,29.03,182.72
+f9381bed-64f3-4cd0-b670-1b2af20f74e0,PathCellObject,,Other,197.1,185.88
+3b0d64fc-1c75-481a-a311-e0c6d2010800,PathCellObject,,Other,301.05,184.17
+0640be1c-292d-4913-b7da-38557776af5e,PathCellObject,,Other,514.65,181.84
+e917f878-45bf-46fd-b3ef-379801716f2b,Target: CD20,Target: CD20,Other,588.52,182.58
+a379bbbe-e1fc-46fe-9ef7-07fced18fa51,PathCellObject,,Other,170.93,183.91
+076f13d4-3e14-4694-bf73-d86767948fb0,PathCellObject,,Other,99.79,188.7
+b95c012d-6f0c-4753-b401-df736e2a9f04,Target: CD8,Target: CD8,Other,160.2,185.43
+4052bf8f-916b-426f-8a0a-ad0df7cfd241,Target: CD20,Target: CD20,Other,600.47,182.97
+f11ea32c-3928-4678-ae1d-790fc7bbd6d6,PathCellObject,,Other,652.94,183.47
+651c87c5-e986-4727-aa42-e62387e632f4,PathCellObject,,Other,322.35,186.75
+a64b54d6-c0eb-401c-ab48-5f29b12d3558,PathCellObject,,Other,146.45,189.23
+cade0bf3-98f2-4021-8e86-d9ad34e0971e,PathCellObject,,Other,486.08,184.44
+21cf4c76-990f-4bae-9db5-9f322883e26f,PathCellObject,,Other,185.4,183.98
+119c2672-a4dd-43b5-a85f-695984d92683,PathCellObject,,Other,506.35,186.01
+d7e8f552-aa9e-46d2-8081-f621c1d7b453,PathCellObject,,Other,78.22,187.24
+fae0301f-fe19-4985-bc8e-5a10c7d1256a,PathCellObject,,Other,289.71,187.58
+7fef2954-769a-4990-909b-b6f1849448ec,PathCellObject,,Other,462.49,189.51
+e5cca961-9f48-4f83-8458-5be89230f0fa,PathCellObject,,Other,471.34,184.92
+8290743d-5862-4628-9c87-e42213d74487,PathCellObject,,Other,34.7,189.88
+df48210a-571c-4da6-bd38-968308df6abb,PathCellObject,,Other,608.27,192.15
+63595d61-f9f2-46b7-91da-ae799e1cd7f2,Target: CD3: CD4,Target: CD3: CD4,Other,177.58,189.53
+c92aba10-ba87-44df-8a6f-516eacb7c566,Target: CD20,Target: CD20,Other,513.24,189.94
+d7ea2c34-9188-4f51-857a-6dbc7c08885b,PathCellObject,,Other,644.42,188.31
+ced51930-95a8-47e9-adce-6516f7656377,PathCellObject,,Other,228.37,187.9
+2f897989-f4be-462a-8efa-ed679a458984,Target: CD8,Target: CD8,Other,585.51,191.09
+b803c3b1-4de5-426b-8068-ee6aa05a985d,PathCellObject,,Other,281.23,191.63
+7919cf1d-22b6-4359-93e3-3024a38592bb,PathCellObject,,Other,4.866,191.86
+55b81eff-2ac6-4ecf-ad9f-9e92c46e9d2c,Target: CD3: CD8,Target: CD3: CD8,Other,311.19,191.8
+758c341a-75c1-4709-af2d-c737185fd0d3,PathCellObject,,Other,360.96,192.42
+0c603349-3802-40c4-999b-55665124a1a9,Target: CD3,Target: CD3,Other,152.49,196.51
+9439e2ac-853a-4efa-b41e-80c051a86a4b,Target: CD3,Target: CD3,Other,188.84,194.17
+806ae88f-a55b-4ad3-8ab1-f53d590faa11,PathCellObject,,Other,474.7,193.27
+bba7d6cd-3f88-4de1-a0c9-f4d279606b01,Target: CD68,Target: CD68,Other,422.88,193.16
+72f83a22-0602-45af-b818-32c0c2d5910d,Target: CD3: CD4,Target: CD3: CD4,Other,340.87,191.76
+abf85a27-ce4a-414c-a236-e665b067869c,PathCellObject,,Other,630.58,194.92
+b8899a20-0e81-4081-a529-8454f7ef9d7f,PathCellObject,,Other,62.02,193.56
+18a6c4c4-a665-4443-8e87-e27260f36ce2,Target: CD20,Target: CD20,Other,160.94,196
+6950ba43-7b20-4a23-987e-f9ab9e36cea5,Target: CD68: CD8,Target: CD68: CD8,Other,523.04,195.59
+edfd883a-cfba-4212-982c-6dfa94cbe549,PathCellObject,,Other,497.14,194.93
+db79359e-8146-4eb7-90a0-eb8e76bdd119,Target: CD4,Target: CD4,Other,654.27,197.44
+1c8266e4-2d93-416e-a742-3e992c9023bd,PathCellObject,,Other,211.91,198.04
+86ce1aa7-14b7-4d56-be29-64abebd57e05,PathCellObject,,Other,226.63,197.24
+240b8b7d-24fd-4643-8d5c-13eeca9e82d0,PathCellObject,,Other,642.72,201.8
+a8168cda-0f35-4f27-a1be-f20538a268c5,Target: CD20,Target: CD20,Other,795.08,197.41
+5d15e51b-ce41-43bf-ab32-e4729bc84834,PathCellObject,,Other,241.35,195.99
+16e8ca65-7e21-4a66-baeb-235aa79fa388,PathCellObject,,Other,621.44,196.78
+9f930c67-30fd-4327-98e8-754acb22dc82,PathCellObject,,Other,181.33,198.67
+618e35bb-e29c-40fb-9f0c-49f20207f591,PathCellObject,,Other,296.93,198.57
+5aaffaf2-50d6-415f-b3ad-5af8ff96eb7c,Target: CD3: CD4,Target: CD3: CD4,Other,329.96,198.61
+d20a2e98-d612-4787-b401-2f2cdb01a104,PathCellObject,,Other,56.84,203.01
+e8107abc-529f-458f-847f-eface911b327,PathCellObject,,Other,141.46,201.45
+8d8d6aea-0f55-4d80-922a-330ab11842e4,PathCellObject,,Other,387.26,199.24
+d9e87735-fd14-4b6b-b909-a8729ce14d46,Target: CD3: CD4,Target: CD3: CD4,Other,408.33,198.95
+a4296ab4-e6fa-49b3-ab2a-f77a5e43be8d,Target: CD3: CD4,Target: CD3: CD4,Other,344.58,201.31
+ce966711-8af7-4026-8e33-634b895daf96,PathCellObject,,Other,81.38,201.13
+fc71819c-d20e-4c16-a0d0-b6f86098ae7a,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,318.82,200.94
+f7aded63-d41c-4d45-92b7-8b1a784ef05d,PathCellObject,,Other,481.76,200.56
+dc09d66c-f03e-4f81-ace2-9807bae31991,Target: CD3: CD4,Target: CD3: CD4,Other,532.97,200.82
+4f78f20d-4a8e-43ab-927d-44db9b1e9050,PathCellObject,,Other,615.42,203.09
+1f8d643c-67b4-4fac-96c3-45aec72be715,Target: CD3: CD4,Target: CD3: CD4,Other,436,201.56
+bdb14405-63db-496c-8567-dd952cbfc8ca,PathCellObject,,Other,510.5,201.73
+0af52678-5bb1-4821-b39b-0c31882fcce5,PathCellObject,,Other,584.73,201.56
+ed8d00b3-741a-4ae8-a23c-4f29a97aae9a,PathCellObject,,Other,45.58,205.3
+2afe146f-1592-4cdf-a736-6999dc9194ee,PathCellObject,,Other,104.48,205.33
+1a0910af-c611-44a4-906d-3ddf79815d9f,PathCellObject,,Other,289.74,203.41
+f1788855-5c47-495c-8597-c7e73628e986,PathCellObject,,Other,68.49,205.56
+cc37e332-5d10-4d53-8c24-06b5d8ac17a2,Target: CD3: CD8,Target: CD3: CD8,Other,232.76,204.09
+29640e0d-d35b-4d6c-afcb-851e58e2712e,PathCellObject,,Other,250.61,204.83
+bfb9010d-be2a-472c-befc-46e4ba751777,PathCellObject,,Other,629.5,205.92
+8686aa4a-0aa0-4b54-a600-a3e2102fd9b5,PathCellObject,,Other,422.14,204.71
+25837415-92a2-41f4-bcfc-4fac3f48095b,PathCellObject,,Other,474.26,207.77
+12c3f39b-bda7-4bac-88bf-7e7c278d2625,Target: CD3: CD4,Target: CD3: CD4,Other,169.5,207.62
+250c9d07-d6df-46bf-b9ea-f4325b48bf7f,Target: CD3: CD8,Target: CD3: CD8,Other,501.25,206.53
+937ca689-7135-4be9-940d-2f31fea8e900,Target: CD3,Target: CD3,Other,314.77,208.76
+123930fe-9db3-45e8-9926-4867fc25d2ea,Target: CD3,Target: CD3,Other,415.51,208.92
+3e97f68e-4b71-412c-94f6-30d4779a5c32,PathCellObject,,Other,595.76,209.52
+66420287-d71c-4444-86a2-3b057fca4b60,Target: CD3: CD4,Target: CD3: CD4,Other,530.68,211.1
+a1b0c89c-6180-4e06-9275-736e58789b31,Target: CD68,Target: CD68,Other,237.69,212.55
+33fc17c1-b84e-4f0a-a7d8-1bb45597a74c,Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,328.82,212.55
+a2cd9802-f668-49fa-974a-a5969f5a5e8b,Target: CD3: CD4,Target: CD3: CD4,Other,138.58,211.45
+4a576160-d018-4d67-abaa-d4cedf66b0ef,Target: CD3,Target: CD3,Other,391.53,212.48
+0f1608ad-af16-46de-bb9e-593cb9cc49bc,PathCellObject,,Other,493.36,212.12
+740d14c3-b8b1-41d8-87cb-45ceca2539fd,Target: CD3: CD8,Target: CD3: CD8,Other,159.13,213.28
+d9e06dfa-a0c8-4ca2-9399-96b95e3c72c9,PathCellObject,,Other,627.45,214.25
+996ebb4d-c6fb-46b0-b127-3651c217baef,Target: CD3,Target: CD3,Other,461.5,213.56
+47366b51-1e55-435e-a1f6-d30fc638b646,Target: CD68,Target: CD68,Other,283.65,213.92
+65830834-a0b2-4afe-9b6c-6deb3ecd1804,PathCellObject,,Other,74.44,215.41
+1f32fcef-9d8d-41cd-afc9-ef506aa1988d,Target: CD3,Target: CD3,Other,294.88,216.71
+c9172c04-3a47-42fe-bfa8-3bb8ac8e0ca5,Target: CD8,Target: CD8,Other,350.78,215.78
+667ac9d8-a4cd-4703-a7ce-248303af0aea,PathCellObject,,Other,444.33,216.09
+7987eead-0163-46c4-9d22-05429ebbc917,PathCellObject,,Other,504.19,215.9
+21634c39-c6bc-45b4-9c18-34fc33fc3a5b,PathCellObject,,Other,418.13,218.65
+730ff0bc-08e6-4eac-ae0e-1e0b79f316cb,Target: CD3: CD8,Target: CD3: CD8,Other,305.74,215.61
+02445ed1-df5a-463a-a160-4a1a7e29dcf6,PathCellObject,,Other,117.1,218.38
+53a27c39-dde8-4a54-8b42-e1861afb1ac2,PathCellObject,,Other,27.86,217.41
+29383f61-627e-4e65-9c0f-7d7544b6b797,Target: CD4,Target: CD4,Other,321.28,218.52
+7ffd4e78-1f4b-4899-8941-2ea073a44673,PathCellObject,,Other,540.74,217.69
+3148f27a-a203-495e-9c0a-35e06eb6eb95,Target: CD3: CD8,Target: CD3: CD8,Other,137.5,220.47
+dcaf71f9-c52b-4a2c-9a28-abfc37d7ff76,PathCellObject,,Other,216.14,218.12
+dc5cdd55-b95d-43ef-b435-f26738614231,PathCellObject,,Other,430.8,218.64
+e7f654cc-ca2f-4d18-a816-4427581510ba,PathCellObject,,Other,41.7,219.54
+a406ac97-c62c-425e-9015-71c1d72c2b24,PathCellObject,,Other,312.03,222.44
+9c53947f-c38d-4480-bf91-25042bfa85b1,PathCellObject,,Other,194.07,219.7
+ac11abca-3934-4621-b59d-4d4217e16bab,Target: CD8,Target: CD8,Other,280.34,221.22
+dae8729b-884b-4a34-9ba8-a2dda3bfce20,PathCellObject,,Other,98.27,222.67
+5d6a1390-64e7-4673-987b-1be772b549c4,Target: CD68,Target: CD68,Other,256.89,221.34
+82072ace-cc7b-41fb-8372-648fceaa90e5,Target: CD3,Target: CD3,Other,269.1,219.73
+47b37c09-b7bd-4885-bda9-73ea587a9399,PathCellObject,,Other,67.76,222.55
+216c9db4-6d1a-4621-ad60-69cfb427c785,PathCellObject,,Other,566.63,220.45
+47e8ea74-22f2-4adb-ba40-d9bbaa62216a,PathCellObject,,Other,179.06,224.05
+3c97ff8a-9ea1-4284-9f4c-1ec5b4795d11,PathCellObject,,Other,403.57,222.07
+14681c8d-73d4-49c8-ac21-96776bdafd1f,PathCellObject,,Other,236.53,223.07
+0433f581-a1d4-4af3-af1a-ffb0409fe73f,PathCellObject,,Other,609.14,222.16
+f75b3ae7-08ac-4ce7-acae-a38d593e1b09,PathCellObject,,Other,33.3,225.18
+8fa9abaa-6239-46be-8aab-0f0b1e0951b4,PathCellObject,,Other,222.41,224.37
+6460a93a-e09d-4f04-b297-201ce361258f,PathCellObject,,Other,53.4,225.27
+f9a92ec5-c26e-49d0-8d9d-d2105d59ccba,Target: CD3,Target: CD3,Other,129.1,224.65
+fc3bd727-372d-4317-81aa-03dba2e5ddbf,PathCellObject,,Other,575.44,225.63
+c811d283-347f-4cb1-83a3-4d7156b37696,PathCellObject,,Other,435.11,227.36
+25816143-3ce7-4235-9792-c7ecfec71619,PathCellObject,,Other,390.17,227.24
+056b3ca8-9b61-4fff-a983-bee22f4b2215,Target: CD3,Target: CD3,Other,459.91,226.63
+3dcdfcdf-2e8e-4e90-8820-c9e1c121e216,Target: CD3: CD8,Target: CD3: CD8,Other,324.25,226.43
+b0d0f036-23c0-4417-8d8a-d2405b9d6d93,PathCellObject,,Other,773.33,226.42
+f3f52925-2a22-4e56-9f52-32df86473924,PathCellObject,,Other,275.04,228.77
+3e8c631f-8f54-4f85-9a87-c111b7f75266,PathCellObject,,Other,78.84,226.57
+c5162ec7-3c40-4961-8e68-0d589c7b0a89,Target: CD3,Target: CD3,Other,468.79,227.08
+1882e393-fc4a-4c44-a298-7dd2b729ee8a,PathCellObject,,Other,583.81,227.34
+3d12379d-2043-4dd6-913e-ad9ab0e435c0,PathCellObject,,Other,195.55,229.5
+520054f2-4465-4f80-907c-b260cb87a728,PathCellObject,,Other,345.55,226.8
+13d146dc-03b7-457f-88f7-dd1ec37696d3,PathCellObject,,Other,447.16,228.53
+0c4519c7-cc18-4c44-a5fb-a097016df0aa,PathCellObject,,Other,117.65,230.44
+e319ed93-3054-4dd3-a5ca-afee512e1e5a,PathCellObject,,Other,630.6,227.24
+b7f17095-c47b-4d3e-8005-aaa107243f71,PathCellObject,,Other,125.29,233.72
+df7378a7-f78c-4845-8565-eba4317f66d5,Target: CD3,Target: CD3,Other,332.41,230.09
+26794d03-f4d4-4cc6-9570-4ab686f233ba,PathCellObject,,Other,61.3,232.18
+7f670d39-049a-472e-a1d3-360bcd84b951,Target: CD8,Target: CD8,Other,141.85,231.36
+c6dd9a36-1364-458f-95f7-8a85127012cb,PathCellObject,,Other,233.19,230.87
+2b420390-b1cb-412b-9a98-5a1d5833b114,Target: CD8,Target: CD8,Other,495.23,231.77
+0374916a-08c4-4f14-9973-b8d46e376c43,PathCellObject,,Other,559.01,229.89
+340b1ebe-35f4-4826-8ec5-6559582223c3,PathCellObject,,Other,241.17,231.2
+af9b4fdd-e5ff-40b9-84f3-356855d334b8,PathCellObject,,Other,567.52,232.43
+dbfe1462-78ed-4e3e-9aaf-b9fdceb5e495,PathCellObject,,Other,70.91,238.91
+1421b71b-a4e1-43f5-b906-1d51a7d070b8,PathCellObject,,Other,297.89,231.02
+41d27195-8f7f-4b3e-b9a9-f4c41482529a,PathCellObject,,Other,613.74,232.27
+dd2f64d8-b2be-400c-88b2-90ca77f91f90,PathCellObject,,Other,42.29,233.95
+be46fd41-793e-47e8-9900-4d018af3f2ed,PathCellObject,,Other,224.45,233.07
+460f049a-3840-46ec-90f2-6bdb3a9a507c,Target: CD3,Target: CD3,Other,374.47,231.37
+dc870363-7296-435f-99ff-97121d9bf845,PathCellObject,,Other,83.4,236.02
+7267d901-c008-45a6-9c30-dbcb6ecc4e51,PathCellObject,,Other,359.2,232.16
+7d5c1f12-f0da-4359-a851-e8bea4d33aa1,Target: CD8,Target: CD8,Other,163.83,235.18
+62be1fcb-2058-4c1d-bd5e-d580881d4c1f,Target: CD3,Target: CD3,Other,348.54,234.4
+32eb918e-1e6d-446d-93f5-62aebdf83186,PathCellObject,,Other,486.45,232.94
+30573067-95d6-4952-b64c-170b64348164,PathCellObject,,Other,30.56,234.08
+0db9b61d-7117-41fc-981a-2e05b49e37d5,PathCellObject,,Other,251.13,236.12
+858b6ee4-0b95-4f1c-a063-56adcb2f1a2f,PathCellObject,,Other,505.65,233.35
+d9090351-352d-4da8-8852-31c21f713196,PathCellObject,,Other,475.74,235.14
+34908e76-f654-46fc-994f-988b59d74a6c,PathCellObject,,Other,635.65,233.81
+ca15637e-e2a4-40a2-bd4c-b84b17cb02fc,PathCellObject,,Other,182.41,235.38
+e4433def-cca8-4f92-aede-4948cdd27f1a,Target: CD3: CD8,Target: CD3: CD8,Other,452.66,236.58
+082064f6-99c1-454f-a5fa-ba22ca9b87f7,PathCellObject,,Other,512.69,238.5
+dfb5b8f6-2b9d-47d4-8d38-58fa42974999,PathCellObject,,Other,624.27,238.63
+431c2527-63f2-4a00-a83b-0139b2fee252,Target: CD3: CD8,Target: CD3: CD8,Other,208.06,237.74
+892fda7e-db5c-4b0a-8a81-95ae9dc388df,PathCellObject,,Other,149.91,239.66
+d9520052-6473-45d5-b5b0-53cfff3306a4,PathCellObject,,Other,192.59,243.01
+18a1a7b0-9cb7-4553-9ecb-299122365625,Target: CD8,Target: CD8,Other,339.56,238.68
+f3267f85-386d-40d3-9aec-e9fae9c6c1e4,Target: CD20,Target: CD20,Other,540.51,239.53
+d6641c7b-c04f-4a59-ac4b-1da76a7aaff5,Target: CD3: CD8,Target: CD3: CD8,Other,136.65,241.73
+72649e21-f1ad-445b-a8de-6d06ce4bb488,PathCellObject,,Other,639.27,242.79
+ec997923-200f-49c5-94a9-f2fe38df0db2,PathCellObject,,Other,100.25,240.99
+4c0c9b55-d2a4-4bee-a733-c11376ffdc59,PathCellObject,,Other,792.78,240.12
+019731d5-5602-4505-ba52-f7c752b53c39,Target: CD3: CD8,Target: CD3: CD8,Other,238.45,240.14
+581dee5d-722c-4868-ab21-745410fa855a,PathCellObject,,Other,462.68,240.84
+71effa2f-52a3-4623-85a5-92400b63bb8a,Target: CD3: CD8,Target: CD3: CD8,Other,4.717,242.2
+39024694-3f6a-436a-abe7-ac148eba6bb2,PathCellObject,,Other,61.83,244.4
+5119e495-c3fa-4280-a9ca-f53437b593df,PathCellObject,,Other,229.46,244.66
+5315256b-5c22-49c6-8fb0-cb2802263e62,PathCellObject,,Other,318.58,244.59
+24ecf0c5-4f81-4850-9d0b-fd409196319a,PathCellObject,,Other,491.47,245.39
+b5e212dc-f661-4e33-9cbb-8a9aefac61bb,PathCellObject,,Other,526.81,242.79
+ee370c5d-d522-48e5-9c89-1f36f9705d14,PathCellObject,,Other,92.71,245.54
+36978210-c977-45de-8339-3817fc5fa3c2,PathCellObject,,Other,351.03,245.25
+4f5f93a7-9b80-40a2-b38e-fef403be2e7b,Target: CD3: CD8,Target: CD3: CD8,Other,13.87,246.31
+838a1d72-2573-4c3c-965a-ce10204c466d,PathCellObject,,Other,288.22,243.77
+2ecbe8ff-5ecf-4fb5-a893-3ea49a172ef9,PathCellObject,,Other,331.5,246.11
+01268851-1584-4659-a72a-1e5db33aa1f3,PathCellObject,,Other,175.88,245.31
+2f6c0a4b-a35b-4c3e-9540-c863662ed311,Target: CD8,Target: CD8,Other,243.19,247.18
+01216ede-e4fa-4121-b7b9-35f04e81882c,PathCellObject,,Other,277.39,245.97
+58e6e617-27f7-4abe-96a7-3dd8cfc427da,PathCellObject,,Other,84.75,249.01
+010eef23-dd50-4904-945d-914a82c67c49,PathCellObject,,Other,32.31,247.38
+0e059489-b222-41c7-b1ae-c1fa9a697fb4,Target: CD3,Target: CD3,Other,261.91,248.45
+5754969f-b54b-4984-9d16-438159075304,PathCellObject,,Other,433.29,246.19
+84cfb70d-1bd0-4f69-bb08-05051ae26293,PathCellObject,,Other,460,249.36
+ced9bb3e-f5d1-494a-af4d-c8f3799c3b1a,Target: CD8,Target: CD8,Other,440.17,248.21
+0cd45fae-5c45-40ca-86aa-163aed7a7041,PathCellObject,,Other,543.15,248.82
+f87fa419-1e42-45bf-978f-e153ca720e36,PathCellObject,,Other,424.7,249.73
+8f4eba2f-2043-4f50-b1df-daac7f3fb4cb,Target: CD3,Target: CD3,Other,448.96,248.97
+c45a0a68-7082-4d11-9a34-cee9a951885c,PathCellObject,,Other,589.39,249.54
+7349c688-df55-49ba-b99b-89e326694ba9,PathCellObject,,Other,59.12,256.03
+6c6937c1-3c47-4f6e-b1a6-590d7d00ae4e,Target: CD3: CD4,Target: CD3: CD4,Other,481.39,251.39
+50d4ca93-c3ee-4c26-b815-2aca9574553b,PathCellObject,,Other,578.88,251.32
+f05f1ff8-9f3d-4c65-be08-0a8ca6eaaf80,PathCellObject,,Other,793.74,251.95
+c89fd459-a726-49f6-a517-b85281e14cc8,PathCellObject,,Other,499.19,251.78
+0d0f97de-1701-4e6e-ba98-5ce85534559d,PathCellObject,,Other,525,252.13
+5b5b75da-175c-4781-84cd-da34afdf2506,PathCellObject,,Other,535.17,252.4
+04c47c20-f8dd-49f5-841d-bb7b22304028,Target: CD68,Target: CD68,Other,292.18,253.89
+b24df044-0ddd-420f-8d0d-7db71dbf8498,PathCellObject,,Other,379.51,257.01
+a5ebe867-0d66-4fb6-a8c5-77c790bb1019,Target: CD3,Target: CD3,Other,443.8,255.72
+77b47a88-97f9-41ea-a853-d52d721b91e4,PathCellObject,,Other,610.97,255.08
+0c4923b0-4b84-481c-959b-36f3cac81e78,PathCellObject,,Other,785.47,254.26
+35facaec-0f72-485b-b7b2-ced2c559301d,PathCellObject,,Other,241.92,257.56
+906b40f7-c135-40dd-af67-e5ef9428e6d6,PathCellObject,,Other,123.01,256.03
+cbd79a52-5215-4dac-ac91-bd56ab5c6ce3,Target: CD68,Target: CD68,Other,304.47,255.94
+f15ba91b-ca88-4cd7-aef6-0b1d15e33d9e,PathCellObject,,Other,315.03,258.68
+0debfcc1-92d3-48e7-86d6-9dcd8d208d1c,PathCellObject,,Other,330.22,258.45
+f9110d78-dcf3-444b-9bd1-80e52e68fb1a,PathCellObject,,Other,544.55,260.95
+0ec88801-1921-417c-a724-b1d9fb282092,PathCellObject,,Other,15.41,260.8
+b6b7505d-bd9d-400b-898a-4f694dc5fdf7,Target: CD4,Target: CD4,Other,507.39,255.63
+b2f34e89-06e0-4617-9b99-94e7d757ec3e,Target: CD3: CD4,Target: CD3: CD4,Other,286.1,257.69
+67efe834-4029-448d-8ce0-724a270f64ae,PathCellObject,,Other,359.57,258.14
+2aec8a98-1b2a-46fd-a8a2-90bd74a6384f,PathCellObject,,Other,493.62,258.99
+83226d0e-c766-45ab-9a6c-315816d98624,PathCellObject,,Other,522.07,257.6
+d5ba93ee-24c9-4ea4-b4ea-30196ab0241d,PathCellObject,,Other,598.13,257.59
+3752b4a8-7a8c-4c5e-9b35-eb5c6630edd3,PathCellObject,,Other,639.09,261.13
+041f9729-1c5e-43d4-8f05-6bf7a4dfb19a,PathCellObject,,Other,77.71,262.06
+ddc9d65a-0ba1-4fe7-9cbc-873ae5985264,Target: CD3: CD4,Target: CD3: CD4,Other,130.29,258.06
+7bbdd297-4c26-41a7-854a-0410d04e55db,PathCellObject,,Other,279.11,257.49
+93cc1556-3a93-485f-a775-aa20356314b7,PathCellObject,,Other,231.12,259.28
+f0248ee3-8d30-4d15-bcec-5de97114a094,PathCellObject,,Other,437.72,261.1
+a207f72a-7f0d-4a46-8bdc-3606fca21024,Target: CD3: CD4,Target: CD3: CD4,Other,533.51,260.43
+7b9dd52d-cf7e-4a0e-a088-e90e9ae48bb2,PathCellObject,,Other,583.55,261.23
+5962b6c6-223d-4d90-b84b-fd0feac2b755,Target: CD3,Target: CD3,Other,26.94,261.09
+51bb94e9-484a-4142-b83d-7d5f7b26ef4c,Target: CD3,Target: CD3,Other,152.36,258.82
+c074cc28-2780-4af7-96a1-9f08a2bf14a1,Target: CD3: CD8,Target: CD3: CD8,Other,271.68,260.09
+6c1e9115-b8d3-438a-b008-278a977a4611,PathCellObject,,Other,421.76,260.17
+1971454a-3083-48d8-b666-8e2d716335f2,Target: CD8,Target: CD8,Other,777.51,259.73
+d28c7d77-d27f-42ce-bd8f-a31f331779af,Target: CD3: CD4,Target: CD3: CD4,Other,202.7,259.85
+59e98457-7669-4205-88b0-ba0d81958ded,PathCellObject,,Other,162.97,262.07
+766d535a-fdf0-41ef-8e27-6f821a03bc5c,PathCellObject,,Other,501.29,266.42
+a9cadeea-ec3d-442e-ab36-a3f1fd3858d5,Target: CD68,Target: CD68,Other,625.45,262.07
+f1fcb40a-0683-44b2-a2b2-41322ff4e00b,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,134.28,266.12
+72b70873-e31e-4bd0-bca1-f8cbd065ebb0,PathCellObject,,Other,512.43,264.82
+7e8145ac-64b0-4a87-8d4b-f5ff4ae99abe,Target: CD8,Target: CD8,Other,297.22,264.76
+33f769b0-fc03-43b4-bdda-be789baf2f3c,PathCellObject,,Other,525.57,266.79
+e1789556-185e-4675-97ba-19d8b1d4394d,Target: CD3: CD8,Target: CD3: CD8,Other,192.12,264.54
+a7b4f280-452f-47c5-8726-b2ab8502741c,Target: CD8,Target: CD8,Other,285.23,265.78
+7a387c0a-4d8e-4d5a-bc4c-b4edabbbbc12,PathCellObject,,Other,412.3,265.04
+d72165e8-cc3f-4dec-9bac-7f737c4d3b2d,PathCellObject,,Other,341.74,264.82
+c37593a0-044e-403f-b41b-081795cf1b8c,Target: CD8,Target: CD8,Other,782.01,265.41
+a04174a9-7913-4846-aee8-953a94555dc7,Target: CD3,Target: CD3,Other,432.99,265.35
+c73e4296-5385-4369-87ac-b5a006a91be9,PathCellObject,,Other,599.09,268.43
+1eab87c4-c39f-48fa-9f6c-4d5bd7c55e63,Target: CD3: CD8,Target: CD3: CD8,Other,148.84,267.6
+4ff9c03c-67ca-42dc-a072-fe7cd0782b41,Target: CD3,Target: CD3,Other,611.28,266.89
+53168be7-4857-4193-9582-6d7c3d4c9bce,PathCellObject,,Other,230.28,268.1
+15fbe8c7-0c3e-4df3-b7e9-7228d0ac3cd1,Target: CD8,Target: CD8,Other,274.42,268.74
+dcd78d2e-4bd2-41b6-a910-d063c032be4d,PathCellObject,,Other,391.89,267.26
+1bfb4356-5080-4d08-8850-1600b8dec899,PathCellObject,,Other,206.39,268.44
+fd36de4d-0385-4b86-8e13-e95a16609040,PathCellObject,,Other,790.98,268.35
+5dc11e71-c271-4fb1-bc25-15ffce857eed,PathCellObject,,Other,43.66,270.67
+93751372-d53b-434a-8c3b-68c78512bd86,Target: CD3,Target: CD3,Other,120.29,267.59
+568ca828-59bf-4961-9e4b-d4df26d9373d,Target: CD3,Target: CD3,Other,428.31,270.99
+a348c945-7dc0-4e96-aef9-e10e148c2994,Target: CD3,Target: CD3,Other,466.58,268.28
+f1c8e62e-3779-4b41-9c66-59fd85f98c9b,Target: CD3,Target: CD3,Other,198.72,270.78
+395448ba-9e98-4641-8803-5e006b769bfd,PathCellObject,,Other,255.68,271.66
+2ce5d3d8-1b38-4bb2-9697-d3b2621a68ef,Target: CD3: CD8,Target: CD3: CD8,Other,347.15,270.52
+1ad65c66-14ec-45c3-a303-6caa5223400f,PathCellObject,,Other,552.71,271.61
+93e7558f-2fa8-4c55-8640-0b9621ee069a,PathCellObject,,Other,324.35,269.43
+5423441e-cb14-443a-ad2a-b21e53167c3b,PathCellObject,,Other,55.44,275.09
+f38906d4-3ce1-4f8d-960e-ac7233d7fd18,Target: CD3: CD8,Target: CD3: CD8,Other,285.49,273.64
+6dcb400b-223a-44b9-b5ca-45fe92430916,Target: CD3,Target: CD3,Other,304.26,271.56
+86edefe7-6d68-4219-931d-0ab01b72c1af,PathCellObject,,Other,519.57,273.22
+aa720300-47a1-4e93-a2d0-0c169a543737,Target: CD3: CD8,Target: CD3: CD8,Other,23.3,273.92
+bff7d57b-7c43-42b1-8b30-c6e19fb8c84b,Target: CD3: CD4,Target: CD3: CD4,Other,782.82,272.62
+8835ed78-9f37-4c9e-98ad-dc3bc02bd22b,Target: CD3,Target: CD3,Other,417.61,274.91
+1348bcfd-08f3-4732-8f2e-baa7a074b3e4,Target: CD3,Target: CD3,Other,156.51,276.7
+8645f439-07f1-4f65-bfe8-b6809794aeb5,PathCellObject,,Other,370.3,275.78
+6ad04e0b-78b0-49da-a3e2-ae5d1770af7c,PathCellObject,,Other,220.89,277.21
+7ab0330f-2ac3-49f9-8c9a-2878f8387d4d,Target: CD4,Target: CD4,Other,352.86,276.7
+58daa31f-3caa-4f88-a8a0-b942d191cb7e,Target: CD3: CD8,Target: CD3: CD8,Other,120.71,276.4
+b1a2384c-93ec-47a8-9b6e-6450a0e9d282,Target: CD3,Target: CD3,Other,320.24,278.31
+5886e247-7a11-4ed7-b03a-21e0c8a798af,PathCellObject,,Other,187.99,275.61
+9f020d2c-86f7-430f-94f8-65bbca86c927,PathCellObject,,Other,461.93,278.76
+62e0c327-3f65-4f5c-85c6-f8c1270ef6f2,PathCellObject,,Other,656.53,277.29
+96275f7e-5a32-4510-a559-d51953d1d906,PathCellObject,,Other,779.1,278.21
+ed7d4d91-b302-4504-8108-2e9375c1e808,PathCellObject,,Other,206.76,278.87
+b1def129-31b7-468f-9296-07fedddd678b,PathCellObject,,Other,268.76,281.96
+0a9f310e-b175-4ada-90c7-fe5caf7b16fc,PathCellObject,,Other,385.36,279.74
+d425338b-4efa-4bce-af8d-8047e0fc35e0,PathCellObject,,Other,400.96,279.4
+c2feac34-ad96-416b-a535-ff5f0201b65e,Target: CD3,Target: CD3,Other,303.55,281.84
+1dc13265-857d-48ee-9b0a-aae4fa4e2401,PathCellObject,,Other,637.38,279.4
+d56df932-20fd-465a-a328-88335dc5cdae,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,294.32,280.97
+6b9413a3-71df-4b47-99d8-0f7e9f2b2b45,PathCellObject,,Other,533.1,284.41
+59c04f6c-40c9-465b-bdf0-b86473825431,Target: CD3: CD4,Target: CD3: CD4,Other,113.84,281.73
+d1974e16-d306-4969-a833-0db403ef79a6,PathCellObject,,Other,439.21,280.63
+e7f46589-e623-4eb8-8a43-d6c3cd7f86be,PathCellObject,,Other,525.45,280.58
+99d74519-1ca3-42fe-8dcd-0d24731d781e,Target: CD68,Target: CD68,Other,197.4,284.3
+e6ae8f09-6a3f-4e85-9b46-177891ba65d0,PathCellObject,,Other,518,281.93
+b7dd179d-9030-4f72-81ff-a25f52a21ab1,PathCellObject,,Other,508.49,280.72
+12d088e2-2e0c-4f50-a642-b34925cf3f8f,PathCellObject,,Other,646.49,283.39
+f0db5335-b7d6-4a7a-9855-64a3c5680507,PathCellObject,,Other,17.58,283.43
+0a9760e4-e0a0-4a06-b665-ad28b17aa0b7,PathCellObject,,Other,186.49,285.55
+6766c9af-abba-4274-833c-f6cde966cfab,PathCellObject,,Other,233.76,286.34
+8651eef0-81fc-4b29-880d-b079ce7529f3,PathCellObject,,Other,483.89,283.22
+2ca2c841-4654-48ac-a626-48c6a77eeb02,PathCellObject,,Other,576.4,282.32
+d76c54e6-3f89-4f9b-b607-e01bb733a669,PathCellObject,,Other,768.63,285.61
+41f0c6e8-57fc-4b66-a106-e54fb3da13d0,PathCellObject,,Other,33.62,285.08
+b972b01d-676b-47e4-892d-24b99dbb05a3,Target: CD20,Target: CD20,Other,178.49,284.84
+a0cc751f-0d7b-44b8-b2bf-2e2734dcf68d,PathCellObject,,Other,616.14,285.12
+818dd764-f85a-4047-9d50-dbbee0c80412,PathCellObject,,Other,94.61,283.92
+51834a95-f0b8-4ce5-9b19-760309f9770a,Target: CD8,Target: CD8,Other,283.29,288.61
+8da765ca-7900-4013-a897-7713d7440acc,PathCellObject,,Other,542.55,285.47
+2a662e60-944f-4b2b-ba0d-832ac60cf299,PathCellObject,,Other,496.28,290.99
+754b64cc-b09b-40c2-ac11-df2357810fa8,PathCellObject,,Other,550.97,285.86
+fb8e35eb-f17d-41f0-8d88-5308e8540ea6,PathCellObject,,Other,568.88,284.4
+f65cbe62-ecc7-41b0-8661-34854c21395e,PathCellObject,,Other,582.96,287.99
+a156a6bd-9d50-4438-b113-6b55b1d8656e,Target: CD3,Target: CD3,Other,796.53,285.6
+a5097b35-9894-49e6-be47-d6ef09a682a5,PathCellObject,,Other,591.73,286.97
+dfd55653-16dd-453f-bfc3-a6e331bec673,PathCellObject,,Other,561.58,288.8
+2265b46c-4a6c-4066-905d-c1235748cd1c,PathCellObject,,Other,664.08,288.16
+fe06c6a8-dfdc-4f2a-9273-33b97d9952d7,Target: CD68,Target: CD68,Other,785.27,289.04
+1210dc0d-8569-4636-8aa8-d1802fe084f2,Target: CD3,Target: CD3,Other,89.65,289.95
+6efc9d9b-befc-456d-a0e7-987d0b3c5530,Target: CD20: CD8,Target: CD20: CD8,Other,109.66,290.65
+f4f20c7e-4671-4c7a-8062-52c5b2e08a8e,Target: CD3,Target: CD3,Other,519.1,291.58
+06fcbccf-e76e-4d1c-9e6f-19c4b2924270,Target: CD3: CD8,Target: CD3: CD8,Other,310.68,291.54
+1d5f0e24-15b0-45ab-a475-76c4e6883b0c,PathCellObject,,Other,465.01,289.7
+c1ad0908-3cf9-442b-b19d-7bb617d7f742,PathCellObject,,Other,641.19,294.14
+0e160c65-b826-4d8a-863c-aa2479934e39,PathCellObject,,Other,433.41,291.34
+86b8f621-2673-4576-9fa8-3f3903494675,PathCellObject,,Other,508.25,292.59
+7d083398-5ebe-42a3-8291-5711f785a663,PathCellObject,,Other,713.32,291.31
+107942bf-ffbc-44d3-82ab-44816eb2dc08,PathCellObject,,Other,417.09,291
+e24dfac3-0c4f-4c93-8c7b-a5e8dae08bb7,PathCellObject,,Other,406.62,291.52
+7c3d6ee7-fa3f-4231-a1de-221ec91f9c60,PathCellObject,,Other,320.58,294.28
+af161a96-9c35-4b23-a2c9-86231c78db85,Target: CD3,Target: CD3,Other,82.78,292.87
+26cdd9df-fe4a-4084-8e41-43d4e16b5672,Target: CD8,Target: CD8,Other,27.54,293.19
+ebde7e0d-b2b0-4d16-86ec-71200417a0d0,Target: CD3: CD8,Target: CD3: CD8,Other,158.87,294.99
+4d47892e-f8dc-4823-b0fe-e037d516eff5,PathCellObject,,Other,173.18,297.06
+ac4cd72d-a555-4cad-b7a6-662688b135a3,PathCellObject,,Other,738.42,293.08
+8854d3af-e647-4c94-8f1c-0c79c1f3ac95,PathCellObject,,Other,100.46,295.53
+7a5cc114-5308-41b8-998d-0bf6723c90b9,PathCellObject,,Other,190.2,297.06
+f78d3de1-6d56-438d-aed3-dfe8bda152e0,PathCellObject,,Other,37.23,298.74
+18098d1e-bdcb-429e-b7d6-9bca0745a762,Target: CD20: CD8,Target: CD20: CD8,Other,123.94,295.67
+552b83a0-f441-4588-b184-487255ce8cd2,Target: CD3,Target: CD3,Other,571.83,297.02
+0dfce04a-6865-4204-814c-37eeb66f7aac,PathCellObject,,Other,688.9,297.31
+602b2452-61d7-48fe-97c4-cc55a3f1a56e,Target: CD8,Target: CD8,Other,71.96,302.48
+1943c285-697d-4952-9ebc-12461ced332a,Target: CD3,Target: CD3,Other,398.11,297.39
+d663b7ca-a3e0-4ed5-babd-099f8ba3334a,PathCellObject,,Other,672.16,299.12
+71fed294-6ee1-47f4-835f-4e71cb277126,PathCellObject,,Other,12.6,301.23
+e28737c9-4835-4470-8d63-0ea0c7175412,PathCellObject,,Other,22.45,298.71
+e3bb91af-c75c-410e-89c2-9186e7bba628,Target: CD8,Target: CD8,Other,61.24,299.05
+f3074d1e-8499-4749-bf1c-7932718ccfcf,PathCellObject,,Other,469.67,300.79
+7e4c7939-84cb-4598-b83d-40ac47a58940,Target: CD3: CD8,Target: CD3: CD8,Other,89.27,300.22
+be1e9871-3128-4349-8ad9-2623e24aa024,Target: CD3,Target: CD3,Other,257.44,298.93
+d899e8eb-819a-4a80-968f-fd186d3502ad,PathCellObject,,Other,629.61,297.37
+59d8a757-2d1c-4375-b5b0-700ce004e07f,PathCellObject,,Other,244.31,297.03
+0bae6a63-ce74-4d7c-a3dd-33c1b467dc5a,Target: CD3,Target: CD3,Other,441.05,299.96
+c3da2d19-f382-4f3f-9610-d3b716524491,PathCellObject,,Other,657.04,300.36
+5df49908-e004-4ef6-b657-70329f99e61e,PathCellObject,,Other,414.64,300.65
+63abad54-8e90-4d60-ae83-9306bb4e7f7a,PathCellObject,,Other,541.32,299.63
+4cdb63c4-39d1-49c5-a1d8-4b67600cc55a,PathCellObject,,Other,206.21,299.07
+ad4d208c-10ca-45df-8a5d-9bf6a4a1b80f,PathCellObject,,Other,426,300.58
+1b2f16b3-7354-41c4-ac10-24ee67bb9026,Target: CD3: CD8,Target: CD3: CD8,Other,499.81,301.77
+c8f5a9d4-6c12-49b8-b47e-b1138b7448b1,PathCellObject,,Other,723.49,298.43
+688e99f4-0488-4420-af27-436b48445451,PathCellObject,,Other,3.251,299.14
+26415e11-24f9-442f-92b1-f14a13571a28,Target: CD68,Target: CD68,Other,266.89,300.08
+b2d2bf81-453c-443a-9e4c-9812506d144a,Target: CD3,Target: CD3,Other,372.42,300.17
+30db6712-f858-43be-a0cb-0f8ed1ddb64e,PathCellObject,,Other,741.32,303.49
+f172c908-66b7-4a98-9eaf-1c052847da68,Target: CD8,Target: CD8,Other,113.68,300.51
+0117b325-5bc4-4995-8928-0380ca769d78,Target: CD68: CD3,Target: CD68: CD3,Other,198.49,302.49
+e97454b4-8853-4456-8d84-0e8997081d88,Target: CD20,Target: CD20,Other,120.84,304.71
+47101b04-385b-4e84-8554-9fc0cced84b9,PathCellObject,,Other,213.01,304.81
+bbefdf55-f6c2-4241-9279-2fb233285dd8,PathCellObject,,Other,532.2,303.23
+cf67b0f0-5953-49ac-8aca-e0a97305cc54,Target: CD3,Target: CD3,Other,100.03,304.09
+43368dda-cde4-4724-9007-ea5870a94dd2,PathCellObject,,Other,791,302.91
+85b0e789-1ce1-4ddc-b32b-288dcd215ec2,Target: CD3: CD4,Target: CD3: CD4,Other,382.38,305.93
+7700118d-34f7-4fad-b39c-47cf9c734d0a,PathCellObject,,Other,245.25,306.46
+5ac5127d-f855-4f99-be27-f16d5d7e8b26,PathCellObject,,Other,625.58,306.39
+154751a5-ef5f-456d-9232-9709702559c0,PathCellObject,,Other,287.95,304.33
+557e2496-2b12-4ed5-9ddd-daeaa94f3bf2,PathCellObject,,Other,715.79,305.96
+c84ce79e-fc95-4627-b990-7f5320f0546e,PathCellObject,,Other,4.279,311.44
+83a639e0-33a5-4f64-80ab-e74a281c734f,Target: CD3: CD8,Target: CD3: CD8,Other,85.06,308.29
+8ea16ff1-ade2-4be5-a01b-4baaa6ef320f,Target: CD3,Target: CD3,Other,360.14,304.24
+2c37859b-12f4-4b81-a908-23f160950719,PathCellObject,,Other,726.45,307.31
+023d5b54-36d1-4ad8-bf19-68abe7b90b4f,Target: CD3: CD8,Target: CD3: CD8,Other,111.78,307.96
+a1dd49bf-e1bd-49e9-9f71-f8bc2438e74d,PathCellObject,,Other,588.15,306.04
+08022362-a3cf-447a-8270-65d35a800a8c,PathCellObject,,Other,134.15,306.1
+415befff-abb5-43ce-81a0-5635bcdd2a02,PathCellObject,,Other,311.7,306.3
+eed6df40-4e0b-47e6-92fc-a218dbbbd3d5,PathCellObject,,Other,771.85,305.15
+8016123b-efb9-4c19-a264-2cc013ace86f,Target: CD3: CD8,Target: CD3: CD8,Other,352.21,308.72
+ac1ebd2b-2515-40d6-a5ce-9ee67a565019,PathCellObject,,Other,26,310.71
+d7022dd1-0604-4a92-8874-e1dd093d7ac8,Target: CD3: CD4,Target: CD3: CD4,Other,190.91,308.8
+aced5062-8d3f-4992-83b3-b14d054b595b,PathCellObject,,Other,393.02,306.3
+21782556-e490-4402-85aa-6fd81d2bfa52,PathCellObject,,Other,425.01,308.64
+9de5071b-9e8b-4120-b0c3-e5948dc62cba,PathCellObject,,Other,486.56,309.36
+26d01099-218d-46b7-92fe-34fdf6c82414,PathCellObject,,Other,557.79,308.85
+3f205ede-5c55-4fd9-ae5d-1934537124fc,PathCellObject,,Other,415.44,309.11
+8b449111-1cbc-4fc3-baf2-84fa296b4b7b,PathCellObject,,Other,254.89,309.69
+6869bd4d-e90a-47d5-aa64-ffff98e7b5e3,Target: CD3,Target: CD3,Other,295.14,309.71
+a76da561-6280-4904-87bd-a56c253b1702,PathCellObject,,Other,400.24,310.95
+21269e3b-d3ff-453c-863a-60c250e110b3,Target: CD68,Target: CD68,Other,686.44,311.14
+b519075c-7bef-4cfd-887e-ebdc1c35eaef,Target: CD8,Target: CD8,Other,446.57,310.71
+311f499c-5c88-4c35-a76f-48dd73ef3461,PathCellObject,,Other,456.95,311.93
+101027f0-475f-4202-8706-3d96badbdb8d,Target: CD20,Target: CD20,Other,99.61,312.82
+b4469154-5d39-4b44-89e3-0842cccc1041,Target: CD3: CD4,Target: CD3: CD4,Other,127.12,313.64
+f45f9944-2d69-433d-aaef-f850d6ab07a8,Target: CD20,Target: CD20,Other,790.73,313.97
+dcf5c4bd-40c0-4a94-8bd9-f1c6fa141f17,PathCellObject,,Other,143.08,313.87
+764d4f92-80e0-4310-822e-f6c134e9477e,PathCellObject,,Other,601.12,314.26
+daa9cb4d-379b-4b26-818c-af9665d00793,PathCellObject,,Other,530.57,315.16
+c98ac4e4-52b0-49ee-8e26-73c900cbc06b,PathCellObject,,Other,771.84,314.15
+74f4fb1b-156d-4ad9-9c09-fe5395565b6d,PathCellObject,,Other,387.71,315.98
+9076e06a-3ab8-45a0-86e7-1ffb11c0a6f5,PathCellObject,,Other,196.48,317.45
+7daef8db-dde3-46c4-a0a5-fb153f69488c,Target: CD3: CD4,Target: CD3: CD4,Other,164.82,315.06
+87e8ad6a-f325-423b-9980-139f98b7fe31,Target: CD8,Target: CD8,Other,351.27,317.97
+91308209-7119-4f43-84fd-4ec19a8bfb97,PathCellObject,,Other,591.62,316.67
+74b6cae5-7fe9-4b6d-843f-ae88a34d82f8,PathCellObject,,Other,638.51,316.19
+93931036-e16d-4247-9459-dc344f1a240e,PathCellObject,,Other,338.59,315.65
+f70791b3-316e-4b1e-957d-02e2985d1ec5,Target: CD3,Target: CD3,Other,580.9,317.59
+f5a43f5c-9cac-4167-9355-1f95b3c29181,Target: CD3: CD8,Target: CD3: CD8,Other,249.87,316.54
+a0ac78c9-38a3-453f-919b-27c5646b5cba,Target: CD20,Target: CD20,Other,278.44,314.64
+5e91a720-3cb7-423c-912a-e83a30f6e5c5,PathCellObject,,Other,313.67,317.19
+f78a513d-b2e5-4ded-b50d-dc2abd77e52c,Target: CD3,Target: CD3,Other,421.55,315.61
+af349d52-90b6-4841-8702-eb3ce751b91e,PathCellObject,,Other,518.8,318.2
+31f041e7-e5b2-4e8f-8aee-f6f414e55b24,PathCellObject,,Other,796.73,319.09
+66c5681b-9491-4ae4-991d-323004e2f9cd,Target: CD3,Target: CD3,Other,74.1,319.66
+edca7432-f2e8-4c43-bd3b-de51657f74df,PathCellObject,,Other,479.58,320.43
+103b35d8-d28e-46d9-8dd6-9044f280d810,Target: CD3: CD4,Target: CD3: CD4,Other,111.31,318.47
+0df61317-22d5-4638-bd43-ff2e8f2b3732,Target: CD8,Target: CD8,Other,259.8,321.43
+38ff50c9-d73a-4a08-a949-30fd0384d247,PathCellObject,,Other,95.19,322.82
+645563a5-b27f-4275-8d11-6ca9c0d3d070,PathCellObject,,Other,296.4,321.74
+8c02fe09-d3a4-4a95-828d-8bdcf2a9a1e1,PathCellObject,,Other,140.61,322.9
+bb5915c6-f9de-48ac-9f71-6a1d6619fa73,PathCellObject,,Other,434.51,321.53
+26445710-dda7-4c32-9f5f-4a031b528ad1,PathCellObject,,Other,18.41,321.25
+88f39f5c-49af-48b8-8abc-941ea7d672ac,PathCellObject,,Other,119.46,323.89
+e6cdc05a-183b-42d2-9c30-90a07e3db679,PathCellObject,,Other,417.42,322.13
+3c410e45-f3fd-4683-9c36-0f5a9c97b0c6,Target: CD3,Target: CD3,Other,85.26,322.06
+745830a8-cd8a-4a22-a2f7-80f117fdc082,PathCellObject,,Other,243.67,321.68
+0016b4ea-8a02-4328-90ca-e2bbc62c2fa9,PathCellObject,,Other,275.5,323.25
+262b6128-d0c5-4914-82fd-99f9842bd9e1,Target: CD3: CD8,Target: CD3: CD8,Other,507.76,321.99
+c77c7039-2122-494e-b01f-c105ed49e413,PathCellObject,,Other,329.94,323.91
+de66a043-bd81-45c2-a9c9-94c1707ab8de,PathCellObject,,Other,541.14,321.85
+45a09a69-ec2d-49cf-b945-cdab68c516e7,PathCellObject,,Other,30.27,325.27
+531404c2-f1cd-4a7d-83df-23f92b78f291,PathCellObject,,Other,363.07,325.02
+fd3c18bd-469e-4bf8-a330-4a2e237b864c,PathCellObject,,Other,5.115,327.1
+8c35af07-a811-4286-b720-da1bda7a9ee0,PathCellObject,,Other,546.38,328.26
+19f76ab8-19d3-4a5d-9ccc-ee42f5d39655,PathCellObject,,Other,727.75,323.56
+efcf5ea4-f45b-4f27-83e6-b9d87c0a31b2,PathCellObject,,Other,499.78,326.36
+dac02614-bd84-4e7c-aec2-35e71372b4e0,PathCellObject,,Other,717,325.93
+7493575a-8e51-45a0-beab-5d31e22173ef,PathCellObject,,Other,795.43,328.76
+4e2ac77d-9fb8-4a39-8264-e1f121a125a9,PathCellObject,,Other,67.38,327.71
+15a63235-f600-4158-95c4-d63f39df2f81,PathCellObject,,Other,158.83,328.85
+0c92b970-4860-48cf-99a3-afd238555456,PathCellObject,,Other,105.99,327.32
+13b61de1-5a79-4139-b101-6dc2b0ad52e3,PathCellObject,,Other,622.33,330.98
+dd2605b1-5361-4175-9eb2-e1e6e5fc933e,PathCellObject,,Other,420.04,330.79
+c00e584d-c958-413f-a239-7308519f1be6,PathCellObject,,Other,14.3,333.84
+361db9c5-ac64-49ef-91e1-ae9644a2a50c,PathCellObject,,Other,238.64,329.02
+e30f6521-5e79-49df-9280-4e61061c5ce4,PathCellObject,,Other,593.82,327.42
+52a2a0c2-ee93-480d-85f2-5a30a6f3d835,Target: CD20,Target: CD20,Other,515.7,330.12
+1aaccc44-c4a1-4c4b-be42-183dd4420dfe,PathCellObject,,Other,769.73,330.39
+91f30f77-12e6-4bd0-b328-94c1069f5629,PathCellObject,,Other,525.29,331.22
+1decb69a-4146-44ca-972e-56b59e53752c,PathCellObject,,Other,722.18,333.3
+d6397e1d-52ef-4632-a47e-d722798a452d,PathCellObject,,Other,23.76,332.78
+02cfb348-9460-4c96-b9c1-c4244cfdcda5,PathCellObject,,Other,220.84,330.81
+c148e752-dd03-4bc5-88ef-d917e218f188,PathCellObject,,Other,312.08,330.96
+d8a058a1-c2cd-4356-9f65-0a6779bacc5e,PathCellObject,,Other,609.57,330.74
+deae9496-0421-4bba-8547-3a62543b9a96,PathCellObject,,Other,732.16,333.57
+f8e31fb0-34d2-4498-8453-c6010751dc26,Target: CD3: CD8,Target: CD3: CD8,Other,102.05,334.24
+79d1e12d-fe2a-4dfd-8e5e-2759981606e5,Target: CD3,Target: CD3,Other,147.02,332.48
+02d2ad57-1e07-41a7-bfea-efbb0d73fa8b,PathCellObject,,Other,174.82,333.17
+4a5b5e98-841c-4d29-9e4d-6a5d9f2da24d,Target: CD68: CD8,Target: CD68: CD8,Other,70.45,337.83
+a885f3c5-1925-4699-b47d-7e6e4c2d9899,Target: CD68,Target: CD68,Other,604.48,336.41
+6c69ff51-769a-45bc-a0b6-965af2bb94ea,PathCellObject,,Other,482.8,333.29
+25734b03-dc5a-457c-8235-cfba8d7c4173,PathCellObject,,Other,384.89,334.71
+1829756c-55a9-481f-92e9-e85b874ce2bc,PathCellObject,,Other,502.21,334.22
+2a075466-d577-4dd2-a270-25595fc133c7,PathCellObject,,Other,592.4,337.81
+ed84e51b-3037-49ad-98c4-0b552a46b86e,PathCellObject,,Other,761.73,336.3
+5dbe9d61-229f-4902-9167-0f5ec8ff9b5c,PathCellObject,,Other,364.17,337.49
+e31d116e-cd62-4a2e-bfb9-31e5f755d2ae,Target: CD3,Target: CD3,Other,461.14,334.39
+87cdb0dc-7288-4e8c-b992-11012b06a5d2,PathCellObject,,Other,645.99,334.38
+2e81ddb6-dfc1-42cf-9c9d-70aa73c3fa3e,PathCellObject,,Other,790.02,336.74
+8ac857e3-b9cf-4cb6-8dcc-311ba92a115d,PathCellObject,,Other,230.3,337.62
+e6c8160d-e983-473c-be53-d338cabdf84f,PathCellObject,,Other,323.09,337.74
+3a4152fb-eaa0-444f-9267-aa38185f7df1,PathCellObject,,Other,530.62,339.38
+97b2e0b9-d3ba-4a4b-86e5-84988259fe7b,PathCellObject,,Other,207.92,339.3
+a1e5dacd-ce4d-47e9-97f7-8f6cee2489bc,PathCellObject,,Other,426.04,337.47
+5f209e5f-93f4-4ced-8a84-33837fedc129,PathCellObject,,Other,511.9,340.48
+73164d2f-c09d-449f-8904-3a2795e366c9,PathCellObject,,Other,355.85,338.67
+9e75b6f4-533b-4c6e-9fde-85be8d1720bf,Target: CD3,Target: CD3,Other,375.59,340.19
+bc2e4144-f440-4628-a46a-f22d5678c73e,PathCellObject,,Other,154.05,339.65
+aeff62fc-0a19-40b8-8a8d-d43bb1d006e1,PathCellObject,,Other,263.6,339.48
+52a34689-0699-4784-8888-7fd8a2ca160a,PathCellObject,,Other,496.99,341.78
+9978a608-9337-476e-bbfa-12ccd70c137d,PathCellObject,,Other,751.17,342.05
+a04e6c34-f1a8-435e-97b0-a41a23814a11,Target: CD3,Target: CD3,Other,24.24,343.49
+966a5ed0-5567-4b22-8c9a-04c30b9b5254,Target: CD20,Target: CD20,Other,467.03,343.54
+fbb7db66-46ac-4d2d-8082-0c03a363971c,PathCellObject,,Other,643.77,342.78
+b7cd7c8a-fe84-4e66-94f0-cac4b957296a,Target: CD8,Target: CD8,Other,185.74,342.1
+d146a3a1-ddaf-49c1-a84d-ee5634f8064b,PathCellObject,,Other,715.97,340.26
+ac70c813-2230-4439-b786-1fb0145d32d3,PathCellObject,,Other,484.45,343.13
+90613f72-491b-452b-84e0-90f6521d21fa,Target: CD3,Target: CD3,Other,56.34,345.02
+845a2297-de3d-4d31-a199-ba803c408297,PathCellObject,,Other,146.18,345.45
+b745dfe0-74a0-43c1-9664-02332954fea9,PathCellObject,,Other,410.87,342.59
+d79e58d8-b1be-4428-bf80-2d4fce7be516,PathCellObject,,Other,663.05,343.19
+7ae7959c-aec7-40fd-85a1-b202f2cf3f29,PathCellObject,,Other,351.75,344.07
+e333244a-821a-4356-b498-fc6b095ede8f,PathCellObject,,Other,429,344.81
+43a51d0a-3a89-49a5-9923-c52030daaf44,PathCellObject,,Other,244.41,343.45
+25aef9ce-d2f9-45d0-84c8-f7306f94bec8,PathCellObject,,Other,252.58,343.59
+0ae0807a-a681-49e3-aa2e-6f4f8449da38,PathCellObject,,Other,505.01,347.52
+9558e5e9-490d-4480-981f-3a121e3fd1cc,PathCellObject,,Other,717.08,349.06
+52f7682d-fafa-4fbc-9d6f-6b340f64b3a8,PathCellObject,,Other,134.82,348.49
+92ccb052-3824-4b18-af0c-44a4bff7a743,Target: CD3,Target: CD3,Other,678.85,347.71
+e3feb033-4a6a-4b7a-b524-1d33619384b9,PathCellObject,,Other,156.58,350.56
+85dda577-afc6-4517-af41-8eefa567d955,PathCellObject,,Other,521.32,348.78
+eccc23ed-602c-4c65-b0bd-898363adb74d,PathCellObject,,Other,109.83,348.67
+44f19c3e-fe96-4dc6-8d42-91ee393110c1,Target: CD3,Target: CD3,Other,690.97,349.49
+c7497c01-e4ad-49da-95ff-0a4531619ead,PathCellObject,,Other,623.61,352.17
+834250ce-f35a-42ca-a789-454eea3d9129,PathCellObject,,Other,180.3,353.04
+f70b9898-2b61-4a39-8d7c-f9b8610d5278,PathCellObject,,Other,335.44,349.73
+e1b57cd1-0d1f-4a10-a14b-9dbe607a3ed7,PathCellObject,,Other,349.57,352.18
+a84dfbab-a47b-4e1a-bfcb-58d3d26e36d1,Target: CD3: CD4,Target: CD3: CD4,Other,484.22,353.79
+f936c97f-30d3-4f86-936c-1f8da1ff5c1d,PathCellObject,,Other,789.95,353.36
+704f0b2b-ae5c-4138-ab14-bf425be643d8,PathCellObject,,Other,201.25,352.54
+31174285-442c-436d-adc6-adf650c3c0a2,PathCellObject,,Other,246.86,353.76
+1fd2ab83-cfd8-41f7-97dd-786a9741fa67,PathCellObject,,Other,419.69,351.38
+ccaefc20-0340-4abc-ba2f-7ba0b62b73f4,Target: CD3,Target: CD3,Other,31.76,353.89
+783369ed-c393-4a7c-84a2-9ca1c4f0bc0f,Target: CD3,Target: CD3,Other,255.67,352.43
+ad774dab-8b19-4c12-a416-129e574b0a5f,PathCellObject,,Other,427.64,356.69
+d2a86b08-35af-4aee-a062-e59f9af4dc99,PathCellObject,,Other,492.7,352.62
+1c9bce15-11b6-489a-aab8-aa135c9b3dc8,Target: CD68,Target: CD68,Other,614.22,351.46
+d181c17c-8e23-451a-935f-e385a03aa6e9,Target: CD3,Target: CD3,Other,93.47,354.91
+fc54308b-c76d-4119-9a29-675251cab2a8,PathCellObject,,Other,264.94,352.65
+c85254dc-3a98-4b46-91ff-611ab4b72c84,Target: CD68,Target: CD68,Other,564.49,356.11
+1317e407-5465-438d-80ae-7acf01fcadf2,PathCellObject,,Other,107.25,355.76
+466dba35-c2cc-42a1-8d24-f71841324244,PathCellObject,,Other,477.16,353.96
+ecde7e36-bbfd-42e9-983c-b3b31c2d05f1,Target: CD68,Target: CD68,Other,577.76,356.41
+36734ae6-a022-4de2-baa2-f0ba1cbf7ca7,Target: CD3,Target: CD3,Other,170.11,356.07
+8a403d38-e6c2-4d6f-b479-58eb87e2bcf7,PathCellObject,,Other,366.88,360.03
+55297ca0-c93a-48f6-9bc3-44ccdeabd8b7,PathCellObject,,Other,516.6,357.22
+fbdea279-c7f3-40c7-8f21-444390ecec01,PathCellObject,,Other,548.64,359.42
+be071508-964c-4600-9a7b-af8b85710b2a,Target: CD3,Target: CD3,Other,52.37,358.11
+26bcc14a-07e8-49e0-b0fe-746ab076cdfc,PathCellObject,,Other,333.19,356.71
+885fd760-2f2a-4942-b53a-b664327ca537,PathCellObject,,Other,447.18,357.57
+0df5678b-3dd1-4ba1-a067-90dea1c6c62b,PathCellObject,,Other,721.66,358.77
+2d164921-be9f-43cb-a5c0-6670d8b12fe0,PathCellObject,,Other,468.88,359.34
+affe1936-ecd4-4e49-bc15-a3b623ce6f88,PathCellObject,,Other,101.37,360.94
+b5869263-92eb-46c9-9e89-696e7d42e538,PathCellObject,,Other,188.86,361.28
+ed25c6d8-aa0e-4f31-b869-2150a4e0c959,PathCellObject,,Other,691.41,361.42
+da3cfde3-f751-49b6-883a-64509c1af949,PathCellObject,,Other,200.04,362.44
+b3925351-e1fc-4e11-bb2a-1fc6bb3248a3,PathCellObject,,Other,398.72,359.88
+d34a030b-0b22-4a02-aba6-3dcb1f8360e4,PathCellObject,,Other,18.98,358.94
+e0b94792-d6d3-4440-b03c-d50d1e2a41f5,Target: CD3,Target: CD3,Other,500,361.6
+dc9251ca-c5f5-4ef1-89a9-ab27e47f4d45,PathCellObject,,Other,594.55,359.58
+a6694e75-05d9-42af-8c47-55d68097cc0b,PathCellObject,,Other,218.55,359.06
+a97d0227-c1f0-432d-a7ae-1d654987b0a0,PathCellObject,,Other,779.31,363.67
+c2835832-2d90-4a63-916a-72367a3bce71,PathCellObject,,Other,132.67,359.1
+ae477238-cd40-4d79-b43a-3015fc6a1e47,PathCellObject,,Other,257.49,362.73
+eb5eba57-5d00-457d-b2f0-bbd328503aee,PathCellObject,,Other,321.7,362.07
+2f08a599-9028-49cf-aba1-e48a18af5a7b,PathCellObject,,Other,272.18,361.56
+6d98abe5-2c28-4382-bb5a-775c4481b47e,PathCellObject,,Other,164.74,361.74
+3d7108c0-b22b-4706-ab20-83ccd2bebd5f,PathCellObject,,Other,732.1,362.7
+55bc70aa-d5c3-4593-b56d-a3abafab9a8a,PathCellObject,,Other,5.732,361.63
+05e99671-a5f4-46d8-ab29-fdc1217eb4b0,PathCellObject,,Other,603.25,363.36
+b8e76cb0-261e-499c-b303-db4d3b269c7b,PathCellObject,,Other,743.22,363.21
+6302a1bc-732a-45ea-9e0c-a58c75eade58,PathCellObject,,Other,334.6,364.35
+15514dd6-7047-426e-8d4f-343a0ba1d069,PathCellObject,,Other,228.24,364.11
+0cbf389c-b1b8-4733-8164-13481800a332,PathCellObject,,Other,348.62,364.14
+8a726f8b-20d8-48c1-9bd6-280b3bca7ec9,PathCellObject,,Other,485.65,365.33
+0209001d-ddc0-4fc8-b7d7-78deae7fcd55,PathCellObject,,Other,704.36,362.18
+92e44fe8-425d-4c3e-993f-1a61ef5ed242,PathCellObject,,Other,791.81,369.52
+c4feca30-1cd3-4d27-ae2d-bbb1661ef1a9,PathCellObject,,Other,130.89,367.44
+37e78beb-b134-4748-ab29-53fb98a3dd72,PathCellObject,,Other,714.74,366.94
+0612e0fd-e9e3-4952-bdb4-361552b2fd0b,PathCellObject,,Other,16.77,369.94
+a055890b-1c5c-4122-9c94-0b54dddeeef1,PathCellObject,,Other,521.13,368.58
+91f18043-74c7-4a63-b226-9c90ed5a2ef9,PathCellObject,,Other,706.66,369.68
+9c686243-9a27-4f36-bd8c-43950a34aff2,PathCellObject,,Other,221.6,371.25
+738ccf18-e304-4c37-9761-88ef00438e2e,Target: CD68,Target: CD68,Other,539.9,370.29
+b8f8e1de-9b10-47f5-aed4-9c4264b98fcb,PathCellObject,,Other,169.4,371.63
+16605836-26ee-455d-ae94-44e8e453364c,PathCellObject,,Other,205.23,370.5
+cc8bbfd9-ab82-4832-bd9e-e56f8b9cda65,Target: CD3,Target: CD3,Other,5.578,371.35
+91a3331d-55f9-449d-8a05-508bda708787,Target: CD68,Target: CD68,Other,545.2,376.27
+c55db0ff-8686-4066-a3bc-8374decd120e,PathCellObject,,Other,212.77,374.46
+6444af14-ae32-4572-b252-bbd18700e1f2,Target: CD3,Target: CD3,Other,603.33,372.74
+8ee1e393-4fbc-4fb8-8ca5-c4e9b2015b03,PathCellObject,,Other,564.47,374.32
+4ef9967b-8ad2-4ad3-a73b-d5cccc787f91,PathCellObject,,Other,366.99,377.12
+42cb0cc2-1d9d-4d00-a524-74eea4cda5ec,Target: CD3,Target: CD3,Other,553.33,375.87
+3001b10f-807e-4cf2-bb03-22b6982be40d,PathCellObject,,Other,658.61,375.1
+97a8a01c-4e99-424b-a053-f448334a2131,Target: CD3,Target: CD3,Other,133.36,377.85
+7b117d74-239f-427f-8e9f-1086e7fa92bc,PathCellObject,,Other,298.31,374.69
+6d85ee9b-f410-432d-98c9-97a602714e95,PathCellObject,,Other,491.59,374.39
+7bbb20cd-7758-498b-86ec-7e4211c87352,Target: CD20,Target: CD20,Other,584.51,374.69
+0e2c5ab0-88ea-4632-9b0c-d8faaa1f19c9,PathCellObject,,Other,594.58,375.44
+39eeef74-5690-4da5-9d79-acf28450cc70,PathCellObject,,Other,682.25,375.47
+f410c1a9-2105-4065-b770-8cbb7179b89b,PathCellObject,,Other,500.53,376.89
+6c9d3b67-26b3-4dea-ae25-1dc0de7cc69e,PathCellObject,,Other,234.14,376.99
+543e67f1-4fd7-450b-98db-4649cd1c1386,PathCellObject,,Other,254.64,375.67
+cd36a6f1-69a6-4cd9-94cc-16619a07f1d5,PathCellObject,,Other,6.522,381.96
+1c2c6d98-5b3a-4d0b-875f-5540a519f344,Target: CD3,Target: CD3,Other,190.02,378.25
+aad11683-fc01-4d2a-bb99-d8d47d213e7c,Target: CD20,Target: CD20,Other,513.58,375.74
+84e276f1-838d-4f6d-af8e-7164f6284a79,PathCellObject,,Other,611.72,378.77
+58ff2c81-a443-406b-8f05-1c22cc081677,PathCellObject,,Other,451.15,377.97
+f4b94f80-60c7-472e-b2b9-099ceb260d07,PathCellObject,,Other,321.14,379.22
+8f19ec12-5b42-4aaa-9e2c-ce6f4345a9d8,PathCellObject,,Other,414.67,379.53
+962b7b49-4ffa-4a2f-bf66-d607f4fa432d,PathCellObject,,Other,508.68,382.02
+7cf34031-b35c-43ca-ae02-f02925f02860,Target: CD20,Target: CD20,Other,520.98,385.32
+4aa97304-6455-47b4-a3bc-8e9ff3389509,Target: CD20,Target: CD20,Other,385.06,380.85
+628d36f0-3847-4bec-9d22-b0065280dc40,PathCellObject,,Other,485.61,382.93
+81bf6ad3-4bc7-43be-9bc1-a1448e44a760,Target: CD8,Target: CD8,Other,59.67,383.19
+537d36cf-2fd6-461b-811b-e3219667546e,PathCellObject,,Other,171.56,384.57
+fd46409f-93e6-4138-8a09-e805ca337f64,PathCellObject,,Other,676.21,384.58
+df1e2e9f-4b20-4250-aab1-be990635d17e,PathCellObject,,Other,242.54,385.88
+a5b137d3-b512-41d3-95f2-02b5a8fc65bc,PathCellObject,,Other,785.68,385.67
+6d3946bb-74f5-457d-a523-f8480cbe6231,PathCellObject,,Other,400.94,383.53
+cc5f48be-27d0-4660-866e-f5ea5f8c3b8e,PathCellObject,,Other,206.67,384.04
+513d4804-9a31-4af6-8fff-177a146bb5bf,PathCellObject,,Other,299.48,385.94
+4f38d5d1-2be0-4841-8e68-4ed4106136be,Target: CD3,Target: CD3,Other,256.46,388.12
+a13d55bb-fd87-499f-a5c7-b1e8f5142e9b,PathCellObject,,Other,422.71,387.79
+ee11ab93-f9d8-4326-b0b0-41e57afa4964,PathCellObject,,Other,434.76,387.02
+cfff570b-0b71-46e2-8e9e-4af2706c15be,Target: CD4,Target: CD4,Other,591.44,384.97
+aeecbc13-33c9-4eb7-854a-f9f3bec81945,PathCellObject,,Other,452.6,388.98
+10a81140-9879-4c36-b5f8-22eb6084593d,PathCellObject,,Other,320.5,388.98
+1fdec83c-8b43-4d99-b668-ab127b0f11c7,PathCellObject,,Other,409,390
+ec97ffb1-4bef-4314-b213-29202802e151,PathCellObject,,Other,507.58,391.11
+268a0abc-b24c-42fd-8535-2b9309c11fe5,PathCellObject,,Other,478.03,390.42
+a5b8024a-8afe-4117-9a23-26c08291861f,PathCellObject,,Other,356.59,389.56
+8af7ae6d-197e-4186-904d-2dfab9d35d76,Target: CD68,Target: CD68,Other,578.88,389.57
+d40499e3-a732-47ab-abf9-0a533649c306,PathCellObject,,Other,722.89,389.2
+6dc4b938-6dc9-4647-8796-d7519debc707,Target: CD8,Target: CD8,Other,598.33,391.16
+18f07782-4458-415c-9bc7-f1546c13750c,Target: CD8,Target: CD8,Other,162.16,392.8
+6b2d0939-b29c-4534-a401-1f6d1ab42899,PathCellObject,,Other,384.76,392.35
+1a0e9820-92f6-4b78-af2f-b12c5f8b6aa0,Target: CD8,Target: CD8,Other,70.78,391.89
+e5bf6a90-40d2-4fc6-bddb-c58691006257,PathCellObject,,Other,113.33,391.77
+cc58eb93-22f1-4ded-9a6e-8e1c3d8695f0,PathCellObject,,Other,208.57,392.09
+9fdadbef-6065-4e81-a63a-067367c29a1e,PathCellObject,,Other,537.21,391.42
+e22853a0-9f73-4bcc-add6-cf936c2c7a04,Target: CD68: CD8,Target: CD68: CD8,Other,589.28,392.66
+a53ffe06-3587-4ded-9cb4-0575dbd86b52,PathCellObject,,Other,79.64,392.39
+b04b5b92-039b-4a69-98b5-9379201a1e79,PathCellObject,,Other,617.59,392.81
+95709da9-5e2d-4411-b60a-df4aa9a919da,Target: CD8,Target: CD8,Other,134.9,395.23
+7e78766e-5f2f-4fd1-a384-666f4440deeb,Target: CD20,Target: CD20,Other,144.89,393.15
+7dbf35e3-93b8-4f86-9eb4-a21633fa6729,PathCellObject,,Other,94.85,394.82
+527356dd-5dbf-4572-8f69-97665d265c65,PathCellObject,,Other,348.71,397.58
+75793ad0-edec-4b5a-b5d0-1e31fe48dcc7,PathCellObject,,Other,27.57,394.53
+a8e196bf-783d-4f8f-8c3a-19e3b9b604db,PathCellObject,,Other,684.24,396.67
+8cd302d3-f030-4d00-97e6-f027f47a33c1,PathCellObject,,Other,299.3,397.54
+b78a1eb5-9b00-4a6b-881d-a9ffc52d6933,PathCellObject,,Other,228.72,396.59
+6d8b9f28-cf6a-4cb3-bbb6-1d6466166b01,PathCellObject,,Other,85.02,398.58
+c9cc29c6-4710-4f7b-8a20-7260baf87b0d,PathCellObject,,Other,286.44,397.21
+980f5143-0659-4e29-9971-614cb5f44571,Target: CD8,Target: CD8,Other,604.61,399.42
+357fbf70-3e6b-4f0f-830c-69e37d06782b,Target: CD3,Target: CD3,Other,704.37,396.61
+c178a297-75e9-4208-918e-ed0dbbcad7d4,PathCellObject,,Other,19.39,399
+b7425783-914e-44fb-bc7f-3d8dd92ab20b,Target: CD68,Target: CD68,Other,418.39,398.46
+5b694706-3c3b-4f55-a17f-b67ab8bfd2a0,PathCellObject,,Other,552.82,397.21
+6d9f1501-db1f-491d-a848-b8bbb6250e7f,PathCellObject,,Other,777.07,399.27
+9afd6a2a-370c-474a-82c1-1bf861beca62,PathCellObject,,Other,273.07,398.4
+5178e9b5-e8b8-4c78-9a09-6b11ca8e0132,PathCellObject,,Other,317,398.64
+36b14b70-1610-4f2c-8fe5-ece87952f998,Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,533.52,400.88
+dfb8dbf7-a60d-4f7f-b7c1-2dd7ae61650d,PathCellObject,,Other,789.36,400.48
+b22d2dbc-b6b0-4dbf-82ed-77a3c4e1b23b,Target: CD3,Target: CD3,Other,40.85,400.16
+af651c9c-800f-4879-90fc-c5d33504288d,PathCellObject,,Other,153.43,401.96
+2980765f-717b-4f41-97a1-7bf95d3f9ba9,Target: CD4: CD8,Target: CD4: CD8,Other,586.91,400.23
+61b2d6b5-5ccf-47e8-96f5-f75e94e286ea,PathCellObject,,Other,205.23,400.71
+e6147fbc-bc17-4182-8188-5548a2977714,PathCellObject,,Other,110.11,405.27
+d594eb5b-348a-4d8f-9a1b-48949e541d2e,PathCellObject,,Other,409.04,400.23
+f55b1d5f-cb74-4f13-a304-34fcfb8c19d6,Target: CD68,Target: CD68,Other,501.88,401.58
+ebda6f4a-ea03-40c6-8a2b-8e5198f91288,PathCellObject,,Other,245.58,401.15
+b0d6c431-7616-4fe1-b8f2-495498261993,PathCellObject,,Other,494.03,403.27
+2b2accf5-5e66-4f84-8b19-b521dcca4679,PathCellObject,,Other,763.39,401.63
+f3a884ed-90e5-4557-80a3-b55b32cd0813,PathCellObject,,Other,123.57,403.02
+954bf839-bae6-4288-832f-7282f1e2dfc0,Target: CD3,Target: CD3,Other,100.67,404.03
+5f6b1f6c-6222-4ca9-b3c7-1431ce50577b,PathCellObject,,Other,433.09,403.38
+db428717-6c89-4b2f-8f23-21e325d54965,Target: CD20,Target: CD20,Other,456.08,405.04
+fe6355cf-e2b3-49c6-b7af-85d0453a2d69,PathCellObject,,Other,309.43,404.76
+49267afb-089f-4bef-86c0-851a097310fd,PathCellObject,,Other,239.6,407.78
+92a6efc4-4a05-4cc4-afb1-b88f563f192a,PathCellObject,,Other,556.45,406.95
+e65d33b7-948f-48ee-b7e1-ef1a9dd95bf7,PathCellObject,,Other,719.26,403.35
+f364a6b8-e51b-4374-8e22-39a778413586,Target: CD8,Target: CD8,Other,293.23,408.45
+2c48efdc-d317-4cc0-be0d-60a6bdaec3e0,PathCellObject,,Other,443.86,404.65
+99127b52-239f-4fe6-931a-411167432f20,Target: CD8,Target: CD8,Other,214.08,408.54
+dd4fc5fe-9c29-4f0b-8ac8-61534b2f6384,Target: CD68,Target: CD68,Other,700.94,408.03
+44a510d8-70ea-4582-8590-36407edd6cbf,PathCellObject,,Other,728.16,406.32
+ee31b6f4-ff14-4291-af1c-0d5253e0de57,PathCellObject,,Other,4.761,408.37
+e8bb2d05-c195-49ad-b227-0eb33280ee39,Target: CD3,Target: CD3,Other,184.02,407.14
+01a19735-8f2a-45c0-9d52-79c18f73d2e2,Target: CD3: CD8,Target: CD3: CD8,Other,269.6,408.04
+17db740c-1840-4c68-bdf0-28f7f4136863,PathCellObject,,Other,342.46,409.21
+f76ad729-422b-4f05-a9d7-542dae070f0e,PathCellObject,,Other,416.59,409.58
+5b02c883-e697-4f31-9eb2-5608382c70dc,PathCellObject,,Other,370.4,406.87
+47e46c6f-b23a-4768-9df7-dd528073bb00,Target: CD8,Target: CD8,Other,484.52,408.11
+7d8dccc4-7866-4365-91ca-e7620c00f5bd,PathCellObject,,Other,98.06,410.87
+fd0d4b25-ac99-460a-89e4-4c1b170b3178,PathCellObject,,Other,711.22,409.36
+b5daf0a7-57c5-4ca1-99e6-f69547322940,PathCellObject,,Other,571.72,410.4
+805bcba4-26f3-408d-9d08-2bcd2b443ebb,PathCellObject,,Other,79.89,411.5
+eacd0857-b5dc-494f-896d-795930e5ebe5,PathCellObject,,Other,358.67,412.54
+b06dd2d6-188c-4be4-9491-274efc746921,PathCellObject,,Other,376.08,413.68
+c53d730c-0d51-414e-b77d-534df0c689a9,Target: CD68,Target: CD68,Other,440.87,411.42
+21762202-8b97-47e1-abd2-0a674beb7824,PathCellObject,,Other,743.84,409.33
+d1ae7b73-1abb-4609-85b0-901e83b24618,Target: CD68,Target: CD68,Other,766.88,411.92
+efc5d04a-d3cc-4971-8c95-a3f6dd1c9414,PathCellObject,,Other,306.75,412.35
+7e86c791-3edd-4eb5-a93f-bf197c993da9,PathCellObject,,Other,190.89,411.99
+1659cc2d-ed5a-4b37-98f7-36802f6b2296,Target: CD3: CD8,Target: CD3: CD8,Other,199.64,413.13
+6e47f2cf-207d-40f2-b387-31984a670a47,Target: CD20,Target: CD20,Other,531.36,413.68
+d3c27346-e3ee-4348-bc8e-c12484f7931b,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,207.49,416.65
+c127f07c-565e-430f-a806-caa35f97604d,Target: CD68,Target: CD68,Other,173.34,414.52
+14ec043d-4d49-4274-af08-b8e1902f529a,PathCellObject,,Other,512.7,414.86
+b8aa768f-7d46-44d3-94a3-aba9d5068d55,PathCellObject,,Other,329.63,415.34
+ba6df3fb-b85b-4eb3-abcc-a964241b33d1,PathCellObject,,Other,755.55,415.3
+b470180e-ad13-473b-acfc-5d186db634bf,Target: CD20,Target: CD20,Other,273.94,417.59
+86dd1b16-d0ad-4576-bb16-d044b8c80273,Target: CD20,Target: CD20,Other,283,415.06
+071be000-c257-4eb5-a726-ad41402de9c8,PathCellObject,,Other,738.49,415.13
+d4cdeafa-fa61-4f4e-8b93-3b2ff902d746,Target: CD3,Target: CD3,Other,227.53,416.72
+badbd5c6-8c79-4660-9f67-34653089a7ce,PathCellObject,,Other,524.26,419.76
+0b3fef3a-28e0-440c-ae5e-e5b060d894e1,PathCellObject,,Other,789.55,416.52
+a9df0230-f080-4aa8-941e-5565a628bffc,PathCellObject,,Other,64.24,416.56
+1007d839-b5f6-47eb-b37c-a1d78d5ffd92,PathCellObject,,Other,393.15,417.73
+8d579afa-d7d7-425b-9496-f59175220eb7,PathCellObject,,Other,435.64,420.22
+6d066c4d-efbf-4061-827a-dc232f8f2ce7,PathCellObject,,Other,490.63,418.08
+8d0a2626-60a9-40aa-8a83-c947a794a169,PathCellObject,,Other,583.32,417.13
+e9787b83-5756-4aac-8c2c-b12016bbfefb,PathCellObject,,Other,420.73,418.87
+a2f35bd5-15fa-44d7-b509-d30189064e2a,PathCellObject,,Other,452.28,417.46
+81157e62-5177-4c47-93eb-4281ffa4e982,Target: CD20,Target: CD20,Other,466.95,418.1
+b76d5eff-1bf1-4704-92fc-c584bdad6620,Target: CD8,Target: CD8,Other,747.35,420.34
+b56a22ae-e5ab-4389-bddc-17fe8902e079,PathCellObject,,Other,188.88,420.01
+092056d5-8e61-4682-b10e-e9c13f97b564,PathCellObject,,Other,725.83,419.95
+bc885292-faf3-480e-a1f9-af1b5ff51663,Target: CD8,Target: CD8,Other,298.31,420.23
+75dde320-bd4e-46fa-9b30-0254c53fc6ec,PathCellObject,,Other,321.21,419.33
+f9ff0696-5f9d-48df-a1be-99b37fc17d06,PathCellObject,,Other,156.17,420.05
+eced7716-1e1c-4e51-8bae-c8542ba239c7,PathCellObject,,Other,594.88,420.45
+a519ee6b-1af9-4f99-91f1-5dd42191cd24,PathCellObject,,Other,612.48,421.24
+392c72cd-543f-4f97-98ed-3f2feaada64a,PathCellObject,,Other,313.33,422.01
+f5e7911d-88da-4fac-9f01-a9def3320a56,PathCellObject,,Other,55.29,422.66
+987962bf-7d1f-4a46-8271-4420684acb75,PathCellObject,,Other,769.34,421.86
+4c00bd09-77ea-467e-b0d5-86c501257e1c,Target: CD3,Target: CD3,Other,500.88,424.98
+759214b5-11b2-4aca-86e9-242ea1a3d70b,PathCellObject,,Other,552.24,423.72
+d8346d24-df9b-4fa8-9cf7-ef7b51769d95,PathCellObject,,Other,14.7,423.54
+aa42fafe-32f2-493f-86bd-1cc9817d717d,PathCellObject,,Other,37.49,422.02
+61f8c461-07ff-424d-b11a-7ee3f12ce966,PathCellObject,,Other,758.67,425.82
+80fae6d8-8a77-486f-93f0-fb7db659551a,Target: CD68,Target: CD68,Other,369.46,428.29
+a59b284a-2a7e-4eba-b1c1-d428cd848248,PathCellObject,,Other,737.39,424.64
+4aa5a399-28bb-4d4e-8758-ee6133192372,PathCellObject,,Other,177.9,427.85
+92479807-9d60-4c00-89ec-3485bc81b20f,PathCellObject,,Other,792.94,426.95
+0721c6b3-da4a-4b4d-97e3-82a0659a6a97,PathCellObject,,Other,539.18,424.41
+7dad1469-7a68-434b-ac3c-67417b98e4fa,PathCellObject,,Other,698.98,425.29
+740f9abe-7673-4174-95f2-192da8cc0d09,PathCellObject,,Other,710.41,425.27
+de333820-e52f-4eaa-8d40-b87cd27ff7fc,PathCellObject,,Other,466.75,426.49
+bf4a3230-e760-46a7-8ea5-a06241d07e89,Target: CD3,Target: CD3,Other,200,426.11
+874d466e-41b3-4466-a0cd-e1832bb56f6a,PathCellObject,,Other,32.5,429.17
+fdd85670-7e58-4c95-a97d-89cff78a86cf,PathCellObject,,Other,360.38,428.15
+e2a408b5-eb61-43f7-b467-e4ef25cfec63,PathCellObject,,Other,427.95,431.85
+ba6f19f3-fdd8-4e87-9d71-30c8e46628f1,Target: CD20,Target: CD20,Other,576.94,428.22
+6d2a89db-7dcf-455f-9920-f2a2c7c98b9a,PathCellObject,,Other,46.27,429.69
+3b62c6ef-98a9-4a09-a5be-a485340fd94c,PathCellObject,,Other,152.07,429.96
+f406700f-b028-4212-8ead-9c2a569df7af,Target: CD3: CD4,Target: CD3: CD4,Other,591.81,429.43
+04399f5f-e9df-4159-aae0-ac0d3636baf1,PathCellObject,,Other,564.94,428.5
+63400ca8-3036-4700-8c86-841cc1ca4ce8,PathCellObject,,Other,689.39,429.34
+da552066-bb89-4e3b-9f4d-569f5eeb8469,PathCellObject,,Other,135.18,428.39
+1647123f-90c3-497d-95e4-6b3e94bbb949,PathCellObject,,Other,404.08,428.65
+bcaf31dc-ab82-42ae-81aa-82c582a786c5,PathCellObject,,Other,645.25,428.66
+4f5750b8-2d57-44ed-a70f-c9baae08d211,PathCellObject,,Other,6.016,430.71
+2847f59f-bc27-451a-813c-4958b76e9b97,PathCellObject,,Other,344.25,429.62
+09cb0172-619e-4b91-86d5-4ba7758cdb3b,PathCellObject,,Other,393.72,429.3
+43fde48f-b7e4-4a9e-9739-0707c38addf1,PathCellObject,,Other,766.56,432.32
+072ada5e-d932-432a-8cdc-92a87fdb38fd,PathCellObject,,Other,776.32,429.95
+1faf8c2a-8002-4a3f-844f-0d1467c8e4be,PathCellObject,,Other,462.06,431.76
+d9c1a1cb-21d6-47c4-b2f5-7e4700eeb162,PathCellObject,,Other,626.92,432.09
+905a8097-0eeb-4aa5-9407-7f476802c673,Target: CD3,Target: CD3,Other,329.43,431.88
+cd46e520-cd00-43d0-93fb-c20d9882072b,Target: CD68,Target: CD68,Other,541.11,432.14
+cdef2e06-f26b-4c3c-840f-9a1e5fa3c39c,PathCellObject,,Other,749.98,432.33
+b8cb2148-900e-4c78-abed-01e855a67234,PathCellObject,,Other,617.15,432.88
+12142ef6-4ee5-44ab-bdb0-62fada09d725,PathCellObject,,Other,706.38,435.25
+13e2afea-feb4-4984-ba7b-1e0d4aedc792,PathCellObject,,Other,524.83,433.12
+7a33c0ac-98ee-4711-8d43-3a0537f4182d,Target: CD3,Target: CD3,Other,200.93,435.63
+cd5aa244-e29c-4b25-ae50-9649e82f3772,PathCellObject,,Other,478.39,434.02
+b13f7473-4084-4933-b7c7-e8421506e6f9,PathCellObject,,Other,55.04,436.34
+6708bf40-e980-4ac5-afb2-b767c2a38853,PathCellObject,,Other,741.46,435.7
+3136e199-36b9-459b-a916-66feb0b945e2,PathCellObject,,Other,106.42,434.52
+f5f7dbf8-cd48-4802-b472-5047e65a1af4,PathCellObject,,Other,350.71,437.14
+a1320c41-0d8d-4994-a664-85b3a7ddb5e8,PathCellObject,,Other,115.99,435.92
+3927b44f-3834-438e-bea4-81ef9f571051,PathCellObject,,Other,552.18,438.75
+f5399192-bef1-4cb1-8949-f62480eb8c72,PathCellObject,,Other,389.98,436.73
+b3294178-0d80-460a-94f0-86a1ddc5fae3,PathCellObject,,Other,128.19,438.92
+9e49f185-a83a-401a-9d87-4b0f07bab8aa,PathCellObject,,Other,252.57,441.29
+aa95434d-0048-4392-9149-9da3377e0ce4,Target: CD68,Target: CD68,Other,791.23,439.24
+0664a185-88cc-4ec9-8ae5-01f15420e820,Target: CD8,Target: CD8,Other,540.02,440.9
+90c95504-dd18-42f0-a942-f981f643bc2b,PathCellObject,,Other,81.94,441.64
+8973a34e-f390-4aed-943a-8f7bdda61658,PathCellObject,,Other,664.32,440.48
+1f423158-bdd0-4d65-94e8-f007a11cdd7c,PathCellObject,,Other,401.7,444.4
+007aabe7-5521-4921-8b58-415c8c446744,PathCellObject,,Other,109.83,444.13
+aff31661-f0f5-487b-8c15-1d5839b838ae,PathCellObject,,Other,225.16,443.03
+e8d09ec1-b0ec-4f3e-ae31-e2499beb80b9,PathCellObject,,Other,314.64,440.52
+fb015231-c1f8-4588-a6fc-1eafe15cc4c0,PathCellObject,,Other,383.97,441.51
+5653a700-6436-48c8-9626-a1ce95e2122e,Target: CD3: CD8,Target: CD3: CD8,Other,498.62,440.19
+de52cec1-f125-4e77-963a-22ebfd869001,PathCellObject,,Other,616.76,442.95
+4038d043-afc4-4054-833a-82bcecb7369c,PathCellObject,,Other,67.6,443.04
+b1e40840-f43f-4f23-8938-e3119e95c7be,PathCellObject,,Other,152.54,441.85
+b343bfbf-3435-45d7-87ec-6ac0fc98b0ef,PathCellObject,,Other,338.75,443.64
+d798e65c-7af4-4a35-99b7-28b75f9e3fc3,PathCellObject,,Other,365.81,440.95
+cbcbfdfd-4bc0-4d80-91d9-8ee494f5af10,PathCellObject,,Other,523.75,443.68
+315d9976-7448-4b03-a535-96b6aa728cf5,PathCellObject,,Other,180.15,447.3
+0074f3ec-9b0b-4410-bd12-c121db020924,Target: CD68: CD8,Target: CD68: CD8,Other,578.05,442.03
+96dc0743-44c5-408e-8c5c-122876dab931,PathCellObject,,Other,486.09,442.58
+0f97fbd7-dd37-472b-9656-6afa6f6a246b,PathCellObject,,Other,160.35,443.06
+89cbcb9e-9abd-4579-ad28-b2a62da4a20d,Target: CD68: CD3,Target: CD68: CD3,Other,328.21,444.74
+0fdcec81-09a2-424a-b5f5-b15517d4d16e,PathCellObject,,Other,59.75,447.02
+70942d36-3108-4434-8e36-be057ca8fcbf,Target: CD3: CD4,Target: CD3: CD4,Other,564.66,446.86
+5ab89495-b0f0-471d-8a86-19bd98f9bc1d,Target: CD8,Target: CD8,Other,511.08,445.17
+aaf543de-cb6f-4a83-9b26-97dd9c5e61ea,PathCellObject,,Other,378.1,449.64
+7f8da878-bb45-48f2-875c-19ba5c763827,PathCellObject,,Other,360.26,449.04
+856e7729-ded5-4334-8266-4762fa867045,PathCellObject,,Other,279.37,447.36
+0b226b3c-7e8b-4a29-b604-eb646a610b0f,PathCellObject,,Other,262.56,447.63
+4b5b9bb4-74db-425f-9e3f-c7ac4d263235,PathCellObject,,Other,270.62,445.86
+7bf61a2e-c10c-44ea-8c83-f841a8486fed,PathCellObject,,Other,165.55,450.31
+461e4505-38b9-47db-abd7-7f9d6e15cfbe,PathCellObject,,Other,315.5,451.44
+d1923460-22ff-4f5e-bf31-980d0c817b6b,Target: CD3: CD8,Target: CD3: CD8,Other,499.13,451.07
+4dc9392c-55ff-4f01-ba3b-ea7f83888fdb,PathCellObject,,Other,42.02,450.32
+e5178073-b666-4e5a-8529-4669247397e3,PathCellObject,,Other,212.82,453.74
+f1928547-2be0-4d01-99cc-0a7f9424ba8c,Target: CD3,Target: CD3,Other,460.42,450.96
+4459231f-3130-4fa1-b78a-131ce387950f,PathCellObject,,Other,650.39,449.76
+098b0266-0179-492b-b01e-9bb840d0771f,Target: CD8,Target: CD8,Other,662.08,451.72
+4c23b9af-31a0-4a2b-b839-3645d000b8e0,PathCellObject,,Other,122.44,451.38
+cc8fbbed-b6a0-4304-b0b2-b6d8fc63e133,Target: CD68,Target: CD68,Other,642.53,453.2
+95cc43de-ea01-4dbd-8897-6229cffc5e27,PathCellObject,,Other,577.61,453.22
+9df63c6e-274d-4f22-83d7-dbd4bb9f1739,Target: CD3,Target: CD3,Other,490.03,454.75
+92aec5d6-52ca-4780-beaf-eda912a4ceae,PathCellObject,,Other,511.31,457.33
+dd3927a4-8743-4e02-829a-26b4d7b95539,PathCellObject,,Other,267.12,458.64
+5410269e-7991-43e8-8a8f-64ef86b40822,PathCellObject,,Other,681.09,456.43
+579ae6fa-d100-425a-a7cb-560cc529a6bf,PathCellObject,,Other,766.49,457.05
+5ac3ab3f-c28c-4130-868f-ed845a7ae851,PathCellObject,,Other,795.35,455.54
+5c8784ca-9355-424e-b17d-b5b0cbc36c97,PathCellObject,,Other,276.12,458.65
+d83dd139-e155-4af6-87b7-d62d5790f4ec,PathCellObject,,Other,187.45,459.54
+db07b606-b304-459f-833c-a9623020ddc6,PathCellObject,,Other,733.9,460.23
+da3d4d46-6d3e-4230-b91e-5ca1e3229c7d,PathCellObject,,Other,85.69,460.2
+442e3ad3-17ad-4a40-b95b-a82d79b38f32,Target: CD8,Target: CD8,Other,121.63,460.15
+2e60b203-98e4-4acf-91af-75a824ea175c,PathCellObject,,Other,157.02,460.62
+fb853788-34d7-4981-9479-bca90f69145b,PathCellObject,,Other,451.22,462.18
+91c49558-1842-4f58-919c-ec463c9b442c,PathCellObject,,Other,288.25,457.62
+bc81aeb3-8ab8-4d6e-894a-f426a1c8767a,Target: CD3,Target: CD3,Other,354.54,461.4
+c121fb56-4792-4124-bdd2-0d7a2965c284,Target: CD68,Target: CD68,Other,565.92,462.24
+13f4e511-b391-4818-984b-1eac4da79d39,Target: CD68,Target: CD68,Other,622.4,457.9
+55136dfa-d208-4b05-af6d-8253aa5768bb,PathCellObject,,Other,202.97,461.97
+4fb06bb4-6d38-401b-a402-6f93abff56d1,PathCellObject,,Other,225.66,459.65
+8e4d5681-dc9c-429d-a1f3-84e95665b1b4,Target: CD68,Target: CD68,Other,580.61,462.68
+79228e85-5eae-4ca6-a9f5-637321b9771f,PathCellObject,,Other,460.58,463.4
+cb79f1e4-847b-4581-b3b2-0c4a9cd87b5c,Target: CD20,Target: CD20,Other,655.51,460.55
+801d6e71-e8bc-409d-a910-585080305e6b,Target: CD8,Target: CD8,Other,366.93,464.84
+fc692467-b5cb-4749-be1e-a48289892916,Target: CD8,Target: CD8,Other,311.22,462.86
+39fcbf22-560f-42a5-ab5c-98826d5d596c,PathCellObject,,Other,545.24,461.75
+4df9ab8f-dc01-4548-95e1-3370a73e1d81,PathCellObject,,Other,62.98,463.09
+25798878-e2b8-4705-89aa-9a42fb669a0c,PathCellObject,,Other,386.87,463.31
+f064aee9-b3ff-488d-bafc-a85c1c2264a8,Target: CD8,Target: CD8,Other,615.54,464.59
+be8b5580-8f4d-48e6-8cd0-780bda7200c4,PathCellObject,,Other,291.09,464.86
+42ba66c6-22c2-4391-ae6c-b1c4b218349c,PathCellObject,,Other,324.57,464.85
+5855f2db-61a4-46cc-a96c-1ad129248175,PathCellObject,,Other,113.2,468.11
+5bbb10d8-f59c-4ca2-a4a1-b80c4a03035f,PathCellObject,,Other,627.52,465.35
+b62fe805-2653-4445-9b50-7e542deaf4a4,PathCellObject,,Other,796.89,465.55
+1de9b238-b206-446b-ab76-d7b6d0d78604,PathCellObject,,Other,645.83,467.11
+e0c44b6a-3792-478c-b50c-9739a89875d7,PathCellObject,,Other,377.53,465.96
+543ff16c-77e2-4bd5-86f1-3755a5d552ec,PathCellObject,,Other,407.83,467.36
+b488d23d-34d9-4b8f-a9a5-720b0c0bb5a5,PathCellObject,,Other,788.83,465.75
+09fda0d3-a290-4347-b491-8449f1247836,PathCellObject,,Other,225.04,472.14
+9ce8b1f6-262c-419a-86ca-a1f1e9663938,PathCellObject,,Other,73.93,467.11
+65e11a86-99a9-42e4-8d3e-d406223e9c0d,PathCellObject,,Other,139.82,468.93
+06f68cd7-6f94-4d00-abc5-af849b8e1000,PathCellObject,,Other,198.31,471.17
+6c97b5cf-c282-427f-bf55-cb7e539d5d5f,PathCellObject,,Other,283.53,467.4
+0b569d28-0ecf-4432-ace2-ff3e51ffe111,Target: CD20,Target: CD20,Other,662.86,468.08
+321060eb-5cf9-4d7d-8a1f-9ac21839ad89,Target: CD68,Target: CD68,Other,503.03,468.5
+6b89d786-293c-424e-9a4d-cc0b6ddff6cb,PathCellObject,,Other,439.39,469.78
+0841fee4-5ed4-41c4-a1b4-6e15ef29b7df,PathCellObject,,Other,54.59,469.31
+7bbf8711-ba61-4d2f-ac4a-31780f85f180,PathCellObject,,Other,397.55,472.5
+c402d330-fa7e-433c-9995-479d295185e6,PathCellObject,,Other,607.5,469.71
+f759cb92-97f0-4828-9923-835024269758,Target: CD68,Target: CD68,Other,634.11,472.38
+21286d04-e7a9-408d-ab8a-55086703b7d7,PathCellObject,,Other,274.09,473.65
+55c670b0-ea4f-47e7-8fbf-94b375a8a480,PathCellObject,,Other,479.6,472.72
+3f205283-5296-43f0-b556-afdb040a2288,PathCellObject,,Other,792.77,474.18
+84d31da0-5e3f-4fa3-bc0d-e6943f65ea83,Target: CD8,Target: CD8,Other,519.59,474.81
+6c180b23-e9ec-4fdb-8ead-7af608049188,PathCellObject,,Other,71.1,475.91
+e04e28d0-a26a-4c55-8ba3-7538c806fd55,PathCellObject,,Other,286.88,475.47
+30714382-169b-4c52-8081-179b2fb59c84,Target: CD4,Target: CD4,Other,470.34,474.86
+4932f610-5409-4622-9c6f-cc64603f0e81,Target: CD8,Target: CD8,Other,492.98,475.44
+aceab30d-73ba-4068-9b5b-484f14ffe73b,Target: CD68,Target: CD68,Other,600.89,477.51
+2c072353-8c5b-43a2-9487-faf4e901bb4f,PathCellObject,,Other,387,476.95
+0878b09f-5931-4708-949f-21f76f47d1f4,Target: CD68: CD3: CD4: CD8,Target: CD68: CD3: CD4: CD8,Other,507.98,476.04
+61764809-145e-4997-91b8-936de38c0d47,PathCellObject,,Other,704.59,476.54
+692386b2-90e3-4202-a772-5d878a413b8d,Target: CD68,Target: CD68,Other,570.19,476.35
+989d4459-694f-493e-980c-d4ffec751d86,PathCellObject,,Other,152.02,477.75
+0b5f9825-f586-488b-8574-ca1b3eeca058,PathCellObject,,Other,366.16,477.39
+4d83163f-1466-499e-8986-2b4f0d1c8146,PathCellObject,,Other,616.65,479.09
+4fedda2b-8e75-4a70-b857-4b6caa5cc41c,PathCellObject,,Other,714,478.99
+02da5cc2-b9d6-423b-9e62-5cf4785fc483,PathCellObject,,Other,51.84,481.74
+247a354b-197f-49b6-99e3-fda0211fa3ee,Target: CD3,Target: CD3,Other,61.82,481.16
+bfa97f01-5ac6-4761-a0fd-7ad067746adc,PathCellObject,,Other,164.69,481.69
+3ca80a38-c2ce-468e-b5f2-650328f99632,Target: CD3,Target: CD3,Other,684.92,480.35
+d8b36e6f-3ba5-4e04-b998-7ecb880b7f98,PathCellObject,,Other,257.78,481.74
+a3593b2c-ec23-4a5f-9888-07b467e461ea,PathCellObject,,Other,377.82,479.69
+70175e6b-50bd-4403-a3e9-b246695a2204,PathCellObject,,Other,693.89,478.05
+6e536d95-eeb5-4f6d-97a1-e0bbe945804d,Target: CD8,Target: CD8,Other,104.36,482.06
+4f7d6163-7a0d-492e-933f-f43ce579092d,PathCellObject,,Other,317.34,481.28
+0d1216e2-ee16-45fa-9926-37b53066b561,PathCellObject,,Other,730.65,483.77
+c5deebe2-2d31-411a-bf74-36440a635283,Target: CD3,Target: CD3,Other,135.19,481.77
+1ccc2fc1-14df-4a48-ac7f-c254feea328d,Target: CD3,Target: CD3,Other,291.6,482.33
+678a60e9-9718-4ebe-922d-4728d93ed8d0,PathCellObject,,Other,469.93,486.55
+434d63bd-9e38-4dbc-94cb-59e00e80350b,Target: CD68,Target: CD68,Other,508.12,484.68
+c389dd00-e309-4507-8bb9-d20c2fc44da9,Target: CD3,Target: CD3,Other,361.84,485
+325db284-7bc7-4c95-8d5a-820ebe1947f0,PathCellObject,,Other,461.61,482.95
+6a363f43-536e-44c8-8d31-29a17d3253d0,PathCellObject,,Other,115.39,484.76
+77a6e9a9-c492-4aec-82d7-6de313c5937c,PathCellObject,,Other,414.85,488.68
+06d24b0e-37d6-48b5-aa42-1a658a92a676,PathCellObject,,Other,426.83,484.03
+4f2f22ba-7fe8-4147-a7a5-af0ea8b6dd3d,PathCellObject,,Other,36.96,487.59
+6f6dbfd7-b92b-4ab0-9da6-f8a9d38f13bd,PathCellObject,,Other,394.49,486.72
+c9f05e8b-ae52-4844-8739-763bc437a4d8,PathCellObject,,Other,754.9,487.42
+d1d0a82f-41a7-485e-846f-a0923ae7fe77,Target: CD3: CD8,Target: CD3: CD8,Other,282.87,487.69
+fd559e55-5ad7-46e0-a3a0-b3117df1df72,PathCellObject,,Other,653.87,487.1
+f6f26b2c-e8a0-4f63-a687-0e838a60f8ee,PathCellObject,,Other,561.02,487.76
+053185ac-10b1-4552-acdd-56a89a2fc47d,PathCellObject,,Other,85.19,488.69
+20a2afee-2a63-4119-b63c-bd7781bfa970,PathCellObject,,Other,67.55,490.19
+591e5313-ef30-423f-925c-0f374f6da82f,Target: CD68,Target: CD68,Other,489.55,489.06
+e4f6fc90-b476-48ec-81df-51e6d12fb616,PathCellObject,,Other,173.67,491.02
+abae1362-754d-450e-aecd-49f17f262afd,PathCellObject,,Other,707.25,490.36
+0ea85cec-7452-4e7b-b8e7-4255221bed3b,Target: CD3: CD8,Target: CD3: CD8,Other,342.84,490.04
+a12b93f3-1971-41b1-9524-0de3b805bd48,PathCellObject,,Other,432.66,492.67
+3b3562e5-d31d-43ef-a6a5-a843fb96acbc,PathCellObject,,Other,291.37,493.21
+3c15d345-5d27-401b-9a67-aa0f872f889a,PathCellObject,,Other,301.48,492.04
+586fac66-5207-4163-b7eb-04d3abe792b0,PathCellObject,,Other,625.46,492.28
+f7550275-c422-4ffc-85b5-e422990186a2,PathCellObject,,Other,771.43,494.83
+7aae45eb-8311-49b6-82f3-6a0ea27fcf87,PathCellObject,,Other,101.96,496.94
+bc455804-0960-4b82-877f-59ac5d2205dc,PathCellObject,,Other,561.8,495.81
+b0e68646-3fde-4c22-a2fe-e06a2181d551,PathCellObject,,Other,592.8,496.54
+297609f2-5384-4241-94f6-2399542e0a3b,PathCellObject,,Other,697.8,498.3
+60b1f7ca-dc32-4f2b-8237-9b8c9f0eff6b,PathCellObject,,Other,657.17,495.88
+09644020-3a17-4058-b04f-a6662f2db1cd,PathCellObject,,Other,673.16,499.88
+9e72f2a2-5493-4844-9abf-ef96b2eb9a56,PathCellObject,,Other,724.52,498.9
+088471b8-3b5b-4ea0-bd10-88bfeec8127e,PathCellObject,,Other,748.4,500.3
+0bc5df28-cb97-4cff-9da7-e758fd2d9693,PathCellObject,,Other,314.86,498.01
+f86965c1-f7cc-42b6-9fb5-f9437b6fc70b,PathCellObject,,Other,500.34,499.77
+95730fc9-f12a-4ad3-b424-7bf3425a40f7,PathCellObject,,Other,509,499.75
+e454837d-1b6b-483b-9ffd-44041b018e06,PathCellObject,,Other,306.47,501.1
+d1562141-bf31-4f38-a638-fd5100aed8ac,PathCellObject,,Other,428.4,502.02
+027a23a4-0a04-4437-baa8-98ca7366687b,PathCellObject,,Other,624.52,503.17
+ee3c0722-1f40-463d-b17f-c561558bd76e,Target: CD8,Target: CD8,Other,128.01,506.69
+37f8547e-a3b9-4683-8294-d2c24d74f663,Target: CD3,Target: CD3,Other,322.74,503.13
+5ea5faf4-b2aa-4493-a07e-b78d111f2914,PathCellObject,,Other,160.57,505.7
+01aaeca0-98de-469b-ac09-6e367d6bddb6,PathCellObject,,Other,551.8,504.07
+e377b19c-3bee-4906-bf77-b32fdf558db2,PathCellObject,,Other,565.5,505.56
+83b3c603-d2b3-442e-bcf3-268075268d8e,Target: CD68: CD3: CD8,Target: CD68: CD3: CD8,Other,660.84,505.85
+51e4bf64-d867-4704-847c-391676844c75,PathCellObject,,Other,88.1,502.25
+64c72038-a250-4a76-a4ec-c3bbde2f415a,PathCellObject,,Other,738.42,508.26
+5a6c1ceb-e575-40c3-965e-0ac0ee2c2000,PathCellObject,,Other,64.81,504.52
+b9c89ac3-9dad-4c10-94e2-c89a5bfc9632,Target: CD3: CD8,Target: CD3: CD8,Other,353.69,505.67
+f3290b0e-386d-47eb-acd9-cb5104528d1f,PathCellObject,,Other,596.57,506.67
+f93d464b-bc95-4d75-be03-e16072f7513d,PathCellObject,,Other,391.91,507.28
+3fe8490f-8010-49a8-99aa-89e0be8856c7,PathCellObject,,Other,78.12,508.63
+3a919e1b-049a-411d-9a60-ccc9cc8d7001,PathCellObject,,Other,289.32,506.56
+4c3e2a23-d432-4fff-b77e-8381abce55fa,Target: CD68,Target: CD68,Other,532.85,506.16
+e3378488-2933-4f5f-b34b-9edbbca40176,PathCellObject,,Other,267.07,509.75
+81dfbd9f-99d3-4cb5-a35e-a756ea0dab62,PathCellObject,,Other,467.93,510.42
+5b217a79-343a-4ce9-9ca4-679139a8cf06,PathCellObject,,Other,91.05,512.81
+9107b391-df10-4ba2-b6f2-32aca9b458f5,PathCellObject,,Other,43.42,514.38
+78cf42c1-2524-4aaa-a002-10dea4f87792,Target: CD68,Target: CD68,Other,448.37,512.39
+a4037eea-c02f-45d3-b180-9bbb72091023,PathCellObject,,Other,540.94,511.57
+6217a037-cd35-49a0-9ce4-5478ce4e0b99,PathCellObject,,Other,339.69,511.21
+162a8a8a-20b4-413a-9fb6-ffcf3d2655c0,PathCellObject,,Other,111.37,512.99
+755c4934-7c44-4255-962c-0774f94f8f39,PathCellObject,,Other,300.99,512.09
+0ce0f1cd-8513-4d95-8652-8ef7c7c7b74a,PathCellObject,,Other,323.53,513.65
+2df4eb40-f2f2-4a63-96bc-2e7cabd3c9d4,Target: CD3: CD4,Target: CD3: CD4,Other,478.64,509.94
+410ca807-fd35-4c85-b31c-aba6c72a2dda,PathCellObject,,Other,510.42,512.09
+9894f440-c0fd-4c33-9f6c-eb1abd393616,Target: CD68,Target: CD68,Other,601.71,512.78
+8d4de824-527a-4a86-949b-2631d3661981,PathCellObject,,Other,383.17,512.24
+92f8ed08-9a25-448e-a927-cc6fa0928f1b,PathCellObject,,Other,783.76,512.24
+496af152-2691-423b-bd9d-688068cb6681,PathCellObject,,Other,716.74,511.53
+8441252f-d44f-4b97-a68c-799a69fcf8d3,PathCellObject,,Other,459.52,514.64
+04aac333-ebf1-460f-b6dd-8adcec43941e,PathCellObject,,Other,793.46,517.15
+02f737b4-0357-4e86-9770-a318207e5a96,PathCellObject,,Other,151.3,513.57
+d585ccdf-fe08-4fb1-98ce-efc6fc94632b,Target: CD3: CD8,Target: CD3: CD8,Other,291.74,517.43
+b669d653-ce43-4ef7-af3e-4da34c5682ea,PathCellObject,,Other,679.33,515.96
+213caa57-b36e-4458-a104-16a9fe72fe7b,PathCellObject,,Other,137.11,516.89
+f12aaaa1-2362-4358-ad1e-320394de0ca8,PathCellObject,,Other,666.32,517.5
+4d21c607-55c7-42e7-a6ac-e95be16aca58,PathCellObject,,Other,489.02,516.99
+7c80f3bb-859f-4c12-94cc-838882559bdd,PathCellObject,,Other,430.72,519.86
+ef3a6098-a6bc-4de0-a61d-bd61002ba4b5,PathCellObject,,Other,183.02,520.52
+88f2e1e0-4a11-48a5-b9a7-b56df5152cb3,PathCellObject,,Other,719.78,521.21
+6dd8afc1-6199-4d33-b1c7-377be0fad759,PathCellObject,,Other,170.7,520.77
+c3dc9209-a17e-4d97-a09e-1e5eb4b5c703,PathCellObject,,Other,525.5,520.71
+b674ea02-18cb-45d6-8d8a-f6dd639bced7,PathCellObject,,Other,738.31,520.7
+7942a60f-1517-40d3-8238-6d8b1982ef30,PathCellObject,,Other,307.57,519.64
+abee492f-1ab6-4c91-96ba-03b70fe38334,PathCellObject,,Other,145.85,522.46
+e14942cf-1096-4804-b2af-0582993d776d,PathCellObject,,Other,481.36,522.55
+ae17d0f1-918e-4354-9028-d6fff51840d3,PathCellObject,,Other,760.77,522.91
+d58ef7c8-e9df-42e8-a71b-9e38517be557,Target: CD68,Target: CD68,Other,631.72,523.6
+08d87f00-3a5a-483c-8e94-91fcec06c32f,PathCellObject,,Other,243.34,522.3
+dc6f2115-1a9d-4aa8-b874-985c8acc92bd,PathCellObject,,Other,314.45,523.61
+5f7c5cb5-c1ad-44e4-a365-e22a0ea6e9f0,PathCellObject,,Other,534.01,525.08
+1df1a53d-7fba-47b1-9718-565b13c6f8c7,PathCellObject,,Other,153.27,525.23
+5b1f4053-6547-4671-8410-84d8d1c5022b,PathCellObject,,Other,289.11,527.67
+73b1d556-1dd6-490b-a0c9-cb80794e9755,PathCellObject,,Other,324.74,525.03
+37ead58a-14e9-413b-8a64-abe45d6acefd,PathCellObject,,Other,63.77,527
+4f5c3667-1483-453c-b24b-48871117977b,PathCellObject,,Other,133.16,526.81
+d8c6f873-80ca-41ca-8978-40161e11a109,PathCellObject,,Other,257.01,530.76
+629b1b58-53f7-48f7-8b90-0af6a3044045,PathCellObject,,Other,280.53,530.01
+3449a5fd-6f3d-4449-b6b5-c767b0c5a247,Target: CD3: CD8,Target: CD3: CD8,Other,449.67,525.1
+fb3e8391-e465-4fea-84e4-d792a4bbb5f4,Target: CD68,Target: CD68,Other,602.41,526.38
+f6b055bc-3424-478c-a231-26fec0679e02,PathCellObject,,Other,77.08,529.22
+5bfe6896-4245-4d86-8dc2-8234a9140b28,PathCellObject,,Other,99.38,530.25
+c1b52788-84e2-4f7e-8a60-dcacc8a65966,PathCellObject,,Other,471.22,529.11
+6e626b3e-e75c-41a8-98ad-45c8f989d374,Target: CD3: CD8,Target: CD3: CD8,Other,244.49,532.32
+442c862d-b6ae-404b-b8a8-5733194b9b52,PathCellObject,,Other,454.28,533.52
+e5f1d61e-40e4-4841-b1d5-825e142fed2f,Target: CD3,Target: CD3,Other,335.95,532.2
+9a94db47-2040-4507-b6ac-6be6a4fb5d33,PathCellObject,,Other,747.9,534.42
+942f30e7-123a-4c09-aba7-7f08c481e41d,Target: CD3: CD8,Target: CD3: CD8,Other,427.68,534.02
+b2a8943e-ecc3-40f0-93f2-11ab2ef5df29,PathCellObject,,Other,638.35,534.73
+e5f0be12-5bd8-4eea-ab7a-e35570747fd5,PathCellObject,,Other,677.62,535.94
+2d7a614b-1145-489c-8a24-412223cb7403,PathCellObject,,Other,553.35,536.35
+59b74f34-0704-4bd2-aca3-7738626a5105,PathCellObject,,Other,651.26,536.3
+71b4a594-96ef-442c-9b90-6732042a7924,Target: CD20,Target: CD20,Other,759.4,536.79
+0aac2f9f-ad86-4122-bf96-965767509670,PathCellObject,,Other,41.3,537.57
+0ee687e8-4a9e-4177-9295-37af1d7ad78e,PathCellObject,,Other,51.18,538.72
+0fa44ac8-dc38-47e4-8325-8292efe3dc68,PathCellObject,,Other,478.97,539.31
+fec3d0a2-58c2-4175-b1ef-f4fb2cc2f1ff,PathCellObject,,Other,767.24,539.14
+c3082edf-d19d-4e4c-8878-624008123abe,PathCellObject,,Other,777.24,538.62
+3717b35d-e3ae-46eb-a31c-7e8676d3617d,Target: CD3,Target: CD3,Other,564.31,540.75
+6447c023-fa5d-44e0-8941-cd14ff7e24b4,PathCellObject,,Other,148.43,541.27
+1a81d7f5-9a08-4229-903f-f93982a3bb49,PathCellObject,,Other,337.39,546.99
+ebb50b46-63f6-4a2f-bfa0-02b3564c9709,PathCellObject,,Other,705.65,541.56
+1d15c2a0-d578-46ae-9914-36a614bb7b9e,PathCellObject,,Other,638.13,542.84
+1cfa5f77-82d5-42b9-b52a-abc9f5b738e0,PathCellObject,,Other,647.75,544.38
+a43cb8c4-4d25-4eb2-96b1-c61a09c997f0,PathCellObject,,Other,35.51,546.86
+1e6707b7-2f17-4912-aa3d-9f545cc518f2,PathCellObject,,Other,64.97,545.23
+a77ce385-f548-475c-84d9-39342f6bf6fe,Target: CD68: CD8,Target: CD68: CD8,Other,412.52,545.35
+b01ac266-6145-43c5-9694-1a8287fe118d,PathCellObject,,Other,430.55,545.2
+8758fa7b-e229-473a-9aff-dd936836ba9c,PathCellObject,,Other,608.1,543.37
+5967d2c8-7cc7-4ff1-838a-3bed44f2beb3,PathCellObject,,Other,208.89,547.02
+ae3b2273-e73c-4bdc-9817-6f209c4833db,Target: CD68,Target: CD68,Other,631.88,547.16
+1a88c821-5298-47d4-bcda-17a656fb7a24,PathCellObject,,Other,790.35,547.51
+dda27821-aab3-434c-b53b-42d3482178af,PathCellObject,,Other,223.53,547.66
+34dc2dad-f614-44fb-a332-fbaa875f7c52,PathCellObject,,Other,95.28,549.39
+e2247714-e6c9-48d2-ba07-cf7885a1ab3c,PathCellObject,,Other,267.93,551.22
+9121073e-0b51-4c59-acdb-93da4a39375b,PathCellObject,,Other,670.27,548.64
+14f01e61-525a-4279-bf99-72d62bc2a4ea,PathCellObject,,Other,280.74,550.68
+65737a07-2cac-4c25-8c32-a1fdbcddb3a4,PathCellObject,,Other,506.41,550.21
+5754035d-1b22-4933-9b8e-dfe82c192f64,PathCellObject,,Other,659.59,548.82
+c3f9d0a6-687e-4445-aff5-ee3cd5cc7de7,PathCellObject,,Other,326.76,551.87
+dbc51e03-8e99-46b3-bc31-2a3553b0e035,PathCellObject,,Other,723.68,548.46
+40a47c6a-4966-4020-89a8-a6ea6d425fb4,Target: CD3,Target: CD3,Other,424.02,553.97
+8ec64126-1fa6-43f1-b087-df1146cd9e44,PathCellObject,,Other,497.95,553.31
+21f5bc7d-53f9-4693-865c-a8040044da59,PathCellObject,,Other,81.73,554.61
+a74bffdb-e4ca-40c6-8420-832e87f796f7,PathCellObject,,Other,737.14,554.87
+dacbedec-47a1-4948-b694-ab8812dcfd3e,Target: CD20,Target: CD20,Other,759.09,552.42
+bbfa2d1e-1174-4d75-8148-f57db6831cdf,PathCellObject,,Other,649.31,555
+4fcfc06d-5b4c-4d5a-9f4b-56405efe7a07,PathCellObject,,Other,666.25,556.88
+2364abb1-b280-4c04-9fc2-87f12cbd81f3,Target: CD68,Target: CD68,Other,525.17,556.41
+a6447d7a-b313-476c-9ced-b3a06d984899,Target: CD8,Target: CD8,Other,780.27,557.15
+8d7d6bee-04b8-45fd-8474-779bb0009aed,PathCellObject,,Other,724.44,558
+4629d349-bb12-4faf-a738-65da9d12c663,PathCellObject,,Other,235.11,558.37
+75b4d9ba-b73b-4004-9fd6-19fecb60b798,Target: CD20: CD3,Target: CD20: CD3,Other,441.44,558.32
+5abfe29d-ba0f-4542-910b-096e20079aa0,PathCellObject,,Other,220.82,559.47
+08240d8f-da7e-42f7-a54e-e102832f5e51,PathCellObject,,Other,170.99,560.51
+f154691a-ad8a-4fc4-b922-e44d92e2e9a9,Target: CD8,Target: CD8,Other,458.56,561.33
+18db7a48-c150-489d-868a-144b56aa402c,PathCellObject,,Other,564.05,558.47
+0144b95e-ff9e-46ce-b5ea-5d23e9c590ed,PathCellObject,,Other,695.23,558.04
+f8a96388-fb4f-418f-a2d8-3ee4aab422d2,PathCellObject,,Other,624.89,560.12
+366edfcd-a42f-46b4-a7ed-9aa56c0166fc,PathCellObject,,Other,539.7,563.23
+4c30256b-23a7-4a86-ad0c-5861b0a1b23f,PathCellObject,,Other,321.33,563.64
+3d8ee061-f60e-48dc-9764-eb8d09c3c8f9,PathCellObject,,Other,481.28,562.29
+b8f0daac-4521-4f79-8342-28a96fe659e1,PathCellObject,,Other,364.13,564.57
+43ec4607-4c99-4c36-812c-e1394179df1f,PathCellObject,,Other,639.33,564.72
+6d409d92-eb33-4e4b-b9a0-1112a23e3b42,PathCellObject,,Other,764.94,563.14
+c2921588-36c6-4a0a-8a09-ffae4e795772,PathCellObject,,Other,200.75,563.9
+6a78a0e7-a8df-43c1-9b22-dbe4cfcb860b,Target: CD3,Target: CD3,Other,299.06,565.88
+ec8ed4b6-badf-4827-9bbf-c993db314de5,PathCellObject,,Other,566.7,566.22
+68ecfdc0-ec47-4306-ba6f-3e0b357b0db5,PathCellObject,,Other,50.57,567.23
+a8acd4ef-e7cc-4647-a8fe-73eaedef4504,PathCellObject,,Other,126.04,566.58
+e4462d6e-8d86-4849-945b-388d7c123bd4,PathCellObject,,Other,775.76,566.95
+60f492ab-05d8-4fcb-b82c-39c5c1f520d4,PathCellObject,,Other,208.19,566.88
+f8aaa4f2-4bb3-4561-8476-ce61fa4fc2b6,PathCellObject,,Other,695.68,566.65
+df5c5c40-be07-49a1-9ab8-ddefe2344b9e,PathCellObject,,Other,227.26,567.42
+5edd4940-bfca-419b-83e5-f4649c8efa12,PathCellObject,,Other,706.47,565.66
+ea3ad1e4-3ae6-431a-a11b-438dbe3f147f,PathCellObject,,Other,258.26,568.73
+3124393d-1b07-4d4a-b5cf-5f7810b4bdce,Target: CD3: CD4,Target: CD3: CD4,Other,410.76,568.53
+ffd06df0-10bf-45c4-b5f6-c7e97cbcb107,Target: CD68,Target: CD68,Other,426.73,568.89
+8394cb57-16e4-4776-ac7f-e11ee6b8132d,PathCellObject,,Other,242.34,570.73
+00a370e9-cb51-4120-805f-7c5e37c25b8c,PathCellObject,,Other,590.51,570.39
+6375f8be-256b-43e5-964b-66f59ebf2c26,PathCellObject,,Other,514.11,570.46
+14b051ea-b031-4781-9a75-a5f942f05248,Target: CD3,Target: CD3,Other,437.21,572.98
+5716fbe2-1b28-4b04-9ed0-8895805f4672,PathCellObject,,Other,493.74,571.57
+328f7972-28d3-4e3f-bff7-ca589cc003a1,PathCellObject,,Other,751.61,571.14
+7372f2e4-7eef-4229-8077-9a317f98d1e6,Target: CD68,Target: CD68,Other,761.25,570.5
+4de77957-b9f3-4be3-94a6-670e591b8090,PathCellObject,,Other,715.02,571.28
+a925ea87-f9ca-4118-9638-b940a9878844,PathCellObject,,Other,650.83,573.72
+cc057cfe-ed02-4acb-b0f7-cc2e18f6cd41,Target: CD8,Target: CD8,Other,478.39,576.55
+645bf301-ad07-4a1e-b34a-07c5121d4b93,Target: CD3,Target: CD3,Other,727.44,572.47
+5bac3661-1122-4a7f-89cc-aea8cbe591a4,PathCellObject,,Other,31.98,576.78
+947aab07-edd1-44fa-bfcf-bdcfc6431abd,PathCellObject,,Other,323.23,576.52
+8003453b-79bd-4496-bb0e-9209fec2ae11,PathCellObject,,Other,629.31,570.89
+0ce5ad1a-21fe-4898-b8f5-f9644e5a3a05,Target: CD8,Target: CD8,Other,557.62,574.11
+454e28b6-ecac-44d4-b794-7b9625645719,PathCellObject,,Other,151.93,574.15
+2ef7b70f-8d61-4d3c-a905-4d31d9820f25,PathCellObject,,Other,635.24,578.14
+207cdd41-1075-4275-ac06-2bce9ee781dc,PathCellObject,,Other,667.7,576.69
+1ed76b9b-43c0-44e6-8fb8-c21494cd8240,PathCellObject,,Other,343.46,574.85
+d78a8175-ad16-4ff6-a2af-ec97c6162d47,Target: CD8,Target: CD8,Other,399.26,574.78
+4dc61457-e51f-4259-b478-fccf3ebefe9a,PathCellObject,,Other,677.13,576.3
+18857695-4e7a-42b1-9df2-802cf8e465c1,PathCellObject,,Other,80.22,581.65
+685c2e71-53a8-46c9-8a9c-284581a209f4,PathCellObject,,Other,385.41,579.36
+ae5516ad-4f58-4180-abba-ee8153598380,Target: CD3: CD8,Target: CD3: CD8,Other,362.53,575.98
+07e65936-a1dd-45f7-ac1d-6d2c3e7eb2b7,Target: CD68,Target: CD68,Other,569.5,576.44
+3c26d376-3ebc-4e38-b18d-ce145214356f,PathCellObject,,Other,625.03,576.79
+de37e31b-4c34-4a95-9355-e445618896b3,PathCellObject,,Other,102.23,580.94
+5140b743-7262-416b-ba1f-23f7cc8bbf7d,PathCellObject,,Other,600.41,578.01
+2aaf1c64-829f-4ccb-a14f-99c6e6ec111e,PathCellObject,,Other,50.62,581
+8f23e02c-9361-49f9-966c-10168d9aee10,Target: CD3,Target: CD3,Other,468.23,580.01
+882590de-9385-470d-8d1f-2d3ef4ec6f5e,PathCellObject,,Other,747.19,579.54
+8a8fa738-ae31-4276-8bda-a0bc9f86d9cf,PathCellObject,,Other,659.89,580.05
+07c914e7-14a8-4d8d-85d7-779e0bb82392,Target: CD3,Target: CD3,Other,41.41,578.72
+fbcd10b6-371b-4931-96bc-22cfd09ff445,Target: CD8,Target: CD8,Other,686.2,578.81
+5dc13e24-58a7-4190-95d0-3cbc6c4ae6af,PathCellObject,,Other,446.54,582.03
+41e30bd1-7050-491c-88c9-91d5b5d6ea70,PathCellObject,,Other,542.12,582.59
+c062531f-ee14-42d6-801c-ac6be552cc97,PathCellObject,,Other,619.81,581.98
+b2a47469-2933-4722-b35e-772cb4e8b690,PathCellObject,,Other,368.2,584.01
+05bd5cda-941b-486e-9659-271649d21e87,PathCellObject,,Other,120.65,583.89
+eab4001e-1455-48da-8af8-1d6747548b2b,Target: CD68: CD3: CD4,Target: CD68: CD3: CD4,Other,514.46,584
+223304ae-17df-4bcb-890b-2cabfd619e37,Target: CD3: CD4,Target: CD3: CD4,Other,563.01,584.31
+3a4f1efb-6006-4452-8ae0-217550a8824a,PathCellObject,,Other,425.19,585.96
+4c559c0d-b61f-4108-befb-6d686689947c,PathCellObject,,Other,780.47,583.37
+480cc8bc-8816-4de6-9144-763e37006c8e,PathCellObject,,Other,410.97,584.93
+35bbb865-4d1c-4e8d-bc8c-f3a7e38563f1,PathCellObject,,Other,41.26,589
+468c73e9-6841-47d6-bb09-94d840e53232,Target: CD3,Target: CD3,Other,395.74,589.47
+c65a4e24-6502-4362-b7bd-55a88448ab33,PathCellObject,,Other,572.41,589.8
+b05ca5fd-bba8-4fc3-b1ea-01389f9d8f61,PathCellObject,,Other,348.06,589.32
+76099623-962b-44e9-bd3d-52624af3c552,Target: CD3,Target: CD3,Other,253.9,588.34
+1fd37823-32aa-4d58-81ab-fb511cb1a74a,PathCellObject,,Other,637,589.64
+e4dfcdab-b50f-43ac-83e9-5423b0319544,PathCellObject,,Other,645.56,587.52
+6f19ad49-bad7-4690-ab10-49ba6273e09e,PathCellObject,,Other,599.85,590.61
+18067bed-f849-464c-a437-d6836b5da5ac,PathCellObject,,Other,695.31,591.76
+38d22427-d766-4637-b20d-df075fd27ee6,PathCellObject,,Other,726.69,591.04
+b41d523d-7a78-4f59-8d92-154a70a2fdd1,PathCellObject,,Other,417.8,591.27
+9972d815-b400-4fb9-bc85-b15e683ef943,Target: CD3: CD8,Target: CD3: CD8,Other,584.31,589.82
+94c52b8f-c283-4c6b-81fe-7034109c01ee,PathCellObject,,Other,7.768,591.67
+e9612c43-cd57-4301-bea1-b4792ce163d1,Target: CD3,Target: CD3,Other,466.02,590.57
+1829c7eb-159f-40fe-b6ac-4890956eccfe,PathCellObject,,Other,655.31,592.84
+a5ea2a4a-7561-43cd-8a3d-935d0369f180,PathCellObject,,Other,781.34,593.28
+1b82f71f-92ea-40d4-928b-6dd525d0d117,Target: CD68,Target: CD68,Other,505.03,593.38
+146f9275-7c80-4438-a93f-0e87d57edf7b,PathCellObject,,Other,161.33,593.13
+10a576c2-c38d-42e8-aa3f-817ab38442b4,PathCellObject,,Other,209.3,595.9
+e9f77138-1afa-4da4-ad09-ee9fd26ad90a,PathCellObject,,Other,43.74,596.95
+ae1d6524-a2f2-47f7-84a3-9db167bd2158,PathCellObject,,Other,64.03,595.55
+1327f111-085d-4f0a-b0c4-4ec9c5ed2946,PathCellObject,,Other,304.56,594.39
+b1b47593-df72-481a-bd45-2a1a84ea2130,PathCellObject,,Other,447.92,601.6
+7ac5aa57-67e7-4301-8343-f96eef2fa925,PathCellObject,,Other,321.56,597.97
+fc98b98b-6153-4118-8d2d-5bf4ab19636b,PathCellObject,,Other,426.32,601
+2d68b373-f927-415e-a6bc-c36411c24d51,Target: CD3,Target: CD3,Other,470.85,598.78
+c5ef810d-c261-4ba7-b456-50eba8916031,PathCellObject,,Other,584.06,598.46
+9bcce316-8124-4aef-921a-26c52dcadcfd,PathCellObject,,Other,50.97,600.16
+a8923a7e-314e-4cf0-97d2-82e0cd65a535,PathCellObject,,Other,438.6,600.47
+40cb3a31-b6f1-4f50-8443-8d3d97d8b440,PathCellObject,,Other,496.65,599.76
+b2624c4b-13ff-4126-97f7-aa8379e7a91c,PathCellObject,,Other,348.18,601.81
+7c69c081-5a88-4486-b30c-5b3a809b97ae,PathCellObject,,Other,460.52,600.06
+b34ec380-01a1-4990-bf61-7dd44409da5a,PathCellObject,,Other,529.38,606.04
+51384ba7-0cd3-48dc-941b-dd3ceb7acee2,PathCellObject,,Other,383.28,600.54
+b383d91f-311d-469d-a5f2-0fbaf8295d5d,Target: CD3,Target: CD3,Other,271.46,601.66
+be348379-0188-4a7f-8b52-aeb44b23030a,PathCellObject,,Other,514.73,603.81
+58537810-17af-46c4-8283-a19b0df7391d,Target: CD3: CD4,Target: CD3: CD4,Other,601.03,602.37
+30f01160-1cae-4a88-9c62-78f5def18190,PathCellObject,,Other,614.52,601.36
+05fc1055-de60-43ea-93fb-bb2dacd76380,PathCellObject,,Other,160.38,605.48
+4c99d68c-bc1e-490e-92db-b8d0eb10eacd,Target: CD3: CD8,Target: CD3: CD8,Other,593.23,606.03
+fc8d84ab-d383-4ffc-9a78-a25563772fc3,Target: CD20,Target: CD20,Other,767.75,601.89
+ee8d9cae-32b9-4e58-8ab7-9067cd207859,Target: CD3: CD8,Target: CD3: CD8,Other,580.02,606.2
+8d6762ac-29a6-4868-971e-52c09e8c6d26,Target: CD68,Target: CD68,Other,712.41,605.9
+6b48be69-f76b-4ada-ba63-0272dc7c1ce4,PathCellObject,,Other,117.47,608.55
+a076e14e-52c7-4005-849c-36fcc0328bfe,PathCellObject,,Other,490.63,605.15
+ed47b198-6013-4c4c-a8ab-35984070d14f,Target: CD68,Target: CD68,Other,638.76,607.24
+9eadb0eb-dc3e-43b1-b5e6-3350ba7380ab,PathCellObject,,Other,456.59,610.98
+67ffad77-f3e4-47b7-9d32-dc5a09a61ac9,PathCellObject,,Other,380.23,608.08
+b62ed33b-52ad-43c7-a081-e8cfbe6a8837,PathCellObject,,Other,288.02,608.4
+86238946-e75c-4bd2-baf9-79b3fc45d3a7,Target: CD3: CD8,Target: CD3: CD8,Other,738.7,607.68
+766c88bb-977b-4f49-9aca-bd949689ab7d,Target: CD20,Target: CD20,Other,776.24,608.06
+20f4f3ce-bf8c-4461-952d-4dba87840d96,PathCellObject,,Other,65.71,609.92
+012be05a-187e-42ae-b087-93040f07c60a,PathCellObject,,Other,483.7,609.18
+4a42f59a-0949-4ac9-9a11-506d0b89a9be,PathCellObject,,Other,15.88,607.35
+36a38ab8-25b8-439a-be83-fd7b7af20602,PathCellObject,,Other,55.84,609.64
+6a4677e8-5cd5-4b5d-99ac-803a8e77a1c7,PathCellObject,,Other,341.67,609.32
+8389fc4c-74bb-4bd3-80b1-f5fb13a039a0,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,758.87,609.5
+e2447874-a1b6-44fb-95fd-00c2ae392526,PathCellObject,,Other,235.5,610.78
+de7b579c-53da-44df-bd25-7881bdb6518f,PathCellObject,,Other,198.59,610.74
+2ee45105-94f2-4549-8861-28256bf94e7b,PathCellObject,,Other,300.11,610.95
+39096ee2-24c9-44d5-b1b1-7f93870d2d17,PathCellObject,,Other,26.79,612.01
+bc37ca6f-786c-44c5-afe8-b2fedb34714d,PathCellObject,,Other,211.98,610.64
+93760067-5be6-49f3-a004-332f98931f61,PathCellObject,,Other,221.23,610.86
+4ccf4644-99b1-43a7-bab3-fe9685967ddd,PathCellObject,,Other,317.02,609.47
+6239496c-61f8-49ef-92e4-aeea15a00fb0,PathCellObject,,Other,268.66,612.68
+d3583ea4-c271-4fd5-b67d-14035fc2e26b,Target: CD68,Target: CD68,Other,567.2,610.38
+9b2006af-dec5-4179-b131-60f0e1611a88,Target: CD3,Target: CD3,Other,767.46,610.98
+f9b1f40e-3f09-4103-89d0-93b3c8b3d2d6,PathCellObject,,Other,488.93,614.63
+ae0b9648-4661-4376-920d-324718cfeebe,Target: CD20,Target: CD20,Other,376.19,615.18
+3ce62a01-d3d8-4d2c-88eb-f08d8955a208,PathCellObject,,Other,469.12,614.02
+b983e004-e772-4c33-be0d-d4a3b496a9a3,PathCellObject,,Other,652.2,613.76
+f29356c5-7ab7-4446-ab14-95bf9177d9be,PathCellObject,,Other,136.49,615.11
+60988719-70bd-4a1e-85c0-da7020cdfe1e,PathCellObject,,Other,353.4,614.49
+bf70e204-5b90-41ad-b2a9-8522b480a0f1,PathCellObject,,Other,587.73,617.47
+ea37c9fe-3d85-45f9-bb70-1285ca62dcc4,PathCellObject,,Other,703.83,616.35
+7a8be3d9-d3ea-41e5-8f4e-d6e345ebe72f,PathCellObject,,Other,323.83,620.58
+e78227bb-8054-4cea-bf68-cbd43e45612b,PathCellObject,,Other,555.64,616.34
+fa75750e-afe0-4214-92a0-1fa283ef7fa6,Target: CD3,Target: CD3,Other,14.41,617.22
+2dcf34f3-1c97-42c1-b873-2737bea16891,PathCellObject,,Other,309.3,619.3
+b1331a78-9de5-4fa5-8410-6e42692c520d,Target: CD3: CD8,Target: CD3: CD8,Other,578.28,617.69
+4859572a-e30d-4113-9fc5-cd6d4b894407,Target: CD68,Target: CD68,Other,361.24,615.61
+c8653e95-9aa4-466b-b702-012e7bbf845a,PathCellObject,,Other,493.71,616.36
+a84c7d99-51ef-43bf-aee3-815f6cb49c84,Target: CD20: CD68,Target: CD20: CD68,Other,771.26,615.51
+9ab8f445-33e9-4e36-98cc-c31c54769097,PathCellObject,,Other,156.59,618.48
+6f640534-1aa5-40b1-b1cf-51bdb6b4483e,PathCellObject,,Other,88.42,618.89
+5b82b68f-56ed-400d-a978-d8cce2552e44,PathCellObject,,Other,398.31,617.04
+3831d0e9-b445-42d5-b042-708cc39ac94c,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,569.4,618.15
+ef2cf95c-a6cf-4dea-8cc3-aab0fd88ab1f,Target: CD3: CD4: CD8,Target: CD3: CD4: CD8,Other,761.98,618.45
+b2cf24c3-e4db-414c-bce3-a46450c71643,Target: CD68,Target: CD68,Other,279.93,616.52
+56b6dda8-ef85-46a4-8417-1347d0aed0e0,PathCellObject,,Other,343.1,620.3
+79c27a3e-3fdf-4efb-ab31-d0d34a5c5cf2,PathCellObject,,Other,623.05,618.81
+74202a84-d7f8-43a1-a89e-e048efa9e94e,PathCellObject,,Other,270.13,620.78
+ed10a273-36dd-42a8-89c5-b3ebdf647ef2,PathCellObject,,Other,499.96,619.25
+d9101fc3-1b2c-43eb-97e0-96d92b60ab3b,Target: CD3,Target: CD3,Other,206.15,622.6
+a24b8028-ab79-4765-8cce-8adcae1bf244,Target: CD20: CD68: CD3: CD8,Target: CD20: CD68: CD3: CD8,Other,778.93,618.64
+0bb8979c-7fe5-45ac-b2de-e8d51e50dc25,PathCellObject,,Other,224.12,622.99
+f11338df-deb6-4e86-953d-17bc41ab6dd0,Target: CD68,Target: CD68,Other,765.06,623.99
+25cb5f7f-adc0-4b38-bc37-187e07dc2b7b,PathCellObject,,Other,276.33,625.77
+52f603ed-309a-457f-9870-44dce332cf46,PathCellObject,,Other,718.66,622.62
+f13ebf1a-2f89-4c70-8171-f8b21458507b,Target: CD68,Target: CD68,Other,363.17,624.12
+69955654-5f1f-4fda-8d38-f8a8c8365f8e,PathCellObject,,Other,406.43,625.35
+20903ca3-dfb0-4c98-a813-75f8ce9791df,Target: CD68,Target: CD68,Other,773.31,626.35
+e8852409-363f-427d-a8ba-2d5d7a3e6b90,Target: CD3,Target: CD3,Other,568.38,626.75
+f7e91b97-5f12-43b7-a7ad-f1bec1ac10f9,PathCellObject,,Other,790.94,624.85
+3416c28b-bc31-45ac-a70b-37c12290497d,PathCellObject,,Other,286.09,625.22
+f4378347-657c-4907-a892-dddb996e0ff0,PathCellObject,,Other,386.8,625.34
+53fda001-a0da-43b8-a825-61fbbf009c75,PathCellObject,,Other,498.02,626.85
+6439f330-02f1-47ad-8bd0-25f29c2fc975,PathCellObject,,Other,245.23,627.83
+d0cc133e-40c1-45c4-9cde-f361abe58edf,Target: CD68,Target: CD68,Other,675.11,625.55
+8378361f-6fe9-445f-b9b4-06d2c01000fd,PathCellObject,,Other,80.57,630.93
+ea7c7c3c-fd4c-4bb2-a8c2-c701efa5ffee,Target: CD20: CD68,Target: CD20: CD68,Other,600.25,627.62
+3d9de8d6-b30d-4d67-bc07-fb97f0dd5696,PathCellObject,,Other,513.13,631.83
+29b2b062-1cb3-4100-af6c-d2aa290786e6,PathCellObject,,Other,95.16,632.94
+a54c0933-2bed-462b-a451-3b86a2fb3521,Target: CD68: CD3,Target: CD68: CD3,Other,488.61,631.96
+69d6e2e2-73f8-4ea8-9f5b-f607e200057d,Target: CD20: CD68: CD3: CD4: CD8,Target: CD20: CD68: CD3: CD4: CD8,Other,785.67,633.17
+890cb7ab-3a83-4ccc-b2e6-8bb8cddf8d1f,Target: CD3: CD8,Target: CD3: CD8,Other,649.87,634.09
+7017b5b9-7278-4181-9033-565cb097c108,Target: CD20,Target: CD20,Other,609.42,633.61
+c87b1898-2b43-4b1f-9b81-004ba9e60481,PathCellObject,,Other,60.68,636.25
+3678a0ce-1804-4d68-a7e9-20ee4465a0a9,PathCellObject,,Other,397.31,639.58
+8b92d8e3-c714-4467-88e9-136dc8328993,PathCellObject,,Other,430.5,638.04
+9325704a-de4f-4146-8726-2941b15f94ff,PathCellObject,,Other,496.45,636.6
+3170fdb0-ae02-40bf-b333-dec16ac7f120,PathCellObject,,Other,144.49,636.93
+e2ad0793-4273-4795-b1ae-9f1d45090c02,PathCellObject,,Other,596.81,636.58
+feba2135-b585-46ba-8a9f-169b30edbc8e,Target: CD68,Target: CD68,Other,688.96,635.04
+3c3b0aa3-df41-4505-8fbf-3fd64c2237c9,PathCellObject,,Other,240.68,639.25
+9223644e-5d63-41a3-b70b-e6e8729c38c8,PathCellObject,,Other,229.49,637.6
+53afce61-9c3e-4e66-9ec9-421cb875c03c,Target: CD68,Target: CD68,Other,703.64,639.17
+07012a01-bf98-483f-9c7a-38523d2adf24,PathCellObject,,Other,133,638.89
+b57340ba-7a00-40fe-a22e-2ef57d78be71,Target: CD20: CD3: CD8,Target: CD20: CD3: CD8,Other,410.19,637.49
+fe25052f-a5a5-498d-8538-949bfd484da8,PathCellObject,,Other,381.41,638.58
+3d109369-135b-4b40-ab4d-d5c48b8eb8a9,Target: CD68,Target: CD68,Other,731.93,640.53
+0728bc80-931e-4296-9e81-9e7ab23bb2ba,Target: CD20,Target: CD20,Other,793.72,639.58
+9c461e4f-df15-4df6-9999-95df2bfeab0b,PathCellObject,,Other,420.32,641.37
+7e50006c-a53d-4b08-836f-71aa4fd5d884,PathCellObject,,Other,543.74,640.24
+d3693a58-f569-435d-8a37-2b069fb876f0,PathCellObject,,Other,777.55,638.45
+a0ff78cf-917b-42c2-b65a-01acdd940d9a,PathCellObject,,Other,633.91,639.5
+fc9456f0-2d16-4b0f-aef9-385bad10b457,PathCellObject,,Other,566.98,640.42
+f8c064bc-548d-419c-895e-20aa1681f013,Target: CD68,Target: CD68,Other,748.3,646.1
+fa90b4f6-4ed5-4a7e-8c23-7c89b7c96b29,Target: CD3,Target: CD3,Other,607.57,643.81
+c6afdf99-f94f-433d-aeba-545a94f903d7,PathCellObject,,Other,290.41,644.14
+df4c3e24-8c20-4de2-b2f5-c37e1c151f1d,PathCellObject,,Other,502.8,643.45
+45e628c7-c1b2-4237-8f9c-e2b84089ce81,PathCellObject,,Other,619.02,642.15
+ce92845f-5701-452e-a7a5-e7c93eedcdd3,PathCellObject,,Other,456.38,645.93
+021ed974-e7ed-4c50-9129-d72f10e8aab4,PathCellObject,,Other,557.23,643.24
+15d7bebd-1ec6-4a94-af7f-7301cc526522,PathCellObject,,Other,673.65,644.97
+6dd353e6-4333-45f3-b58a-3955556006cb,PathCellObject,,Other,662.72,644.83
+643b39a2-1136-4258-b4a3-6c4b46fe1eb5,PathCellObject,,Other,691.03,644.61
+e0aba810-86aa-4f17-91a4-fd9e182c2e4b,PathCellObject,,Other,771.9,645.58
+b5f3a7b2-4a21-4e67-95ed-4952bf133fd5,PathCellObject,,Other,363.63,644.89
+378c60b0-512a-49c0-a9d5-77147977b835,PathCellObject,,Other,237.14,647.16
+120bbf85-8802-4ac9-8cd6-7c94dd33b23a,PathCellObject,,Other,783.83,648.24
+795bee1e-81a5-484e-bd4a-227d5f21693f,PathCellObject,,Other,125.83,646.09
+1773b9b3-533a-495b-8139-61ef4f837cea,PathCellObject,,Other,176.93,646.51
+775f4674-095d-4bbd-859f-11026539c1cc,PathCellObject,,Other,386.57,647.09
+7a0e1892-4fba-4d16-b5a6-35a6169e040a,PathCellObject,,Other,15.24,648.16
+14d9ccab-3c55-4153-8d95-d1afd8eedd80,PathCellObject,,Other,210.13,646.87
+c832bf3c-789d-480b-b2df-8f12b708d4a5,PathCellObject,,Other,546.58,650.4
+c9f8d89e-c72f-4818-9a46-efb8c298e06f,Target: CD68: CD8,Target: CD68: CD8,Other,629.53,648.56
+4df3afc1-9847-482a-9f1b-8ede4695adaf,PathCellObject,,Other,164.67,649.77
+55cdb512-819e-4422-b2ec-e93526fafcef,Target: CD8,Target: CD8,Other,413.63,650.31
+b616c0c7-6f9a-47be-b899-7bf45f758532,PathCellObject,,Other,480.67,648.11
+b162726c-467e-41bf-98de-36326bfd40b7,PathCellObject,,Other,529.66,652.53
+95a0b2bf-283b-452b-ba8b-db7b2f787fcc,PathCellObject,,Other,60.99,649.47
+3f50c69d-75ed-42b5-af90-016e9ef1ac59,PathCellObject,,Other,316.9,648.59
+870cef7d-599f-4dc8-a776-926ae7c7f17c,PathCellObject,,Other,568.86,649.12
+4e6df2b2-28f7-4b85-a244-31fcf65866c3,PathCellObject,,Other,645.89,649.23
+f6bb3886-2ef9-4af6-90f5-786cdda37820,PathCellObject,,Other,229.27,651.33
+e9aa05b6-61f3-4842-b873-5160a40419d7,PathCellObject,,Other,470.86,649.28
+7211b51b-52eb-45a6-a75b-7b2964dfb73f,PathCellObject,,Other,695.68,652
+0699afba-4258-44c8-9ff3-c7f4fae13816,Target: CD20: CD68,Target: CD20: CD68,Other,764.39,651.17
+b47eac0f-f290-4201-8dbe-7fb54d32679a,PathCellObject,,Other,339.45,650.99
+709db6e3-091a-4de4-a07b-198a3ce03265,PathCellObject,,Other,41.04,650.57
+a456358b-c03b-4c2d-9519-a27aa70da788,PathCellObject,,Other,388.08,655.54
+0bc355b9-6911-4693-84e7-96258eeee28c,PathCellObject,,Other,141.88,652.23
+d3bd3bcb-d71d-4e3f-8456-cc2abbe7e343,PathCellObject,,Other,377.18,653.1
+db413a2e-b782-42ec-bd9d-6bc33e9318d6,Target: CD3,Target: CD3,Other,603.72,651.92
+2cf4c4a6-065b-4985-b8c2-6e1cc4efd288,PathCellObject,,Other,555.17,656.12
+2fd1d90b-7883-483c-842c-c82c724c7b73,PathCellObject,,Other,130.58,653.82
+1b7b6386-b3ff-4b3f-a99a-a64d49a0092b,PathCellObject,,Other,623.71,657.95
+8a70e2fb-dbc9-4505-a94d-03c35e7a3c49,PathCellObject,,Other,349.3,656.24
+16bb48d9-ca6c-433c-bf74-d6d08f143dce,Target: CD3: CD8,Target: CD3: CD8,Other,576,654.46
+6a8ecafe-7606-4907-a3a4-a26af9cd8983,Target: CD3,Target: CD3,Other,596.06,654.57
+052873ef-2a14-4437-a2e5-8fb05ebe01b0,PathCellObject,,Other,54.6,655.59
+92daf3e6-4ea9-485b-ab3a-ed895e063222,Target: CD68,Target: CD68,Other,329.93,655.38
+1a89a40c-d62b-4187-9e91-750a55548be2,PathCellObject,,Other,465.17,657.33
+3696d812-6279-490b-a3bb-360269305138,PathCellObject,,Other,490.71,655.86
+745cffbb-60cc-49af-afc9-0917aa60d79a,PathCellObject,,Other,44.84,659.47
+73da1227-9768-4b08-8811-dbaf0eb5e0c4,PathCellObject,,Other,567.98,660.17
+a3765602-97c9-40a8-bff1-3dd26337fa33,PathCellObject,,Other,114.78,659.17
+1350592d-3c1b-4f55-b00f-58923dfd7238,PathCellObject,,Other,303.94,656.2
+5ec6533a-43b1-43e0-8334-fc2f52186610,PathCellObject,,Other,477.48,660.49
+82b4119f-c622-47f4-ab8f-d1f1e311405e,PathCellObject,,Other,790.14,659.18
+2dd7d31d-ca9e-4cc7-b931-08f15420bf91,PathCellObject,,Other,320.21,662.52
+5a27aa48-9aa3-413f-b62a-39756b3fa2d9,PathCellObject,,Other,504.66,659.62
+46ff8697-4e7c-45d1-bab0-4a81d5b784eb,Target: CD8,Target: CD8,Other,216.03,661.12
+8690a61f-5627-4875-a85f-b3519be83236,PathCellObject,,Other,137.86,663.2
+6dcc946f-47d5-447d-aa03-7c9ad306f508,PathCellObject,,Other,265.48,662.51
+6a3522cf-a25b-41f9-af97-93bd209debbb,PathCellObject,,Other,227.6,661.48
+7da18cfb-c97a-4338-a500-e89caf0eba6d,PathCellObject,,Other,178.69,661.49
+506ce5db-ad74-4314-8b22-4f6f522bed0a,PathCellObject,,Other,536.07,664.18
+55883117-72d1-4da5-b036-2d50fc4f5af3,PathCellObject,,Other,53.58,666.63
+fdd5463c-84ce-4ef9-a2df-2b668fa4cd09,Target: CD8,Target: CD8,Other,247.56,666.74
+47914d1b-508a-4665-b695-48a1b5446784,PathCellObject,,Other,670.39,666.22
+d6466d5b-ba65-4828-ba43-d9bec220bc19,PathCellObject,,Other,609.6,666.79
+c719b77c-82ad-4e4b-a2c7-7be9e6a858e4,PathCellObject,,Other,600.45,664.91
+98649d81-9228-4fdc-bd33-31a4ead4f1d1,PathCellObject,,Other,235.31,670.58
+55d10296-94b4-4d17-8c34-e6c808d9d949,PathCellObject,,Other,303.58,665.68
+af7a263d-41af-444a-88b8-f54422ad7831,PathCellObject,,Other,702.98,668.62
+faef1e1a-69ad-4021-bffc-6ff3b7ce6433,Target: CD8,Target: CD8,Other,775.27,667.42
+d01b56cf-97d0-42cc-8a7a-9e95f37be3ba,PathCellObject,,Other,492.47,668.59
+198506fc-1d64-47ce-bf98-0610c26c6956,PathCellObject,,Other,556.34,665.86
+84b11be8-a6f6-4017-a667-af35bb2a2aad,PathCellObject,,Other,153.64,666.99
+9cfb2112-3ecc-4262-8665-101d936e5a7a,PathCellObject,,Other,163.78,667.17
+d29778da-b421-40ab-a7f4-28d2bb5ea4ef,Target: CD68,Target: CD68,Other,764.83,668.14
+8523bc4d-3659-4b93-a751-660ed8e92d99,Target: CD8,Target: CD8,Other,199.75,669
+c961b0ca-083a-4a12-a886-0fe236bb3cbb,PathCellObject,,Other,184.33,671.8
+0bdedf2a-f0bc-404a-9b1f-883cb85596e3,Target: CD3: CD8,Target: CD3: CD8,Other,422.79,668.79
+4fda5e44-c318-43cb-be52-2439c343bb22,Target: CD68,Target: CD68,Other,209.94,673.37
+27f7d776-c8e3-4831-ae50-b47fd858e48b,PathCellObject,,Other,565.92,671.42
+a63cb7e5-b1a5-4d5a-a364-eece09b3cffc,PathCellObject,,Other,748.05,672.5
+c61816b0-c07d-46f1-b67c-22456906c282,PathCellObject,,Other,326.63,673.05
+842e0a49-663e-416b-aacd-f2855397e468,PathCellObject,,Other,176.53,675.85
+ccb4b018-02c6-4d27-a90c-eaf201585300,PathCellObject,,Other,262.52,675.94
+1281d6b1-0b3b-47e6-8533-62c258963de4,PathCellObject,,Other,169.69,673.23
+8a175494-e657-4a08-910a-4151003d8836,PathCellObject,,Other,579.62,672.26
+013dfc7f-1168-4404-9e00-45c4a5269992,PathCellObject,,Other,309.68,674.14
+19802af5-8a6b-426e-b5a2-41dd2a530c6a,PathCellObject,,Other,557.93,676.44
+f3203f23-b183-40d3-a5b0-0c12566984f9,PathCellObject,,Other,689.64,674.2
+014fe6ad-a402-4b8d-8c8b-9d048e4acd27,PathCellObject,,Other,194.42,676.02
+26ec7c4d-1d9e-43e7-96f6-1b043cf1229f,PathCellObject,,Other,428.78,677.54
+5b4b96e0-d063-4ef5-8c2c-5b890fc64fc3,PathCellObject,,Other,591.71,675.4
+5209b8d0-c7fc-4d66-a0ca-7bf21ad898a0,PathCellObject,,Other,220.02,677.62
+770c4589-6499-465f-b4e4-33c96e323467,PathCellObject,,Other,528.7,676.59
+8f9e2cc7-4eed-4001-84c1-12d63026b2dc,PathCellObject,,Other,792.5,674.72
+b679a67c-7619-43c1-b528-3af2fb9e52ed,PathCellObject,,Other,154.15,678.05
+2869567e-d5f6-44cc-a097-3f6dabd8cdeb,PathCellObject,,Other,500.02,677.19
+1cb0471b-ef85-4d9c-a128-90174db76b1a,PathCellObject,,Other,437.88,683.2
+90260487-ec04-4998-927d-f90660d0c79c,PathCellObject,,Other,164.26,681.59
+5c2f1e0b-0c34-4a5c-8562-54a2ca55519a,PathCellObject,,Other,81.46,684.54
+569afbe0-aea0-4089-ac35-009e834d40a5,PathCellObject,,Other,782.39,679.64
+bf8f1627-97de-45b6-8af1-4a3e2ad0a496,PathCellObject,,Other,120.46,679.11
+c8884b82-0b5d-4ef2-8418-bb804d7492e2,PathCellObject,,Other,241.44,684.06
+445422f4-32e0-4fee-a333-f6e4435baea1,Target: CD3,Target: CD3,Other,504.87,685.04
+96babdcf-7b53-4df4-9ef9-97a4cb70f49a,PathCellObject,,Other,57.17,684.03
+e5472b12-4042-4bdc-b39d-eca8ee02beaf,PathCellObject,,Other,113.76,684.64
+e2725096-4300-4ed2-957a-4cf6a1eddde2,PathCellObject,,Other,301.85,683.54
+04260d4f-91eb-4cc1-af89-75a34e2105cf,PathCellObject,,Other,395.86,683.37
+639d1028-20a1-485b-bec8-ca1bc463c5f4,Target: CD3,Target: CD3,Other,573.85,684.49
+7e61f69b-c011-4e46-8939-d9a9f32eee7c,PathCellObject,,Other,793.95,686.85
+b02ecbc4-eda2-4135-b212-8448c4d09b59,PathCellObject,,Other,685.36,685.69
+3c637ef1-c447-4a55-b1fa-dc7e9ac5dea3,PathCellObject,,Other,170.96,687.57
+d86d0515-2452-498b-9097-45c9f24a4922,PathCellObject,,Other,318.53,685.71
+9977cdc6-21ca-4a7f-9b7b-cc797e637111,PathCellObject,,Other,340.74,685.53
+9598f743-7df0-47a1-b804-82913c85954a,PathCellObject,,Other,544.61,683.93
+6caf92f3-1052-4f4f-9653-ce81869c6d5a,PathCellObject,,Other,144.81,686.18
+22c3c424-c2ff-42fc-8b23-d3e13c678560,PathCellObject,,Other,126.84,688.87
+52fdab77-2b1e-481d-8957-5cff7f9f2ae9,PathCellObject,,Other,762.41,686.66
+398eccf8-2b94-4233-b717-04440e9b7c0d,PathCellObject,,Other,771.21,686.12
+63b6822e-ee1c-431f-94c9-f5fad5929143,PathCellObject,,Other,155.57,687.67
+e4e3aef7-36b0-4fc8-a680-90e4cde51ebb,Target: CD3,Target: CD3,Other,782.06,688.9
+638ee671-d0ce-48f1-8b12-ec79703e68ae,PathCellObject,,Other,308.11,690.78
+23d7e943-2454-49a6-a5f8-5f8f06b256b6,PathCellObject,,Other,446.25,693.22
+3e6143a2-1ae6-44c2-a2ac-b7f722e7fe6d,PathCellObject,,Other,544.08,691.36
+fb4a1330-236e-47c4-943d-c7df5bbad2ee,PathCellObject,,Other,335.37,693.62
+190f7566-0daf-4fee-bd6f-9c9005ce9ca4,PathCellObject,,Other,484.98,692.77
+e0d525a7-4803-41cb-858e-4fe159ea811c,PathCellObject,,Other,260.43,692.48
+1844ef8f-6898-48a1-9bec-13209865af50,Target: CD8,Target: CD8,Other,405.3,694.74
+800f9b09-7af7-4419-90af-d2378d72a616,PathCellObject,,Other,507.21,695.1
+5789089a-4154-46f2-9da8-3b1616c12a2c,PathCellObject,,Other,95.62,693.8
+a36bba64-6b50-49d7-a7d1-ff056c14c4d4,PathCellObject,,Other,156.36,694.66
+d3e49b13-85b7-4e7e-b92f-a8cd5d0685b6,PathCellObject,,Other,517.26,692.06
+26198245-dfa1-4cea-a68c-7833ca442545,PathCellObject,,Other,537.97,696.89
+1a65af56-d4fc-48f2-94a2-90edd252cea8,Target: CD3: CD8,Target: CD3: CD8,Other,414.43,694.88
+c3e11279-428d-459a-8eff-3d7b38e1029b,Target: CD68,Target: CD68,Other,118.12,697.96
+0bfb3471-3125-4a42-92f7-37d41fd71d9f,PathCellObject,,Other,214.82,697.6
+dee2db35-e367-4a63-9914-900f80e92a90,PathCellObject,,Other,385.13,696.85
+acb35630-6d50-4666-ba93-360995a53f52,Target: CD20,Target: CD20,Other,775.44,697.21
+d6378cfd-a53f-41fb-859e-589761913185,PathCellObject,,Other,90.01,698.52
+c0f93146-795f-48fb-954c-0d7f0a349562,PathCellObject,,Other,550.37,698.86
+30120e77-8178-4ddc-8130-4dfc1c6c7bfe,PathCellObject,,Other,670.08,696.89
+81a764f1-cded-4db8-a083-554bb6e8489a,PathCellObject,,Other,359.95,697
+48f1e31d-3b91-4e4c-9faf-94f6fa90f443,PathCellObject,,Other,326.28,699.11
+ff570cf5-e2fd-4861-9273-63316ba1481c,PathCellObject,,Other,442.75,702.18
+4658841d-ea0e-4419-a319-98b7d21204b7,PathCellObject,,Other,253.34,701.01
+70f0694f-4e87-4fd7-9e46-65c5992f9b5a,PathCellObject,,Other,525.57,700.35
+c68ba7f4-8c6e-41ca-88c0-7f87b8a3535c,PathCellObject,,Other,138.62,702.61
+c0d73407-fe7a-4720-ae98-027c1c7216c7,PathCellObject,,Other,398.86,701.82
+d4208249-9a66-4a5f-9b36-ea95e4330ed1,PathCellObject,,Other,597.38,699.76
+6d47d8a3-c757-4444-a3e0-b68592b168ab,PathCellObject,,Other,154.18,702.14
+2b3b6b6e-2462-47e9-a3de-7f5a94127a10,PathCellObject,,Other,516.94,705.76
+7d2793c6-b53e-4b96-a889-6a89714436cb,PathCellObject,,Other,230.57,701.57
+2080b072-da17-4d32-a84e-4110c5fb632b,PathCellObject,,Other,579.82,701.88
+9b11f075-8d80-46ec-ae29-9fff91c7aa6e,PathCellObject,,Other,354.51,702.71
+ffe6f09f-45fe-487b-96d4-51b8db95ebd3,PathCellObject,,Other,296.47,703.42
+86cf731b-bb9e-4c77-905f-a84255ad9f72,Target: CD68,Target: CD68,Other,645.22,703.76
+85abeb8f-4e98-45e3-8bd2-9bee37df815d,PathCellObject,,Other,270.4,702.67
+94087dbc-d994-45d9-8c11-4363acd2d1dc,PathCellObject,,Other,87.95,706.65
+0d9f4c3e-beb0-43ad-b293-c70580d30814,Target: CD3,Target: CD3,Other,420.77,705.39
+bce00696-b9aa-4e8a-af69-f06030d61fc3,PathCellObject,,Other,435.21,708.04
+c5f812d2-514b-4522-bf4a-d130aa867387,PathCellObject,,Other,558.85,705.97
+4c0eb7b5-f6d5-416b-b163-d356e5fc0a15,PathCellObject,,Other,625.32,707.42
+7096087f-01a3-4700-a641-53b2644fff29,PathCellObject,,Other,676.8,707.57
+44785d44-55ee-4793-8970-39fc33021f1a,PathCellObject,,Other,731.76,707.5
+1a459992-a472-4d21-9280-1b1d792f6f7c,PathCellObject,,Other,486.02,707.23
+e1bf8df8-e8c7-432d-a911-ca4756e14c2c,PathCellObject,,Other,508.59,708.86
+16548257-e3ad-4f84-9468-d374dc1b1d48,Target: CD20: CD3,Target: CD20: CD3,Other,788.12,707.89
+f93ba8c2-a13b-4967-ae5d-b4d00b503f0b,PathCellObject,,Other,276.31,708.4
+42be15c2-16ed-4f86-a2b1-bf54ef726221,PathCellObject,,Other,288.95,708.14
+e397ee6b-58bc-4347-8024-3fe7630844fe,PathCellObject,,Other,75.82,708.31
+873aa2ce-6d55-4db9-827c-efadf96dcd3c,PathCellObject,,Other,586.43,711
+6fa42d13-e215-42cb-9c73-efd51d75efe9,PathCellObject,,Other,158.12,709.06
+9fd02648-4dbc-48b7-aefe-6dd7fe9c6ebf,PathCellObject,,Other,384.79,710.76
+f366bce7-f69a-4c7d-9a3b-8bf4b9084d74,PathCellObject,,Other,224.35,709.23
+5b5c6611-841f-4061-af98-a63a9ea663af,PathCellObject,,Other,193.06,711.83
+2a75665e-9270-49fc-9a7b-6755be410f25,PathCellObject,,Other,206.97,709.57
+3a11855e-6660-413e-b9b4-674bf5df0e78,PathCellObject,,Other,665.59,711.95
+9ec9f2fb-a046-49a5-89b2-0577d776e32e,PathCellObject,,Other,371.6,714.38
+c4cc5076-9630-458f-ab94-1626b7608b41,PathCellObject,,Other,771.2,711
+abe8c776-9d51-4cc6-b6db-7cb633c80791,PathCellObject,,Other,355.22,712.76
+02d6e04c-ece4-4449-877b-35567f9525f4,PathCellObject,,Other,654.37,711.94
+974ac65a-dca0-4451-b8cf-69326e2544b4,PathCellObject,,Other,114.64,713.98
+84528252-dff6-40f4-af88-fa5a226d2a39,PathCellObject,,Other,282.19,713.77
+3bcd1f45-4974-4ce0-af12-92a0313362ed,PathCellObject,,Other,494.79,716.44
+2899ff87-45f8-4fb1-bf05-916cba19fab0,PathCellObject,,Other,517.84,716.03
+3733fab3-4ea6-4ba4-86f9-465270090e3c,PathCellObject,,Other,556.24,715.99
+80a56623-7838-45e6-9e66-5d0bda0ce1c3,PathCellObject,,Other,70.96,717.63
+a49018d2-e908-43f2-aa2b-5f789a01b838,Target: CD8,Target: CD8,Other,86.28,716.95
+64f7dcb8-a691-498f-9342-75d9e9103b66,PathCellObject,,Other,760.87,714.47
+7abff885-c3b7-40ec-b5dc-f9c2830cc0e2,PathCellObject,,Other,101.1,715.75
+ab26d89f-9f90-4ec7-addc-0b216359164c,PathCellObject,,Other,154.6,717.54
+c5305830-69de-4d70-ae2b-71a67ce2b63b,PathCellObject,,Other,270.99,717.2
+34526e5e-ca41-4abf-94bb-5566a5c5a568,PathCellObject,,Other,647.42,716.97
+6ce58608-89d7-4c57-8c47-602dd3761e01,PathCellObject,,Other,224.09,717.08
+dfe285f4-c41d-4bc6-9924-dd1db815c1fe,Target: CD8,Target: CD8,Other,715.75,718.43
+da7836e4-d78a-45fa-8e6c-c5ce9c52536d,PathCellObject,,Other,248.92,718.09
+3c1ff57a-c1ae-4c94-bda3-053d22c94afd,PathCellObject,,Other,383.11,721.05
+5795c757-3fee-4fca-b968-21b2296d3d97,PathCellObject,,Other,298.53,721.13
+db81ca66-8eb0-4e23-8c68-3a2399cb0cb0,PathCellObject,,Other,310.67,719.94
+21c57f2d-e900-4bf8-9f59-8e88c9b0aaf8,PathCellObject,,Other,571.55,720.08
+6c028d57-a0f4-4fd8-8afd-f3fe5402f6b0,Target: CD8,Target: CD8,Other,258.27,722.27
+145248a2-26b5-4543-a0b0-46d5410dde63,PathCellObject,,Other,287.44,722.72
+2edc648f-99e0-40a0-9b18-58fec2475a5d,PathCellObject,,Other,239.34,719.92
+8cb0b571-6463-455c-af32-041709e1aaab,PathCellObject,,Other,218.78,723.91
+a8f3fcfd-9ea3-4d48-a60c-048083672cc6,PathCellObject,,Other,533.4,722.01
+1ba44312-1f60-4307-b13a-a595dec63987,PathCellObject,,Other,546.24,721.89
+776d92c3-8329-4350-9ae7-6e5205a29b70,PathCellObject,,Other,206.15,723.16
+fad9bb40-647b-4f03-a661-c3ab2dfcbe82,PathCellObject,,Other,765.86,725.43
+2f4ec528-44f8-41e9-861d-40f357cd374e,PathCellObject,,Other,781.53,723.39
+1a89e8f5-0f56-4eaa-b77b-d34bd51da3e2,PathCellObject,,Other,116.65,726.3
+112dbfd1-0a1d-41b5-963c-57a20119cc2b,PathCellObject,,Other,772.91,724.79
+b881bb5a-cbb1-4ad9-b234-e158b6dfdf8a,PathCellObject,,Other,360.75,725.12
+6aa3179f-1f48-4171-9bdd-784a7cde3176,PathCellObject,,Other,600.92,726.37
+1c3be33e-9027-4472-b3fd-32f9a7bead46,Target: CD3: CD8,Target: CD3: CD8,Other,232.27,725.38
+12f4ada6-a957-48c5-9a7a-354fe7c50df6,PathCellObject,,Other,272.49,728.34
+2c247b2d-e27e-4c7f-9eba-d1b715fa921d,Target: CD68,Target: CD68,Other,750.15,725.44
+8e86a3be-d116-4d12-9ce5-d3e6dbf34d2e,PathCellObject,,Other,697.94,726.96
+031b0057-32db-496d-ab4a-f3862ffe1d20,PathCellObject,,Other,670.1,728.82
+24a98113-b899-4c86-913b-ba1f302b103e,PathCellObject,,Other,91.52,729.45
+212b229e-0902-4224-ba4e-391e13f21e72,PathCellObject,,Other,639.98,728.52
+8cb43ccf-a85a-45bb-81ee-b49507b316dd,Target: CD68: CD8,Target: CD68: CD8,Other,741.35,730.04
+6eb00b5d-3cb2-48c4-8a23-34f2557691d2,PathCellObject,,Other,554.57,730.19
+1eb44eac-46d9-4eda-bfb9-f366e3858f7c,PathCellObject,,Other,245.01,731.29
+45fb31c4-b6eb-4e45-adc1-4e268305403c,Target: CD8,Target: CD8,Other,376.61,730.77
+acc2cd65-9050-4aa5-a5a6-c2b18d76ae63,PathCellObject,,Other,300.21,732.78
+04c965c3-9908-4a2b-af1c-41404f330368,PathCellObject,,Other,778.72,733.28
+2bec11f2-906e-45e9-97ef-d3067a5633fa,PathCellObject,,Other,267.99,735.23
+af6d92a0-7098-4216-b126-5374e63d9dc0,PathCellObject,,Other,453.31,733.44
+b2bb0658-14e9-444c-b668-ad1571c7b37b,PathCellObject,,Other,121.85,735.26
+1a5f138a-391f-4703-b95d-743cc97bab55,PathCellObject,,Other,655.68,734.25
+e7e1bf1b-1c5e-41a0-acef-f9b4852411ff,PathCellObject,,Other,259.15,737.21
+fe2b5132-4401-4f01-9703-5fa4d894eddb,PathCellObject,,Other,354.68,736.36
+3054762c-bda5-41e9-abeb-99be643c9cf8,PathCellObject,,Other,109.48,736.58
+471485f1-c2ca-424b-b9f7-2721038661f4,PathCellObject,,Other,199.59,735.61
+5a74fd3d-8403-4784-ba80-160d2841e721,PathCellObject,,Other,155.39,736.54
+bfa77680-0401-4b06-98b2-5e319e2290b6,PathCellObject,,Other,545.29,736.92
+25d412e9-3302-47f9-858d-1cf3cfa48429,PathCellObject,,Other,617.72,739.02
+5793ae7f-3f2b-4bef-8125-3a7711edced3,PathCellObject,,Other,641.26,739.01
+9fac54ea-4951-4db7-b700-848040aeb2d6,PathCellObject,,Other,715.9,737.09
+70bd6425-5ac2-4588-a11d-927165d64a80,PathCellObject,,Other,415.37,738.78
+a4f07f17-ea7d-4a11-808f-0908b466fcab,PathCellObject,,Other,407.2,742.85
+1fec6013-eb52-4f62-9ff0-e24130dcdb4c,PathCellObject,,Other,553.33,741.87
+63e7213b-8716-48c2-9b9c-30a24be4b737,PathCellObject,,Other,673.43,739.69
+ee54840c-759b-4805-bf12-bf3081c988e0,PathCellObject,,Other,706.65,742.69
+33e67b14-a910-47cb-a704-0b448d369b9b,Target: CD8,Target: CD8,Other,750.78,740.83
+1fa82b1d-a954-4fb8-9f84-42ceb975fe42,PathCellObject,,Other,245.18,743.31
+1cd598cf-2fe8-49e5-b0f2-dcc47f259c93,PathCellObject,,Other,332.92,745
+c8b75fdc-0e93-4698-a0ec-75cedba81bda,Target: CD8,Target: CD8,Other,381.01,742.76
+c9c49541-4d29-41dc-b96b-a1997e60c54e,PathCellObject,,Other,459.73,743.62
+133b7f8f-2237-4fcd-a048-ae56b2c42211,PathCellObject,,Other,681.44,746.49
+da38b79f-66ce-4b28-89f9-077740384889,PathCellObject,,Other,181.47,744.01
+e29d8676-c7ce-43b2-8ed7-4040d28706b7,PathCellObject,,Other,197.92,745.44
+6680cb7a-8c60-4e86-a4d3-3ae0594d3bbc,PathCellObject,,Other,173.72,746.17
+9fc5c416-f85c-4563-b407-0af6634d1315,PathCellObject,,Other,234.43,745.82
+9ff51ffe-30f9-421a-b9f8-1c715ed72b25,PathCellObject,,Other,756.34,746.18
+14ff5927-93b1-4c66-be52-e325006565a8,PathCellObject,,Other,89.13,745.23
+ffe8a661-f210-45ca-9c4f-66ed33893dc3,PathCellObject,,Other,115.76,745.47
+0b534e10-108b-4df5-8ac6-211b94df102f,PathCellObject,,Other,190.4,748.69
+729e992c-949c-4d63-a3e2-e10fb61b3f68,PathCellObject,,Other,593.81,744.79
+40ed656e-2094-4968-8f14-0a4b0f73148f,PathCellObject,,Other,80.61,747.42
+1edcf5af-05db-4f19-a1e6-59b6206d148a,PathCellObject,,Other,166.08,745.87
+81cdb935-b068-484b-a573-08eea255837a,PathCellObject,,Other,768.99,748.44
+2899aabb-9d85-41ff-b26e-033f709964bc,PathCellObject,,Other,790.41,747.14
+71a46829-d7f3-40ce-829e-7c1b6bc5f924,PathCellObject,,Other,259.41,749.56
+47b2cfb7-20d9-498a-ad59-0538f616327d,PathCellObject,,Other,533.41,749.79
+02e98df3-f08f-41e1-a7ea-c918c24c9b7d,PathCellObject,,Other,157.12,749.69
+2636a732-d340-4071-9654-8f6b9590d0d5,PathCellObject,,Other,655.62,747.28
+5c309004-075e-44e0-b296-19c074b78e94,PathCellObject,,Other,639.17,749.44
+78aa6bd7-4f7b-4c95-95b1-06f8dd049052,PathCellObject,,Other,269.72,750.77
+57e3c8b2-36ce-49b6-9982-a304f218fd25,PathCellObject,,Other,278.39,746.78
+916e6a7e-ed37-4c0a-bfe6-d910aace4438,PathCellObject,,Other,122.65,750.74
+fee6f4b9-c61f-4222-8932-6bb0178fcca7,PathCellObject,,Other,606.81,749.95
+78b7b673-0b02-4b85-98b1-fff3d7458280,PathCellObject,,Other,514.71,750.67
+bee22c9d-0340-4607-91c7-1f7a241b3a6f,PathCellObject,,Other,586.13,752.63
+040f034a-27b9-4a1a-b111-fd9a33f9bc2b,PathCellObject,,Other,282.29,757.11
+5876780b-cfc2-4a7a-9fe5-76cb91043c2a,PathCellObject,,Other,565.54,752.58
+5e1689de-82f2-4367-87f0-e83bfd26d3a3,PathCellObject,,Other,296.76,755.89
+385e5bed-955c-48d9-a168-ae7076fcd701,PathCellObject,,Other,338.5,756.64
+4c739ff0-361a-43de-9adc-b3be32b24181,PathCellObject,,Other,108.08,755.3
+f7c04b1c-81e2-4cd9-8514-ef22355db76d,PathCellObject,,Other,648.09,755.58
+e8a567c9-c73e-4fde-b10c-981a930ef4e1,PathCellObject,,Other,410.61,754.77
+545a087b-2acf-46a6-bf66-f8cf16cf3e57,PathCellObject,,Other,667.46,758.44
+579f7ec6-a93a-4bba-bed4-02ed9658cf53,PathCellObject,,Other,221.47,755.7
+935a6866-a105-4fa5-8ad7-767bc84f6b9e,PathCellObject,,Other,767.37,759.42
+085df009-26cd-401d-90a3-e6be767c675e,Target: CD8,Target: CD8,Other,95.33,756.35
+317ae8c1-3d13-4cc4-831e-12114d40e1ca,PathCellObject,,Other,462.64,758.79
+3fdd8e67-9782-48a2-a18c-4343b43f5da9,PathCellObject,,Other,511.49,760.64
+4eb1a6c9-187d-42e0-8702-86e1065f3347,PathCellObject,,Other,521.18,756.37
+c17ced51-bb02-4de2-ad79-4e01e56dba95,PathCellObject,,Other,599.03,757.78
+7d250434-eeaa-413d-aa5a-e8c639ebec72,PathCellObject,,Other,232.18,759.02
+8cb32765-7ddb-4a0d-8e59-c9aff24994ac,PathCellObject,,Other,581.01,761.47
+9dd4dc54-00d2-47b9-8e7e-8071ae726cee,PathCellObject,,Other,655.77,759.11
+f1f9a914-02b3-48d9-8707-fdfdff19bd85,Target: CD8,Target: CD8,Other,200.34,759.85
+210ca496-b23f-402b-9675-63ea3c75058a,PathCellObject,,Other,566.67,764.68
+36e7a1ee-09c4-44d5-9ff6-6996f97e69ec,PathCellObject,,Other,89.93,763.83
+a920cdc5-d111-431a-92a4-74fff699e0fd,PathCellObject,,Other,526.53,761.74
+7ca4cf08-435f-4928-8c1e-ff9c15356472,PathCellObject,,Other,424.8,760.67
+718bba41-ec93-4585-9b72-eb4c7e3490ed,PathCellObject,,Other,411.21,763.89
+b2377bcf-e98b-459c-9bcd-9727e7a7c507,PathCellObject,,Other,610.73,765.84
+c3586c33-197c-429e-a38c-d957a2fe14b6,PathCellObject,,Other,357.21,764.49
+b6b49798-b857-47a2-bf3c-dc404b90de14,PathCellObject,,Other,649.17,768.27
+49f209b6-565b-4235-88b5-354b4fc9a3ef,PathCellObject,,Other,225.89,766.88
+1ff43eaa-c143-4bdd-b41b-a2e2141a0a87,PathCellObject,,Other,419.32,769.26
+5075015e-f17f-4b7f-bbe8-2cb5d6d934e4,PathCellObject,,Other,171.92,766.35
+be6f2ba9-a855-4e56-9858-10e69285c29e,PathCellObject,,Other,196,767.72
+9c9ef5d8-1a4d-4965-b563-697ddc881667,PathCellObject,,Other,249.58,769.01
+badaf990-d58d-424f-b009-92454ec4c673,PathCellObject,,Other,708.39,771.08
+18ea8da9-9fe7-4d13-936f-bdf148280fc7,PathCellObject,,Other,515.77,774.48
+3cf72ff9-519a-4420-b2ec-9827e9469e48,Target: CD8,Target: CD8,Other,348.15,774.39
+795b82cb-9288-404b-884d-f1f04670740d,PathCellObject,,Other,527.61,777.21
+4c3e1474-0a66-4c22-9c52-700c610321ef,PathCellObject,,Other,358.56,778.37
+22c64a15-d472-4b06-9dcf-beeb1e6168f6,PathCellObject,,Other,290.01,778.49
+6a190691-371e-49c7-9144-41696a679ab2,PathCellObject,,Other,602.61,781.07
+733ddda7-9948-4de0-a00f-305efda3d04d,PathCellObject,,Other,458.6,780.52
+d17ed748-9ac3-4b21-b5bc-8c4a1059873a,PathCellObject,,Other,641.39,781.51
+a547f791-8f5b-4dab-8ada-6987bd89469f,PathCellObject,,Other,332.54,780.8
+68a7ad2c-b181-4ec3-935c-edbd28dd4571,PathCellObject,,Other,473.45,782.7
+599a867a-79d2-4440-8c9a-6a56327eee60,PathCellObject,,Other,221.37,783.64
+7f355044-56bd-452a-a42e-4e60220dc4b9,PathCellObject,,Other,372.24,785.64
+77cbdeb7-4642-4e06-9539-dbe2da9340f8,PathCellObject,,Other,281.39,787.15
+2161d2a7-6427-45b8-9688-0b2437fdab29,PathCellObject,,Other,160.73,786.88
+5b5636e4-9a8b-482f-95ad-7f656638e2f3,PathCellObject,,Other,416.57,786.36
+5eb55f01-7359-455c-bb25-673410e0089a,PathCellObject,,Other,591.28,789.34
+fb2627eb-0c9a-4b71-9bbc-33be7902b521,PathCellObject,,Other,721.39,787.2
+aa5a92cd-6d79-4e00-b069-aa42caee5f3a,PathCellObject,,Other,435.45,787.14
+eb9be6cb-1308-409e-ae9b-d54ea877aca7,PathCellObject,,Other,314.47,788.58
+4e2fb11d-e8f3-42a9-93ad-67b41de625ea,Target: CD3: CD8,Target: CD3: CD8,Other,336.48,792.38
+0bd53f1e-25c7-44e3-9d27-f7301ba2284b,PathCellObject,,Other,231.85,787.66
+c9df3a8b-1761-4bb2-aa92-af74a947f6a3,PathCellObject,,Other,326.3,793.42
+6652a52d-98a0-432c-b5c6-a19745bbc5b4,PathCellObject,,Other,633.12,790.66
+c5160191-7690-4b50-ba93-129e3b3f4561,PathCellObject,,Other,480.25,792.03
+f956db9a-8bd6-4a4d-a198-2ebb9d754269,PathCellObject,,Other,398.62,791.67
+ba25b754-b9a5-43a7-afb3-7a6a159dc8b6,PathCellObject,,Other,427.92,794.6
+6725afc8-9c0a-4ac6-9629-43e6fa5e2fbe,PathCellObject,,Other,302,793.38
+31121ad2-7c89-4ed1-a32a-c77277c89503,PathCellObject,,Other,246.98,794.18
+271bcb64-7c4e-4599-ba6e-bc6c71431f18,PathCellObject,,Other,560.85,794.63
+a882de3a-07e0-4988-b74f-babe868fc05f,PathCellObject,,Other,159,796.28
+c0c59355-a623-40a0-9341-83e30aceada8,PathCellObject,,Other,230.85,796.04
+b46c5c2f-9aed-4eb9-b943-eaf6b8316992,PathCellObject,,Other,311.11,796.88
+c1f5820d-0c4e-4d85-93e3-dbacb9c43ab5,PathCellObject,,Other,545.19,795.6
+421bb9b3-497b-4c77-9bfd-55fbf66f5af1,PathCellObject,,Tumor,347.46,9.221
+4d421591-2e3a-4930-a055-6e9ce8955742,PathCellObject,,Tumor,399.03,9.767
+b69e067b-b4bd-4504-8bdd-aec02beeaa14,PathCellObject,,Tumor,421.26,12.55
+0bca204c-5567-4339-b59b-3994d9075d90,PathCellObject,,Tumor,384.97,14.76
+9dfe2739-e07b-4fc8-adb1-ff679de0daa6,PathCellObject,,Tumor,302.9,20.53
+f04df736-dfe4-4309-aceb-b666a5f3247f,PathCellObject,,Tumor,313.44,19.01
+4adf476f-be02-42c6-b79b-3cbe2165e9d2,PathCellObject,,Tumor,404.92,22.94
+1e7874aa-6d92-4c31-aae5-e31f10f30588,PathCellObject,,Tumor,357.67,23.45
+e8adb307-696c-426e-a4c9-4010175e1335,PathCellObject,,Tumor,381.86,25.01
+37e9807f-3381-48a3-99e7-75c9bbfad492,PathCellObject,,Tumor,391.43,22.46
+02ff254e-90be-4d22-a9e8-5b75c7b81d17,Target: CD3,Target: CD3,Tumor,366.72,23.52
+55f31287-5208-4c06-94c5-bdbdce037d75,PathCellObject,,Tumor,493.68,25.96
+6b403920-9147-4703-8e1b-580809b021a6,PathCellObject,,Tumor,426.21,25.49
+960f8c7e-d9f2-4107-921b-52d9637c59be,PathCellObject,,Tumor,295.24,31.52
+0c46d4bc-7336-4275-91cf-c01951b0cf10,PathCellObject,,Tumor,506.33,31.87
+5634ccb2-1a20-46e9-8440-2936a9009a52,PathCellObject,,Tumor,422.58,31.21
+5919e6e0-372c-4a6a-b794-cc088a502ea8,PathCellObject,,Tumor,352.76,32.43
+598c820e-6483-456a-b6b9-6e4cfed659cc,PathCellObject,,Tumor,391.03,31.2
+1221d92f-9392-4f2c-89c8-f350a755ede8,PathCellObject,,Tumor,375.75,36.97
+96607495-e92c-437b-9242-c2abf7c26b00,PathCellObject,,Tumor,417.9,37.84
+0574181e-1831-4ad6-b98e-50977ed45b4f,PathCellObject,,Tumor,488.72,38.59
+1b532bdf-3abd-4666-a492-7f842936e574,PathCellObject,,Tumor,397.4,37.59
+b3dd1546-e72e-49d4-b64f-cb56e5a82ea3,PathCellObject,,Tumor,365.03,39.49
+e476bf73-9690-45c7-9a17-c189cac9efb1,PathCellObject,,Tumor,385.24,42.58
+793e2d73-f510-46a9-9a3f-e9fef24790cb,PathCellObject,,Tumor,352.94,43.45
+2c59e58f-939f-4c20-a3d9-1a5d4447d4ce,PathCellObject,,Tumor,235.04,45.61
+4a2f6b7f-b5d4-45da-9e9a-79e9ec092fd9,PathCellObject,,Tumor,245.21,44.88
+6f7a0b72-1f03-48fc-87e7-efe533f049cd,PathCellObject,,Tumor,479.81,48.52
+eefd37f1-602e-47b4-a2f5-06d8d2f4b51e,PathCellObject,,Tumor,410.73,49.1
+a1a4f1b4-a1d4-49e0-afa6-e32b6017f748,PathCellObject,,Tumor,362.09,49.63
+bcff3133-7e39-4cd4-9131-cb7be448e1e3,PathCellObject,,Tumor,371.63,50.28
+b324f21f-dcc0-4a67-a449-ee48c51b4bcc,PathCellObject,,Tumor,244.62,54.35
+7169e513-0a31-4d6a-8dab-4bd1ec2a4abd,PathCellObject,,Tumor,364.82,55.48
+7ac74c05-e9d0-45bf-9aae-8cbdb595f272,PathCellObject,,Tumor,395.42,55.67
+d3c5f328-838d-4d88-a451-096870c46413,PathCellObject,,Tumor,378.15,55.89
+b56a9878-6a9e-4865-a4a8-dd31367a4aed,PathCellObject,,Tumor,404.34,65.19
+edb2b2f0-4090-41d3-8a70-c4eb2b546506,PathCellObject,,Tumor,377.04,67.07
+ee4a4ec9-2efd-4d69-a9dd-e208aaa2a77b,PathCellObject,,Tumor,387.76,67.44
+04dfdac9-b6e9-4d3d-8884-fd957ce421b1,PathCellObject,,Tumor,416.26,67.46
+6806ad82-5e6c-4559-8181-b171faef0329,PathCellObject,,Tumor,408.96,73.32
+84c0f4a2-e6a3-4725-ad28-4a8e98b942e2,PathCellObject,,Tumor,420.06,83.03
+cac10da8-d86f-49a1-a0f5-67aece803e6b,PathCellObject,,Tumor,544.87,88.77
+ce5185a5-8c52-497f-86de-3a1e78cdaac8,PathCellObject,,Tumor,471.77,87.78
+0f129e41-4961-4dd7-8d22-dd67830a3478,PathCellObject,,Tumor,443.87,84.88
+dd270388-e7cd-4721-8188-3d57d04acfb0,PathCellObject,,Tumor,457.89,88.86
+2629a495-1d79-4773-a31d-34b3a25a6adc,PathCellObject,,Tumor,433.87,90.12
+aad659e7-231e-4da3-ad32-5c682b795760,PathCellObject,,Tumor,447.03,93.69
+5868594c-984a-43c7-8d4f-45f8c4c81090,PathCellObject,,Tumor,486.13,93.38
+0a5c86f4-2f4c-4b12-980a-e56e81b28b2b,PathCellObject,,Tumor,532.07,97.69
+c7646006-da73-47e1-a3fb-8488f7a7a901,PathCellObject,,Tumor,422.07,94.54
+961fcfd0-629b-4535-82b0-a7cb6ed889e9,PathCellObject,,Tumor,386.32,99.46
+1703a61e-d9c3-4ff8-b9aa-9d0872f04e03,PathCellObject,,Tumor,463.8,100.98
+82a89426-2f60-4920-8367-6e9e43d0443e,Target: CD3: CD8,Target: CD3: CD8,Tumor,376.27,104.51
+5351d0ab-dd8b-4bdf-8864-15b5f02590b8,Target: CD8,Target: CD8,Tumor,366.98,107.73
+6ce14da4-1d9d-49ea-98d6-f54bdf10d2ae,Target: CD8,Target: CD8,Tumor,382.64,113.66
+01a24c5c-5cc6-4d6e-a9eb-5a9c1de2c514,PathCellObject,,Tumor,395.85,116.18
+61d21380-65da-4b9d-aad7-c3f9bbd31770,PathCellObject,,Tumor,374.08,118.85
+d1eba2fa-9084-44ed-b9c5-0fce201c5eb1,PathCellObject,,Tumor,411.17,116.72
+8095876b-46e9-493a-bb7e-fee887666c01,PathCellObject,,Tumor,541.89,118.83
+4777da6c-a255-4c1c-ad0b-3d62a8e37f73,PathCellObject,,Tumor,577,117.19
+53935b49-4784-415c-8a49-6008e8e2a53c,PathCellObject,,Tumor,364.84,121.65
+48f81e94-8132-4bf1-9e34-79db19e252fc,PathCellObject,,Tumor,487.52,120.53
+075355b9-12bb-4506-9eac-5056d386de81,PathCellObject,,Tumor,380.84,128.67
+3e23aff6-26f7-44db-9db4-a37b43bde808,PathCellObject,,Tumor,148.1,125.08
+5ec1ca70-de7f-432b-b6f7-7ba9e43bb78a,PathCellObject,,Tumor,457.72,126.76
+5065b078-7aab-4f79-995e-86e0b5c64ef0,PathCellObject,,Tumor,405.68,125.64
+6bd0f79c-c109-4008-a3ec-bbbac5e0fe09,PathCellObject,,Tumor,556.51,127.25
+f739812f-06d5-4769-845d-73f8d9437fa1,PathCellObject,,Tumor,186.13,126.76
+eb5c3227-9ab9-4566-ade4-41cb91834d1e,PathCellObject,,Tumor,478.69,128.01
+4781fa14-a5b1-434c-870f-fb6ef2688a70,PathCellObject,,Tumor,534.28,130.91
+fbf10c5d-b831-4f8d-bf1c-740b0245b3f5,PathCellObject,,Tumor,488.46,130.66
+e781bc0d-7d77-4c99-bc4a-7c608fc6307a,PathCellObject,,Tumor,396.85,132.08
+a9e017f9-db30-41bb-8ed0-1ac53e04df9c,PathCellObject,,Tumor,415.07,133.88
+028525b6-2742-4ce2-8f7c-a1975dbb752b,PathCellObject,,Tumor,544.58,134.27
+8334d6d3-c04b-4715-ba6f-8131c8e2d9a2,PathCellObject,,Tumor,504.92,133.57
+e467dc3d-20dc-4bb9-9291-2b9f7406126d,PathCellObject,,Tumor,579.42,135.69
+ae3f79ba-51d2-4038-b5a5-9e7f41fbb150,PathCellObject,,Tumor,474.07,136.43
+2235255b-8974-42fa-9f2f-64240bf1528c,PathCellObject,,Tumor,181.82,137.24
+3dbce50e-8138-4ccb-b2c2-8d7f993e9f20,PathCellObject,,Tumor,368.98,135.39
+c8943190-480f-44f0-9392-44482fe3bcb0,PathCellObject,,Tumor,144.58,137.79
+2150d0a1-44c3-4155-a166-a9aef76a8441,PathCellObject,,Tumor,464.25,137.12
+1ce80741-197a-4ce9-af9e-d5b3e73d01a1,PathCellObject,,Tumor,485.31,138.59
+7e0d63fd-0685-4c8c-90d0-8ebf6a5a9c31,PathCellObject,,Tumor,232.27,136.28
+0dcb1210-a4a0-412a-853f-d28334ece008,PathCellObject,,Tumor,428.89,138.34
+efb19948-d800-49ce-a64a-0241e8abcb45,PathCellObject,,Tumor,385.8,141.59
+51edbc13-37c9-41ef-b979-f64f61da3257,PathCellObject,,Tumor,404.56,140.45
+eecb2934-699d-4f6f-948d-64869a3b8260,PathCellObject,,Tumor,374.56,142.41
+0bde7ea9-6b6d-4ef3-8cf3-11e0289e7b5d,PathCellObject,,Tumor,555.88,142.93
+4115f659-adac-4254-aaa9-dad51d55d731,PathCellObject,,Tumor,258.78,140.52
+28010dd1-34ea-40e8-94da-98b5d418a29b,PathCellObject,,Tumor,517.91,141.36
+0edfc29c-c014-4d74-a54e-de036508bfcb,PathCellObject,,Tumor,232.05,146.14
+3154ef19-2f48-4011-97fa-cb1afc6d7a4a,PathCellObject,,Tumor,502.45,144.18
+c5b12f15-9ac9-4af3-80dd-fe8b67574c07,PathCellObject,,Tumor,392.27,146.95
+42f1e104-6b13-4f27-9a49-1ae9b79c7f73,PathCellObject,,Tumor,421.05,147.06
+28ba6a6d-2b34-4774-9b6e-d37cdb65e407,PathCellObject,,Tumor,167.07,147.01
+2e04962a-248e-401e-b033-d1200e169664,PathCellObject,,Tumor,477.71,149.47
+efa4d991-1f3c-4dfb-aa9a-78d3b80bcfa8,PathCellObject,,Tumor,467.81,149.92
+8bd823e8-2c3d-437f-837a-0d1ff0d199a9,PathCellObject,,Tumor,510.23,149.85
+73587801-e9a3-4d70-a3e7-053575a37d84,PathCellObject,,Tumor,401.1,150.97
+07950815-c8f7-4a5e-9b86-2758cc805277,PathCellObject,,Tumor,259.24,150.43
+a9b13d18-a901-4243-b7f3-886dce2f5c95,PathCellObject,,Tumor,432.84,151.66
+7c011857-7012-4d9c-a528-980a635fc9b0,PathCellObject,,Tumor,267.1,154.89
+64d8b4f9-72f1-4128-8664-9456e73e63de,PathCellObject,,Tumor,504.36,160.15
+45a7be57-1462-4713-a558-dbb855d03999,PathCellObject,,Tumor,250.31,157.1
+72a0be47-6172-495f-9a61-3e180026a5ee,PathCellObject,,Tumor,441.51,158.53
+16d7570e-43e4-48b8-bda3-b2f684ac0f2a,PathCellObject,,Tumor,224.47,158.71
+4a92ea77-f237-4730-aa4e-29ed08c0d878,PathCellObject,,Tumor,448.85,161.29
+edf0d271-ecae-414e-97a1-f53f2d0767a3,PathCellObject,,Tumor,262.33,165.01
+e24987cb-a15a-4add-99a0-60830614b254,PathCellObject,,Tumor,238.92,162.69
+33d0807f-bdb6-49dd-94b8-73f716f2d1f1,PathCellObject,,Tumor,433.81,163.94
+5e3eaab3-84cc-428d-b223-3af7a6233bec,PathCellObject,,Tumor,580.07,166.07
+cb6302e0-7fc2-4c98-bb9a-ab07e0e05721,PathCellObject,,Tumor,375.82,163.87
+8cf87b6f-1570-4019-bf03-05ff240dd8d0,PathCellObject,,Tumor,364.08,167.78
+9988cebd-1d9c-451e-b4d8-014a1d7738b2,PathCellObject,,Tumor,516.7,167.64
+42786962-23b9-49c5-9ab2-bbfd889dd552,PathCellObject,,Tumor,227.13,171.35
+5a2522e3-9c6c-4369-be79-723e4ef6a9f1,PathCellObject,,Tumor,253.37,169.45
+2381716a-d764-4c53-8b1e-fa0d861388f1,PathCellObject,,Tumor,384.96,168.37
+95050521-3b95-4d93-9887-68308c303db5,PathCellObject,,Tumor,120.48,169.47
+7edf20da-ba3a-4650-a6b6-1c93edaf11ff,PathCellObject,,Tumor,373.76,172.21
+21e18895-718d-4d63-be07-497793a800a1,PathCellObject,,Tumor,106.69,171.33
+6b7bc615-51ed-454d-9e7a-0383c34a5935,PathCellObject,,Tumor,243.02,176.71
+f5e439fe-de31-4608-813e-c6bb26c2c5f9,PathCellObject,,Tumor,610.02,172.91
+be7fe9db-8055-4a3e-99ac-8b91f7d3b177,PathCellObject,,Tumor,235.84,176.88
+c254178a-d4c2-4e3c-acb2-fcd692cee775,PathCellObject,,Tumor,250.68,179.9
+aaeb657d-9a1c-4112-b977-998c719b2cf9,PathCellObject,,Tumor,260.94,179.92
+15e69d64-8f03-4fde-b792-74b46430390c,PathCellObject,,Tumor,383.21,179.49
+91db0192-cff5-454c-8104-92c86dd3461e,PathCellObject,,Tumor,369.29,178.68
+097fdb3a-b2af-44d8-b0d2-4eda049fbd9c,PathCellObject,,Tumor,527.61,180.43
+6286b464-e6f2-4673-9208-7c694fdf2488,PathCellObject,,Tumor,357.37,180.25
+f628236a-2f69-4f1b-bd01-c4766382a786,PathCellObject,,Tumor,397.94,179.8
+01a4d974-59df-41e3-9d90-860171b01ac4,Target: CD8,Target: CD8,Tumor,611.78,185.77
+2dd512f2-c25a-47b3-a586-e0bf4a038f1c,PathCellObject,,Tumor,368.38,189.1
+00e08ca3-22db-4502-8dd3-be23d57de20f,PathCellObject,,Tumor,622.14,185.68
+f82309d5-e1d2-4ee4-9557-a6026628cfd3,PathCellObject,,Tumor,383,190.27
+60b52f70-776b-4729-9d4f-4a1d8beca541,PathCellObject,,Tumor,397.56,190.97
+46dd27f2-5c39-4388-ac35-f3d39fcbd7df,PathCellObject,,Tumor,486.96,195.6
+01526f84-8c18-49f3-8afd-8ef6a7f02a86,Target: CD68,Target: CD68,Tumor,391.68,200.86
+b63ad4c8-a249-4001-a79c-c123c0b75d0a,PathCellObject,,Tumor,499.45,196.71
+2a1bbb29-c189-4bb4-b065-234c1d06c868,PathCellObject,,Tumor,275.08,198.66
+734ffb13-9048-4f81-aa2f-6b19689807c5,PathCellObject,,Tumor,382.84,200.05
+ca679df4-0803-4e6a-b1b5-8a76cbda879a,PathCellObject,,Tumor,603.2,198.67
+1b5ea581-a8dd-463c-9498-ffaa70dd22b7,PathCellObject,,Tumor,106.27,201.04
+fd439dbe-0bcc-43fa-b829-5fc649a17086,PathCellObject,,Tumor,84.2,200.87
+b71a40ff-7491-4feb-8e9a-ab5758b39782,PathCellObject,,Tumor,619.42,204.56
+a1ef7c03-201f-4020-be76-2d130c0cc4db,PathCellObject,,Tumor,77.86,205.31
+17f45076-d598-4be3-8e5c-8f71ffb44b70,PathCellObject,,Tumor,441.4,205.04
+b547fcd1-6490-4cc0-b9cb-f7b2cd3fc277,PathCellObject,,Tumor,600.93,206.87
+024f3d73-3af6-47c0-ac01-e4e269ea45d7,PathCellObject,,Tumor,46.66,208.67
+b1433f9d-4a74-423d-951a-f693bb505d5b,PathCellObject,,Tumor,182.34,211.1
+b4fa445b-ed9b-49d2-a678-9e1ffb248e4d,PathCellObject,,Tumor,475.9,209.41
+b0ab2a86-668c-4659-9113-fd0c52e5c9f1,PathCellObject,,Tumor,609.38,210.6
+abb85f7b-4546-4ee4-a2e3-0edb5d4d907e,PathCellObject,,Tumor,75.21,214.42
+4bae1263-ba53-4cec-a3db-f7678b32fa42,PathCellObject,,Tumor,598.09,214.79
+cf2c4b4b-b595-4708-bffc-53f0f6eef7c3,PathCellObject,,Tumor,481.83,217.93
+669854cb-efec-459d-8adb-38c701fa8f3a,PathCellObject,,Tumor,58.62,217.29
+30d453e9-7b27-44fa-9df6-17d42f6cb794,PathCellObject,,Tumor,609.95,219.55
+c4190992-371b-4800-9e9c-c42be468c3e8,PathCellObject,,Tumor,96.9,219.57
+06749559-4877-455b-b26d-cf059dbaca3a,PathCellObject,,Tumor,185.22,224.37
+d4a21d8f-e892-40b6-b8b5-5433c1739b3e,PathCellObject,,Tumor,618.92,222.93
+b8587684-8eb7-4144-80a9-58aa0c910dab,PathCellObject,,Tumor,175.65,227.68
+cfacc8d1-846f-4550-8d36-e1f2fe9f28d6,PathCellObject,,Tumor,623.6,233.72
+f492dbe5-a38a-4dae-a28a-c9ceba427f17,PathCellObject,,Tumor,776.33,236.09
+47f4d6f4-e8bb-424e-82ed-1f90f1c08c83,PathCellObject,,Tumor,784.15,242.77
+7b153c79-fcf8-42ae-89f0-1d5d6bed05e6,PathCellObject,,Tumor,70.1,247.97
+5ea0544f-04e1-43bc-8a87-49726eaba670,PathCellObject,,Tumor,784.76,252.44
+2a59736f-e5b2-432d-bed5-7466f81243cd,PathCellObject,,Tumor,766.53,261.59
+f8ffd78a-1ac6-4327-a9c0-f5209705a6fe,PathCellObject,,Tumor,747.97,262.23
+e4623b9d-5a6c-4206-ab10-fded14958b72,PathCellObject,,Tumor,738.87,266.79
+e1131db0-9c73-46cf-a411-daef44b0417c,PathCellObject,,Tumor,761.7,271.71
+282740c9-6df8-4783-ab37-3cbf0ca87d80,PathCellObject,,Tumor,747.01,275.29
+c01ea834-b53c-47b2-9e42-52e86d49917e,PathCellObject,,Tumor,728.83,273.25
+3113dea3-eeee-40e9-9f5a-69345115f09b,PathCellObject,,Tumor,635.68,275.49
+da91d059-2170-4408-b229-fc1693dbf024,PathCellObject,,Tumor,62.65,275.88
+de6c6ae9-d916-46d8-9da5-e6d0e0081e98,PathCellObject,,Tumor,256.08,275.77
+5ff858b0-8b41-45ae-a5e4-c3c07ff10c5c,PathCellObject,,Tumor,715.64,277.83
+6386aa95-1b53-47a1-b6e0-0f7753269584,PathCellObject,,Tumor,612.84,276.38
+4c08a2a8-1d69-41b1-83a5-80e16890c0b0,PathCellObject,,Tumor,242.27,281.01
+700d3652-6062-4188-b7dd-ca2ddf07d291,PathCellObject,,Tumor,605.94,282.47
+d6d83dc8-91ae-44d9-a8db-c2d0b81d7da3,PathCellObject,,Tumor,206.82,285.29
+b6c77f09-14ea-4be2-b697-57f359cb0c8a,PathCellObject,,Tumor,248.85,288.54
+1de1a275-7ac5-465c-9f6a-a243182c7413,PathCellObject,,Tumor,725.38,296.52
+5346a8ca-8c52-43d5-a856-daf9c68aa7a1,PathCellObject,,Tumor,233.56,294.91
+135b6896-fc10-4427-9061-88ef54ecedca,PathCellObject,,Tumor,737.43,303.7
+86e61608-463f-4eee-b818-c4c69dd85771,PathCellObject,,Tumor,712.66,304.42
+e0d8ea0d-21f4-4573-ad17-2b7294d4bd33,PathCellObject,,Tumor,23.47,307.32
+00d64149-28fb-487d-96d6-f85e23254cca,PathCellObject,,Tumor,716.5,313.99
+9f647faa-1a52-46a5-9765-c4333fd21d2d,PathCellObject,,Tumor,750.58,316
+b650c1a9-7bc0-41b2-aae7-e04a31c5d4fb,PathCellObject,,Tumor,15.15,321.53
+d2d42b25-9f10-4239-9272-d162e84d132d,PathCellObject,,Tumor,30.09,321.8
+a6821ec4-b791-431b-a384-0cdd0adfb74b,PathCellObject,,Tumor,761.74,321.97
+1527e7eb-6a23-487d-99ab-04f842598f96,PathCellObject,,Tumor,673.67,324.61
+25c27a69-ca0c-4388-be8b-f3b4426c8b7c,PathCellObject,,Tumor,686.9,323.34
+dc96c4b3-fadc-45d1-bc2e-9872236f044e,PathCellObject,,Tumor,768.45,326.82
+b2ca8ff6-1c98-457f-8b8c-8903afff7a70,PathCellObject,,Tumor,748.47,328.62
+ee8e7a65-379d-4608-9782-be116c506003,PathCellObject,,Tumor,784.55,326.44
+a88ca0e8-9564-451f-98c5-1ba191117dd1,Target: CD3,Target: CD3,Tumor,762.48,334.55
+7e4d53fb-d173-47ec-8e2a-8c13e6b6bb1f,PathCellObject,,Tumor,666.95,337.1
+5a8b70f5-3419-45fc-9460-637a93974611,PathCellObject,,Tumor,685.13,335.43
+339ed40a-93a3-45ba-a9e1-67e6d9295728,PathCellObject,,Tumor,784.19,336.81
+7e9656b5-03b3-48c0-9e6f-dd79ac292061,PathCellObject,,Tumor,752.24,336.58
+fb38b6a3-a026-420c-8e16-62ec99804ee4,PathCellObject,,Tumor,773.64,337.34
+4100a624-e024-48df-8cf9-d6df508a7771,PathCellObject,,Tumor,715.07,350.16
+5e6195c4-e1c5-45bc-aa8a-4981b46bc58c,PathCellObject,,Tumor,769.93,354.71
+484f45da-3981-4ef9-a3ee-e9b5948c907c,PathCellObject,,Tumor,757.97,356.33
+e4dce7a6-4a94-4029-8b96-5e93c5ab072f,PathCellObject,,Tumor,780.01,363.86
+6a7219eb-5c8a-4ce5-a1f4-da4f75afa0ba,PathCellObject,,Tumor,707.06,361.45
+459bae57-b36e-41be-b587-d79dc828a05a,PathCellObject,,Tumor,752.89,363.91
+ae5b13c1-665b-4308-b676-4c975d209f31,PathCellObject,,Tumor,723.25,361.08
+9207a10e-2ba8-4532-9cc8-4f0897f6c1fc,PathCellObject,,Tumor,741.76,364.47
+c6b0a015-cc5c-446a-b793-a16dc766e6ba,PathCellObject,,Tumor,696.19,369.34
+6b6e6aa4-ba0f-488f-a4c4-9285378447ed,PathCellObject,,Tumor,721.77,368.99
+26e2ba90-aa2e-4398-a0de-7e2e4e89064e,PathCellObject,,Tumor,745.99,374.03
+bd902e53-67e4-4f37-beed-f17b132447f9,PathCellObject,,Tumor,707.59,374.38
+ad7ea659-32e7-431d-b9fd-05e3df23f7b2,PathCellObject,,Tumor,725.11,375.41
+43bdf840-2d15-4af9-b031-39e9d71be73e,PathCellObject,,Tumor,782.3,380.39
+ab9f477d-bf3a-46ba-b7c4-5a8fc2995959,PathCellObject,,Tumor,694.24,381.77
+b404f685-3f3b-4b7f-8d9f-b426460f47ca,PathCellObject,,Tumor,730.21,382.2
+fae12df0-e32b-4932-a01f-3671f78365fb,PathCellObject,,Tumor,702.43,383.81
+3a9d53c7-081b-446a-a4b2-1b5450c7c98e,PathCellObject,,Tumor,765.16,385.81
+edc32922-1e44-43ad-a6ea-a8e85bdfb0ae,PathCellObject,,Tumor,717.26,386.3
+2eab3f9a-4e80-4850-a6a0-e71d0b275141,PathCellObject,,Tumor,752.72,381.46
+ac6432a7-84b8-4746-aa2a-d343b422a7ab,PathCellObject,,Tumor,742.89,387.55
+334b0a4d-8fe1-471f-b76a-4ce3403f6b68,PathCellObject,,Tumor,753.29,392.78
+f4a11d7a-af98-4bd9-89c2-59c72b6016d1,PathCellObject,,Tumor,655.63,388.24
+34604258-1f92-45c9-9026-996fcb82f46e,PathCellObject,,Tumor,631.6,389.74
+a8a6dd40-d01f-4ca0-be8b-9fbdaab8bad8,PathCellObject,,Tumor,615.67,391.82
+3ffcdecd-f319-4d75-9a18-164dbd1f9df4,PathCellObject,,Tumor,643.65,389.29
+998a99fc-5812-419a-89a2-137851f23357,PathCellObject,,Tumor,661.08,396.93
+88c06a53-541e-4e95-aca8-4982deaff401,PathCellObject,,Tumor,649.27,397.83
+6946cac5-3bee-45fa-b97b-9208bc3321aa,PathCellObject,,Tumor,636.37,398.03
+6e41ab57-212b-4799-b4c3-6967affdc95c,PathCellObject,,Tumor,628.97,402.82
+2b55294c-4cc3-477c-a49d-6ee9ea8e6f5e,PathCellObject,,Tumor,666.35,402.51
+a3f9f0ea-3073-4ff8-a2a7-231139056ddd,PathCellObject,,Tumor,641.21,405.29
+a9a784a1-71f5-405d-85e0-4250e72e0bf8,PathCellObject,,Tumor,660.38,409.2
+0707a8e2-cd54-4811-8f72-eaff488392d6,PathCellObject,,Tumor,670.91,412.74
+3bfefe86-59f8-4d18-be98-597cbcc9672b,PathCellObject,,Tumor,631.75,415.92
+03cb61fb-0f46-4630-8a48-f52e2ef5d868,PathCellObject,,Tumor,614.57,419.69
+16fbb08d-5536-436c-804b-3bf07ee9ff56,PathCellObject,,Tumor,645.6,421.06
+b9cc3901-f0cf-4200-a39a-5cb2a2bb240c,PathCellObject,,Tumor,434.09,423.79
+be71c366-26dc-40cd-a253-7d056904fd03,PathCellObject,,Tumor,653.53,423.15
+f38e2af7-a70c-4c62-b596-802510de5b1f,PathCellObject,,Tumor,663.7,424.24
+bd218a46-8d59-4597-9f05-46d9ea7b9bbc,PathCellObject,,Tumor,450.04,430.13
+9fb67f2b-bf53-41cf-ba4b-58a4508b405f,PathCellObject,,Tumor,711.35,429.48
+bd4c1bf5-717c-4923-a8db-0f9949ec0cb6,Target: CD8,Target: CD8,Tumor,658.18,432.5
+f7eed800-bcee-4611-8e3d-c274b87b4ad7,PathCellObject,,Tumor,234.24,435.34
+b8b46a44-8c7f-44b5-9cbb-42981eaf784f,Target: CD68,Target: CD68,Tumor,372.31,435.16
+a9cd9b98-8710-4661-87bc-c43124678c70,PathCellObject,,Tumor,384.25,435.07
+6c8c6080-f35b-490e-89d0-c9ea143f7201,PathCellObject,,Tumor,215.99,436.33
+80e6b879-0cae-4e59-a9a3-d4f2b6f6cfd4,PathCellObject,,Tumor,249.88,439.52
+c4b83441-f4f7-46f1-b84a-6257a6c1a5b5,PathCellObject,,Tumor,392.98,437.66
+d2e80c99-d822-49d5-9374-a3ef4a858744,PathCellObject,,Tumor,455.57,441.27
+99aecb83-ddc7-44c8-bb81-8d371cd21312,PathCellObject,,Tumor,722.59,443.11
+ca8255cd-6e90-48f8-b0af-7777b6bcb37a,PathCellObject,,Tumor,697.38,441.46
+f62dbe89-c4a4-4532-a253-e386eb6d8d13,PathCellObject,,Tumor,709.97,440.5
+4cab14e2-767d-4629-9528-cef6ba35d30f,PathCellObject,,Tumor,401.85,447.24
+e04cb4b6-687a-4f6d-9c64-5192723b56a2,PathCellObject,,Tumor,264.05,445.03
+2d4d8647-4d2b-43e8-abf7-a4d386f113d9,PathCellObject,,Tumor,706.77,449.28
+557723af-65c3-433e-85ca-114d0cdc665c,PathCellObject,,Tumor,687.6,447.66
+2e11e59e-341d-4561-af93-335aa5cb554c,PathCellObject,,Tumor,382.11,449.9
+54be3e22-5f79-4ce6-a925-f9e10ad506c1,PathCellObject,,Tumor,697.61,451.25
+d22fa7e4-d249-472f-af58-2599abda786a,PathCellObject,,Tumor,726.58,454.33
+25b4b884-247b-4681-a696-f561d843a0c6,PathCellObject,,Tumor,760.93,452.13
+3509e67b-d580-458b-a28b-68867c0ba6b5,PathCellObject,,Tumor,236.66,451.86
+38c5ca6c-77c8-4d67-9ec1-8b25f3e16766,PathCellObject,,Tumor,682.32,458.86
+32ae8dfb-5fd3-4b21-8f98-de9b7546c313,PathCellObject,,Tumor,714.93,456.3
+155fdb01-a435-43e5-912b-f2846c7946b7,PathCellObject,,Tumor,741.77,455.38
+0ec89770-1be7-489a-bb7b-5be11993cc66,PathCellObject,,Tumor,405.93,456.75
+37f292e1-406a-4986-8d30-74c46dbef1cb,PathCellObject,,Tumor,452.31,459.76
+096f4213-b9bc-4bdb-bb7e-c539fe1e85f9,PathCellObject,,Tumor,702.28,459.27
+6c3da994-0c66-4f85-a4a8-82a9ec79394a,Target: CD68,Target: CD68,Tumor,244.17,460.84
+046a1024-c897-4f84-bea2-465671c13978,PathCellObject,,Tumor,382.87,457.56
+3f4e8aad-5cca-4d12-ab8d-0be62e7fd91b,PathCellObject,,Tumor,230.94,458.74
+764e71f7-80d0-45e4-ac15-cd5fa3d0bd47,PathCellObject,,Tumor,391.56,458.7
+8ab80b1e-ca37-4cb0-99fd-ef0577701c43,PathCellObject,,Tumor,751.64,461.77
+f9ac63ac-9c6b-4a79-a76d-4827bd703302,PathCellObject,,Tumor,190.22,463.09
+08bd543e-4c99-42b1-bec8-cd4ad594cc6a,PathCellObject,,Tumor,732.92,464.33
+c5a476bc-d0d6-4dfe-aeab-270874e104a8,PathCellObject,,Tumor,761.71,463.59
+3e835a63-d588-4952-a9bc-4bb09869ca25,PathCellObject,,Tumor,167.37,465.69
+f6149329-21bd-464a-9b76-9df2544b5d65,PathCellObject,,Tumor,220.32,465.17
+00af71ea-2bd5-4cd2-87df-96828a37af24,PathCellObject,,Tumor,401.65,465.06
+7bfb6343-7f1d-4de1-a73a-619b349b7814,PathCellObject,,Tumor,722.28,466.09
+e3d18e7b-ad4e-4642-88d5-8a8e4ba497fe,PathCellObject,,Tumor,389.03,468.51
+4da49460-c320-4b9a-9f53-3f267e3d00f6,PathCellObject,,Tumor,428.82,468.18
+517d272b-1221-495e-a269-469d9c88ff8a,PathCellObject,,Tumor,692.73,468.04
+a0594243-3326-49ce-8724-f7dc3af63981,PathCellObject,,Tumor,410.69,469.05
+36eb7f6f-0747-42b6-bdbb-8179563a3601,PathCellObject,,Tumor,442.37,469.43
+364e5ee4-3b65-484a-a43b-ec4f2153b451,PathCellObject,,Tumor,245.71,471.21
+67e690d9-2c93-43a3-bb77-a60605509f75,PathCellObject,,Tumor,747.2,471.79
+9946b558-2f9a-4833-82a2-3d430284d407,PathCellObject,,Tumor,235.5,471.67
+b10ea901-fb3d-4983-b8d7-e1f0b95f42d7,PathCellObject,,Tumor,186.46,472.37
+b714efb5-a94b-4ae8-a232-f51e49ab2d08,PathCellObject,,Tumor,452.22,475.73
+86788d99-fc28-4ccc-9eec-df2747a2b5eb,PathCellObject,,Tumor,173.16,477.05
+2720f9f7-e4c2-4a58-ab1e-5088eec46044,PathCellObject,,Tumor,758.44,474.22
+5719a325-ccc7-4ad7-8caf-4657794cf149,PathCellObject,,Tumor,220.57,477.04
+b8d7395e-76b2-4a22-89bb-802306503fad,PathCellObject,,Tumor,245.41,478.4
+e62114ed-6db8-4c69-829e-0ad0d561038d,PathCellObject,,Tumor,150.46,478.72
+b9f4d419-55f6-4748-af15-91525541a2a7,PathCellObject,,Tumor,194.9,476.76
+d3bc6457-8fed-42ac-8ac4-d5ab946d1f05,Target: CD3,Target: CD3,Tumor,132.89,479.01
+641faf88-26b0-4765-be65-30736d7504d0,PathCellObject,,Tumor,183.11,479.83
+dd228d5e-7d4b-467d-a1d3-ca6a3c380e64,PathCellObject,,Tumor,237.13,483.1
+106747fb-f960-422e-9bb7-cc6c37c2db16,PathCellObject,,Tumor,436.41,478.82
+1a266660-4092-4685-9e28-78854ebef3d5,PathCellObject,,Tumor,446.1,485.25
+774a8fbd-edff-47f1-8241-49c7783ee9b7,PathCellObject,,Tumor,200.13,483.06
+4c0b8c9a-e22b-442e-a5ad-15065ef1e9c3,PathCellObject,,Tumor,430.35,481.35
+d2160476-3058-454b-a42d-c59b4fafc72d,PathCellObject,,Tumor,754.54,482.95
+197e0077-659b-4daf-8342-2d2214745e4c,PathCellObject,,Tumor,422.84,484.33
+482f077f-aef8-42a3-9115-3fd8687dc3be,PathCellObject,,Tumor,190.05,485.07
+7a657896-a6d7-4bea-8ff1-284742bcdf5f,PathCellObject,,Tumor,433.01,488.27
+8f7df1b5-977d-4be9-9a0b-5595b8b6c557,PathCellObject,,Tumor,727.02,486.87
+daaa8837-48c3-4070-8869-d88be5160512,PathCellObject,,Tumor,183.17,487.56
+70ab8412-308a-47ef-8ddc-de814aae7c7c,PathCellObject,,Tumor,743.73,491.44
+578e9688-2c09-4e1a-a7e5-f84915fababd,PathCellObject,,Tumor,173.16,492.97
+d3e0cf49-65c4-4200-a003-72bd772f6c33,PathCellObject,,Tumor,412.61,490.73
+ca567736-a235-48c2-82da-1324dc9ccd3a,PathCellObject,,Tumor,191,495.06
+60ef2a9d-ad88-4474-8ee3-bfc316c38e4b,PathCellObject,,Tumor,207.53,498.94
+c9ed0b3b-b2bd-4a57-a5ab-8cc0792b6fc6,PathCellObject,,Tumor,439.01,496.15
+3e9cfe6a-eab2-4455-be05-1753803dc6c4,PathCellObject,,Tumor,760.65,492.44
+31c8c875-ad88-4260-9f40-b6fbd963d2be,PathCellObject,,Tumor,774.76,496.18
+8d49e9fd-e0b6-44a4-aca9-e6fa0c1add87,PathCellObject,,Tumor,419.37,498.72
+78c94d9d-84c2-4430-a9cb-9ce5bbe568ae,PathCellObject,,Tumor,732.67,500.06
+68b00955-1b62-4991-9698-1b7dc6141770,PathCellObject,,Tumor,759.36,504.04
+5c9abb2f-cb6d-4691-a623-807773fae6f0,PathCellObject,,Tumor,781.73,503.48
+776e7c73-b0d4-43f5-ae89-49fe5a85f614,PathCellObject,,Tumor,774.34,508.13
+c1cd04ce-f63d-4c66-bed3-279630bee2f5,PathCellObject,,Tumor,228.05,509.68
+20650212-a495-4cf9-ab15-eb9f02f0a7e2,PathCellObject,,Tumor,380.48,510.79
+5af4bc88-0c5b-452f-a413-85be3616ca8b,PathCellObject,,Tumor,744.78,512.34
+3269a39b-8be2-44fb-be72-704115f14b61,PathCellObject,,Tumor,218.64,511.47
+757de009-65d7-4ed3-a1ee-dc6a9b9f4bdc,PathCellObject,,Tumor,585.09,514.64
+e9ccb52c-31fb-4dd1-ab32-76b34ae5baad,PathCellObject,,Tumor,774.25,515.75
+1a136a8c-3520-44d9-8f6f-4194202c3a16,PathCellObject,,Tumor,195.62,516.59
+45a1c7a4-a1de-4e81-94e0-b2ed071537d3,PathCellObject,,Tumor,209.56,516.14
+74e11dab-c468-48bf-88f2-c21276da8ec0,PathCellObject,,Tumor,224.3,519.08
+b74fe550-3887-4cca-a55d-809983da3e12,PathCellObject,,Tumor,577.57,522.97
+375f1f13-9d4b-4365-b809-d4d35c9de74a,PathCellObject,,Tumor,757.27,518.91
+90143311-439d-4c20-b363-1302cc5cc9c8,PathCellObject,,Tumor,770.44,525.66
+9cd8a12d-6e99-49e2-bc98-edbc1f99d989,PathCellObject,,Tumor,399.1,523.36
+1cb5e803-cf74-4e17-8452-873d8dcf6bea,PathCellObject,,Tumor,215.66,525.1
+ea71d44c-bad9-4375-beff-bc36f390adb0,PathCellObject,,Tumor,382.75,522.78
+765eddf3-e8c4-4481-9475-7020f66e3b5f,PathCellObject,,Tumor,545.45,525.41
+0673547f-85bc-42c7-b3a0-66445ea30173,PathCellObject,,Tumor,533.08,524.98
+a98d4868-403f-4cf1-9fc0-433ad7272b30,PathCellObject,,Tumor,205.07,524.47
+5d7a5a5f-fcfe-4c50-8f82-bf40248945aa,PathCellObject,,Tumor,224.91,529.85
+cdc7e5fc-b77a-4fb6-886b-3b4bd3fd5052,PathCellObject,,Tumor,588.09,532.98
+79a4c40e-c6f6-4871-bd10-44b0fc5609e4,PathCellObject,,Tumor,197.85,532.74
+22c7c862-5e6f-426c-80fb-5a95673f8fe2,PathCellObject,,Tumor,209.39,534.88
+1ce57eed-9739-441f-a36b-35a1ac722e70,PathCellObject,,Tumor,381.42,534.51
+a87d30c5-a9ed-4cad-a435-178a690dbd1b,PathCellObject,,Tumor,400.56,536.2
+a0018392-2820-4e40-8ae3-d342ac95645c,PathCellObject,,Tumor,390.98,539.4
+405939c5-50b0-4faa-8967-7aa77adb41cc,PathCellObject,,Tumor,217.89,539.81
+360d0c9c-08f2-44a0-a38e-480c4b5a2fff,PathCellObject,,Tumor,159.3,541.68
+505f5a0c-5fcf-43f8-8475-e11b219e9454,PathCellObject,,Tumor,359.32,543.51
+5bf50605-c6df-40bf-b1b0-68ffc98a0b25,PathCellObject,,Tumor,371.7,549.67
+d22be159-d410-4949-a2e4-d17ff6c2a741,PathCellObject,,Tumor,192.76,547.26
+206918c5-8d8d-4d2d-b947-69df0e00fa51,PathCellObject,,Tumor,480.44,546.74
+c85e85a9-0b5f-4df3-ae99-49ed1239119f,PathCellObject,,Tumor,182.04,549.09
+6d993bef-0c17-4df3-bbc7-7d712fb0b385,PathCellObject,,Tumor,384.84,549.65
+8adba898-2744-4574-bd7c-b521730ea3a4,PathCellObject,,Tumor,583.77,552.11
+81a38480-66a9-4859-ac40-6a67f5383440,PathCellObject,,Tumor,603.56,552.09
+86e0c723-467d-48e8-8442-aa94c6d9ccb3,PathCellObject,,Tumor,178.6,556.15
+55ec8602-a073-45e1-915d-aca191e425e1,PathCellObject,,Tumor,573.74,555.43
+0240e0bc-0d8a-4cf4-b5fa-03b0884a6c62,PathCellObject,,Tumor,615.73,556.13
+9e84b7d9-9af2-48b1-9b4b-1fc4f7ad8e38,PathCellObject,,Tumor,153.13,557.62
+7d6ec4ff-702b-4cbe-a82b-428c184066ef,PathCellObject,,Tumor,169.49,556.76
+8e281641-8c88-4869-9d64-9ba6d1256e1c,PathCellObject,,Tumor,161.15,557.64
+90b9c2c3-a793-4cc8-a622-196a0f719952,PathCellObject,,Tumor,626.48,557.68
+be915ca6-fb2e-4251-9f6e-be0c39f371aa,PathCellObject,,Tumor,599.06,561.1
+022a7a18-3d3f-44ca-a452-c390de121518,PathCellObject,,Tumor,130.81,565.91
+54550a8b-fd62-4a0d-bd36-d001d9e5c3fb,PathCellObject,,Tumor,122.14,563.25
+e28e0f3d-0886-45f1-b7c5-2ab3bd7039b2,PathCellObject,,Tumor,161.08,566.96
+566a8b0d-0f7d-471b-ad45-9e8e53639ced,PathCellObject,,Tumor,573.85,565.51
+07d0f7fb-c393-466d-b783-9e3043fbaf73,PathCellObject,,Tumor,580.91,566.26
+52942ee2-a9c5-4d5b-afe8-1f4d594f1e06,PathCellObject,,Tumor,588.42,567.3
+accb2954-ec3d-43fe-82ac-a49a38f4a7c3,PathCellObject,,Tumor,144.63,568.48
+97e7cc8e-d5b8-4de1-a080-7dcfa956d613,PathCellObject,,Tumor,629.4,567.03
+4164e0a8-a7b6-40ab-8b09-aaef27e850a1,PathCellObject,,Tumor,645.06,567.91
+391c76d8-b607-4b2e-85fc-5eb72a4c8bb5,PathCellObject,,Tumor,594.6,571.45
+9a144deb-fe0b-4f6a-a861-246ce2574dd2,PathCellObject,,Tumor,601.82,570.82
+b9d4b169-0bb3-4fea-b9ef-32cc744e3869,PathCellObject,,Tumor,155.07,573.11
+a83caa8f-763b-43d8-9651-d0f091425dc1,PathCellObject,,Tumor,610.65,570.52
+3d663c2b-76f1-4181-9d49-ab2f17996fe5,PathCellObject,,Tumor,621.35,571.98
+68f6bf8b-8bb5-47d0-bc36-754e5a4b15bc,PathCellObject,,Tumor,583.21,575.04
+a2a0129f-08b3-4a2e-8461-ae0d4d50b816,PathCellObject,,Tumor,636.03,578.1
+4df1ae59-75ea-464e-982f-822b1be50c5a,PathCellObject,,Tumor,613.47,579.48
+65b535d5-db98-4868-bb1d-90f773a6f8cf,PathCellObject,,Tumor,703.35,578.77
+32bef18b-0d3d-43e3-b0ca-3918e0a00478,PathCellObject,,Tumor,532.5,576.63
+75bb395d-bea8-41a6-bb32-9e9c317da879,PathCellObject,,Tumor,541.6,584.61
+b2130109-ba05-4eb8-af44-1e8bf580f6a8,PathCellObject,,Tumor,715.79,583.79
+04aea79f-c7f9-4b9f-941e-a8755207cf1a,PathCellObject,,Tumor,531.21,589.37
+3166bc90-0a1a-4821-8649-817f85eb474b,PathCellObject,,Tumor,683.14,588.13
+c069f23a-26ec-4cec-8bbd-67c1f2f8877a,PathCellObject,,Tumor,694.8,588.35
+384088aa-4cf1-454f-bae4-0d43b85792aa,PathCellObject,,Tumor,727.62,593.36
+e7059dfe-c239-4705-8771-219a5f703406,PathCellObject,,Tumor,717.98,598.1
+9df5802a-3b04-494d-99ab-6285e25ed701,PathCellObject,,Tumor,705.47,596.01
+42a19434-d978-451d-96ef-be80e53775f1,PathCellObject,,Tumor,550.53,599.59
+c3b9800a-3988-4021-b175-903032bd4091,PathCellObject,,Tumor,538.41,609.54
+986491f4-cb04-4b88-bbf2-01b1188745dd,PathCellObject,,Tumor,700.56,616.52
+7f0df688-f93e-4942-bb9f-494b229d8eb5,PathCellObject,,Tumor,341.83,615.81
+6d560d12-d1ae-4ae2-b88e-002af9b7d620,PathCellObject,,Tumor,531.68,619.24
+2d5d8daa-22ff-47ac-8ed5-f285a430bd1b,PathCellObject,,Tumor,520.11,621.51
+58a2ee45-2c6f-463f-ae7a-8f9ba6e88680,PathCellObject,,Tumor,333.23,624.28
+d7f61bae-89ce-4a47-a6c6-e71044badf8a,PathCellObject,,Tumor,552.93,626.28
+eee4368f-2df7-4cb3-bf76-3f7ed581c54d,PathCellObject,,Tumor,664.44,628.1
+8b596384-9515-48f7-875b-0fec91c0ff0c,PathCellObject,,Tumor,342.21,630.73
+40332549-24aa-4ffa-990d-e808a049ec5b,PathCellObject,,Tumor,351.35,632.28
+6dc2333f-9713-4f55-a5bf-92acfe4e231c,PathCellObject,,Tumor,530.81,633.43
+cbb6c917-b170-4525-ada5-489ed3c489f1,PathCellObject,,Tumor,562,634.57
+a058ad21-0752-4463-a936-ae60bb93a66e,PathCellObject,,Tumor,333.72,636.33
+486a6d70-f484-4b05-8abb-c56c01cf48c1,PathCellObject,,Tumor,541.57,640.01
+d8596703-b0cf-4825-900c-685ee07acb74,PathCellObject,,Tumor,374.04,634.09
+f9cc3c57-41c0-45db-9386-a4fa26242497,PathCellObject,,Tumor,135.49,635.76
+f21df108-6cb7-4ec3-bf78-46b81589b1df,PathCellObject,,Tumor,156.32,642.68
+9ace1c1b-5e48-43c1-af64-cfba3ef0b0a7,PathCellObject,,Tumor,371.39,643.81
+aa45182d-bc1f-46c9-92f2-cbe810895d5d,PathCellObject,,Tumor,557.91,643.45
+12959182-c1f6-4b7f-96f2-05f290e620e5,PathCellObject,,Tumor,673.73,644.95
+ed80b72f-dc21-4fca-8193-1b04da473914,PathCellObject,,Tumor,662.36,645.98
+90a74e96-fef0-4687-b194-5455bf4633c2,PathCellObject,,Tumor,348.88,647.44
+42048c4d-8f1c-464a-9ce3-4ca7d7e3ecd6,PathCellObject,,Tumor,717.82,648.98
+fd50fb6b-26ba-4589-afa6-c64e2b145caf,PathCellObject,,Tumor,646.55,648.61
+e88d5db2-e75c-426b-899e-500c3a010c85,PathCellObject,,Tumor,555.74,655.62
+528b5580-4f84-4a6b-898d-c06ddaffeb95,PathCellObject,,Tumor,684.87,651.26
+0783e439-f916-4872-bb23-d934c4b30c5b,PathCellObject,,Tumor,112.31,655.92
+f75a416d-8724-4091-904c-6d5b8e8aa702,PathCellObject,,Tumor,536.01,654.48
+57b74a22-b01f-47fc-9492-d6065f348f2b,PathCellObject,,Tumor,669.99,656.67
+e2213ff3-d989-4efa-b05a-d2bc1eb7710a,PathCellObject,,Tumor,706.46,656.69
+e695723e-170c-4887-a39e-b073fa10b10d,PathCellObject,,Tumor,649.61,658.22
+6463b3c1-c71d-4885-8b3b-75ccbd39ba43,PathCellObject,,Tumor,544.67,658.21
+81a4c9f7-0b13-494b-965c-7584d000633c,PathCellObject,,Tumor,639.47,660.03
+e299888d-9fe2-48ea-9058-5df35e375775,PathCellObject,,Tumor,661.27,660.62
+18862075-d4ba-4975-8811-bfd40a767338,PathCellObject,,Tumor,688.73,660.14
+c9c489fc-290a-4d7a-957b-5e167e30ae0a,PathCellObject,,Tumor,725.46,662.65
+ca7bc4f8-0f70-4498-a431-694d68dfdcf6,PathCellObject,,Tumor,176.88,658.97
+66a38218-168e-4c15-9f8f-303f9f21fb43,PathCellObject,,Tumor,520.38,662.82
+844653c0-c31d-4239-a137-a957d6ac652b,PathCellObject,,Tumor,170.29,663.95
+04bc5893-bb5c-4fd0-8bc4-01206154db93,PathCellObject,,Tumor,183.03,663.25
+4c160c7c-b591-418e-8604-14bd40273592,PathCellObject,,Tumor,383.04,663.65
+9a96b9ac-7f6a-4562-a4b0-aae9c275725a,PathCellObject,,Tumor,678.66,665.97
+c4ea1bec-7d5d-4c89-8b77-3dceb288ea18,PathCellObject,,Tumor,136.23,665.56
+ec605d4b-a9c6-4af4-85d1-bc2962c1395b,PathCellObject,,Tumor,373.6,664.42
+f8a394c4-228c-41a4-a27e-5cba32a49c87,PathCellObject,,Tumor,157.12,664.2
+0bcbe579-2e17-4287-91b9-72b3d416ab1d,PathCellObject,,Tumor,698.13,668.11
+5bb92919-142b-4ab3-b548-7e62d509c663,PathCellObject,,Tumor,709.9,667.36
+68056e12-4e2d-4841-a59a-adc5eb74a3d7,PathCellObject,,Tumor,540.14,670.8
+4956a14d-211e-4023-9102-f2969ba291ad,PathCellObject,,Tumor,551.22,672.25
+ac01faec-1e7d-4eff-9bde-1c6e94749977,PathCellObject,,Tumor,184.69,673.95
+0be3aedc-85e3-449e-9e73-dd932ddadaf8,PathCellObject,,Tumor,389.29,673.36
+9b180ff0-d3b7-4186-aed4-d4c6d2bc0841,PathCellObject,,Tumor,150.39,674.17
+4a5fea04-e06a-4b2f-85de-af34d2e8128f,PathCellObject,,Tumor,717.8,677.18
+f74b8c41-3ebd-4504-aaea-5e01d3b0200b,PathCellObject,,Tumor,749.52,673.98
+3bdbda7e-118c-49a3-9829-f3b4691cecb9,PathCellObject,,Tumor,354.48,681.2
+9db2ca7f-4dd3-4704-929c-15caec764b7e,PathCellObject,,Tumor,736.16,677.36
+142e9e1a-83d1-4b2b-b626-89bb6f4e1b93,PathCellObject,,Tumor,172.75,679.03
+97736fa2-8966-4a92-8a32-ae5ded15df7a,PathCellObject,,Tumor,745.22,687.18
+c9cb32c1-5602-4fe5-92e2-83895a21adfe,PathCellObject,,Tumor,364.9,690.68
+4768c540-815a-425d-be6a-ab415026b7c0,PathCellObject,,Tumor,172.54,689.15
+e34b84aa-6d83-466d-873c-ebea312bd139,PathCellObject,,Tumor,163.03,690.06
+4b0f5e5a-8241-44cb-a081-3cb9157b73ea,PathCellObject,,Tumor,144.14,691.15
+1380a37a-ec7b-43cc-b63e-23bd9d5cc7c1,PathCellObject,,Tumor,158.04,697.56
+4b300dd9-079e-4adf-b76a-7e602652061b,PathCellObject,,Tumor,360.2,701.67
+cbbeda15-d695-4b63-92bb-0defb48a4fc4,PathCellObject,,Tumor,382.84,697.68
+57a1627d-b831-45f1-b9ab-f3eb1fdc80d3,PathCellObject,,Tumor,383.72,705.15
+83de2de0-677a-416b-b364-9f434983f5f8,PathCellObject,,Tumor,371.21,710.54
+88a2781c-dfde-4358-871e-ef2354ec8407,PathCellObject,,Tumor,125.72,713.66
+483d7b19-acd1-404e-b120-98f11a756a74,PathCellObject,,Tumor,115.88,714.25
+37a5971c-e79d-43b5-a832-7a4f60748dd0,PathCellObject,,Tumor,120.88,725.11
+5c248ed1-e04d-4101-9166-f462f73b7e98,PathCellObject,,Tumor,656.29,735.31
+4ab03dd3-bb0a-41cf-889e-24c823c94e03,PathCellObject,,Tumor,642.68,737.77
+61ac00c8-7f50-4c05-b0cc-b717e822a1c1,Target: CD8,Target: CD8,Tumor,742.8,742.59
+4888c884-279f-4fd0-b84b-85e49f80a826,PathCellObject,,Tumor,733.25,743.02
+be951866-19b3-40d1-aad0-e0e4bdfaec9c,PathCellObject,,Tumor,757.54,746.06
+3794bea9-e9b0-49da-960b-80407a138cfa,PathCellObject,,Tumor,642.66,750.77
+5b716268-903b-4731-a852-65f7c1c13e6c,PathCellObject,,Tumor,652.79,748.85
+61f9d074-944b-4dda-b72e-d404d1bee0c9,PathCellObject,,Tumor,634.36,747.48
+2faffa77-0c14-4299-a46d-f102ac00d71e,PathCellObject,,Tumor,725.35,749.4
+b4f52db4-7429-4db7-a42b-9806b83d3a52,PathCellObject,,Tumor,661.85,750.73
+6f0f6e25-d057-4bd4-80ef-f2f607ed9df5,Target: CD8,Target: CD8,Tumor,748.3,753.21
+f196d4cd-ae70-4dd3-9181-01b97eda9cb8,PathCellObject,,Tumor,715.68,755.65
+29ae5778-7350-4554-8266-c53a4c14d6a3,PathCellObject,,Tumor,740.47,757.98
+bdffa268-1950-4375-8d59-2e611d15faf0,PathCellObject,,Tumor,679.78,758.62
+25a0cbd8-90db-462e-aaf4-5f2f8cb9b58b,PathCellObject,,Tumor,727.61,762.6
+82b20302-3b62-41f4-a30b-4446c935227f,PathCellObject,,Tumor,777.54,768.32
+30cd407c-aa6c-4aa0-ae2e-27cf630ffdbd,PathCellObject,,Tumor,694.48,768.54
+af42b676-8950-454a-81d6-df678b9a0258,PathCellObject,,Tumor,748.03,770.5
+e2c87e49-63d5-46ff-af36-c8c6a3fbf3f0,PathCellObject,,Tumor,761.63,773.03
+5c81b1c4-402a-47ae-a7a8-1afcc6c6cde3,PathCellObject,,Tumor,731.52,779.07
+0e3f70c4-e5f0-49ae-adac-bf7c2035dea6,PathCellObject,,Tumor,672.68,783.99
