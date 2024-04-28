@@ -96,7 +96,7 @@ def network_viz(df, fname):
     for (node1, row1), (node2, row2) in combinations(df.iterrows(), 2):
         pos1 = (row1['Centroid X µm'], row1['Centroid Y µm'])
         pos2 = (row2['Centroid X µm'], row2['Centroid Y µm'])
-        if euclidean_distance(pos1, pos2) < 39:
+        if euclidean_distance(pos1, pos2) < 35:
             G.add_edge(node1, node2)
 
     tumor_nodes = [node for node, data in G.nodes(data=True) if data.get('type') == 'Tumor']
