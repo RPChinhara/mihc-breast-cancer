@@ -20,6 +20,8 @@ def mapping(df):
         'CD4':'Helper T cell',
         'FoxP3':'Regulatory T cell',
         'CD3+FoxP3':'Regulatory T cell',
+        'CD4+FoxP3': 'Regulatory T cell',
+        'CD8+FoxP3': 'Regulatory T cell',
         'CD3+CD4+FoxP3': 'Regulatory T cell',
         'CD3+CD8+FoxP3': 'Regulatory T cell',
         'CD3+CD4+CD8':'CD4+CD8'
@@ -99,22 +101,27 @@ def network_viz(df, fname):
         if euclidean_distance(pos1, pos2) < 35:
             G.add_edge(node1, node2)
 
-    tumor_nodes = [node for node, data in G.nodes(data=True) if data.get('type') == 'Tumor']
-    tumor_graph = G.subgraph(tumor_nodes)
+    nx.write_gml(G, fname)
 
-    pos = nx.spring_layout(tumor_graph)
+    # tumor_nodes = [node for node, data in G.nodes(data=True) if data.get('type') == 'Tumor']
+    # tumor_graph = G.subgraph(tumor_nodes)
 
-    plt.figure(figsize=(6, 6))
-    nx.draw(tumor_graph, pos, node_size=10, node_color='steelblue')
-    plt.savefig(fname=fname, pad_inches=0)
+    # pos = nx.spring_layout(tumor_graph)
+
+    # plt.figure(figsize=(6, 6))
+    # nx.draw(tumor_graph, pos, node_size=10, node_color='steelblue')
+    # plt.savefig(fname=fname, pad_inches=0)
 
 
 if __name__=='__main__':
-    folder_path = 'MIBI Image Data/'
+    folder_path = 'rem_patients_data/'
 
     csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
 
-    for i, csv_file in enumerate(csv_files):
-        file_path = os.path.join(folder_path, csv_file)
-        df = pd.read_csv(file_path)
-        network_viz(df, f'MIBI_Network_Viz/P{i+1:02}.png')
+    for csv_file in csv_files:
+        if csv_file == 'Detections_OP_P5.csv':
+            patient_id = csv_file[-6:-4]
+            file_path = os.path.join(folder_path, csv_file)
+            df = pd.read_csv(file_path)
+            network_viz(df, f'rem_patients_gml/P{patient_id}.gml')
+            break
