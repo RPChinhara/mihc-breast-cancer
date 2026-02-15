@@ -209,19 +209,6 @@ Then run:
 4. Derive phenotype and centrality/network metrics.
 5. Compare phenotypes and cell-type subnetworks through visualizations.
 
-## Known caveats and implementation details
-
-- Some scripts are configured for one-off execution paths (e.g., `net-viz.py` currently processes only `Detections_OP_P5.csv` in its main block).
-- No formal packaging/test harness is included.
-- The `coords` file is binary and undocumented in-repo.
-- A few graph filenames in `rem_patients_gml/` use `PP*` naming; this may be intentional legacy naming or an inconsistency.
-
-## Suggested next improvements
-
-- Add `requirements.txt` or `environment.yml`.
-- Convert scripts into a parameterized CLI (input dir, output dir, threshold, patient filters).
-- Add unit tests for label mapping, distance-threshold graph construction, and phenotype classification.
-- Add provenance metadata (data version/source and preprocessing history).
 
 ## Quick directory map
 
@@ -245,7 +232,3 @@ Then run:
 ├── *.ipynb                  # exploratory notebooks
 └── whole-network.{gml,dot}  # whole-network exports
 ```
-
----
-
-If you want, this README can be further tailored into a publication supplement format (Methods, Results, Figure legend mapping), or split into `README` + `docs/` pages for reproducibility.
